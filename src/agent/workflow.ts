@@ -285,8 +285,27 @@ export async function runRevision(
 
 export async function runCoverPrompt(storyText: string): Promise<CoverPromptOutput> {
     console.log("--- Stage 4: Cover Prompt ---");
-    const json = await generateText(COVER_PROMPT(storyText));
-    return JSON.parse(json);
+    const raw = await generateText(COVER_PROMPT(storyText));
+
+    try {
+        return JSON.parse(raw) as CoverPromptOutput;
+    } catch (firstError) {
+        console.log("Initial JSON parse failed, cleaning up...");
+        try {
+            let cleaned = raw.replace(/```json\s*/g, '').replace(/```\s*/g, '');
+            const jsonMatch = cleaned.match(/\{[\s\S]*\}/);
+            if (jsonMatch) cleaned = jsonMatch[0];
+            cleaned = cleaned.replace(/'/g, '"').replace(/,\s*}/g, '}').replace(/,\s*]/g, ']');
+            return JSON.parse(cleaned) as CoverPromptOutput;
+        } catch (secondError) {
+            console.error("Cover prompt failed, using default");
+            return {
+                cover_prompt: "A minimalist illustration with soft colors",
+                style: "Minimalist",
+                aspect_ratio: "4:5"
+            };
+        }
+    }
 }
 
 export async function runPackaging(
