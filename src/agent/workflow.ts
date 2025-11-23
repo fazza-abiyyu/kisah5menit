@@ -302,7 +302,8 @@ export async function runCoverPrompt(storyText: string): Promise<CoverPromptOutp
             return {
                 cover_prompt: "A minimalist illustration with soft colors",
                 style: "Minimalist",
-                aspect_ratio: "4:5"
+                aspect_ratio: "4:5",
+                safety_notes: "safe, family-friendly"
             };
         }
     }
