@@ -1,0 +1,45 @@
+{
+  "id": "story-1763941119499",
+  "slug": "pasar-malam-tak-terduga",
+  "title": "Pasar Malam Tak Terduga",
+  "genre": "slice of life",
+  "theme": "Kebersamaan di tengah keramaian pasar malam yang sederhana namun penuh makna",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2025-11-23T23:38:39.499Z",
+  "updated_at": "2025-11-23T23:38:39.499Z",
+  "status": "published",
+  "tags": [
+    "pasar malam",
+    "slice of life",
+    "kebersamaan",
+    "self-discovery",
+    "inspirasi",
+    "harapan",
+    "rutinitas",
+    "kebahagiaan sederhana",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "A quiet, ordinary bedroom scene with a softly glowing incandescent lamp hanging from the ceiling, casting warm, diffuse light over a simple, clutter-free space. The room's atmosphere evokes a sense of monotony and routine, with a focus on the subtle textures of the walls, the faint outline of a window with gentle daylight filtering in, and the presence of a clock on the wall indicating the passage of time. The composition emphasizes simplicity and mood, capturing the essence of daily life’s repetitive rhythm.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pasar-malam-tak-terduga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rina, bored with her daily routine, decides to visit a bustling night market. She gets lost amidst the crowd and diverse stalls, encountering various quirky but friendly people. Her journey to find her way back culminates when she meets an old toy seller, Pak Budi, whose simple question about what makes her happy helps her recall forgotten childhood joys and rediscover inner peace, transforming her perspective on life's simple beauties.",
+    "target_emotion": "Hope, introspection, appreciation, comfort, nostalgia",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "life routine",
+      "night market",
+      "self-discovery",
+      "finding happiness",
+      "Indonesian culture",
+      "slice of life",
+      "optimistic story",
+      "simple pleasures",
+      "inner peace"
+    ]
+  }
+}

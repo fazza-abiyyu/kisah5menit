@@ -1,0 +1,43 @@
+{
+  "id": "story-1763941416329",
+  "slug": "kisah-di-trotoar-tua",
+  "title": "Kisah di Trotoar Tua",
+  "genre": "slice of life",
+  "theme": "melihat keindahan dalam hal-hal kecil di sekitar kota lama yang penuh nostalgia",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2025-11-23T23:43:36.329Z",
+  "updated_at": "2025-11-23T23:43:36.329Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "nostalgia",
+    "memori",
+    "persahabatan",
+    "perkotaan",
+    "melankolis",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A tranquil street scene during golden hour, featuring a weathered lamppost with a cracked base, intertwined with delicate green moss. Soft sunlight filters through the branches of nearby trees, casting long, gentle shadows across the pathway. In the distance, children’s laughter faintly echoes, blending with the warm, inviting atmosphere. The composition emphasizes textured surfaces and natural lighting, evoking a peaceful, nostalgic mood.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kisah-di-trotoar-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang wanita paruh baya, Ibu Kartika, merenung di trotoar tua, merasa terasing dari dunia modern dan takut kenangannya terlupakan. Pertemuan tak terduga dengan cucu sahabat lamanya membangkitkan ingatan masa kecil yang nyaris hilang. Malam itu, ia mulai menuliskan kembali kisah-kisah lamanya, menerima perubahan dan menemukan keindahan dalam kenangan.",
+    "target_emotion": "Nostalgia, refleksi, apresiasi, kehangatan hati",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kisah trotoar tua",
+      "ibu kartika",
+      "kenangan masa lalu",
+      "persahabatan",
+      "perubahan kota",
+      "merenung",
+      "cerita pendek",
+      "slice of life indonesia",
+      "nostalgia perkotaan"
+    ]
+  }
+}
