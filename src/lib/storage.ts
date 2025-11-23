@@ -96,6 +96,10 @@ export function getStoriesFromFolders(): Story[] {
 
             const story = getStoryFromFolder(slug);
             if (story) {
+                // FORCE fix cover image URL to use new path (Vercel fix)
+                if (story.cover) {
+                    story.cover.image_url = `/stories/${slug}/cover.png`;
+                }
                 stories.push(story);
             }
         }
@@ -133,6 +137,11 @@ export function getStoryFromFolder(slug: string): Story | undefined {
                 body: contentBody
             }
         };
+
+        // FORCE fix cover image URL to use new path (Vercel fix)
+        if (story.cover) {
+            story.cover.image_url = `/stories/${slug}/cover.png`;
+        }
 
         return story;
     } catch (error) {
