@@ -1,0 +1,37 @@
+name: Daily Story Generation
+
+on:
+  schedule:
+    # Run at 01:00 WIB (18:00 UTC previous day)
+    - cron: '0 18 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  generate-stories:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Generate 3 new stories
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run agent -- gen=3
+        
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/stories.json public/covers/*.png
+          git diff --staged --quiet || git commit -m "🤖 Auto-generate 3 new stories - $(date +'%Y-%m-%d %H:%M')"
+          git push

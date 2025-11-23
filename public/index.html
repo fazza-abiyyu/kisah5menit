@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kisah5Menit - Cerita Pendek AI</title>
+  <link rel="icon" type="image/png" href="/logo.png">
+  <link rel="apple-touch-icon" href="/logo.png">
+  <link rel="stylesheet" href="/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="header-container">
+      <div class="header-brand">
+        <img src="/logo.png" alt="Kisah5Menit" class="logo">
+        <div class="brand-text">
+          <h2 class="brand-name">Kisah5Menit</h2>
+          <p class="brand-tagline">Cerita seru dalam 5 menit</p>
+        </div>
+      </div>
+      <nav class="nav-links">
+        <a href="/dashboard" class="nav-link active">Beranda</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="page-header">
+      <h1>Jelajahi Setiap Cerita</h1>
+      <p class="page-subtitle">Temukan petualangan baru di setiap halaman</p>
+      <div class="filters">
+        <input type="text" id="searchInput" placeholder="Cari cerita...">
+        <select id="genreSelect">
+          <option value="">Semua Genre</option>
+          <option value="slice of life">Slice of Life</option>
+          <option value="thriller ringan">Thriller Ringan</option>
+          <option value="sci-fi ringan">Sci-Fi Ringan</option>
+          <option value="fantasy urban">Fantasy Urban</option>
+          <option value="romance subtle">Romance Subtle</option>
+          <option value="dark comedy">Dark Comedy</option>
+        </select>
+      </div>
+    </div>
+
+    <div id="storyGrid" class="story-grid">
+      <!-- Stories will be injected here -->
+    </div>
+
+    <div id="pagination" class="pagination">
+      <!-- Pagination will be injected here -->
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="footer-content">
+        <img src="/logo.png" alt="Kisah5Menit" class="footer-logo">
+        <p class="footer-text">Cerita pendek AI yang menarik dan seru</p>
+      </div>
+      <p class="footer-copyright">© 2025 Kisah5Menit • Made with ❤️</p>
+    </div>
+  </footer>
+
+  <script>
+    const grid = document.getElementById('storyGrid');
+    const searchInput = document.getElementById('searchInput');
+    const genreSelect = document.getElementById('genreSelect');
+    const paginationEl = document.getElementById('pagination');
+
+    const ITEMS_PER_PAGE = 9;
+    let currentPage = 1;
+    let allStories = [];
+    let filteredStories = [];
+
+    async function fetchStories() {
+      const search = searchInput.value;
+      const genre = genreSelect.value;
+      const params = new URLSearchParams();
+      if (search) params.append('search', search);
+      if (genre) params.append('genre', genre);
+
+      const res = await fetch(`/api/stories?${params.toString()}`);
+      const stories = await res.json();
+
+      allStories = stories;
+      filteredStories = stories;
+      currentPage = 1;
+      renderPage();
+    }
+
+    function renderPage() {
+      const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
+      const endIndex = startIndex + ITEMS_PER_PAGE;
+      const pageStories = filteredStories.slice(startIndex, endIndex);
+
+      renderStories(pageStories);
+      renderPagination();
+    }
+
+    function renderStories(stories) {
+      if (stories.length === 0) {
+        grid.innerHTML = '<p class="no-results">Tidak ada cerita yang ditemukan</p>';
+        return;
+      }
+
+      grid.innerHTML = stories.map(story => `
+        <a href="/${story.slug}" class="story-card">
+          <img src="${story.cover.image_url || '/placeholder.png'}" alt="${story.title}" class="card-image" onerror="this.src='https://via.placeholder.com/300x400?text=No+Cover'">
+          <div class="card-content">
+            <div class="card-meta">${story.genre.toUpperCase()} • ${new Date(story.created_at).toLocaleDateString('id-ID')}</div>
+            <h2 class="card-title">${story.title}</h2>
+            <div class="card-theme">"${story.theme}"</div>
+            <div class="tags">
+              ${story.tags.slice(0, 3).map(tag => `<span class="tag">#${tag}</span>`).join('')}
+            </div>
+          </div>
+        </a>
+      `).join('');
+    }
+
+    function renderPagination() {
+      const totalPages = Math.ceil(filteredStories.length / ITEMS_PER_PAGE);
+
+      if (totalPages <= 1) {
+        paginationEl.innerHTML = '';
+        return;
+      }
+
+      let paginationHTML = '<div class="pagination-controls">';
+
+      // Previous button
+      paginationHTML += `
+        <button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">
+          ← Sebelumnya
+        </button>
+      `;
+
+      // Page numbers
+      paginationHTML += '<div class="page-numbers">';
+      for (let i = 1; i <= totalPages; i++) {
+        if (i === 1 || i === totalPages || (i >= currentPage - 1 && i <= currentPage + 1)) {
+          paginationHTML += `
+            <button class="page-number ${i === currentPage ? 'active' : ''}" onclick="changePage(${i})">
+              ${i}
+            </button>
+          `;
+        } else if (i === currentPage - 2 || i === currentPage + 2) {
+          paginationHTML += '<span class="page-ellipsis">...</span>';
+        }
+      }
+      paginationHTML += '</div>';
+
+      // Next button
+      paginationHTML += `
+        <button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">
+          Selanjutnya →
+        </button>
+      `;
+
+      paginationHTML += '</div>';
+      paginationEl.innerHTML = paginationHTML;
+    }
+
+    function changePage(page) {
+      currentPage = page;
+      renderPage();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    searchInput.addEventListener('input', fetchStories);
+    genreSelect.addEventListener('change', fetchStories);
+
+    // Initial load
+    fetchStories();
+  </script>
+</body>
+
+</html>
