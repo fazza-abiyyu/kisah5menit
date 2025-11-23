@@ -12,6 +12,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(process.cwd(), "public")));
+app.use('/stories', express.static('stories')); // Serve story folders
 
 // API Routes
 app.get("/api/stories", (req, res) => {
