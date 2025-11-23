@@ -14,17 +14,31 @@ import type {
 const PLANNING_PROMPT = `
 You are an expert story planner.
 Generate a plan for a daily short story based on the following criteria:
-- Genre: Randomly pick from [slice of life, thriller ringan, sci-fi ringan, fantasy urban, romance subtle, dark comedy]
-- Tone: Randomly pick from [melankolis lembut, humoris sinis, optimis pelan, surreal, misterius ringan]
+
+**GENRE DISTRIBUTION - MUST FOLLOW:**
+- 50% chance: slice of life
+- 20% chance: romance subtle  
+- 15% chance: dark comedy
+- 10% chance: thriller ringan
+- 5% chance: sci-fi ringan
+- **AVOID fantasy urban unless absolutely necessary** - use slice of life or romance instead!
+
+**TONE DISTRIBUTION:**
+- 45% chance: optimis pelan (feel-good, uplifting)
+- 25% chance: humoris sinis (sarcastic comedy)
+- 20% chance: melankolis lembut (soft melancholy)
+- 10% chance: misterius ringan (light mystery)
+
 - Language: Bahasa Indonesia (casual) with optional natural English or simple Mandarin.
+- **CRITICAL**: Prioritize VARIETY - avoid repeating the same genre/tone. Create heartwarming, relatable stories about daily life, romance, or comedy!
 
 Output JSON only matching this schema:
 {
   "plan_id": "string",
   "title_idea": "string",
-  "genre": "string",
+  "genre": "string (pick from: slice of life, romance subtle, dark comedy, thriller ringan, sci-fi ringan)",
   "theme": "string",
-  "tone": "string",
+  "tone": "string (pick from: optimis pelan, humoris sinis, melankolis lembut, misterius ringan)",
   "narrative_structure": { "hook": "string", "conflict": "string", "climax": "string", "resolution": "string" },
   "constraints": { "target_min_words": 1000, "target_max_words": 1500, "style_notes": "string" },
   "backup_alternatives": ["string"],
@@ -33,21 +47,22 @@ Output JSON only matching this schema:
 `;
 
 const GENERATION_PROMPT = (plan: PlanOutput) => `
-You are a creative writer. Write a short story based on this plan:
-${JSON.stringify(plan, null, 2)}
+You are a skilled fiction writer. Write a complete story based on this plan:
+${JSON.stringify(plan)}
 
-Rules:
-- Follow the narrative structure.
-- Maintain the tone and theme.
-- Length: ${plan.constraints.target_min_words} - ${plan.constraints.target_max_words} words.
-- Language: Bahasa Indonesia (casual). You may use 1-2 simple Mandarin words with pinyin/meaning if natural.
-- No explicit content.
+CRITICAL RULES:
+- Write ONLY the story text, no meta-commentary
+- Properly escape quotes in JSON strings (use \\" for quotes inside the story)
+- Do NOT use backticks or special characters that break JSON
+- Target length: ${plan.constraints.target_min_words}-${plan.constraints.target_max_words} words
+- Style: ${plan.constraints.style_notes}
+- Language: Bahasa Indonesia (casual) with optional natural English or simple Mandarin
 
 Output JSON only:
 {
-  "raw_story_text": "string (markdown allowed)",
+  "raw_story_text": "string (the complete story, properly escaped for JSON)",
   "word_count": number,
-  "quality_flags": { "pacing_ok": boolean, "tone_consistent": boolean, "ending_clear": boolean, "theme_visible": boolean }
+  "quality_flags": { "pacing_ok": true, "tone_consistent": true, "ending_clear": true, "theme_visible": true }
 }
 `;
 
@@ -100,38 +115,39 @@ const PACKAGING_PROMPT = (
     plan: PlanOutput,
     revision: RevisionOutput,
     cover: CoverPromptOutput
-) => `
+) => {
+    const now = new Date().toISOString();
+    const storyId = `story-${Date.now()}`;
+
+    return `
 You are a publisher. Package this story into a database record.
+
+**IMPORTANT - USE CURRENT DATE:**
+- created_at: ${now}
+- updated_at: ${now}
+- id: ${storyId}
+
 Plan: ${JSON.stringify(plan)}
 Final Text: ${JSON.stringify(revision)}
 Cover Info: ${JSON.stringify(cover)}
 
-Rules:
-- Generate a unique ID using timestamp or UUID format
-- Slug: kebab-case from title
-- Status: "published"
-- Language: "id-mixed" (for Indonesian with English/Mandarin mix)
-- Tags: Extract 3-5 relevant tags from the story
-- Estimate reading time (assume 200 words per minute)
-- Use current timestamp for created_at and updated_at (ISO format)
-
 Output JSON only with this EXACT structure:
 {
   "story_record": {
-    "id": "string (e.g., story-1732345678901)",
-    "slug": "string (kebab-case)",
-    "title": "string",
+    "id": "${storyId}",
+    "slug": "string (kebab-case from title)",
+    "title": "string (from plan.title_idea)",
     "genre": "string (from plan.genre)",
     "theme": "string (from plan.theme)",
     "tone": "string (from plan.tone)",
     "language": "id-mixed",
-    "created_at": "ISO timestamp",
-    "updated_at": "ISO timestamp",
+    "created_at": "${now}",
+    "updated_at": "${now}",
     "status": "published",
-    "tags": ["string", "string", "string"],
+    "tags": ["array of relevant tags"],
     "content": {
       "format": "markdown",
-      "body": "string (the final story text from revision)"
+      "body": "string (from revision.final_story_text)"
     },
     "cover": {
       "prompt": "string (from cover.cover_prompt)",
@@ -142,7 +158,7 @@ Output JSON only with this EXACT structure:
       "plan_summary": "string (brief summary of the narrative)",
       "target_emotion": "string (emotion the story aims to evoke)",
       "reading_time_minutes": number,
-      "keywords": ["string", "string", "string"]
+      "keywords": ["array of SEO keywords"]
     }
   },
   "routing_preview": {
@@ -152,6 +168,8 @@ Output JSON only with this EXACT structure:
   }
 }
 `;
+};
+
 
 // --- Workflow Functions ---
 
@@ -163,8 +181,17 @@ export async function runPlanning(): Promise<PlanOutput> {
 
 export async function runGeneration(plan: PlanOutput): Promise<GenerationOutput> {
     console.log("--- Stage 2: Generation ---");
-    const json = await generateText(GENERATION_PROMPT(plan));
-    return JSON.parse(json);
+    const prompt = GENERATION_PROMPT(plan);
+    const rawResponse = await generateText(prompt);
+
+    try {
+        return JSON.parse(rawResponse);
+    } catch (error: any) {
+        console.error("Failed to parse Generation JSON. Raw response preview:");
+        console.error(rawResponse.substring(0, 500));
+        console.error("... (truncated)");
+        throw new Error(`JSON parsing failed: ${error.message}. The LLM returned invalid JSON.`);
+    }
 }
 
 export async function runRevision(
@@ -196,7 +223,7 @@ export async function runAgentCycle() {
     try {
         // 1. Planning
         const plan = await runPlanning();
-        console.log(`Plan created: ${plan.title_idea}`);
+        console.log(`Plan created: ${plan.title_idea} `);
 
         // 2. Generation
         const draft = await runGeneration(plan);
@@ -208,13 +235,13 @@ export async function runAgentCycle() {
 
         // 4. Cover Prompt
         const coverPrompt = await runCoverPrompt(revision.final_story_text);
-        console.log(`Cover prompt: ${coverPrompt.cover_prompt}`);
+        console.log(`Cover prompt: ${coverPrompt.cover_prompt} `);
 
         // 4b. Generate Actual Image
         console.log("Generating image...");
         const imageFilename = `${plan.plan_id || Date.now()}.png`;
         const imageUrl = await generateImage(coverPrompt.cover_prompt, imageFilename);
-        console.log(`Image saved to ${imageUrl}`);
+        console.log(`Image saved to ${imageUrl} `);
 
         // 5. Packaging
         const packaging = await runPackaging(plan, revision, coverPrompt);
@@ -231,7 +258,7 @@ export async function runAgentCycle() {
 
         // Save to DB
         saveStory(packaging.story_record);
-        console.log(`Story saved: ${packaging.story_record.slug}`);
+        console.log(`Story saved: ${packaging.story_record.slug} `);
 
         return packaging.story_record;
     } catch (error) {
