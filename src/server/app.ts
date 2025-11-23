@@ -17,6 +17,7 @@ app.use("/stories", express.static(path.join(process.cwd(), "public", "stories")
 
 // API Routes
 app.get("/api/stories", (req, res) => {
+    res.set('Cache-Control', 'no-store');
     const { genre, search } = req.query;
     let stories = getStoriesFromFolders(); // Use folder-based storage
 
