@@ -182,8 +182,25 @@ Output JSON only with this EXACT structure:
 
 export async function runPlanning(): Promise<PlanOutput> {
     console.log("--- Stage 1: Planning ---");
-    const json = await generateText(PLANNING_PROMPT);
-    return JSON.parse(json);
+
+    // Add randomness to ensure different stories each time
+    const randomSeed = Math.floor(Math.random() * 10000);
+    const timestamp = Date.now();
+
+    const promptWithSeed = `${PLANNING_PROMPT}
+
+**IMPORTANT - ENSURE UNIQUENESS:**
+- Generation Seed: ${randomSeed}
+- Timestamp: ${timestamp}
+- You MUST create a completely DIFFERENT and UNIQUE story idea
+- DO NOT repeat the same title, theme, or setting as before
+- Be creative and generate something fresh and original!
+`;
+
+    const rawResponse = await generateText(promptWithSeed);
+    const result = JSON.parse(rawResponse) as PlanOutput;
+    console.log("Plan created:", result.title_idea);
+    return result;
 }
 
 export async function runGeneration(plan: PlanOutput): Promise<GenerationOutput> {
