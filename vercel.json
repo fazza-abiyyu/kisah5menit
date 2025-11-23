@@ -11,10 +11,6 @@
             "destination": "/api/index"
         },
         {
-            "source": "/stories/:path*",
-            "destination": "/api/index"
-        },
-        {
             "source": "/:slug",
             "destination": "/story.html"
         }
