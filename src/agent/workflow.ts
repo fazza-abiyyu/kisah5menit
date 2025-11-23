@@ -69,23 +69,26 @@ const COVER_PROMPT = (storyText: string) => `
 You are an experienced art director creating cover images for short stories. Create an image generation prompt based on this story excerpt:
 "${storyText.substring(0, 500)}..."
 
-IMPORTANT GUIDELINES:
+IMPORTANT SAFETY GUIDELINES:
 1. Focus on mood, atmosphere, and setting rather than specific people/faces
 2. Use cinematic composition: rule of thirds, dramatic lighting, depth of field
 3. Prefer environmental shots, objects, or silhouettes over detailed character portraits
 4. Avoid uncanny valley by minimizing close-up faces or overly detailed human features
 5. Use natural, warm lighting or atmospheric effects (golden hour, rain, fog, etc.)
 6. Keep it simple and evocative - less is more
+7. **CRITICAL**: Avoid potentially sensitive words like "alley", "dark", "shadow", "whisper", "mystery" - use safer alternatives like "street", "pathway", "soft lighting", "atmosphere", "intrigue"
+8. **CRITICAL**: Do not mention body parts, violence, alcohol, or anything potentially sensitive
+9. Focus on landscapes, objects, buildings, nature, and abstract concepts
 
 STYLE EXAMPLES (choose one that fits the story):
 - "Cinematic photography, shallow depth of field, warm color grading"
 - "Moody atmospheric illustration, soft lighting, painterly style"
-- "Minimalist composition, strong silhouettes, dramatic shadows"
+- "Minimalist composition, strong silhouettes, gentle lighting"
 - "Lo-fi aesthetic, vintage film grain, nostalgic feel"
 
 Output JSON only:
 {
-  "cover_prompt": "string (focus on environment/mood/objects, avoid detailed faces)",
+  "cover_prompt": "string (focus on safe, gentle descriptions of environment/mood/objects, avoid detailed faces and sensitive words)",
   "style": "string (cinematic style description)",
   "aspect_ratio": "4:5",
   "safety_notes": "string"

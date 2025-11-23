@@ -1,7 +1,7 @@
 {
     "name": "Kisah 5 Menit",
     "version": "1.0.0",
-    "description": "Cerita pendek AI dalam 5 menit",
+    "description": "Cerita pendek dalam 5 menit",
     "main": "dist/index.js",
     "scripts": {
         "build": "tsc",
