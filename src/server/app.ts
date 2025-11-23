@@ -12,6 +12,8 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(process.cwd(), "public")));
+// Explicitly serve stories folder for Vercel bundled environment
+app.use("/stories", express.static(path.join(process.cwd(), "public", "stories")));
 
 // API Routes
 app.get("/api/stories", (req, res) => {

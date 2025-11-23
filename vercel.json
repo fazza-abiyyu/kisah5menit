@@ -12,7 +12,7 @@
         },
         {
             "source": "/stories/:path*",
-            "destination": "/stories/:path*"
+            "destination": "/api/index"
         },
         {
             "source": "/:slug",
