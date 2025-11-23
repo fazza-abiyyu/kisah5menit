@@ -16,6 +16,35 @@ app.use(express.static(path.join(process.cwd(), "public")));
 app.use("/stories", express.static(path.join(process.cwd(), "public", "stories")));
 
 // API Routes
+app.get("/api/debug", (req, res) => {
+    try {
+        const storiesDir = path.join(process.cwd(), "public", "stories");
+        const exists = fs.existsSync(storiesDir);
+        const files = exists ? fs.readdirSync(storiesDir) : [];
+
+        let sampleMeta = null;
+        if (files.length > 0) {
+            const firstSlug = files.find(f => fs.statSync(path.join(storiesDir, f)).isDirectory());
+            if (firstSlug) {
+                const metaPath = path.join(storiesDir, firstSlug, "meta.json");
+                if (fs.existsSync(metaPath)) {
+                    sampleMeta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
+                }
+            }
+        }
+
+        res.json({
+            cwd: process.cwd(),
+            storiesDir,
+            exists,
+            files: files.slice(0, 5),
+            sampleMeta
+        });
+    } catch (e: any) {
+        res.status(500).json({ error: e.message, stack: e.stack });
+    }
+});
+
 app.get("/api/stories", (req, res) => {
     res.set('Cache-Control', 'no-store');
     const { genre, search } = req.query;
