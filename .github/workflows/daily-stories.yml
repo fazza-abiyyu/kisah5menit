@@ -36,5 +36,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add public/stories/
           git diff --staged --quiet || git commit -m "🤖 Auto-generate 4 new stories - $(date +'%Y-%m-%d %H:%M')"
-          git pull --rebase origin main
           git push
