@@ -23,30 +23,35 @@ function getRandomModel(): string {
 }
 
 async function tryPollinationsText(prompt: string): Promise<string | null> {
-    const model = getRandomModel();
+    // Try all models one by one
+    for (const model of POLLINATIONS_MODELS) {
+        try {
+            console.log(`Trying Pollinations.ai with model: ${model}...`);
+            const url = `https://text.pollinations.ai/${encodeURIComponent(prompt)}?model=${model}&temperature=0.8`;
 
-    try {
-        console.log(`Trying Pollinations.ai with model: ${model}...`);
-        const url = `https://text.pollinations.ai/${encodeURIComponent(prompt)}?model=${model}&temperature=0.8`;
+            const response = await fetch(url);
+            if (!response.ok) {
+                console.log(`Pollinations ${model} failed with status ${response.status}, trying next model...`);
+                continue;
+            }
 
-        const response = await fetch(url);
-        if (!response.ok) {
-            console.log(`Pollinations ${model} failed with status ${response.status}`);
-            return null;
+            const text = await response.text();
+            if (!text || text.length < 50) {
+                console.log(`Pollinations ${model} returned insufficient text, trying next model...`);
+                continue;
+            }
+
+            console.log(`✅ Text generated successfully with Pollinations.ai (${model})`);
+            return text;
+        } catch (error: any) {
+            console.log(`Pollinations ${model} error: ${error.message}, trying next model...`);
+            continue;
         }
-
-        const text = await response.text();
-        if (!text || text.length < 50) {
-            console.log(`Pollinations ${model} returned insufficient text`);
-            return null;
-        }
-
-        console.log(`✅ Text generated successfully with Pollinations.ai (${model})`);
-        return text;
-    } catch (error: any) {
-        console.log(`Pollinations ${model} error:`, error.message);
-        return null;
     }
+
+    // All models failed
+    console.log("All Pollinations.ai models failed");
+    return null;
 }
 
 async function tryGemini(prompt: string): Promise<string> {
