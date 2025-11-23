@@ -32,6 +32,13 @@ Generate a plan for a daily short story based on the following criteria:
 - Language: Bahasa Indonesia (casual) with optional natural English or simple Mandarin.
 - **CRITICAL**: Prioritize VARIETY - avoid repeating the same genre/tone. Create heartwarming, relatable stories about daily life, romance, or comedy!
 
+**IMPORTANT - AVOID REPETITIVE THEMES:**
+- **DO NOT** use coffee shop/cafe settings repeatedly
+- **DO NOT** use barista/coffee seller characters repeatedly  
+- **VARY the settings**: office, school, street, park, home, market, bus, train, mall, etc.
+- **VARY the professions**: teacher, student, office worker, driver, seller, artist, etc.
+- **BE CREATIVE** with daily life scenarios - NOT just coffee-related!
+
 Output JSON only matching this schema:
 {
   "plan_id": "string",
