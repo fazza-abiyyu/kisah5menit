@@ -303,10 +303,11 @@ export async function runAgentCycle() {
         const coverPrompt = await runCoverPrompt(revision.final_story_text);
         const packaging = await runPackaging(plan, revision, coverPrompt);
 
-        const imageFilename = `${packaging.story_record.slug}-cover`;
+        // Use slug for image generation (will save to stories/{slug}/cover.png)
+        const slug = packaging.story_record.slug;
 
         console.log("Generating image...");
-        const imageUrl = await generateImage(coverPrompt.cover_prompt, imageFilename);
+        const imageUrl = await generateImage(coverPrompt.cover_prompt, slug);
 
         const story: Story = {
             ...packaging.story_record,

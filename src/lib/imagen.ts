@@ -11,7 +11,7 @@ const openai = new OpenAI({ apiKey: apiKey || "" });
 // Pollinations.ai models to try in order
 const POLLINATIONS_MODELS = ["flux", "turbo", "gptimage"];
 
-async function tryPollinationsAI(prompt: string, filename: string): Promise<string | null> {
+async function tryPollinationsAI(prompt: string, slug: string): Promise<string | null> {
     for (const model of POLLINATIONS_MODELS) {
         try {
             console.log(`Trying Pollinations.ai with model: ${model}...`);
@@ -24,16 +24,18 @@ async function tryPollinationsAI(prompt: string, filename: string): Promise<stri
             }
 
             const buffer = await response.arrayBuffer();
-            const coverDir = path.join(process.cwd(), 'public', 'covers');
-            if (!fs.existsSync(coverDir)) {
-                fs.mkdirSync(coverDir, { recursive: true });
+
+            // Save to stories/{slug}/cover.png
+            const storyDir = path.join(process.cwd(), 'stories', slug);
+            if (!fs.existsSync(storyDir)) {
+                fs.mkdirSync(storyDir, { recursive: true });
             }
 
-            const filepath = path.join(coverDir, `${filename}.png`);
+            const filepath = path.join(storyDir, 'cover.png');
             fs.writeFileSync(filepath, Buffer.from(buffer));
 
             console.log(`✅ Image generated successfully with Pollinations.ai (${model})`);
-            return `/covers/${filename}.png`;
+            return `/stories/${slug}/cover.png`;
         } catch (error: any) {
             console.log(`Model ${model} error:`, error.message);
             continue;
@@ -43,7 +45,7 @@ async function tryPollinationsAI(prompt: string, filename: string): Promise<stri
     return null; // All Pollinations models failed
 }
 
-async function tryOpenAI(prompt: string, filename: string): Promise<string> {
+async function tryOpenAI(prompt: string, slug: string): Promise<string> {
     console.log("Falling back to OpenAI DALL-E 2...");
 
     try {
@@ -61,16 +63,18 @@ async function tryOpenAI(prompt: string, filename: string): Promise<string> {
         }
 
         const buffer = Buffer.from(generatedImage, 'base64');
-        const coverDir = path.join(process.cwd(), 'public', 'covers');
-        if (!fs.existsSync(coverDir)) {
-            fs.mkdirSync(coverDir, { recursive: true });
+
+        // Save to stories/{slug}/cover.png
+        const storyDir = path.join(process.cwd(), 'stories', slug);
+        if (!fs.existsSync(storyDir)) {
+            fs.mkdirSync(storyDir, { recursive: true });
         }
 
-        const filepath = path.join(coverDir, `${filename}.png`);
+        const filepath = path.join(storyDir, 'cover.png');
         fs.writeFileSync(filepath, buffer);
 
         console.log("✅ Image generated successfully with OpenAI DALL-E 2");
-        return `/covers/${filename}.png`;
+        return `/stories/${slug}/cover.png`;
     } catch (error: any) {
         // Last resort - try safe prompt
         if (error?.code === 'content_policy_violation') {
@@ -91,33 +95,33 @@ async function tryOpenAI(prompt: string, filename: string): Promise<string> {
             }
 
             const buffer = Buffer.from(generatedImage, 'base64');
-            const coverDir = path.join(process.cwd(), 'public', 'covers');
-            if (!fs.existsSync(coverDir)) {
-                fs.mkdirSync(coverDir, { recursive: true });
+            const storyDir = path.join(process.cwd(), 'stories', slug);
+            if (!fs.existsSync(storyDir)) {
+                fs.mkdirSync(storyDir, { recursive: true });
             }
 
-            const filepath = path.join(coverDir, `${filename}.png`);
+            const filepath = path.join(storyDir, 'cover.png');
             fs.writeFileSync(filepath, buffer);
 
             console.log("✅ Image generated with OpenAI safe fallback");
-            return `/covers/${filename}.png`;
+            return `/stories/${slug}/cover.png`;
         }
 
         throw error;
     }
 }
 
-export async function generateImage(prompt: string, filename: string): Promise<string> {
+export async function generateImage(prompt: string, slug: string): Promise<string> {
     try {
         // Priority 1: Try Pollinations.ai (free, no API key needed)
-        const pollinationsResult = await tryPollinationsAI(prompt, filename);
+        const pollinationsResult = await tryPollinationsAI(prompt, slug);
         if (pollinationsResult) {
             return pollinationsResult;
         }
 
         // Priority 2: Fallback to OpenAI if all Pollinations models failed
         console.log("All Pollinations.ai models failed, falling back to OpenAI...");
-        return await tryOpenAI(prompt, filename);
+        return await tryOpenAI(prompt, slug);
 
     } catch (error) {
         console.error("Error generating image:", error);

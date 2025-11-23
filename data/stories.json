@@ -1,5 +1,57 @@
 [
   {
+    "id": "story-1763904395552",
+    "slug": "antrian-di-tempat-sampah-komplek",
+    "title": "Antrian di Tempat Sampah Komplek",
+    "genre": "slice of life",
+    "theme": "Kisah keseharian di lingkungan sekitar yang menunjukkan kehangatan dan keanehan kecil dalam rutinitas warga kompleks perumahan.",
+    "tone": "optimis pelan",
+    "language": "id-mixed",
+    "created_at": "2025-11-23T13:26:35.551Z",
+    "updated_at": "2025-11-23T13:26:35.551Z",
+    "status": "published",
+    "tags": [
+      "keseharian",
+      "komplek",
+      "rahasia",
+      "kebersamaan",
+      "slice of life",
+      "tetangga",
+      "persahabatan",
+      "rutinitas",
+      "indonesia"
+    ],
+    "content": {
+      "format": "markdown",
+      "body": "Di sebuah kompleks perumahan kecil yang tenang, pagi hari selalu diawali dengan gemuruh langkah kaki dan dering alarm yang bersahutan dari berbagai rumah. Suara-suara itu menandai dimulainya hari baru, menyambut warga yang telah terbiasa dengan rutinitas sederhana namun hangat. Di antara mereka, Pak Raji, yang terkenal selalu terlambat membuang sampah, pagi itu pun, seperti biasa, bergegas menuju tempat sampah dengan membawa tas plastik besar.\n\nPak Raji bukanlah pengikut setia jadwal, namun pagi itu, ada sesuatu yang terasa berbeda. Saat ia hendak membuang tas sampahnya di tempat yang biasanya hanya berisi sampah rumah tangga biasa, pandangannya terpaku pada sebuah anomali. Sebuah surat lama, terlipat rapi dan tampak berdebu, terselip di antara remahan plastik dan dedaunan kering yang terbawa angin pagi.\n\nDengan rasa penasaran bercampur heran, Pak Raji mengambil surat itu dengan ragu, matanya melirik cemas ke sekeliling—khawatir ada yang memergoki. Kertasnya pudar, dengan tulisan tangan yang agak melengkung dan penuh karakter. Ia membuka surat itu perlahan, dan seketika matanya membelalak tak percaya membaca isinya: sebuah cerita rahasia milik tetangga sebelah, Bu Sari.\n\nDalam surat itu, tersingkaplah sepotong kisah yang selama ini tersembunyi dari mata warga. Ternyata, Bu Sari pernah melalui masa lalu yang penuh liku, yang memaksanya menyimpan rapat sejumlah rahasia pribadi, termasuk sebuah kisah cinta yang tak pernah ia bagikan pada siapa pun. Surat itu mengisahkan pertemuan rahasia yang penuh kehangatan dan keindahan, antara Bu Sari dan seorang pria yang kini hanya tinggal kenangan.\n\nPak Raji, yang biasanya hanya mengenal Bu Sari sebagai tetangga yang ramah, seringkali terdengar tawa kecilnya saat menyapu halaman, kini merasa hatinya tersentuh. Ia menyimpan surat itu dengan hati-hati, dan bertekad untuk membagikan inti dari cerita tersebut secara bijak—bukan untuk mengganggu privasi, melainkan untuk mengingatkan bahwa di balik rutinitas yang tampak biasa, selalu ada kisah yang berharga dan penuh emosi.\n\nKeesokan harinya, Pak Raji mengajak beberapa tetangga ke kedai kopi kecil di dekat kompleks, sambil bercanda dan tertawa ringan. Dengan hati-hati, ia mulai menceritakan perihal penemuan surat di tempat sampah pagi itu, tanpa menyebutkan nama atau detail yang terlalu pribadi, hanya membagikan esensi dari sebuah rahasia kecil yang kini menjadi bagian dari kompleks mereka. Semua warga mendengarkan dengan penuh perhatian, memandang cerita itu sebagai pengingat lembut akan pentingnya saling memahami dan menghargai kisah yang mungkin tersembunyi di balik senyum dan sapaan sehari-hari.\n\nSeiring berjalannya waktu, cerita tentang surat lama itu menjadi bagian tak terpisahkan dari obrolan santai di antara warga kompleks. Mereka semakin terbuka untuk berbagi cerita dan kebahagiaan kecil, seolah penemuan itu membuka pintu pada dunia batin masing-masing. Ada yang mulai menyadari bahwa rutinitas mereka, sekecil apapun, bisa menyimpan cerita yang berharga dan menghangatkan hati, menunggu untuk ditemukan atau dibagikan.\n\nDi suatu sore yang cerah, Bu Sari sendiri datang ke kompleks, membawa sekotak kue dan segelas teh manis. Ia tersenyum lebar saat disambut hangat oleh warga, yang kini memandangnya dengan pemahaman baru. Mereka berbincang panjang, berbagi pengalaman dan tawa, merayakan keindahan keanehan kecil dalam rutinitas mereka. Bu Sari, dengan mata berkaca-kaca, mengucapkan terima kasih, merasa kisahnya telah menjadi jembatan pengertian dan pengingat akan kekuatan kebersamaan.\n\nKini, terlihat jelas bahwa kehangatan yang tercipta dari kisah-kisah kecil ini semakin mempererat ikatan mereka, menjadikan kompleks itu seperti sebuah keluarga besar. Tak ada lagi yang merasa sendiri, dan semua merasa dihargai. Rutinitas yang dulunya terasa biasa kini menjadi penuh makna, seakan setiap langkah dan setiap cerita adalah bagian tak terpisahkan dari perjalanan indah mereka bersama. Dengan hati yang hangat dan pikiran yang tenang, mereka melangkah ke hari berikutnya, siap menyambut misteri dan keindahan baru yang tersembunyi di balik kehidupan yang sederhana."
+    },
+    "cover": {
+      "prompt": "A peaceful residential street at dawn, bathed in warm, golden morning light. Simple houses lining the pathway with soft, atmospheric glow. A large, transparent plastic bag placed near a communal trash station, with a sense of quiet activity and routine. No faces, just the serene environment and subtle motion of daily life.",
+      "style": "Cinematic photography, shallow depth of field, warm color grading",
+      "aspect_ratio": "4:5",
+      "image_url": "/covers/antrian-di-tempat-sampah-komplek-cover.png"
+    },
+    "meta": {
+      "plan_summary": "Pagi di kompleks perumahan, seorang tetangga yang selalu terlambat membuang sampah menemukan surat lama di tempat sampah. Surat itu mengungkap cerita rahasia tetangga lain, Bu Sari. Dengan rasa penasaran, ia membagikan esensi cerita tersebut secara bijak, mempererat kebersamaan dan pemahaman antar warga.",
+      "target_emotion": "Harapan, kehangatan, kebersamaan, rasa ingin tahu.",
+      "reading_time_minutes": 5,
+      "keywords": [
+        "cerita pendek",
+        "slice of life",
+        "kehidupan sehari-hari",
+        "komplek perumahan",
+        "kebersamaan",
+        "tetangga",
+        "kisah rahasia",
+        "inspiratif",
+        "drama ringan",
+        "hubungan antar warga",
+        "persahabatan",
+        "indonesia"
+      ]
+    }
+  },
+  {
     "id": "story-1702538186123",
     "slug": "secangkir-kopi-dan-senyuman-xie-xie",
     "title": "Secangkir Kopi dan Senyuman 'Xie Xie'",
