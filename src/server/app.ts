@@ -20,26 +20,27 @@ app.use("/stories", express.static(path.join(process.cwd(), "public", "stories")
 app.get("/api/debug", (req, res) => {
     try {
         const storiesDir = path.join(process.cwd(), "public", "stories");
+        const legacyDataPath = path.join(process.cwd(), "data", "stories.json");
         const exists = fs.existsSync(storiesDir);
+        const legacyExists = fs.existsSync(legacyDataPath);
         const files = exists ? fs.readdirSync(storiesDir) : [];
 
-        let sampleMeta = null;
-        if (files.length > 0) {
-            const firstSlug = files.find(f => fs.statSync(path.join(storiesDir, f)).isDirectory());
-            if (firstSlug) {
-                const metaPath = path.join(storiesDir, firstSlug, "meta.json");
-                if (fs.existsSync(metaPath)) {
-                    sampleMeta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
-                }
-            }
+        // Check the specific problematic story
+        const targetSlug = "secangkir-kopi-dan-jejak-kenangan";
+        let targetMeta = null;
+        const targetPath = path.join(storiesDir, targetSlug, "meta.json");
+        if (fs.existsSync(targetPath)) {
+            targetMeta = JSON.parse(fs.readFileSync(targetPath, "utf-8"));
         }
 
         res.json({
             cwd: process.cwd(),
             storiesDir,
             exists,
-            files: files.slice(0, 5),
-            sampleMeta
+            legacyExists,
+            files, // Show ALL files
+            targetSlug,
+            targetMeta
         });
     } catch (e: any) {
         res.status(500).json({ error: e.message, stack: e.stack });
