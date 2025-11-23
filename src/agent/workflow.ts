@@ -1,6 +1,6 @@
 import { generateText } from "../lib/gemini";
 import { generateImage } from "../lib/imagen";
-import { saveStory, saveStoryToFolder } from "../lib/storage";
+import { saveStoryToFolder } from "../lib/storage";
 import type { Story } from "../types";
 import type {
     PlanOutput,
@@ -317,11 +317,7 @@ export async function runAgentCycle() {
             }
         };
 
-        // PHASE 2: Write to BOTH systems for testing
-        console.log("Saving to JSON...");
-        saveStory(story);
-
-        console.log("Saving to folder...");
+        // Save to folder structure
         saveStoryToFolder(story);
 
         console.log(`Story saved: ${story.slug}`);
