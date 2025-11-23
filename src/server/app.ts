@@ -3,6 +3,7 @@ import cors from "cors";
 import path from "path";
 import dotenv from "dotenv";
 import { getStoriesFromFolders, getStoryFromFolder } from "../lib/storage";
+import fs from "fs";
 
 dotenv.config();
 
