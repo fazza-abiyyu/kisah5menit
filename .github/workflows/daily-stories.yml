@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/stories.json public/covers/*.png
+          git add public/stories/
           git diff --staged --quiet || git commit -m "🤖 Auto-generate 4 new stories - $(date +'%Y-%m-%d %H:%M')"
           git push
