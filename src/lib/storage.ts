@@ -51,13 +51,26 @@ export function getStories(): Story[] {
             const storyDir = path.join(STORIES_DIR, slug);
             if (!fs.statSync(storyDir).isDirectory()) continue;
 
-            const story = getStory(slug);
-            if (story) {
+            const metaPath = path.join(storyDir, "meta.json");
+            if (!fs.existsSync(metaPath)) continue;
+
+            try {
+                const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
+                const story: Story = {
+                    ...meta,
+                    content: {
+                        format: "markdown",
+                        body: "" // Content not needed for listing
+                    }
+                };
+
                 // FORCE fix cover image URL to use new path (Vercel fix)
                 if (story.cover) {
                     story.cover.image_url = `/stories/${slug}/cover.png`;
                 }
                 stories.push(story);
+            } catch (e) {
+                console.error(`Error reading meta for story ${slug}:`, e);
             }
         }
 
