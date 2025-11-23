@@ -203,19 +203,67 @@ export async function runPlanning(): Promise<PlanOutput> {
     return result;
 }
 
+// Helper: Clean potentially malformed JSON from LLMs
+function cleanJsonResponse(rawText: string): string {
+    // Try to extract JSON from markdown code blocks
+    const jsonMatch = rawText.match(/```json\s*([\s\S]*?)\s*```/);
+    if (jsonMatch) {
+        return jsonMatch[1];
+    }
+
+    // Try to extract JSON object
+    const objectMatch = rawText.match(/\{[\s\S]*\}/);
+    if (objectMatch) {
+        return objectMatch[0];
+    }
+
+    return rawText;
+}
+
 export async function runGeneration(plan: PlanOutput): Promise<GenerationOutput> {
     console.log("--- Stage 2: Generation ---");
-    const prompt = GENERATION_PROMPT(plan);
-    const rawResponse = await generateText(prompt);
 
-    try {
-        return JSON.parse(rawResponse);
-    } catch (error: any) {
-        console.error("Failed to parse Generation JSON. Raw response preview:");
-        console.error(rawResponse.substring(0, 500));
-        console.error("... (truncated)");
-        throw new Error(`JSON parsing failed: ${error.message}. The LLM returned invalid JSON.`);
+    const prompt = GENERATION_PROMPT(plan);
+    let rawResponse = await generateText(prompt);
+
+    // Try parsing with cleaning
+    let attempts = 0;
+    const maxAttempts = 3;
+
+    while (attempts < maxAttempts) {
+        try {
+            // Clean and parse
+            const cleaned = cleanJsonResponse(rawResponse);
+            const result = JSON.parse(cleaned) as GenerationOutput;
+
+            const wordCount = result.raw_story_text?.split(/\s+/).length;
+            console.log("Draft generated:", wordCount, "words");
+            return result;
+
+        } catch (error: any) {
+            attempts++;
+            console.log(`Failed to parse Generation JSON (attempt ${attempts}/${maxAttempts}). Raw response preview:`);
+            console.log(rawResponse.substring(0, 500) + "... (truncated)");
+
+            if (attempts >= maxAttempts) {
+                throw new Error(`JSON parsing failed after ${maxAttempts} attempts: ${error.message}. The LLM returned invalid JSON.`);
+            }
+
+            // Retry with more explicit instructions
+            console.log("Retrying with stricter JSON instructions...");
+            const strictPrompt = `${prompt}
+
+**CRITICAL JSON FORMATTING:**
+- Output ONLY valid JSON, nothing else
+- Properly escape all quotes inside strings using \\"
+- Do not include markdown code blocks
+- Ensure all brackets and braces are properly closed`;
+
+            rawResponse = await generateText(strictPrompt);
+        }
     }
+
+    throw new Error("Failed to generate valid JSON after all attempts");
 }
 
 export async function runRevision(
