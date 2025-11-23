@@ -2,58 +2,6 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 import type { Story } from "../types.js";
 
-// ===== OLD JSON-BASED STORAGE (keeping for backward compatibility) =====
-
-const DATA_DIR = path.join(process.cwd(), "data");
-const DB_FILE = path.join(DATA_DIR, "stories.json");
-
-// Ensure data directory exists
-function ensureDataDir() {
-    if (!fs.existsSync(DATA_DIR)) {
-        fs.mkdirSync(DATA_DIR, { recursive: true });
-    }
-}
-
-// Ensure DB file exists
-function ensureDbFile() {
-    ensureDataDir();
-    if (!fs.existsSync(DB_FILE)) {
-        fs.writeFileSync(DB_FILE, JSON.stringify([]));
-    }
-}
-
-export function getStories(): Story[] {
-    try {
-        if (!fs.existsSync(DB_FILE)) {
-            return [];
-        }
-        const data = fs.readFileSync(DB_FILE, "utf-8");
-        return JSON.parse(data) as Story[];
-    } catch (error) {
-        console.error("Error reading stories:", error);
-        return [];
-    }
-}
-
-export function saveStory(story: Story): void {
-    ensureDbFile();
-    const stories = getStories();
-    const index = stories.findIndex((s) => s.id === story.id);
-    if (index >= 0) {
-        stories[index] = story;
-    } else {
-        stories.unshift(story);
-    }
-    fs.writeFileSync(DB_FILE, JSON.stringify(stories, null, 2));
-}
-
-export function getStoryBySlug(slug: string): Story | undefined {
-    const stories = getStories();
-    return stories.find((s) => s.slug === slug);
-}
-
-// ===== NEW FOLDER-BASED STORAGE (Phase 1: Add new functions) =====
-
 const STORIES_DIR = path.join(process.cwd(), "public", "stories");
 
 /**
@@ -62,7 +10,7 @@ const STORIES_DIR = path.join(process.cwd(), "public", "stories");
  * - cover.png: cover image (handled by imagen.ts)
  * - meta.json: metadata
  */
-export function saveStoryToFolder(story: Story): void {
+export function saveStory(story: Story): void {
     try {
         const storyDir = path.join(STORIES_DIR, story.slug);
 
@@ -90,7 +38,7 @@ export function saveStoryToFolder(story: Story): void {
 /**
  * Get all stories from folder structure
  */
-export function getStoriesFromFolders(): Story[] {
+export function getStories(): Story[] {
     try {
         if (!fs.existsSync(STORIES_DIR)) {
             return [];
@@ -103,7 +51,7 @@ export function getStoriesFromFolders(): Story[] {
             const storyDir = path.join(STORIES_DIR, slug);
             if (!fs.statSync(storyDir).isDirectory()) continue;
 
-            const story = getStoryFromFolder(slug);
+            const story = getStory(slug);
             if (story) {
                 // FORCE fix cover image URL to use new path (Vercel fix)
                 if (story.cover) {
@@ -126,7 +74,7 @@ export function getStoriesFromFolders(): Story[] {
 /**
  * Get single story from folder by slug
  */
-export function getStoryFromFolder(slug: string): Story | undefined {
+export function getStory(slug: string): Story | undefined {
     try {
         const storyDir = path.join(STORIES_DIR, slug);
         const metaPath = path.join(storyDir, "meta.json");
@@ -158,3 +106,4 @@ export function getStoryFromFolder(slug: string): Story | undefined {
         return undefined;
     }
 }
+

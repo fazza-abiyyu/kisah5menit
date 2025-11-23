@@ -1,6 +1,6 @@
 import { generateText } from "../lib/gemini";
 import { generateImage } from "../lib/imagen";
-import { saveStoryToFolder } from "../lib/storage";
+import { saveStory } from "../lib/storage";
 import type { Story } from "../types";
 import type {
     PlanOutput,
@@ -345,7 +345,7 @@ export async function runAgentCycle() {
         };
 
         // Save to folder structure
-        saveStoryToFolder(story);
+        saveStory(story);
 
         console.log(`Story saved: ${story.slug}`);
     } catch (error) {

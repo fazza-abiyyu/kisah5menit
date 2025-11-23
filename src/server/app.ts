@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import path from "path";
 import dotenv from "dotenv";
-import { getStoriesFromFolders, getStoryFromFolder } from "../lib/storage";
+import { getStories, getStory } from "../lib/storage";
 import fs from "fs";
 
 dotenv.config();
@@ -50,7 +50,7 @@ app.get("/api/debug", (req, res) => {
 app.get("/api/stories", (req, res) => {
     res.set('Cache-Control', 'no-store');
     const { genre, search } = req.query;
-    let stories = getStoriesFromFolders(); // Use folder-based storage
+    let stories = getStories(); // Use folder-based storage
 
     if (genre) {
         stories = stories.filter((s) => s.genre.toLowerCase() === (genre as string).toLowerCase());
@@ -73,7 +73,7 @@ app.get("/api/stories", (req, res) => {
 });
 
 app.get("/api/stories/:slug", (req, res) => {
-    const story = getStoryFromFolder(req.params.slug); // Use folder-based storage
+    const story = getStory(req.params.slug); // Use folder-based storage
     if (!story) {
         return res.status(404).json({ error: "Story not found" });
     }
