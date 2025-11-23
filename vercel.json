@@ -14,5 +14,8 @@
             "source": "/:slug",
             "destination": "/story.html"
         }
+    ],
+    "includeFiles": [
+        "public/stories/**"
     ]
 }
