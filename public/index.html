@@ -133,6 +133,7 @@
       const params = new URLSearchParams();
       if (search) params.append('search', search);
       if (genre) params.append('genre', genre);
+      params.append('t', Date.now()); // Add timestamp to prevent caching
 
       const res = await fetch(`/api/stories?${params.toString()}`);
       const stories = await res.json();
