@@ -279,8 +279,49 @@ export async function runRevision(
     draft: GenerationOutput
 ): Promise<RevisionOutput> {
     console.log("--- Stage 3: Revision ---");
-    const json = await generateText(REVISION_PROMPT(plan, draft));
-    return JSON.parse(json);
+
+    const prompt = REVISION_PROMPT(plan, draft);
+    let rawResponse = await generateText(prompt);
+
+    // Try parsing with cleaning
+    let attempts = 0;
+    const maxAttempts = 3;
+
+    while (attempts < maxAttempts) {
+        try {
+            // Clean and parse
+            const cleaned = cleanJsonResponse(rawResponse);
+            const result = JSON.parse(cleaned) as RevisionOutput;
+
+            console.log("Revision completed:", result.final_word_count, "words");
+            return result;
+
+        } catch (error: any) {
+            attempts++;
+            console.log(`Failed to parse Revision JSON (attempt ${attempts}/${maxAttempts}). Error: ${error.message}`);
+            console.log("Raw response preview:", rawResponse.substring(0, 500) + "... (truncated)");
+
+            if (attempts >= maxAttempts) {
+                throw new Error(`JSON parsing failed after ${maxAttempts} attempts: ${error.message}. The LLM returned invalid JSON.`);
+            }
+
+            // Retry with more explicit instructions
+            console.log("Retrying with stricter JSON instructions...");
+            const strictPrompt = `${prompt}
+
+**CRITICAL JSON FORMATTING:**
+- Output ONLY valid JSON, nothing else
+- Properly escape all quotes inside strings using \\"
+- Do not include markdown code blocks
+- Ensure all brackets and braces are properly closed
+- Replace all literal newlines in strings with \\n
+- Replace all literal tabs with \\t`;
+
+            rawResponse = await generateText(strictPrompt);
+        }
+    }
+
+    throw new Error("Failed to generate valid JSON after all attempts");
 }
 
 export async function runCoverPrompt(storyText: string): Promise<CoverPromptOutput> {
@@ -315,8 +356,49 @@ export async function runPackaging(
     cover: CoverPromptOutput
 ): Promise<PackagingOutput> {
     console.log("--- Stage 5: Packaging ---");
-    const json = await generateText(PACKAGING_PROMPT(plan, revision, cover));
-    return JSON.parse(json);
+
+    const prompt = PACKAGING_PROMPT(plan, revision, cover);
+    let rawResponse = await generateText(prompt);
+
+    // Try parsing with cleaning
+    let attempts = 0;
+    const maxAttempts = 3;
+
+    while (attempts < maxAttempts) {
+        try {
+            // Clean and parse
+            const cleaned = cleanJsonResponse(rawResponse);
+            const result = JSON.parse(cleaned) as PackagingOutput;
+
+            console.log("Packaging completed for:", result.story_record.title);
+            return result;
+
+        } catch (error: any) {
+            attempts++;
+            console.log(`Failed to parse Packaging JSON (attempt ${attempts}/${maxAttempts}). Error: ${error.message}`);
+            console.log("Raw response preview:", rawResponse.substring(0, 500) + "... (truncated)");
+
+            if (attempts >= maxAttempts) {
+                throw new Error(`JSON parsing failed after ${maxAttempts} attempts: ${error.message}. The LLM returned invalid JSON.`);
+            }
+
+            // Retry with more explicit instructions
+            console.log("Retrying with stricter JSON instructions...");
+            const strictPrompt = `${prompt}
+
+**CRITICAL JSON FORMATTING:**
+- Output ONLY valid JSON, nothing else
+- Properly escape all quotes inside strings using \\"
+- Do not include markdown code blocks
+- Ensure all brackets and braces are properly closed
+- Replace all literal newlines in strings with \\n
+- Replace all literal tabs with \\t`;
+
+            rawResponse = await generateText(strictPrompt);
+        }
+    }
+
+    throw new Error("Failed to generate valid JSON after all attempts");
 }
 
 export async function runAgentCycle() {
