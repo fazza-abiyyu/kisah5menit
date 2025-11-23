@@ -22,16 +22,16 @@ jobs:
       - name: Install dependencies
         run: npm install
         
-      - name: Generate 1 new stories
+      - name: Generate 4 new stories
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: npm run agent -- gen=1
+        run: npm run agent -- gen=4
         
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/stories.json public/covers/*.png
-          git diff --staged --quiet || git commit -m "🤖 Auto-generate 1 new stories - $(date +'%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "🤖 Auto-generate 4 new stories - $(date +'%Y-%m-%d %H:%M')"
           git push
