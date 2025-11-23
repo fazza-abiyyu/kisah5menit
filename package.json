@@ -6,7 +6,7 @@
     "scripts": {
         "build": "tsc",
         "start": "node dist/server/app.js",
-        "dev": "nodemon src/server/app.ts",
+        "dev": "tsx watch src/server/app.ts",
         "agent": "tsx src/index.ts"
     },
     "keywords": [],
