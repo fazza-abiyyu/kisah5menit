@@ -96,6 +96,10 @@ export function getStoriesFromFolders(): Story[] {
 
             const story = getStoryFromFolder(slug);
             if (story) {
+                // Fix cover image URL to use new path
+                if (story.cover) {
+                    story.cover.image_url = `/stories/${slug}/cover.png`;
+                }
                 stories.push(story);
             }
         }
@@ -126,13 +130,20 @@ export function getStoryFromFolder(slug: string): Story | undefined {
         const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
         const contentBody = fs.readFileSync(contentPath, "utf-8");
 
-        return {
+        const story = {
             ...meta,
             content: {
                 format: "markdown",
                 body: contentBody
             }
         };
+
+        // Fix cover image URL to use new path
+        if (story.cover) {
+            story.cover.image_url = `/stories/${slug}/cover.png`;
+        }
+
+        return story;
     } catch (error) {
         console.error(`Error reading story from folder ${slug}:`, error);
         return undefined;
