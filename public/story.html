@@ -13,24 +13,31 @@
 <body>
   <header>
     <div class="container">
-      <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
-        <a href="/" style="text-decoration: none; display: flex; align-items: center; gap: 0.75rem;">
-          <img src="/logo.png" alt="Kisah 5 Menit" style="width: 48px; height: 48px;">
-          <div>
-            <h1 style="margin: 0; font-size: 1.5rem; color: #1a1a1a;">Kisah 5 Menit</h1>
-            <p style="margin: 0; font-size: 0.875rem; color: #666;">Cerita seru dalam 5 menit</p>
-          </div>
-        </a>
-      </div>
-      <a href="/" class="back-link">← Back to Home</a>
+      <a href="/" style="text-decoration: none; display: flex; align-items: center; gap: 0.75rem;">
+        <img src="/logo.png" alt="Kisah 5 Menit" style="width: 48px; height: 48px;">
+        <div>
+          <h1 style="margin: 0; font-size: 1.5rem; color: #1a1a1a;">Kisah 5 Menit</h1>
+          <p style="margin: 0; font-size: 0.875rem; color: #666;">Cerita seru dalam 5 menit</p>
+        </div>
+      </a>
     </div>
   </header>
-  <div class="container">
+
+  <div class="container" style="padding-top: 2rem;">
+    <a href="/" class="back-link">← Back to Home</a>
 
     <div id="storyContent" class="story-detail">
       <!-- Content injected here -->
     </div>
   </div>
+
+  <footer>
+    <div class="container">
+      <img src="/logo.png" alt="Kisah 5 Menit Logo" style="width: 40px; height: 40px; margin-bottom: 0.5rem;">
+      <p>Cerita pendek 5 menit yang menyentuh dan seru</p>
+      <p style="margin-top: 1rem; font-size: 0.875rem;">© 2025 Kisah 5 Menit • Made with ❤️</p>
+    </div>
+  </footer>
 
   <script>
     async function loadStory() {
@@ -47,16 +54,16 @@
 
       document.getElementById('storyContent').innerHTML = `
         <div class="story-header">
-          <div class="card-meta">${story.genre} • ${story.meta.reading_time_minutes} min read</div>
+          <div class="card-meta">${story.genre.toUpperCase()} • ${story.meta.reading_time_minutes} MIN READ</div>
           <h1>${story.title}</h1>
           <div class="card-theme">${story.theme}</div>
         </div>
         <center>
-          <img src="${story.cover.image_url || ''}" class="story-cover" alt="Cover Art" style="max-width: 300px;">
+          <img src="${story.cover.image_url || ''}" class="story-cover" alt="Cover Art" style="max-width: 300px; border-radius: 8px; margin: 2rem 0;">
         </center>
         <div class="story-body">${marked.parse(story.content.body)}</div>
-        <div style="margin-top: 2rem; color: #666; font-size: 0.9rem;">
-          <p><strong>Tags:</strong> ${story.tags.join(', ')}</p>
+        <div style="margin-top: 2rem; padding: 1.5rem; background: #f5f5f5; border-radius: 8px;">
+          <p style="margin: 0; color: #666;"><strong>Tags:</strong> ${story.tags.map(tag => `<span style="background: white; padding: 0.25rem 0.75rem; border-radius: 12px; display: inline-block; margin: 0.25rem; font-size: 0.875rem;">#${tag}</span>`).join('')}</p>
         </div>
       `;
     }

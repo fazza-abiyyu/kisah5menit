@@ -6,7 +6,7 @@
     "scripts": {
         "build": "tsc",
         "start": "node dist/server/app.js",
-        "dev": "tsx watch src/server/app.ts",
+        "dev": "nodemon src/server/app.ts",
         "agent": "tsx src/index.ts"
     },
     "keywords": [],
@@ -16,6 +16,7 @@
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",
         "express": "^4.19.2",
+        "nodemon": "^3.1.11",
         "openai": "^6.9.1",
         "zod": "^3.23.8"
     },
