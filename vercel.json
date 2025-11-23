@@ -1,21 +1,28 @@
 {
-    "buildCommand": "npm run build",
-    "outputDirectory": "public",
+    "version": 2,
+    "builds": [
+        {
+            "src": "src/server/app.ts",
+            "use": "@vercel/node",
+            "config": {
+                "includeFiles": [
+                    "public/stories/**"
+                ]
+            }
+        }
+    ],
     "rewrites": [
+        {
+            "source": "/api/:path*",
+            "destination": "/src/server/app.ts"
+        },
         {
             "source": "/stories/:path*",
             "destination": "/stories/:path*"
         },
         {
-            "source": "/api/:path*",
-            "destination": "/api/:path*"
-        },
-        {
             "source": "/:slug",
             "destination": "/story.html"
         }
-    ],
-    "includeFiles": [
-        "public/stories/**"
     ]
 }
