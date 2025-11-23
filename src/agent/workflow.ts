@@ -1,6 +1,7 @@
 import { generateText } from "../lib/gemini";
 import { generateImage } from "../lib/imagen";
-import { saveStory } from "../lib/storage";
+import { saveStory, saveStoryToFolder } from "../lib/storage";
+import type { Story } from "../types";
 import type {
     PlanOutput,
     GenerationOutput,
@@ -297,42 +298,32 @@ export async function runAgentCycle() {
         const plan = await runPlanning();
         console.log(`Plan created: ${plan.title_idea} `);
 
-        // 2. Generation
         const draft = await runGeneration(plan);
-        console.log(`Draft generated: ${draft.word_count} words`);
-
-        // 3. Revision
         const revision = await runRevision(plan, draft);
-        console.log(`Revision complete: ${revision.final_word_count} words`);
-
-        // 4. Cover Prompt
         const coverPrompt = await runCoverPrompt(revision.final_story_text);
-        console.log(`Cover prompt: ${coverPrompt.cover_prompt} `);
-
-        // 4b. Generate Actual Image
-        console.log("Generating image...");
-        const imageFilename = `${plan.plan_id || Date.now()}.png`;
-        const imageUrl = await generateImage(coverPrompt.cover_prompt, imageFilename);
-        console.log(`Image saved to ${imageUrl} `);
-
-        // 5. Packaging
         const packaging = await runPackaging(plan, revision, coverPrompt);
 
-        // Inject local image URL
-        if (!packaging.story_record.cover) {
-            packaging.story_record.cover = {
-                prompt: coverPrompt.cover_prompt,
-                style: coverPrompt.style,
-                aspect_ratio: coverPrompt.aspect_ratio,
-            };
-        }
-        packaging.story_record.cover.image_url = imageUrl;
+        const imageFilename = `${packaging.story_record.slug}-cover`;
 
-        // Save to DB
-        saveStory(packaging.story_record);
-        console.log(`Story saved: ${packaging.story_record.slug} `);
+        console.log("Generating image...");
+        const imageUrl = await generateImage(coverPrompt.cover_prompt, imageFilename);
 
-        return packaging.story_record;
+        const story: Story = {
+            ...packaging.story_record,
+            cover: {
+                ...packaging.story_record.cover,
+                image_url: imageUrl
+            }
+        };
+
+        // PHASE 2: Write to BOTH systems for testing
+        console.log("Saving to JSON...");
+        saveStory(story);
+
+        console.log("Saving to folder...");
+        saveStoryToFolder(story);
+
+        console.log(`Story saved: ${story.slug}`);
     } catch (error) {
         console.error("Agent cycle failed:", error);
         throw error;
