@@ -160,12 +160,14 @@
 
       grid.innerHTML = stories.map(story => `
         <a href="/${story.slug}" class="story-card">
-          <img src="${story.cover.image_url || '/placeholder.png'}" alt="${story.title}" class="card-image" onerror="this.src='https://via.placeholder.com/300x400?text=No+Cover'">
+          <div class="card-image">
+            <img src="${story.cover?.image_url || '/logo.png'}" alt="${story.title}">
+          </div>
           <div class="card-content">
-            <div class="card-meta">${story.genre.toUpperCase()} • ${new Date(story.created_at).toLocaleDateString('id-ID')}</div>
-            <h2 class="card-title">${story.title}</h2>
-            <div class="card-theme">"${story.theme}"</div>
-            <div class="tags">
+            <div class="card-meta">${story.genre.toUpperCase()} • ${story.created_at.split('T')[0]}</div>
+            <h3 class="card-title">${story.title}</h3>
+            <p class="card-theme">${story.theme}</p>
+            <div class="card-tags">
               ${story.tags.slice(0, 3).map(tag => `<span class="tag">#${tag}</span>`).join('')}
             </div>
           </div>
