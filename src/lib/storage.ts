@@ -45,7 +45,7 @@ export function getStoryBySlug(slug: string): Story | undefined {
 
 // ===== NEW FOLDER-BASED STORAGE (Phase 1: Add new functions) =====
 
-const STORIES_DIR = path.join(process.cwd(), "stories");
+const STORIES_DIR = path.join(process.cwd(), "public", "stories");
 
 /**
  * Save story to folder structure: stories/{slug}/

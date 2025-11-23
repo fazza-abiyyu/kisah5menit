@@ -25,8 +25,8 @@ async function tryPollinationsAI(prompt: string, slug: string): Promise<string |
 
             const buffer = await response.arrayBuffer();
 
-            // Save to stories/{slug}/cover.png
-            const storyDir = path.join(process.cwd(), 'stories', slug);
+            // Save to public/stories/{slug}/cover.png
+            const storyDir = path.join(process.cwd(), 'public', 'stories', slug);
             if (!fs.existsSync(storyDir)) {
                 fs.mkdirSync(storyDir, { recursive: true });
             }
@@ -64,8 +64,8 @@ async function tryOpenAI(prompt: string, slug: string): Promise<string> {
 
         const buffer = Buffer.from(generatedImage, 'base64');
 
-        // Save to stories/{slug}/cover.png
-        const storyDir = path.join(process.cwd(), 'stories', slug);
+        // Save to public/stories/{slug}/cover.png
+        const storyDir = path.join(process.cwd(), 'public', 'stories', slug);
         if (!fs.existsSync(storyDir)) {
             fs.mkdirSync(storyDir, { recursive: true });
         }
@@ -95,7 +95,7 @@ async function tryOpenAI(prompt: string, slug: string): Promise<string> {
             }
 
             const buffer = Buffer.from(generatedImage, 'base64');
-            const storyDir = path.join(process.cwd(), 'stories', slug);
+            const storyDir = path.join(process.cwd(), 'public', 'stories', slug);
             if (!fs.existsSync(storyDir)) {
                 fs.mkdirSync(storyDir, { recursive: true });
             }
