@@ -1,0 +1,37 @@
+{
+  "id": "story-1707291040001",
+  "slug": "aroma-di-balik-jendela",
+  "title": "Aroma di Balik Jendela",
+  "genre": "fantasy urban",
+  "theme": "Kehadiran magis dalam keseharian; melihat lebih dalam dari permukaan.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2024-07-29T10:40:00Z",
+  "updated_at": "2024-07-29T10:40:00Z",
+  "status": "published",
+  "tags": [
+    "fantasy urban",
+    "misteri",
+    "kafe",
+    "portal",
+    "dunia lain"
+  ],
+  "cover": {
+    "prompt": "A solitary figure's silhouette walks along a rain-kissed urban pathway, past a series of uniform city street buildings. A soft, welcoming light glows from a humble storefront. Focus on a simple, slightly tilted wooden sign displaying 'Kedai Kopi Pagi Buta', and an old wooden door. The ground reflects the gentle illumination, creating a serene, inviting atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/covers/STP-20240729-001.png.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang pelanggan baru, Risa, menemukan kafe 'Kedai Kopi Pagi Buta' yang penuh keanehan magis. Setelah menyadari pelanggan 'menghilang' dan barista yang mengetahui pesanannya, Risa tak sengaja mendengar percakapan tentang 'portal' dan 'dimensi lain'. Diundang untuk melihat kebenaran, Risa memilih untuk menerima, menyaksikan sekilas dunia magis di balik dinding kafe, yang mengubah pandangannya terhadap realitas.",
+    "target_emotion": "Curiosity, wonder, fascination, subtle intrigue",
+    "reading_time_minutes": 6.5,
+    "keywords": [
+      "kafe misterius",
+      "fantasi urban",
+      "portal dimensi",
+      "rahasia tersembunyi",
+      "perubahan perspektif"
+    ]
+  }
+}

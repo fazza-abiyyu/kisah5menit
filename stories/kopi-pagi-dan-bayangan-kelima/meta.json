@@ -1,0 +1,40 @@
+{
+  "id": "story-20231027103000",
+  "slug": "kopi-pagi-dan-bayangan-kelima",
+  "title": "Kopi Pagi dan Bayangan Kelima",
+  "genre": "sci-fi ringan",
+  "theme": "Persepsi realitas dan eksistensi diri di tengah anomali.",
+  "tone": "surreal",
+  "language": "id-mixed",
+  "created_at": "2023-10-27T10:30:00Z",
+  "updated_at": "2023-10-27T10:30:00Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "eksistensial",
+    "surreal",
+    "misteri",
+    "persepsi"
+  ],
+  "cover": {
+    "prompt": "A serene, quiet corner of an old apartment room in the early morning. Golden hour sunlight streams dramatically through a frosted window, casting long, abstract patterns and strong, defined shadows onto a plain wall. In the foreground, a minimalist white porcelain cup filled with dark black coffee rests on a simple table, positioned beside an empty, weathered rattan chair. The composition uses the rule of thirds, with a shallow depth of field focusing on the cup and the immediate environment, blurring the background slightly. A subtle, anomalous fifth shadow, distinct and unidentifiable among the expected object shadows, is faintly visible on the wall, creating a profound sense of quiet mystery and contemplation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, dramatic shadows, minimalist composition",
+    "aspect_ratio": "4:5",
+    "image_url": "/covers/story_plan_20231027_103000.png"
+  },
+  "meta": {
+    "plan_summary": "Rian, our protagonist, discovers a mysterious 'fifth shadow' appearing on his wall each morning, despite only four objects capable of casting shadows. This shadow moves with its own will, driving Rian to question his sanity and investigate its origins. The conflict intensifies as the shadow becomes more 'alive', mirroring and even mocking his actions. The climax sees Rian realize his own reflection is out of sync and his own shadow is missing, leading to the horrifying discovery that he is the 'fifth shadow', having unknowingly taken over someone else's existence. The resolution finds Rian accepting his new identity, finding a strange peace in the anomaly, with the implication that this cycle of replacement continues as a new, sixth shadow begins to form.",
+    "target_emotion": "Kekosongan eksistensial, ketidakpastian, ketakutan, penerimaan, kontemplasi.",
+    "reading_time_minutes": 7.3,
+    "keywords": [
+      "sci-fi",
+      "realitas",
+      "eksistensi",
+      "anomali",
+      "surrealisme",
+      "identitas",
+      "misteri",
+      "filosofis"
+    ]
+  }
+}

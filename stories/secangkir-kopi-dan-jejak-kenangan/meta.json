@@ -1,0 +1,37 @@
+{
+  "id": "story-1707986400000",
+  "slug": "secangkir-kopi-dan-jejak-kenangan",
+  "title": "Secangkir Kopi dan Jejak Kenangan",
+  "genre": "romance subtle",
+  "theme": "Keindahan hubungan yang tak terucap dan kenangan manis yang bertahan.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2024-02-15T12:00:00Z",
+  "updated_at": "2024-02-15T12:00:00Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "melankolis",
+    "kopi",
+    "kafe",
+    "kenangan"
+  ],
+  "cover": {
+    "prompt": "A tranquil cafe interior, bathed in soft, diffused morning light. The central focus is an inviting, aged teak wood table positioned in a quiet corner. On its surface, a beautiful ceramic coffee cup, gently steaming, filled with a 'Latte Hujan' – showcasing delicate foam and a subtle caramel design. The table displays subtle, natural textures and gentle marks from its long use. The background softly blurs into the warm, welcoming ambiance of the cafe, suggesting a peaceful start to the day. The overall mood is calm and comforting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/covers/DailyStoryPlan_001_RomanceMelancholy.png.png"
+  },
+  "meta": {
+    "plan_summary": "A story about Risa's quiet routine at 'Senja Kopi' where she silently observes Dimas. The routine is disrupted by news of Dimas's move, prompting Risa to make a subtle, unspoken gesture of farewell through an extra 'Latte Hujan'. Dimas responds with a book and a card, leaving a heartwarming memory and a hint of future possibility.",
+    "target_emotion": "heartwarming, relatable, melancholic",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "kopi",
+      "romansa",
+      "perpisahan",
+      "kenangan",
+      "hubungan tak terucap"
+    ]
+  }
+}

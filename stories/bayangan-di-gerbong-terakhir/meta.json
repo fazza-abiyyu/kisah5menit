@@ -1,0 +1,37 @@
+{
+  "id": "story-1722272400000",
+  "slug": "bayangan-di-gerbong-terakhir",
+  "title": "Bayangan di Gerbong Terakhir",
+  "genre": "fantasy urban",
+  "theme": "Pencarian makna di tengah keanehan, atau menemukan keindahan dalam absurditas.",
+  "tone": "surreal",
+  "language": "id-mixed",
+  "created_at": "2024-07-29T17:00:00Z",
+  "updated_at": "2024-07-29T17:00:00Z",
+  "status": "published",
+  "tags": [
+    "fantasi urban",
+    "surealisme",
+    "pencarian diri",
+    "kereta komuter",
+    "dimensi lain"
+  ],
+  "cover": {
+    "prompt": "Early morning at a quiet, deserted train station platform. A solitary figure, seen as a strong silhouette, stands patiently at the far end of the platform. The scene emphasizes the long, empty platform stretching into the distance, with the distinctive last carriage of a commuter train just visible, either arriving or departing. Atmospheric soft golden hour light filters through the scene, casting gentle, elongated shadows. The overall mood conveys structured routine and quiet solitude. Cinematic composition, rule of thirds, leading lines of the platform, subtle depth of field with a blurred urban background.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/covers/20240729-storyplan-001.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah tentang Adi, seorang komuter yang menemukan gerbong kereta hariannya adalah portal ke dimensi lain, dipandu oleh penumpang tak terlihat. Pengalaman sureal ini memaksanya mempertanyakan realitas, hingga ia belajar merangkul keanehan dan menemukan makna baru dalam hidup.",
+    "target_emotion": "wonder, disorientation, and ultimately, acceptance",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "fantasi urban",
+      "surealisme",
+      "realitas alternatif",
+      "pencarian diri",
+      "perjalanan kereta"
+    ]
+  }
+}

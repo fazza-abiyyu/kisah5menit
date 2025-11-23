@@ -1,0 +1,37 @@
+{
+  "id": "story-1698480000000",
+  "slug": "bayangan-di-halte-malam",
+  "title": "Bayangan di Halte Malam",
+  "genre": "fantasy urban",
+  "theme": "Keberadaan sesuatu yang lain di balik rutinitas sehari-hari, dan misteri yang tak perlu dipecahkan sepenuhnya.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2023-10-27T10:00:00Z",
+  "updated_at": "2023-10-27T10:00:00Z",
+  "status": "published",
+  "tags": [
+    "fantasi urban",
+    "misteri",
+    "rutinitas kota",
+    "halte bus",
+    "keberadaan lain"
+  ],
+  "cover": {
+    "prompt": "A cinematic photograph capturing a late-night city bus, subtly illuminated by fading urban lights, gently moving along a tranquil street. The surrounding city architecture is softly blurred in the background, creating a shallow depth of field. A lone bus stop structure stands peacefully by the roadside, bathed in a tender, melancholic glow. The image emphasizes the quietude of the setting, the soft ambient light, and a serene, contemplative atmosphere. Focus on environmental elements and the interplay of light and space, without any visible faces or specific human features.",
+    "style": "Cinematic photography, shallow depth of field, gentle illumination, subtle melancholy atmosphere",
+    "aspect_ratio": "4:5",
+    "image_url": "/covers/DSS-20231027-FU-MR.png.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, seorang pekerja kantoran, mulai menyadari kehadiran bayangan misterius di halte bus malamnya. Kehadiran bayangan itu ditandai dengan penemuan benda-benda aneh. Puncak cerita terjadi saat bus Risa mogok, memaksanya berinteraksi lebih dekat dengan bayangan, merasakan komunikasi tanpa kata yang damai. Kisah berakhir dengan Risa menerima keberadaan bayangan sebagai bagian dari rutinitasnya, meninggalkannya persembahan kecil sebagai ritual.",
+    "target_emotion": "Curiosity, wonder, a touch of gentle mystery, and ultimately a sense of peaceful acceptance.",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerita fantasi urban",
+      "misteri malam kota",
+      "kisah kehidupan",
+      "fenomena supranatural",
+      "persahabatan tak terduga"
+    ]
+  }
+}

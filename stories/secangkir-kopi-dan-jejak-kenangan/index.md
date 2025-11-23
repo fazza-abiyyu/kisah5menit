@@ -1,0 +1,40 @@
+Setiap pagi, seperti ritual yang tak tertulis, Risa selalu duduk di sudut yang sama di kafe "Senja Kopi". Meja kayu jati yang usang, dengan goresan cerita yang tak terungkap, selalu menjadi singgasananya. "Latte Hujan," pesan yang ia ucapkan nyaris tanpa suara kepada barista yang sudah hapal. Busa lembut, sentuhan karamel, dan aroma kopi yang pekat selalu memberinya kehangatan yang asing, namun menenangkan. Ini adalah permulaan hari yang damai, jeda berharga sebelum hiruk pikuk Jakarta menelannya bulat-bulat.
+
+Rutinitas ini bukan miliknya sendiri. Di meja dekat jendela, ada seorang lelaki. Rambutnya ikal, kacamata bertengger rapi di hidungnya, dan sebuah buku tebal selalu terbuka di tangannya, seolah tak terpisahkan. Risa tak pernah tahu judul buku-buku itu, hanya samar-samar menebak dari sampulnya yang seringkali berwarna gelap atau bernuansa monokrom. Lelaki itu, yang belakangan ia tahu bernama Dimas dari celotehan barista, adalah bagian tak terpisahkan dari paginya. Kehadirannya adalah denyutan halus dalam melodi pagi Risa, sebuah harmoni yang tak pernah terucap, namun begitu nyata.
+
+Berbulan-bulan. Entah sudah berapa cangkir Latte Hujan yang mendarat di mejanya, berapa lembar halaman yang Dimas balik dengan tenang. Mereka tak pernah saling bicara, tak pernah saling menyapa, bahkan pandangan mata pun jarang sekali beradu langsung. Hanya sesekali, saat Dimas beranjak dari mejanya untuk mengambil minum atau pergi ke toilet, bayangan tubuhnya akan melintas di hadapan Risa, meninggalkan jejak samar aroma kopi yang bercampur kertas tua dan wangi buku. Itu sudah cukup bagi Risa. Cukup untuk mengisi relung hati yang seringkali terasa kosong, cukup untuk memberi warna pada pagi yang sering terasa kelabu.
+
+Suatu pagi, melodi yang menenangkan itu mendadak sumbang. Risa sedang menyesap Latte Hujannya, membiarkan kehangatan meresap ke dalam dirinya, ketika ia mendengar percakapan yang tak sengaja. Suara barista, ceria seperti biasanya, dan suara Dimas yang rendah, lebih jelas dari biasanya karena posisi meja mereka. "Jadi besok terakhir, ya, Mas Dimas? Wah, bakal sepi nih 'Senja Kopi' tanpa Mas Dimas dan buku-buku tebalnya," ujar barista itu.
+
+Jantung Risa berdesir, seolah embun pagi yang menempel di daun mendadak membeku. Kata-kata itu, "besok terakhir," bergaung di telinganya, mengoyak ketenangan. Kepala Risa sontak terangkat, matanya tanpa sadar mencari Dimas. Lelaki itu hanya tersenyum tipis, mengangguk, dan berkata, "Iya, pindah ke kota lain. Ada tawaran pekerjaan baru." Suaranya datar, tanpa emosi berlebih, namun bagi Risa, setiap katanya adalah pukulan pelan yang memecah keheningan di dalam dirinya.
+
+Waktu mereka di kafe yang sama, di dunia kecil yang Risa ciptakan di benaknya, akan segera berakhir. Perasaan kecil yang selama ini ia pendam, yang begitu lembut dan tak bernama, terancam hilang tanpa pernah terungkap. Ini bukan cinta yang menggebu, bukan pula obsesi. Ini adalah sebuah rasa nyaman, sebuah ikatan tak terlihat yang terbentuk dari rutinitas yang sama, dari kehadiran yang konstan, dari pagi-pagi yang melankolis.
+
+Risa merasakan kerongkongannya tercekat. "Latte Hujan" di depannya tiba-tiba terasa dingin, kehilangan sentuhan kehangatannya. Kenapa tiba-tiba? Kenapa begitu mendadak? Haruskah ia mengatakan sesuatu? Mengucapkan "selamat tinggal"? Atau "semoga berhasil"? Tapi bagaimana? Mereka tak pernah saling mengenal, tak pernah bertukar kata. Apa haknya untuk menginterupsi kehidupan seseorang yang bahkan namanya pun ia tahu dari orang lain?
+
+Ketakutan untuk mengungkapkannya sama besarnya dengan ketakutan untuk menyesal. Penyesalan karena tak pernah mencoba, walau hanya sekadar isyarat kecil. Malam itu, Risa terjaga. Pikirannya dipenuhi aroma kopi, bayangan Dimas yang tenang, dan pertanyaan-pertanyaan yang tak berujung. Apakah keindahan hubungan yang tak terucap ini akan selamanya tinggal kenangan tanpa pernah ada "sesuatu" yang nyata, sesuatu yang bisa ia sentuh?
+
+Keesokan paginya, udara terasa lebih berat, seolah kafe itu sendiri ikut merasakan keheningan. Risa tiba di "Senja Kopi" lebih awal dari biasanya. Ia melihat Dimas sudah duduk di mejanya, dengan buku yang terbuka seperti biasa, seolah tak ada yang berubah, namun Risa tahu segalanya berbeda. Hari ini, ia melihat punggung Dimas dengan perasaan yang campur aduk: sedih, sedikit berani, dan gugup. Jantungnya berdetak seperti ketukan hujan di atap seng, tidak teratur namun konstan. Ia harus melakukan sesuatu. Walau kecil, walau tak berarti, ia ingin meninggalkan jejak.
+
+Dengan keberanian yang setipis kertas, Risa memanggil barista. "Mas, bisa tolong siapkan satu lagi Latte Hujan? Untuk meja Mas yang di pojok jendela itu. Dan... bisa tolong selipkan ini?" Risa menyerahkan sebuah kartu ucapan kecil yang semalam ia tulis. Hanya beberapa kata, sederhana, namun tulus, mewakili segala yang tak terucap.
+
+Barista itu menatap Risa dengan senyum mengerti. Mungkin ia bukan yang pertama melihat drama "Senja Kopi" yang tak terucap ini. "Tentu, Mbak Risa." Ia tahu namanya. Sebuah gelombang kehangatan menjalar di dada Risa.
+
+Beberapa menit kemudian, barista meletakkan Latte Hujan kedua di meja Dimas. Dimas, yang tadinya tenggelam dalam bukunya, mengangkat pandangan. Barista menunjuk ke arah Risa dengan anggukan kecil. Tatapan Dimas bergeser, menemukan Risa di mejanya. Ada jeda sesaat yang terasa seperti keabadian, di mana dunia seolah berhenti berputar. Risa merasakan pipinya memanas, ingin sekali ia menunduk, tapi ia menahan diri. Ia ingin Dimas melihatnya, melihat keberanian kecil yang ia kumpulkan.
+
+Sebuah senyum tipis, nyaris tak terlihat, terukir di bibir Dimas. Ia mengangguk, pelan, lalu kembali menatap kartu di samping cangkir Latte Hujannya, mengisap aroma kopi dari cangkir yang tak ia pesan. Risa tak yakin ia membaca kartu itu saat itu juga, atau hanya melihatnya. Tapi anggukan itu... cukup. Cukup untuk membuat Risa merasa sedikit lega, sedikit berani, seolah beban berat terangkat dari pundaknya.
+
+Tak lama kemudian, Dimas bangkit dari mejanya. Ia merapikan beberapa barang, mengambil tasnya, dan melangkah keluar dari kafe. Sebelum melewati pintu, ia menoleh sekali lagi, pandangannya bertemu dengan Risa. Senyum tipis itu kembali, lebih jelas kali ini, seperti janji yang belum terucap. Lalu ia pergi. Pergi, membawa serta sebagian dari pagi Risa, sebagian dari keheningan yang ia hargai.
+
+Namun, Dimas tidak pergi dengan tangan kosong. Ia meninggalkan sesuatu. Sebuah buku, buku tebal yang sering ia baca, tergeletak di mejanya. Barista mendekati meja itu, lalu mengambil buku dan mendekati Risa. "Mbak Risa, sepertinya ini untuk Mbak. Mas Dimas bilang begitu." Barista menyerahkan buku itu kepada Risa, dengan senyum ramah.
+
+Jantung Risa berdebar kencang. Kenapa? Untuk apa? Tangannya bergetar saat menerima buku itu. Sampulnya berwarna cokelat tua, polos tanpa judul mencolok, terasa berat di genggamannya. Perlahan, Risa membuka halaman pertama. Di dalamnya, terselip sebuah kartu nama. Di balik kartu nama itu, dengan tulisan tangan yang rapi dan elegan, tertulis:
+
+"Terima kasih atas 'Latte Hujan'-nya, Risa.
+Senang bisa berbagi pagi denganmu.
+Semoga kita bertemu lagi.
+Dimas."
+
+Ada sedikit rasa kehilangan yang menyelimuti Risa, seperti sisa aroma kopi yang perlahan memudar, meninggalkan jejak pahit manis. Namun, lebih banyak lagi kehangatan yang menjalar di hatinya, seperti busa lembut Latte Hujan yang membelai bibir. Dimas tahu namanya. Ia tahu Risa memperhatikan. Dan ia membalasnya, dengan cara yang paling Dimas-nya: melalui buku dan tulisan, sebuah pesan yang senyap namun sarat makna.
+
+Kenangan itu, kenangan pagi di "Senja Kopi", di mana secangkir kopi dan jejak langkah seseorang yang tak terucap menjadi bagian dari hidupnya, akan tetap menjadi bagian dari pagi Risa. Mungkin Dimas dan Risa tak akan pernah duduk di meja yang sama lagi di kafe ini. Namun, ada kemungkinan, sebuah harapan tipis seperti uap kopi yang mengepul, bahwa "Semoga kita bertemu lagi" bukan hanya sekadar basa-basi. Ini adalah kenangan yang bertahan, dan mungkin juga, awal dari sesuatu yang baru yang menunggu untuk ditulis di halaman-halaman berikutnya dalam buku kehidupan.

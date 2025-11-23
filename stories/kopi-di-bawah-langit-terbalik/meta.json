@@ -1,0 +1,37 @@
+{
+  "id": "story-1701548405000",
+  "slug": "kopi-di-bawah-langit-terbalik",
+  "title": "Kopi di Bawah Langit Terbalik",
+  "genre": "fantasy urban",
+  "theme": "Realitas yang berlapis dan keajaiban yang tersembunyi di balik rutinitas kota.",
+  "tone": "surreal",
+  "language": "id-mixed",
+  "created_at": "2023-12-02T16:20:05.000Z",
+  "updated_at": "2023-12-02T16:20:05.000Z",
+  "status": "published",
+  "tags": [
+    "fantasy urban",
+    "surreal",
+    "Jakarta",
+    "kopi misterius",
+    "realitas alternatif"
+  ],
+  "cover": {
+    "prompt": "Cinematic environmental shot of an early morning bedroom in Jakarta, 06:00. A smartphone alarm screen glows softly on a nightstand, casting a small circle of light beside a forgotten, cooled ceramic coffee mug. Diffused, ethereal light streams through a window, subtly illuminating dust motes in the air. The room's atmosphere is strikingly fresh, carrying a faint, unfamiliar scent of jasmine, sharply contrasting with the expected urban humidity. The composition emphasizes the quiet stillness and a palpable sense of 'something is amiss' – a subtle displacement of the everyday routine. Focus on objects, the unique quality of light, and the unsettling freshness; no human faces.",
+    "style": "Cinematic photography, shallow depth of field, atmospheric lighting with a delicate contrast of cool and warm tones",
+    "aspect_ratio": "4:5",
+    "image_url": "/covers/daily_story_plan_001.png"
+  },
+  "meta": {
+    "plan_summary": "Arya, a barista, finds a mysterious cup of coffee that alters his perception of reality, revealing a surreal, magical layer of Jakarta. He follows strange clues to a hidden cafe where an old 'brewer' explains the coffee's purpose: to unveil the city's hidden soul. Arya chooses to embrace this new reality, finding daily wonders.",
+    "target_emotion": "Wonder and Disorientation",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kopi misterius",
+      "distorsi realitas",
+      "keajaiban kota",
+      "persepsi",
+      "realitas alternatif"
+    ]
+  }
+}
