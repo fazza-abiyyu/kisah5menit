@@ -1,15 +1,11 @@
-```json
 {
-    "version": 2,
     "buildCommand": "npm run build",
     "outputDirectory": "public",
-    "builds": [
-        {
-            "src": "src/server/app.ts",
-            "use": "@vercel/node"
-        }
-    ],
     "rewrites": [
+        {
+            "source": "/stories/:path*",
+            "destination": "/stories/:path*"
+        },
         {
             "source": "/api/:path*",
             "destination": "/api/:path*"
@@ -18,20 +14,5 @@
             "source": "/:slug",
             "destination": "/story.html"
         }
-    ],
-    "routes": [
-        {
-            "src": "/stories/(.*)",
-            "dest": "/stories/$1"
-        },
-        {
-            "src": "/(.*\\.(css|js|png|jpg|jpeg|gif|svg|ico|woff|woff2|ttf|eot))",
-            "dest": "/public/$1"
-        },
-        {
-            "src": "/(.*)",
-            "dest": "/src/server/app.ts"
-        }
     ]
 }
-```
