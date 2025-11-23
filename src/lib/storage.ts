@@ -8,17 +8,25 @@ const DATA_DIR = path.join(process.cwd(), "data");
 const DB_FILE = path.join(DATA_DIR, "stories.json");
 
 // Ensure data directory exists
-if (!fs.existsSync(DATA_DIR)) {
-    fs.mkdirSync(DATA_DIR, { recursive: true });
+function ensureDataDir() {
+    if (!fs.existsSync(DATA_DIR)) {
+        fs.mkdirSync(DATA_DIR, { recursive: true });
+    }
 }
 
 // Ensure DB file exists
-if (!fs.existsSync(DB_FILE)) {
-    fs.writeFileSync(DB_FILE, JSON.stringify([]));
+function ensureDbFile() {
+    ensureDataDir();
+    if (!fs.existsSync(DB_FILE)) {
+        fs.writeFileSync(DB_FILE, JSON.stringify([]));
+    }
 }
 
 export function getStories(): Story[] {
     try {
+        if (!fs.existsSync(DB_FILE)) {
+            return [];
+        }
         const data = fs.readFileSync(DB_FILE, "utf-8");
         return JSON.parse(data) as Story[];
     } catch (error) {
@@ -28,6 +36,7 @@ export function getStories(): Story[] {
 }
 
 export function saveStory(story: Story): void {
+    ensureDbFile();
     const stories = getStories();
     const index = stories.findIndex((s) => s.id === story.id);
     if (index >= 0) {
