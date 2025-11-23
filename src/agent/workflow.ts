@@ -55,35 +55,42 @@ Output JSON only matching this schema:
 `;
 
 const GENERATION_PROMPT = (plan: PlanOutput) => `
-You are a skilled fiction writer. Write a complete story based on this plan:
+You are a skilled fiction writer. Write a complete story based on
+
 ${JSON.stringify(plan)}
 
-CRITICAL RULES:
-- Write ONLY the story text, no meta-commentary
-- Properly escape quotes in JSON strings (use \\" for quotes inside the story)
-- Do NOT use backticks or special characters that break JSON
-- Target length: ${plan.constraints.target_min_words}-${plan.constraints.target_max_words} words
-- Style: ${plan.constraints.style_notes}
-- Language: Bahasa Indonesia (casual) with optional natural English or simple Mandarin
+CRITICAL:
+- Write ONLY the story text, no meta commentary.
+- Properly quotes all strings (use \"double quotes\", NOT smart quotes ' or ').
+- Do NOT use backticks or special characters that break JSON.
+- Target: ${plan.constraints.target_max_words} words
+- **MINIMUM: 1000 words** (this is mandatory - do not write less!)
+- Style: ${plan.tone}
+- Language: Bahasa Indonesia casual with optional English or simple Mandarin
 
-Output JSON only:
+Output JSON only matching:
+
 {
-  "raw_story_text": "string (the complete story, properly escaped for JSON)",
-  "word_count": number,
-  "quality_flags": { "pacing_ok": true, "tone_consistent": true, "ending_clear": true, "theme_visible": true }
+  "draft_text": "string (the complete story text)",
+  "word_count": number
 }
 `;
 
 const REVISION_PROMPT = (plan: PlanOutput, draft: GenerationOutput) => `
-You are a story editor. Review and revise this draft:
+You are a story editor and revise this story based on the plan.
+
 Plan: ${JSON.stringify(plan)}
 Draft: ${JSON.stringify(draft)}
 
-If quality flags are all true, just polish the text. If any are false, fix them.
+If quality flags are all "OK", just polish the text. If any are BAD, fix them.
 
-Output JSON only:
+**CRITICAL: The final story MUST be at least 1000 words!**
+If the draft is shorter, expand it with more details, dialogue, and scenes.
+
+Output JSON:
+
 {
-  "final_story_text": "string",
+  "final_story_text": "string (the complete revised story)",
   "final_word_count": number
 }
 `;
