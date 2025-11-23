@@ -1,0 +1,48 @@
+{
+  "id": "story-1763904395552",
+  "slug": "antrian-di-tempat-sampah-komplek",
+  "title": "Antrian di Tempat Sampah Komplek",
+  "genre": "slice of life",
+  "theme": "Kisah keseharian di lingkungan sekitar yang menunjukkan kehangatan dan keanehan kecil dalam rutinitas warga kompleks perumahan.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2025-11-23T13:26:35.551Z",
+  "updated_at": "2025-11-23T13:26:35.551Z",
+  "status": "published",
+  "tags": [
+    "keseharian",
+    "komplek",
+    "rahasia",
+    "kebersamaan",
+    "slice of life",
+    "tetangga",
+    "persahabatan",
+    "rutinitas",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A peaceful residential street at dawn, bathed in warm, golden morning light. Simple houses lining the pathway with soft, atmospheric glow. A large, transparent plastic bag placed near a communal trash station, with a sense of quiet activity and routine. No faces, just the serene environment and subtle motion of daily life.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/covers/antrian-di-tempat-sampah-komplek-cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pagi di kompleks perumahan, seorang tetangga yang selalu terlambat membuang sampah menemukan surat lama di tempat sampah. Surat itu mengungkap cerita rahasia tetangga lain, Bu Sari. Dengan rasa penasaran, ia membagikan esensi cerita tersebut secara bijak, mempererat kebersamaan dan pemahaman antar warga.",
+    "target_emotion": "Harapan, kehangatan, kebersamaan, rasa ingin tahu.",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "cerita pendek",
+      "slice of life",
+      "kehidupan sehari-hari",
+      "komplek perumahan",
+      "kebersamaan",
+      "tetangga",
+      "kisah rahasia",
+      "inspiratif",
+      "drama ringan",
+      "hubungan antar warga",
+      "persahabatan",
+      "indonesia"
+    ]
+  }
+}
