@@ -7,12 +7,12 @@
 
   <!-- Will be dynamically updated -->
   <title>Loading...</title>
-  <meta name="description" content="Baca cerita pendek Indonesia yang menarik dan seru di Kisah 5 Menit">
+  <meta name="description" content="Baca cerita pendek Indonesia yang menarik dan seru di Cerita 5 Menit">
   <meta name="robots" content="index, follow">
 
   <!-- Open Graph - Will be dynamically updated -->
   <meta property="og:type" content="article">
-  <meta property="og:site_name" content="Kisah 5 Menit">
+  <meta property="og:site_name" content="Cerita 5 Menit">
   <meta property="og:locale" content="id_ID">
 
   <!-- Twitter Card - Will be dynamically updated -->
@@ -28,9 +28,9 @@
   <header class="site-header">
     <div class="header-container">
       <div class="header-brand">
-        <img src="/logo.png" alt="Kisah 5 Menit" class="logo">
+        <img src="/logo.png" alt="Cerita 5 Menit" class="logo">
         <div class="brand-text">
-          <h2 class="brand-name">Kisah 5 Menit</h2>
+          <h2 class="brand-name">Cerita 5 Menit</h2>
           <p class="brand-tagline">Cerita seru dalam 5 menit</p>
         </div>
       </div>
@@ -51,9 +51,9 @@
   <footer class="site-footer">
     <div class="container footer-container">
       <div class="footer-content">
-        <img src="/logo.png" alt="Kisah 5 Menit Logo" class="footer-logo">
+        <img src="/logo.png" alt="Cerita 5 Menit Logo" class="footer-logo">
         <p class="footer-text">Cerita pendek 5 menit yang menyentuh dan seru</p>
-        <p class="footer-copyright">© 2025 Kisah 5 Menit • Made with ❤️</p>
+        <p class="footer-copyright">© 2025 Cerita 5 Menit • Made with ❤️</p>
       </div>
     </div>
   </footer>
@@ -65,13 +65,13 @@
       const imageUrl = story.cover?.image_url ? `${baseUrl}${story.cover.image_url}` : `${baseUrl}/logo.png`;
 
       // Update title
-      document.title = `${story.title} - Kisah 5 Menit`;
+      document.title = `${story.title} - Cerita 5 Menit`;
 
       // Update or create meta tags
       const metaTags = {
         'description': story.theme || story.title,
         'keywords': story.tags.join(', '),
-        'author': 'Kisah 5 Menit',
+        'author': 'Cerita 5 Menit',
         'og:title': story.title,
         'og:description': story.theme || story.title,
         'og:url': storyUrl,
@@ -115,11 +115,11 @@
         "dateModified": story.updated_at,
         "author": {
           "@type": "Organization",
-          "name": "Kisah 5 Menit"
+          "name": "Cerita 5 Menit"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Kisah 5 Menit",
+          "name": "Cerita 5 Menit",
           "logo": {
             "@type": "ImageObject",
             "url": `${baseUrl}/logo.png`
@@ -176,7 +176,7 @@
 
       if (!res.ok) {
         document.getElementById('storyContent').innerHTML = '<h1>Story not found</h1>';
-        document.title = 'Story Not Found - Kisah 5 Menit';
+        document.title = 'Story Not Found - Cerita 5 Menit';
         return;
       }
 
