@@ -196,7 +196,7 @@
         </center>
         <div class="story-body">${marked.parse(story.content.body)}</div>
         <div style="margin-top: 2rem; padding: 1.5rem; background: #f5f5f5; border-radius: 8px;">
-          <p style="margin: 0; color: #666;"><strong>Tags:</strong> ${story.tags.map(tag => `<span style="background: white; padding: 0.25rem 0.75rem; border-radius: 12px; display: inline-block; margin: 0.25rem; font-size: 0.875rem;">#${tag}</span>`).join('')}</p>
+          <p style="margin: 0; color: #666;"><strong>Tags:</strong> ${story.tags.map(tag => tag.toLowerCase()).join(', ')}</p>
         </div>
       `;
     }

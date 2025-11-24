@@ -170,7 +170,7 @@
             <h3 class="card-title">${story.title}</h3>
             <p class="card-theme">${story.theme}</p>
             <div class="card-tags">
-              ${story.tags.slice(0, 3).map(tag => `<span class="tag">#${tag}</span>`).join('')}
+              ${story.tags.slice(0, 6).map(tag => tag.toLowerCase()).join(', ')}
             </div>
           </div>
         </a>
