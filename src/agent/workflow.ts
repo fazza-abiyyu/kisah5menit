@@ -75,7 +75,7 @@ Output JSON only matching this schema:
   "plan_id": "string",
   "title_idea": "string",
   "genre": "string (pick from: slice of life, romance subtle, dark comedy, thriller ringan, sci-fi ringan)",
-  "theme": "string",
+  "theme": "string (MUST be a full descriptive sentence, 10-20 words, explaining the story's core message or emotional journey. NOT just 2-3 words!)",
   "tone": "string (pick from: optimis pelan, introspektif menenangkan, humoris sinis, melankolis lembut, misterius ringan)",
   "narrative_structure": { "hook": "string", "conflict": "string", "climax": "string", "resolution": "string" },
   "constraints": { "target_min_words": 1000, "target_max_words": 1500, "style_notes": "string" },
