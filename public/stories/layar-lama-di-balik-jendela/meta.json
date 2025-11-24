@@ -1,0 +1,43 @@
+{
+  "id": "story-1764009010541",
+  "slug": "layar-lama-di-balik-jendela",
+  "title": "Layar Lama di Balik Jendela",
+  "genre": "slice of life",
+  "theme": "Seorang wanita tua menemukan kenangan lama melalui lensa kamera yang tersimpan di loteng rumahnya, menyadari makna dari nostalgia dan keberanian untuk melepaskan masa lalu.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2025-11-24T18:30:10.541Z",
+  "updated_at": "2025-11-24T18:30:10.541Z",
+  "status": "published",
+  "tags": [
+    "nostalgia",
+    "pelepasan",
+    "kenangan",
+    "wanita tua",
+    "slice of life",
+    "refleksi",
+    "kehidupan",
+    "penerimaan"
+  ],
+  "cover": {
+    "prompt": "A tranquil morning scene with soft golden sunlight filtering through aged, slightly open window curtains, casting warm glow onto a rustic wooden floor. The atmosphere evokes quiet nostalgia, with a view of an open attic door gently ajar, revealing a glimpse of the past. Subtle hints of dew-dropped grass visible outside a nearby window add to the serene ambiance.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/layar-lama-di-balik-jendela/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang wanita tua bernama Bu Lina menemukan kamera tua di loteng, memicu kenangan masa lalu, baik indah maupun menyakitkan. Melalui refleksi, ia menyadari pentingnya melepaskan beban masa lalu untuk melangkah maju dengan hati yang lapang dan damai.",
+    "target_emotion": "Ketenangan, refleksi, nostalgia, pembebasan.",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "kisah inspiratif",
+      "cerita reflektif",
+      "melepas masa lalu",
+      "makna hidup",
+      "kedamaian batin",
+      "nostalgia kamera",
+      "wanita tua bijak",
+      "perjalanan hidup"
+    ]
+  }
+}

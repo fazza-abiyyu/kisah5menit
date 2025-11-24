@@ -1,0 +1,46 @@
+{
+  "id": "story-1764008595170",
+  "slug": "senja-di-balik-jendela-rumah-kayu-tua",
+  "title": "Senja di Balik Jendela Rumah Kayu Tua",
+  "genre": "slice of life",
+  "theme": "Seorang nenek tua belajar melepaskan kenangan masa lalu melalui refleksi di jendela rumah kayu yang penuh cerita.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2025-11-24T18:23:15.170Z",
+  "updated_at": "2025-11-24T18:23:15.170Z",
+  "status": "published",
+  "tags": [
+    "nenek",
+    "rumah kayu",
+    "kenangan",
+    "refleksi",
+    "pelepasan",
+    "slice of life",
+    "melankolis",
+    "kedamaian",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A tranquil evening scene with a weathered wooden house at the edge of a quiet village, a large old window facing a garden long overgrown with roses and jasmine, bathed in soft golden hour light. The warm glow from the setting sun illuminates the scene, highlighting the peaceful atmosphere and the gentle fading colors of the sky. The composition emphasizes the house, the window, and the lush, nostalgic garden beyond, with a sense of calm and quiet reflection.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senja-di-balik-jendela-rumah-kayu-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang nenek tua merenungkan masa lalu melalui jendela rumah kayu usang yang menghadap taman lama. Ia bergumul dengan godaan nostalgia dan rasa takut kehilangan kedamaian. Akhirnya, ia menyadari pentingnya melepaskan beban lama dan melangkah maju, menemukan kekuatan untuk menulis surat bagi masa depannya, yang membawa kedamaian sejati.",
+    "target_emotion": "kedamaian, refleksi, nostalgia, ketenangan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita nenek",
+      "kisah refleksi",
+      "melepaskan masa lalu",
+      "kedamaian batin",
+      "rumah kayu tua",
+      "kisah inspiratif",
+      "slice of life indonesia",
+      "melankolis lembut",
+      "refleksi diri",
+      "penerimaan"
+    ]
+  }
+}

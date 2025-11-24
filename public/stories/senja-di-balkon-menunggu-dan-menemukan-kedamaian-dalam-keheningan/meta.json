@@ -1,0 +1,47 @@
+{
+  "id": "story-1764008319651",
+  "slug": "senja-di-balkon-menunggu-dan-menemukan-kedamaian-dalam-keheningan",
+  "title": "Senja di Balkon: Menunggu dan Menemukan Kedamaian dalam Keheningan",
+  "genre": "slice of life",
+  "theme": "Seorang wanita muda belajar menenangkan pikirannya dan menemukan kedamaian melalui rutinitas menunggu matahari terbenam setiap malam di balkon apartemennya.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-11-24T18:18:39.650Z",
+  "updated_at": "2025-11-24T18:18:39.650Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "kedamaian",
+    "introspeksi",
+    "rutinitas",
+    "matahari terbenam",
+    "penerimaan diri",
+    "kesehatan mental",
+    "inspiratif",
+    "refleksi",
+    "jurnal"
+  ],
+  "cover": {
+    "prompt": "A serene balcony scene during sunset, with a weathered wooden chair facing a vast sky transitioning from bright blue to deep purple. The scene emphasizes the calm atmosphere, soft golden light illuminating the balcony and surrounding architecture, capturing the poetic moment of daily reflection without showing faces or detailed human features.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senja-di-balkon-menunggu-dan-menemukan-kedamaian-dalam-keheningan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah introspektif tentang Lina, seorang wanita muda yang menemukan kedamaian batin dan penerimaan diri melalui ritual harian menanti matahari terbenam di balkon apartemennya, mengubah keheningan dari ketakutan menjadi sumber kekuatan.",
+    "target_emotion": "Ketenangan, kedamaian, refleksi, harapan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "senja",
+      "balkon",
+      "kedamaian batin",
+      "introspeksi",
+      "self-acceptance",
+      "mental wellness",
+      "slice of life",
+      "cerita inspiratif",
+      "refleksi diri",
+      "rutinitas harian"
+    ]
+  }
+}

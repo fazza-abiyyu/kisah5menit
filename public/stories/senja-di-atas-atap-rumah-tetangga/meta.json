@@ -1,0 +1,47 @@
+{
+  "id": "story-1764009524529",
+  "slug": "senja-di-atas-atap-rumah-tetangga",
+  "title": "Senja di Atas Atap Rumah Tetangga",
+  "genre": "slice of life",
+  "theme": "Seorang mahasiswa menemukan ketenangan dan makna hidup melalui momen sederhana saat menatap langit dari atap rumah tetangga yang tak sengaja ia kunjungi.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2025-11-24T18:38:44.529Z",
+  "updated_at": "2025-11-24T18:38:44.529Z",
+  "status": "published",
+  "tags": [
+    "mahasiswa",
+    "refleksi",
+    "ketenangan",
+    "slice of life",
+    "misteri",
+    "langit malam",
+    "pencerahan",
+    "momen sederhana",
+    "inner peace",
+    "quiet contemplation"
+  ],
+  "cover": {
+    "prompt": "A quiet, dimly lit room at twilight, with a softly glowing laptop resting on a cluttered desk. Outside the window, the last remnants of sunset fade into a deep, tranquil blue sky. Warm, gentle lighting highlights the textured walls and the subtle shadows cast by everyday objects, evoking a peaceful yet contemplative atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senja-di-atas-atap-rumah-tetangga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang mahasiswa menemukan ketenangan dan makna hidup melalui momen sederhana saat menatap langit dari atap rumah tetangga, mengalami pencerahan tak terduga yang mengubah perspektifnya tentang rutinitas dan masalah hidup.",
+    "target_emotion": "peacefulness and introspection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Senja",
+      "Atap Rumah",
+      "Mahasiswa",
+      "Ketenangan",
+      "Makna Hidup",
+      "Refleksi Diri",
+      "Cerita Pendek",
+      "Inner Peace",
+      "Stargazing",
+      "Quiet Moments"
+    ]
+  }
+}
