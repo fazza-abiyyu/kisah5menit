@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /api/
 
-Sitemap: https://kisah5menit.vercel.app/sitemap.xml
+# Sitemaps
+Sitemap: https://cerita5menit.vanila.app/api/sitemap.xml
