@@ -3,7 +3,7 @@ import path from 'path';
 
 export default function handler(req, res) {
   const storiesDir = path.join(process.cwd(), 'public', 'stories');
-  const baseUrl = 'https://kisah5menit.vercel.app';
+  const baseUrl = 'https://cerita5menit.vanila.app';
   const currentDate = new Date().toISOString();
 
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
