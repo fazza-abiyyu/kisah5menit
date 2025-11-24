@@ -1,0 +1,46 @@
+{
+  "id": "story-1763964875376",
+  "slug": "kesunyian-di-balkon-malam",
+  "title": "Kesunyian di Balkon Malam",
+  "genre": "slice of life",
+  "theme": "Rutinitas & mindfulness",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2025-11-24T06:14:35.376Z",
+  "updated_at": "2025-11-24T06:14:35.376Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "mindfulness",
+    "mystery",
+    "reflection",
+    "night",
+    "balcony",
+    "indonesian",
+    "serenity"
+  ],
+  "cover": {
+    "prompt": "A tranquil balcony scene overlooking a cityscape at twilight, with soft, warm lighting illuminating a textured railing and a wide view of the glowing city lights beneath a vast, star-filled sky. The composition emphasizes the peaceful atmosphere and expansive sky, with subtle textures and layered depth to evoke calmness and introspection.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kesunyian-di-balkon-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A student finds peace on his balcony, observing an unusual object in the night sky, which leads him to feel a distant presence. His attention is then drawn to a mysterious balloon tied to the railing, revealing a forgotten secret. Releasing the balloon, he returns to his room, feeling a mix of relief and curiosity, resolved to cherish small moments and the night's tranquility.",
+    "target_emotion": "serenity, curiosity, and introspection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Kesunyian di Balkon Malam",
+      "slice of life",
+      "mindfulness",
+      "misteri ringan",
+      "refleksi",
+      "keheningan malam",
+      "balon misterius",
+      "cerita pendek",
+      "inspirasi",
+      "ketenangan",
+      "self-discovery"
+    ]
+  }
+}

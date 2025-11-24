@@ -1,0 +1,47 @@
+{
+  "id": "story-1763965459059",
+  "slug": "layar-lama-di-balkon",
+  "title": "Layar Lama di Balkon",
+  "genre": "slice of life",
+  "theme": "Nostalgia & kenangan",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2025-11-24T06:24:19.059Z",
+  "updated_at": "2025-11-24T06:24:19.059Z",
+  "status": "published",
+  "tags": [
+    "nostalgia",
+    "kenangan",
+    "masa lalu",
+    "refleksi",
+    "balkon",
+    "kota",
+    "perempuan",
+    "slice of life",
+    "kedamaian",
+    "penerimaan"
+  ],
+  "cover": {
+    "prompt": "An urban balcony scene during a subdued, overcast late afternoon, with a weathered balcony floor covered in a light layer of dust, dried flower pots showing signs of neglect, and faint, diffused natural light casting a warm glow over the scene. The background features tall city buildings with soft reflections on glass surfaces, creating a sense of quiet solitude and nostalgic stillness.",
+    "style": "Moody atmospheric illustration, soft lighting, painterly style",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/layar-lama-di-balkon/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A middle-aged woman named Anya finds a box of old photographs on her rarely visited apartment balcony. Each photo resurfaces forgotten moments and people, stirring deep emotions about her past and present reality. Upon discovering a picture of her youthful, joyful self, she realizes that these memories are not lost but live within her, providing new strength to accept her current life. She calmly puts the photos back, finding peace in the understanding that her past is an enduring part of who she is.",
+    "target_emotion": "refleksi, kedamaian, penerimaan diri",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Layar Lama di Balkon",
+      "cerita nostalgia",
+      "kenangan masa lalu",
+      "refleksi hidup",
+      "balkon apartemen",
+      "perjalanan batin",
+      "penerimaan diri",
+      "kisah kehidupan",
+      "slice of life Indonesia",
+      "wanita paruh baya"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "story-1763965160323",
+  "slug": "layar-lama-di-taman-sekolah",
+  "title": "Layar Lama di Taman Sekolah",
+  "genre": "slice of life",
+  "theme": "nostalgia & kenangan",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2025-11-24T06:19:20.323Z",
+  "updated_at": "2025-11-24T06:19:20.323Z",
+  "status": "published",
+  "tags": [
+    "nostalgia",
+    "kenangan",
+    "masa lalu",
+    "penyesalan",
+    "pemaafan",
+    "slice of life",
+    "taman",
+    "proyektor",
+    "pertumbuhan diri"
+  ],
+  "cover": {
+    "prompt": "A serene, sunlit park with ancient, towering trees shedding golden leaves that drift gently through the air. A quiet, winding pathway lined with small pebbles disappears into a lush, slightly overgrown corner, evoking a sense of peaceful nostalgia and the passage of time. Soft, warm light bathes the scene, highlighting the textures of the leaves and trees without harsh shadows.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/layar-lama-di-taman-sekolah/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang wanita menemukan layar proyektor tua di taman sekolah kosong, membawanya kembali ke kenangan masa kecil yang indah namun juga penyesalan atas kesempatan yang terlewat. Saat gambar masa kecil muncul, ia menghadapi rasa bersalahnya, lalu melepaskan beban dan menerima masa lalu sebagai bagian dari dirinya, meninggalkan layar dengan senyum.",
+    "target_emotion": "Nostalgia, melankolis, kelegaan, pemaafan diri",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kisah nostalgia",
+      "kenangan masa kecil",
+      "penyesalan",
+      "pemaafan diri",
+      "taman sekolah",
+      "slice of life indonesia",
+      "cerita melankolis",
+      "melepaskan masa lalu",
+      "penerimaan diri"
+    ]
+  }
+}
