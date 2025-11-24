@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import path from "path";
 import dotenv from "dotenv";
+import rateLimit from "express-rate-limit";
 import { getStories, getStory } from "../lib/storage";
 import fs from "fs";
 
@@ -10,6 +11,21 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+// Rate limiting configuration
+const apiLimiter = rateLimit({
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    max: 100, // Limit each IP to 100 requests per windowMs
+    message: "Too many requests from this IP, please try again later.",
+    standardHeaders: true, // Return rate limit info in the `RateLimit-*` headers
+    legacyHeaders: false, // Disable the `X-RateLimit-*` headers
+});
+
+const strictLimiter = rateLimit({
+    windowMs: 1 * 60 * 1000, // 1 minute
+    max: 10, // Limit each IP to 10 requests per minute
+    message: "Too many requests, please slow down.",
+});
+
 app.use(cors());
 app.use(express.json());
 app.use(express.static(path.join(process.cwd(), "public")));
@@ -17,7 +33,7 @@ app.use(express.static(path.join(process.cwd(), "public")));
 app.use("/stories", express.static(path.join(process.cwd(), "public", "stories")));
 
 // API Routes
-app.get("/api/debug", (req, res) => {
+app.get("/api/debug", strictLimiter, (req, res) => {
     try {
         const storiesDir = path.join(process.cwd(), "public", "stories");
         const legacyDataPath = path.join(process.cwd(), "data", "stories.json");
@@ -28,9 +44,9 @@ app.get("/api/debug", (req, res) => {
         // Check the specific problematic story
         const targetSlug = "secangkir-kopi-dan-jejak-kenangan";
         let targetMeta = null;
-        const targetPath = path.join(storiesDir, targetSlug, "meta.json");
-        if (fs.existsSync(targetPath)) {
-            targetMeta = JSON.parse(fs.readFileSync(targetPath, "utf-8"));
+        const targetMetaPath = path.join(storiesDir, targetSlug, "meta.json");
+        if (fs.existsSync(targetMetaPath)) {
+            targetMeta = JSON.parse(fs.readFileSync(targetMetaPath, "utf-8"));
         }
 
         res.json({
@@ -47,7 +63,7 @@ app.get("/api/debug", (req, res) => {
     }
 });
 
-app.get("/api/stories", (req, res) => {
+app.get("/api/stories", apiLimiter, (req, res) => {
     res.set('Cache-Control', 'no-store');
     const { genre, search } = req.query;
     let stories = getStories(); // Use folder-based storage
@@ -72,7 +88,7 @@ app.get("/api/stories", (req, res) => {
     res.json(stories);
 });
 
-app.get("/api/stories/:slug", (req, res) => {
+app.get("/api/stories/:slug", apiLimiter, (req, res) => {
     const story = getStory(req.params.slug); // Use folder-based storage
     if (!story) {
         return res.status(404).json({ error: "Story not found" });
