@@ -23,6 +23,6 @@ export default function handler(req, res) {
     xml += '\n</urlset>';
 
     res.setHeader('Content-Type', 'application/xml');
-    res.setHeader('Cache-Control', 'public, max-age=3600, s-maxage=3600');
+    res.setHeader('Cache-Control', 'public, max-age=86400, s-maxage=86400');
     res.status(200).send(xml);
 }
