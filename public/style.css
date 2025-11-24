@@ -312,6 +312,14 @@ select {
   font-weight: 500;
 }
 
+.card-tags {
+  margin-top: auto;
+  padding-top: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
 /* Story Detail */
 .story-detail {
   max-width: 720px;
