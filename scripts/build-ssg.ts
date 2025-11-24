@@ -3,34 +3,34 @@ import path from 'path';
 import { marked } from 'marked';
 
 const STORIES_DIR = path.join(process.cwd(), 'public', 'stories');
-const OUTPUT_DIR = path.join(process.cwd(), 'public');
+const OUTPUT_DIR = path.join(process.cwd(), 'public', 'pages');
 const TEMPLATE_PATH = path.join(process.cwd(), 'public', 'story.html');
 
 interface Story {
-    slug: string;
-    title: string;
-    genre: string;
-    theme: string;
-    tags: string[];
-    created_at: string;
-    updated_at: string;
-    cover: {
-        image_url: string;
-    };
-    content: {
-        body: string;
-    };
-    meta: {
-        reading_time_minutes: number;
-    };
+  slug: string;
+  title: string;
+  genre: string;
+  theme: string;
+  tags: string[];
+  created_at: string;
+  updated_at: string;
+  cover: {
+    image_url: string;
+  };
+  content: {
+    body: string;
+  };
+  meta: {
+    reading_time_minutes: number;
+  };
 }
 
 function generateStoryHTML(story: Story): string {
-    const baseUrl = 'https://cerita5menit.vanila.app';
-    const storyUrl = `${baseUrl}/${story.slug}`;
-    const imageUrl = story.cover?.image_url ? `${baseUrl}${story.cover.image_url}` : `${baseUrl}/logo.png`;
+  const baseUrl = 'https://cerita5menit.vanila.app';
+  const storyUrl = `${baseUrl}/${story.slug}`;
+  const imageUrl = story.cover?.image_url ? `${baseUrl}${story.cover.image_url}` : `${baseUrl}/logo.png`;
 
-    return `<!DOCTYPE html>
+  return `<!DOCTYPE html>
 <html lang="id">
 
 <head>
@@ -171,52 +171,57 @@ function generateStoryHTML(story: Story): string {
 }
 
 async function buildSSG() {
-    console.log('🔨 Building SSG pages...');
+  console.log('🔨 Building SSG pages...');
 
-    if (!fs.existsSync(STORIES_DIR)) {
-        console.error('❌ Stories directory not found');
-        process.exit(1);
+  if (!fs.existsSync(STORIES_DIR)) {
+    console.error('❌ Stories directory not found');
+    process.exit(1);
+  }
+
+  // Create pages directory if it doesn't exist
+  if (!fs.existsSync(OUTPUT_DIR)) {
+    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  }
+
+  const slugs = fs.readdirSync(STORIES_DIR);
+  let generated = 0;
+
+  for (const slug of slugs) {
+    const storyDir = path.join(STORIES_DIR, slug);
+    if (!fs.statSync(storyDir).isDirectory()) continue;
+
+    const metaPath = path.join(storyDir, 'meta.json');
+    const contentPath = path.join(storyDir, 'index.md');
+
+    if (!fs.existsSync(metaPath) || !fs.existsSync(contentPath)) {
+      console.warn(`⚠️  Skipping ${slug} - missing files`);
+      continue;
     }
 
-    const slugs = fs.readdirSync(STORIES_DIR);
-    let generated = 0;
+    try {
+      const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
+      const contentBody = fs.readFileSync(contentPath, 'utf-8');
 
-    for (const slug of slugs) {
-        const storyDir = path.join(STORIES_DIR, slug);
-        if (!fs.statSync(storyDir).isDirectory()) continue;
-
-        const metaPath = path.join(storyDir, 'meta.json');
-        const contentPath = path.join(storyDir, 'index.md');
-
-        if (!fs.existsSync(metaPath) || !fs.existsSync(contentPath)) {
-            console.warn(`⚠️  Skipping ${slug} - missing files`);
-            continue;
+      const story: Story = {
+        slug,
+        ...meta,
+        content: {
+          body: contentBody
         }
+      };
 
-        try {
-            const meta = JSON.parse(fs.readFileSync(metaPath, 'utf-8'));
-            const contentBody = fs.readFileSync(contentPath, 'utf-8');
+      const html = generateStoryHTML(story);
+      const outputPath = path.join(OUTPUT_DIR, `${slug}.html`);
 
-            const story: Story = {
-                slug,
-                ...meta,
-                content: {
-                    body: contentBody
-                }
-            };
-
-            const html = generateStoryHTML(story);
-            const outputPath = path.join(OUTPUT_DIR, `${slug}.html`);
-
-            fs.writeFileSync(outputPath, html, 'utf-8');
-            console.log(`✅ Generated: ${slug}.html`);
-            generated++;
-        } catch (error) {
-            console.error(`❌ Error generating ${slug}:`, error);
-        }
+      fs.writeFileSync(outputPath, html, 'utf-8');
+      console.log(`✅ Generated: ${slug}.html`);
+      generated++;
+    } catch (error) {
+      console.error(`❌ Error generating ${slug}:`, error);
     }
+  }
 
-    console.log(`\n🎉 SSG build complete! Generated ${generated} pages.`);
+  console.log(`\n🎉 SSG build complete! Generated ${generated} pages.`);
 }
 
 buildSSG().catch(console.error);
