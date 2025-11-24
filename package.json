@@ -5,6 +5,7 @@
     "main": "dist/index.js",
     "scripts": {
         "build": "tsc",
+        "build:ssg": "tsx scripts/build-ssg.ts",
         "start": "node dist/server/app.js",
         "dev": "tsx watch src/server/app.ts",
         "agent": "tsx src/index.ts"
@@ -16,6 +17,7 @@
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",
         "express": "^4.19.2",
+        "marked": "^12.0.2",
         "nodemon": "^3.1.11",
         "openai": "^6.9.1",
         "zod": "^3.23.8"

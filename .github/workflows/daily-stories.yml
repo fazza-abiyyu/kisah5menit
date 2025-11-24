@@ -30,10 +30,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: npm run agent -- gen=4
         
+      - name: Build SSG pages
+        run: npm run build:ssg
+        
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add public/stories/
+          git add public/stories/ public/*.html
           git diff --staged --quiet || git commit -m "🤖 Auto-generate 4 new stories - $(date +'%Y-%m-%d %H:%M')"
           git push
