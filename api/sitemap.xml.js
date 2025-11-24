@@ -19,6 +19,6 @@ export default function handler(req, res) {
 </sitemapindex>`;
 
   res.setHeader('Content-Type', 'application/xml');
-  res.setHeader('Cache-Control', 'public, max-age=86400, s-maxage=86400');
+  res.setHeader('Cache-Control', 'public, max-age=43200, s-maxage=43200');
   res.status(200).send(xml);
 }
