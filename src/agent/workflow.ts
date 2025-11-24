@@ -280,20 +280,46 @@ export async function runPlanning(): Promise<PlanOutput> {
 
 // Helper: Clean potentially malformed JSON from LLMs
 function cleanJsonResponse(rawText: string): string {
-    // Try to extract JSON from markdown code blocks
+    // Step 1: Try to extract JSON from markdown code blocks
     const jsonMatch = rawText.match(/```json\s*([\s\S]*?)\s*```/);
     if (jsonMatch) {
-        return jsonMatch[1];
+        rawText = jsonMatch[1];
     }
 
-    // Try to extract JSON object
+    // Step 2: Try to extract JSON object
     const objectMatch = rawText.match(/\{[\s\S]*\}/);
     if (objectMatch) {
-        return objectMatch[0];
+        rawText = objectMatch[0];
     }
 
-    return rawText;
+    // Step 3: Fix common JSON issues
+    let cleaned = rawText
+        // Remove BOM and other invisible characters
+        .replace(/^\uFEFF/, '')
+        .replace(/[\u0000-\u001F\u007F-\u009F]/g, '')
+        // Fix smart quotes
+        .replace(/['']/g, "'")
+        .replace(/[""]/g, '"')
+        // Fix escaped quotes that shouldn't be escaped
+        .replace(/\\'/g, "'")
+        // Remove trailing commas
+        .replace(/,(\s*[}\]])/g, '$1')
+        // Fix newlines in strings (but preserve them in JSON structure)
+        .replace(/"([^"]*?)"/g, (match, content) => {
+            // Only escape unescaped newlines within quoted strings
+            const escaped = content
+                .replace(/\\/g, '\\\\')  // Escape backslashes first
+                .replace(/\n/g, '\\n')   // Escape newlines
+                .replace(/\r/g, '\\r')   // Escape carriage returns
+                .replace(/\t/g, '\\t');  // Escape tabs
+            return `"${escaped}"`;
+        });
+
+    return cleaned;
 }
+
+
+// --- Workflow Functions ---
 
 export async function runGeneration(plan: PlanOutput): Promise<GenerationOutput> {
     console.log("--- Stage 2: Generation ---");
