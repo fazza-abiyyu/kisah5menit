@@ -205,10 +205,47 @@ export async function runPlanning(): Promise<PlanOutput> {
 - Be creative and generate something fresh and original!
 `;
 
-    const rawResponse = await generateText(promptWithSeed);
-    const result = JSON.parse(rawResponse) as PlanOutput;
-    console.log("Plan created:", result.title_idea);
-    return result;
+    let rawResponse = await generateText(promptWithSeed);
+
+    // Try parsing with cleaning
+    let attempts = 0;
+    const maxAttempts = 3;
+
+    while (attempts < maxAttempts) {
+        try {
+            // Clean and parse
+            const cleaned = cleanJsonResponse(rawResponse);
+            const result = JSON.parse(cleaned) as PlanOutput;
+
+            console.log("Plan created:", result.title_idea);
+            return result;
+
+        } catch (error: any) {
+            attempts++;
+            console.log(`Failed to parse Planning JSON (attempt ${attempts}/${maxAttempts}). Error: ${error.message}`);
+            console.log("Raw response preview:", rawResponse.substring(0, 500) + "... (truncated)");
+
+            if (attempts >= maxAttempts) {
+                throw new Error(`JSON parsing failed after ${maxAttempts} attempts: ${error.message}. The LLM returned invalid JSON.`);
+            }
+
+            // Retry with more explicit instructions
+            console.log("Retrying with stricter JSON instructions...");
+            const strictPrompt = `${promptWithSeed}
+
+**CRITICAL JSON FORMATTING:**
+- Output ONLY valid JSON, nothing else
+- Do not wrap in markdown code blocks (no \`\`\`json)
+- Properly escape all quotes inside strings using \\"
+- Ensure all brackets and braces are properly closed
+- Replace all literal newlines in strings with \\n
+- Replace all literal tabs with \\t`;
+
+            rawResponse = await generateText(strictPrompt);
+        }
+    }
+
+    throw new Error("Failed to generate valid JSON after all attempts");
 }
 
 // Helper: Clean potentially malformed JSON from LLMs
