@@ -297,11 +297,12 @@ select {
 }
 
 .story-theme {
-  font-size: 1.125rem;
-  color: var(--text-secondary);
+  font-size: 0.9375rem;
+  color: var(--text-muted);
   line-height: 1.6;
   margin-top: 0.75rem;
   font-weight: 400;
+  font-style: italic;
 }
 
 .tags {
