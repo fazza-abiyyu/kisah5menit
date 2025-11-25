@@ -25,8 +25,14 @@ export function saveStory(story: Story): void {
         fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2));
 
         // Write index.md (content body)
+        // Unescape newlines that were escaped during JSON parsing
         const contentPath = path.join(storyDir, "index.md");
-        fs.writeFileSync(contentPath, content.body);
+        const unescapedContent = content.body
+            .replace(/\\n/g, '\n')
+            .replace(/\\r/g, '\r')
+            .replace(/\\t/g, '\t')
+            .replace(/\\\\/g, '\\');
+        fs.writeFileSync(contentPath, unescapedContent);
 
         console.log(`✅ Story saved to folder: ${storyDir}`);
     } catch (error) {
