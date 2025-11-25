@@ -106,7 +106,15 @@ app.get("/:slug", (req, res) => {
     if (req.params.slug.includes(".")) {
         return res.status(404).send("Not found");
     }
-    res.sendFile(path.join(process.cwd(), "public", "story.html"));
+
+    // Serve pre-generated SSG page if it exists
+    const ssgPagePath = path.join(process.cwd(), "public", "pages", `${req.params.slug}.html`);
+    if (fs.existsSync(ssgPagePath)) {
+        return res.sendFile(ssgPagePath);
+    }
+
+    // Fallback to 404
+    res.status(404).send("Story not found");
 });
 
 app.listen(PORT, () => {
