@@ -1,5 +1,11 @@
 import { GoogleGenAI } from "@google/genai";
 import dotenv from "dotenv";
+import {
+    isModelBlacklisted,
+    recordModelFailure,
+    recordModelSuccess,
+    getHealthyModels
+} from "./model-health.js";
 
 dotenv.config();
 
@@ -21,7 +27,17 @@ const POLLINATIONS_MODELS = [
 ];
 
 function getRandomModel(): string {
-    return POLLINATIONS_MODELS[Math.floor(Math.random() * POLLINATIONS_MODELS.length)];
+    // Filter out blacklisted models
+    const healthyModels = getHealthyModels(POLLINATIONS_MODELS);
+
+    if (healthyModels.length === 0) {
+        console.warn("⚠️  All Pollinations models are blacklisted, using fallback");
+        return POLLINATIONS_MODELS[0]; // Fallback to first model
+    }
+
+    const selected = healthyModels[Math.floor(Math.random() * healthyModels.length)];
+    console.log(`🎲 Selected model: ${selected} (${healthyModels.length}/${POLLINATIONS_MODELS.length} healthy)`);
+    return selected;
 }
 
 async function tryPollinationsText(prompt: string, maxAttempts: number = 3): Promise<string | null> {
@@ -59,7 +75,12 @@ async function tryPollinationsText(prompt: string, maxAttempts: number = 3): Pro
             clearTimeout(timeoutId);
 
             if (!pollinationsResponse.ok) {
-                console.log(`Pollinations ${model} failed with status ${pollinationsResponse.status}`);
+                const status = pollinationsResponse.status;
+                console.log(`Pollinations ${model} failed with status ${status}`);
+
+                // Record failure with error code
+                recordModelFailure(model, status);
+
                 if (attempt < maxAttempts) await new Promise(resolve => setTimeout(resolve, 1000));
                 continue;
             }
@@ -67,14 +88,17 @@ async function tryPollinationsText(prompt: string, maxAttempts: number = 3): Pro
             const text = await pollinationsResponse.text();
             if (!text || text.length < 50) {
                 console.log(`Pollinations ${model} returned insufficient text`);
+                recordModelFailure(model);
                 if (attempt < maxAttempts) await new Promise(resolve => setTimeout(resolve, 1000));
                 continue;
             }
 
             console.log(`✅ Text generated successfully with Pollinations.ai (${model})`);
+            recordModelSuccess(model); // Record success
             return text;
         } catch (error: any) {
             console.log(`Pollinations ${model} error: ${error.message}`);
+            recordModelFailure(model);
             if (attempt < maxAttempts) await new Promise(resolve => setTimeout(resolve, 1000));
             continue;
         }
@@ -143,4 +167,4 @@ export async function generateText(prompt: string): Promise<string> {
     }
 
     throw new Error("Text generation failed after exhausting all strategies (Gemini 2x -> Pollinations 2x, looped)");
-}
+} 
