@@ -18,12 +18,17 @@ const ai = new GoogleGenAI({ apiKey: apiKey || "" });
 
 // Pollinations.ai models for text generation (prioritized by reliability)
 // Based on API: https://text.pollinations.ai/models
+// Updated: 2025-11-25 - All non-community text models
 const POLLINATIONS_MODELS = [
-    "openai-fast",      // GPT-4.1 Nano (fastest, 5000 chars max)
-    "gemini",           // Gemini 2.5 Flash Lite (vision support)
-    "mistral",          // Mistral Small 3.2 24B (reliable)
-    "deepseek",         // DeepSeek V3.1 (reasoning, 10000 chars max)
-    "openai"            // GPT-5 Nano (7000 chars max, fallback)
+    "openai-fast",          // GPT-4.1 Nano (fastest, 5000 chars max, tier: anonymous)
+    "gemini",               // Gemini 2.5 Flash Lite (vision support, tier: seed)
+    "mistral",              // Mistral Small 3.2 24B (reliable, tier: seed)
+    "deepseek",             // DeepSeek V3.1 (reasoning, 10000 chars max, tier: seed)
+    "openai",               // GPT-5 Nano (7000 chars max, tier: anonymous)
+    "openai-reasoning",     // o4 Mini (reasoning, tier: seed)
+    "gemini-search",        // Gemini 2.5 Flash Lite with Google Search (tier: seed)
+    "qwen-coder",           // Qwen 2.5 Coder 32B (good for structured output, tier: flower)
+    "roblox-rp"             // Llama 3.1 8B Instruct (tier: seed)
 ];
 
 function getRandomModel(): string {
