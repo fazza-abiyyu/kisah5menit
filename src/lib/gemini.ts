@@ -121,13 +121,9 @@ export async function generateText(prompt: string): Promise<string> {
     for (let loop = 1; loop <= MAX_LOOPS; loop++) {
         if (loop > 1) console.log(`⚠️ Starting generation loop ${loop}/${MAX_LOOPS}...`);
 
-        // Strategy: Pollinations (3x) -> Gemini (2x)
+        // Strategy: Gemini (2x) -> Pollinations (2x) - Gemini is more reliable now
 
-        // 1. Try Pollinations (3 attempts)
-        const polyResult = await tryPollinationsText(prompt, 3);
-        if (polyResult) return polyResult;
-
-        // 2. Try Gemini (2 attempts)
+        // 1. Try Gemini first (2 attempts) - more reliable
         if (apiKey) {
             for (let i = 1; i <= 2; i++) {
                 const geminiResult = await tryGemini(prompt);
@@ -138,9 +134,13 @@ export async function generateText(prompt: string): Promise<string> {
             console.log("Skipping Gemini (no API key)");
         }
 
+        // 2. Fallback to Pollinations (2 attempts) - currently unreliable with 402 errors
+        const polyResult = await tryPollinationsText(prompt, 2);
+        if (polyResult) return polyResult;
+
         // If we're looping, wait a bit longer
         if (loop < MAX_LOOPS) await new Promise(resolve => setTimeout(resolve, 3000));
     }
 
-    throw new Error("Text generation failed after exhausting all strategies (Pollinations 3x -> Gemini 2x, looped)");
+    throw new Error("Text generation failed after exhausting all strategies (Gemini 2x -> Pollinations 2x, looped)");
 }
