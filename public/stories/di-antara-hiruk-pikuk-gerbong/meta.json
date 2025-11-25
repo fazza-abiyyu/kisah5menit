@@ -1,0 +1,51 @@
+{
+  "id": "story-1764040294609",
+  "slug": "di-antara-hiruk-pikuk-gerbong",
+  "title": "Di Antara Hiruk Pikuk Gerbong",
+  "genre": "romance subtle",
+  "theme": "Menemukan keindahan dan koneksi tak terduga dalam momen singkat di rutinitas harian, memicu refleksi tentang pentingnya kehadiran dan observasi.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T03:11:34.609Z",
+  "updated_at": "2025-11-25T03:11:34.609Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "slice of life",
+    "commuter life",
+    "jakarta",
+    "introspection",
+    "connection",
+    "daily routine",
+    "urban life",
+    "fiksi ilmiah",
+    "observasi",
+    "presence"
+  ],
+  "cover": {
+    "prompt": "A serene, cinematic view inside a commuter train carriage during the late afternoon. Soft, warm golden hour light filters through the large window, casting a gentle glow on the interior. In the foreground, a laptop rests on a train seat, a slightly worn sling bag placed nearby. Through the window, the urban landscape blurs into soft lights as evening approaches, creating a sense of constant movement and daily rhythm. The composition utilizes the rule of thirds, highlighting the objects and the atmosphere of a journey's end.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/di-antara-hiruk-pikuk-gerbong/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anisa, a tired freelancer, finds an unexpected connection on her daily commuter train when she spots a man reading her favorite sci-fi novel. She grapples with the urge to interact versus her habit of digital escapism, leading to a brief, wordless exchange that leaves her inspired to be more present and observant of the world around her.",
+    "target_emotion": "Ketenangan, refleksi, inspirasi, koneksi",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "romance",
+      "commuter line",
+      "jakarta",
+      "urban life",
+      "personal growth",
+      "reflection",
+      "unexpected connection",
+      "presence",
+      "observasi",
+      "fiksi ilmiah",
+      "meaningful moments",
+      "daily commute"
+    ]
+  }
+}
