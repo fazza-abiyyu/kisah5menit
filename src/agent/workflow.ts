@@ -361,24 +361,25 @@ function cleanJsonResponse(rawText: string): string {
 
     // Step 3: Fix common JSON issues
     let cleaned = rawText
-        // Remove BOM and other invisible characters
+        // Remove BOM and other invisible characters, but PRESERVE newlines and tabs
         .replace(/^\uFEFF/, '')
-        .replace(/[\u0000-\u001F\u007F-\u009F]/g, '')
+        .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F-\u009F]/g, '')
         // Fix smart quotes
         .replace(/['']/g, "'")
         .replace(/[""]/g, '"')
-        // Fix escaped quotes that shouldn't be escaped
+        // Fix escaped quotes that shouldn't be escaped (careful with this one)
         .replace(/\\'/g, "'")
         // Remove trailing commas
         .replace(/,(\s*[}\]])/g, '$1')
         // Fix newlines in strings (but preserve them in JSON structure)
-        .replace(/"([^"]*?)"/g, (match, content) => {
-            // Only escape unescaped newlines within quoted strings
+        // Use robust regex that handles escaped quotes: "((?:[^"\\]|\\.)*)"
+        .replace(/"((?:[^"\\]|\\.)*)"/g, (match, content) => {
+            // Only escape literal newlines/tabs within quoted strings
+            // DO NOT escape backslashes here, as it breaks valid escaped sequences like \"
             const escaped = content
-                .replace(/\\/g, '\\\\')  // Escape backslashes first
-                .replace(/\n/g, '\\n')   // Escape newlines
-                .replace(/\r/g, '\\r')   // Escape carriage returns
-                .replace(/\t/g, '\\t');  // Escape tabs
+                .replace(/\n/g, '\\n')   // Escape literal newlines
+                .replace(/\r/g, '\\r')   // Escape literal carriage returns
+                .replace(/\t/g, '\\t');  // Escape literal tabs
             return `"${escaped}"`;
         });
 
