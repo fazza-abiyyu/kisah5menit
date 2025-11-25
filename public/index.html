@@ -193,7 +193,7 @@
       // Previous button
       paginationHTML += `
         <button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">
-          ← Sebelumnya
+          ←
         </button>
       `;
 
@@ -215,7 +215,7 @@
       // Next button
       paginationHTML += `
         <button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">
-          Selanjutnya →
+          →
         </button>
       `;
 
