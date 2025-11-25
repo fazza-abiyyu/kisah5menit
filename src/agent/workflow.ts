@@ -418,17 +418,23 @@ export async function runGeneration(plan: PlanOutput): Promise<GenerationOutput>
                 throw new Error(`JSON parsing failed after ${maxAttempts} attempts: ${error.message}. The LLM returned invalid JSON.`);
             }
 
-            // Retry with more explicit instructions
-            console.log("Retrying with stricter JSON instructions...");
-            const strictPrompt = `${prompt}
+            // Retry with REPAIR strategy instead of just stricter prompt
+            console.log("Attempting to REPAIR invalid JSON...");
+            const repairPrompt = `
+I have a JSON string that failed to parse. Please FIX it to be valid JSON.
 
-**CRITICAL JSON FORMATTING:**
-- Output ONLY valid JSON, nothing else
-- Properly escape all quotes inside strings using \\"
-- Do not include markdown code blocks
-- Ensure all brackets and braces are properly closed`;
+ERROR: ${error.message}
 
-            rawResponse = await generateText(strictPrompt);
+INVALID JSON:
+${rawResponse}
+
+INSTRUCTIONS:
+1. Fix the syntax errors (missing commas, unescaped quotes, etc.)
+2. Ensure all strings are properly escaped
+3. Output ONLY the fixed valid JSON
+4. Do not add any markdown formatting or explanations
+`;
+            rawResponse = await generateText(repairPrompt);
         }
     }
 
@@ -466,19 +472,23 @@ export async function runRevision(
                 throw new Error(`JSON parsing failed after ${maxAttempts} attempts: ${error.message}. The LLM returned invalid JSON.`);
             }
 
-            // Retry with more explicit instructions
-            console.log("Retrying with stricter JSON instructions...");
-            const strictPrompt = `${prompt}
+            // Retry with REPAIR strategy
+            console.log("Attempting to REPAIR invalid JSON...");
+            const repairPrompt = `
+I have a JSON string that failed to parse. Please FIX it to be valid JSON.
 
-**CRITICAL JSON FORMATTING:**
-- Output ONLY valid JSON, nothing else
-- Properly escape all quotes inside strings using \\"
-- Do not include markdown code blocks
-- Ensure all brackets and braces are properly closed
-- Replace all literal newlines in strings with \\n
-- Replace all literal tabs with \\t`;
+ERROR: ${error.message}
 
-            rawResponse = await generateText(strictPrompt);
+INVALID JSON:
+${rawResponse}
+
+INSTRUCTIONS:
+1. Fix the syntax errors (missing commas, unescaped quotes, etc.)
+2. Ensure all strings are properly escaped
+3. Output ONLY the fixed valid JSON
+4. Do not add any markdown formatting or explanations
+`;
+            rawResponse = await generateText(repairPrompt);
         }
     }
 
