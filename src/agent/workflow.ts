@@ -18,19 +18,26 @@ You are an expert story planner.
 Generate a plan for a daily short story based on the following criteria:
 
 **GENRE DISTRIBUTION - MUST FOLLOW:**
-- 45% chance: slice of life
-- 25% chance: romance subtle  
-- 15% chance: dark comedy
+- 35% chance: slice of life
+- 20% chance: romance subtle  
+- 12% chance: dark comedy
 - 10% chance: thriller ringan
+- 8% chance: mystery ringan (NEW: light detective/mystery)
+- 7% chance: psychological (NEW: introspective, mental/emotional exploration)
 - 5% chance: sci-fi ringan
+- 2% chance: drama keluarga (NEW: family dynamics)
+- 1% chance: adventure ringan (NEW: light adventure/journey)
 - **AVOID fantasy urban** - use slice of life or romance instead!
 
 **TONE DISTRIBUTION:**
-- 35% chance: optimis pelan (feel-good, uplifting)
-- 25% chance: introspektif menenangkan (self-reflection, calming, psychological)
-- 20% chance: humoris sinis (sarcastic comedy)
-- 15% chance: melankolis lembut (soft melancholy)
+- 25% chance: optimis pelan (feel-good, uplifting)
+- 20% chance: introspektif menenangkan (self-reflection, calming)
+- 15% chance: tenang reflektif (NEW: calm, meditative, peaceful)
+- 12% chance: ceria hangat (NEW: cheerful, warm, friendly)
+- 10% chance: humoris sinis (sarcastic comedy)
+- 10% chance: melankolis lembut (soft melancholy)
 - 5% chance: misterius ringan (light mystery)
+- 3% chance: tegang ringan (NEW: light suspense, mild tension)
 
 **THEME VARIETY - ROTATE THESE:**
 - Introspeksi & self-discovery (penyesalan, pembelajaran hidup, memaafkan diri)
@@ -40,6 +47,8 @@ Generate a plan for a daily short story based on the following criteria:
 - Nostalgia & kenangan (childhood, old places, memories)
 - Perubahan & adaptasi (moving on, new beginnings, letting go)
 - Kebaikan kecil (random acts of kindness, paying it forward)
+- Misteri ringan (small mysteries, curious observations, detective work)
+- Petualangan kecil (small adventures, exploration, discovery)
 
 **SETTING VARIETY - MUST ROTATE (NO COFFEE SHOPS!):**
 - 🏢 Office/workplace (cubicle, meeting room, pantry)
@@ -59,6 +68,7 @@ Generate a plan for a daily short story based on the following criteria:
 - Elderly person, single parent, young professional
 - Artist, writer, musician, photographer
 - Delivery person, street vendor, shop owner
+- Detective amateur, curious neighbor, investigator
 
 **CRITICAL ANTI-REPETITION RULES:**
 - Language: Bahasa Indonesia (casual) with optional natural English or simple Mandarin
@@ -71,14 +81,17 @@ Generate a plan for a daily short story based on the following criteria:
   - Romance subtle + transportation + chance encounter
   - Thriller ringan + retail/public service + mystery element
   - Sci-fi ringan + urban spaces + technology twist
+  - Mystery ringan + cultural/night + detective amateur
+  - Psychological + home/outdoor + introspective character
+  - Drama keluarga + home + family conflict/resolution
 
 Output JSON only matching this schema:
 {
   "plan_id": "string",
   "title_idea": "string",
-  "genre": "string (pick from: slice of life, romance subtle, dark comedy, thriller ringan, sci-fi ringan)",
+  "genre": "string (pick from: slice of life, romance subtle, dark comedy, thriller ringan, sci-fi ringan, mystery ringan, drama keluarga, adventure ringan, psychological)",
   "theme": "string (MUST be a full descriptive sentence, 10-20 words, explaining the story's core message or emotional journey. NOT just 2-3 words!)",
-  "tone": "string (pick from: optimis pelan, introspektif menenangkan, humoris sinis, melankolis lembut, misterius ringan)",
+  "tone": "string (pick from: optimis pelan, introspektif menenangkan, humoris sinis, melankolis lembut, misterius ringan, tenang reflektif, ceria hangat, tegang ringan)",
   "narrative_structure": { "hook": "string", "conflict": "string", "climax": "string", "resolution": "string" },
   "constraints": { "target_min_words": 1000, "target_max_words": 1500, "style_notes": "string" },
   "backup_alternatives": ["string"],

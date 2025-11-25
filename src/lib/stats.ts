@@ -13,18 +13,86 @@ export interface DistributionStats {
     settings: Record<string, number>;
 }
 
-const GENRE_LIST = ['slice of life', 'romance subtle', 'dark comedy', 'thriller ringan', 'sci-fi ringan'];
-const TONE_LIST = ['optimis pelan', 'introspektif menenangkan', 'humoris sinis', 'melankolis lembut', 'misterius ringan'];
+// Expanded genre list for more variety
+const GENRE_LIST = [
+    'slice of life',
+    'romance subtle',
+    'dark comedy',
+    'thriller ringan',
+    'sci-fi ringan',
+    'mystery ringan',        // NEW: light mystery/detective
+    'drama keluarga',        // NEW: family drama
+    'adventure ringan',      // NEW: light adventure
+    'psychological'          // NEW: psychological introspection
+];
+
+// Expanded tone list for better emotional range
+const TONE_LIST = [
+    'optimis pelan',              // feel-good, uplifting
+    'introspektif menenangkan',   // self-reflection, calming
+    'humoris sinis',              // sarcastic comedy
+    'melankolis lembut',          // soft melancholy
+    'misterius ringan',           // light mystery
+    'tenang reflektif',           // NEW: calm, reflective
+    'ceria hangat',               // NEW: cheerful, warm
+    'tegang ringan'               // NEW: light suspense
+];
+
 const SETTING_KEYWORDS = {
-    home: ['rumah', 'kamar', 'balkon', 'jendela', 'atap', 'dapur', 'loteng'],
-    office: ['kantor', 'rapat', 'meeting', 'cubicle', 'pantry'],
-    outdoor: ['taman', 'park', 'jogging', 'riverside', 'playground'],
-    transportation: ['bus', 'kereta', 'train', 'ojek', 'taxi', 'gerbong', 'halte'],
-    retail: ['minimarket', 'toko', 'pasar', 'bookstore', 'laundry', 'salon'],
-    urban: ['jalan', 'trotoar', 'gang', 'alley', 'elevator', 'lobby'],
-    cultural: ['museum', 'gallery', 'cinema', 'bioskop'],
-    night: ['malam', 'night', 'midnight']
+    home: [
+        'rumah', 'kamar', 'balkon', 'jendela', 'atap', 'dapur', 'loteng',
+        'teras', 'garasi', 'kamar mandi', 'lemari', 'ruang tamu',
+        'meja makan', 'taman belakang', 'gudang', 'laundry area',
+        'koridor rumah', 'gardern fence', 'patio', 'backyard'
+    ],
+
+    office: [
+        'kantor', 'ruang rapat', 'meeting', 'cubicle', 'pantry', 'printer',
+        'ruang tunggu', 'whiteboard', 'proyektor', 'co-working space',
+        'lift kantor', 'ruang HR', 'server room', 'reception',
+        'workspace', 'open office'
+    ],
+
+    outdoor: [
+        'taman', 'park', 'jogging track', 'riverside', 'playground',
+        'pantai', 'gunung', 'padang rumput', 'jalan setapak',
+        'danau', 'kebun', 'sungai', 'padang pasir', 'tebing', 'bukit',
+        'kawasan wisata alam'
+    ],
+
+    transportation: [
+        'bus', 'kereta', 'train', 'ojek', 'taxi', 'gerbong', 'halte',
+        'bandara', 'airport', 'terminal', 'stasiun', 'subway', 'angkot',
+        'jalan tol', 'parkiran', 'carwash', 'rest area', 'charging ev'
+    ],
+
+    retail: [
+        'minimarket', 'toko', 'pasar', 'bookstore', 'laundry', 'salon',
+        'mall', 'mall corridor', 'foodcourt', 'coffee shop', 'cafe',
+        'butik', 'barbershop', 'ATM gallery', 'optik', 'drugstore',
+        'supermarket', 'counter pulsa'
+    ],
+
+    urban: [
+        'jalan', 'trotoar', 'gang', 'alley', 'elevator', 'lobby',
+        'rooftop', 'crosswalk', 'traffic light', 'park bench',
+        'jembatan penyebrangan', 'gedung tinggi', 'construction site',
+        'grafiti', 'underground passage', 'underpass', 'jalan layang'
+    ],
+
+    cultural: [
+        'museum', 'gallery', 'cinema', 'bioskop', 'library', 'opera house',
+        'teater', 'auditorium', 'studio seni', 'ruang pameran', 
+        'hall pertunjukan', 'studio musik', 'konser'
+    ],
+
+    night: [
+        'malam', 'midnight', 'street light', 'night market',
+        'club', 'pub', 'late shop', 'midnight drive', 'after hours',
+        'bar', 'late cafe', 'park at night', 'empty streets', 'night pier'
+    ]
 };
+
 
 /**
  * Initialize stats directory and file if they don't exist
