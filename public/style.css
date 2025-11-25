@@ -452,8 +452,21 @@ select {
     padding: 2rem 1rem;
   }
 
+  .header-container {
+    padding: 1rem;
+  }
+
+  .story-detail {
+    padding: 1.25rem;
+  }
+
   h1 {
-    font-size: 1.875rem;
+    font-size: 1.75rem;
+  }
+
+  .story-body {
+    font-size: 1rem;
+    overflow-wrap: break-word;
   }
 
   .story-grid {
