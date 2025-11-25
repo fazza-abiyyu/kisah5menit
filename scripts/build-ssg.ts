@@ -149,7 +149,7 @@ function generateStoryHTML(story: Story): string {
       <center>
         <img src="${story.cover.image_url || ''}" class="story-cover" alt="${story.title}" style="max-width: 300px; border-radius: 8px; margin: 2rem 0;">
       </center>
-      <div class="story-body">${marked.parse(story.content.body)}</div>
+      <div class="story-body">${marked.parse(story.content.body.replace(/^#\s+.+\n\n?/, ''))}</div>
       <div style="margin-top: 2rem; padding: 1.5rem; background: #f5f5f5; border-radius: 8px;">
         <p style="margin: 0; color: #666;"><strong>Tags:</strong> ${story.tags.map(tag => tag.toLowerCase()).join(', ')}</p>
       </div>
