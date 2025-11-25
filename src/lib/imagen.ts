@@ -8,8 +8,9 @@ dotenv.config();
 const apiKey = process.env.OPENAI_API_KEY;
 const openai = new OpenAI({ apiKey: apiKey || "" });
 
-// Pollinations.ai models to try in order
-const POLLINATIONS_MODELS = ["flux", "turbo", "gptimage"];
+// Pollinations.ai image models to try in order (prioritized by reliability)
+// Based on API: https://image.pollinations.ai/models
+const POLLINATIONS_MODELS = ["gptimage", "turbo", "flux"];
 
 async function tryPollinationsAI(prompt: string, slug: string): Promise<string | null> {
     for (const model of POLLINATIONS_MODELS) {

@@ -10,12 +10,14 @@ if (!apiKey) {
 
 const ai = new GoogleGenAI({ apiKey: apiKey || "" });
 
-// Pollinations.ai models for text generation (rotated randomly for balance)
+// Pollinations.ai models for text generation (prioritized by reliability)
+// Based on API: https://text.pollinations.ai/models
 const POLLINATIONS_MODELS = [
-    "openai",           // GPT-5 Nano
-    "openai-fast",      // GPT-4.1 Nano (faster)
-    "gemini",           // Gemini 2.5 Flash Lite
-    "deepseek"          // DeepSeek V3.1
+    "openai-fast",      // GPT-4.1 Nano (fastest, 5000 chars max)
+    "gemini",           // Gemini 2.5 Flash Lite (vision support)
+    "mistral",          // Mistral Small 3.2 24B (reliable)
+    "deepseek",         // DeepSeek V3.1 (reasoning, 10000 chars max)
+    "openai"            // GPT-5 Nano (7000 chars max, fallback)
 ];
 
 function getRandomModel(): string {
@@ -28,22 +30,41 @@ async function tryPollinationsText(prompt: string, maxAttempts: number = 3): Pro
         const model = getRandomModel();
         try {
             console.log(`Trying Pollinations.ai with model: ${model} (attempt ${attempt}/${maxAttempts})...`);
-            const url = `https://text.pollinations.ai/${encodeURIComponent(prompt)}?model=${model}&temperature=0.7`; // Slightly lower temp for stability
+
+            // Use POST to avoid 431 "Request Header Fields Too Large" errors
+            const url = `https://text.pollinations.ai/`;
 
             // Add timeout to fetch
             const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 15000); // 15s timeout
+            const timeoutId = setTimeout(() => controller.abort(), 20000); // 20s timeout
 
-            const response = await fetch(url, { signal: controller.signal });
+            const pollinationsResponse = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    messages: [
+                        {
+                            role: 'user',
+                            content: prompt
+                        }
+                    ],
+                    model: model,
+                    temperature: 0.7,
+                    seed: Math.floor(Math.random() * 1000000)
+                }),
+                signal: controller.signal
+            });
             clearTimeout(timeoutId);
 
-            if (!response.ok) {
-                console.log(`Pollinations ${model} failed with status ${response.status}`);
+            if (!pollinationsResponse.ok) {
+                console.log(`Pollinations ${model} failed with status ${pollinationsResponse.status}`);
                 if (attempt < maxAttempts) await new Promise(resolve => setTimeout(resolve, 1000));
                 continue;
             }
 
-            const text = await response.text();
+            const text = await pollinationsResponse.text();
             if (!text || text.length < 50) {
                 console.log(`Pollinations ${model} returned insufficient text`);
                 if (attempt < maxAttempts) await new Promise(resolve => setTimeout(resolve, 1000));
@@ -66,7 +87,7 @@ async function tryPollinationsText(prompt: string, maxAttempts: number = 3): Pro
 async function tryGemini(prompt: string): Promise<string | null> {
     console.log("Attempting Gemini API...");
     try {
-        const response = await ai.models.generateContent({
+        const geminiResponse = await ai.models.generateContent({
             model: "gemini-2.5-flash",
             contents: prompt,
             config: {
@@ -75,10 +96,10 @@ async function tryGemini(prompt: string): Promise<string | null> {
         });
 
         let text: string | undefined;
-        if (response.text) {
-            text = response.text;
+        if (geminiResponse.text) {
+            text = geminiResponse.text;
         } else {
-            text = (response as any).candidates?.[0]?.content?.parts?.[0]?.text;
+            text = (geminiResponse as any).candidates?.[0]?.content?.parts?.[0]?.text;
         }
 
         if (!text) {
