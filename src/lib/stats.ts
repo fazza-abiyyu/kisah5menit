@@ -82,7 +82,7 @@ const SETTING_KEYWORDS = {
 
     cultural: [
         'museum', 'gallery', 'cinema', 'bioskop', 'library', 'opera house',
-        'teater', 'auditorium', 'studio seni', 'ruang pameran', 
+        'teater', 'auditorium', 'studio seni', 'ruang pameran',
         'hall pertunjukan', 'studio musik', 'konser'
     ],
 
