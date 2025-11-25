@@ -296,6 +296,14 @@ select {
   overflow: hidden;
 }
 
+.story-theme {
+  font-size: 1.125rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-top: 0.75rem;
+  font-weight: 400;
+}
+
 .tags {
   margin-top: auto;
   padding-top: 0.5rem;

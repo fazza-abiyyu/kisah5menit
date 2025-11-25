@@ -144,7 +144,7 @@ function generateStoryHTML(story: Story): string {
       <div class="story-header">
         <div class="card-meta">${story.genre.toUpperCase()} • ${story.meta.reading_time_minutes} MIN READ</div>
         <h1>${story.title}</h1>
-        <div class="card-theme">${story.theme}</div>
+        <div class="story-theme">${story.theme}</div>
       </div>
       <center>
         <img src="${story.cover.image_url || ''}" class="story-cover" alt="${story.title}" style="max-width: 300px; border-radius: 8px; margin: 2rem 0;">
