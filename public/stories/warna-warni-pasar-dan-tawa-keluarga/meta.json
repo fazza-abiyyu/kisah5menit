@@ -1,0 +1,45 @@
+{
+  "id": "story-1764094967762",
+  "slug": "warna-warni-pasar-dan-tawa-keluarga",
+  "title": "Warna-Warni Pasar dan Tawa Keluarga",
+  "genre": "drama keluarga",
+  "theme": "Menemukan kembali kehangatan ikatan keluarga dan pentingnya tradisi di tengah hiruk pikuk kehidupan modern.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T18:22:47.762Z",
+  "updated_at": "2025-11-25T18:22:47.762Z",
+  "status": "published",
+  "tags": [
+    "keluarga",
+    "pasar tradisional",
+    "nostalgia",
+    "intergenerasi",
+    "budaya indonesia",
+    "drama",
+    "resep keluarga",
+    "cerita hangat"
+  ],
+  "cover": {
+    "prompt": "Warm morning light gently streams into a car interior, viewed from the back seat. Through the window, a soft, blurry street scene of a bustling city unfolds. Gentle silhouettes of two children are visible in the back seat; one gazes out with simple curiosity towards the passing view, while the other is focused on a handheld device. Nearby, a serene elderly figure, subtly adorned with a hint of traditional attire, suggests a quiet presence. The overall atmosphere conveys a sense of family journey, warmth, and gentle anticipation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/warna-warni-pasar-dan-tawa-keluarga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A busy young family takes their grandmother to a traditional market for a leisurely stroll. The grandmother feels nostalgic and disappointed by the many changes in the market, causing a slight tension between her generation's view of preserving memories and the younger generation's acceptance of change. The climax occurs when she finds a familiar spice stall and its old owner, sharing sweet youth stories and family recipes with her grandchildren, bridging the generational gap through vivid nostalgia. The family returns home with a newfound appreciation for their heritage, togetherness, and the importance of valuing their roots and connecting stories.",
+    "target_emotion": "kehangatan, nostalgia, kebersamaan, apresiasi",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita keluarga",
+      "pasar tradisional",
+      "nostalgia indonesia",
+      "hubungan antar generasi",
+      "resep keluarga",
+      "tradisi",
+      "budaya kuliner",
+      "cerita inspiratif",
+      "jakarta",
+      "rempah-rempah"
+    ]
+  }
+}

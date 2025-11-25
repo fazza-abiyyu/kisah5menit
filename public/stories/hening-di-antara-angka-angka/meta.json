@@ -1,0 +1,45 @@
+{
+  "id": "story-1764095484435",
+  "slug": "hening-di-antara-angka-angka",
+  "title": "Hening di Antara Angka-Angka",
+  "genre": "psychological",
+  "theme": "Menjelajahi bagaimana seorang profesional muda mengatasi kecemasan dan pikiran berlebihan di tengah rutinitas kerja, menemukan kedamaian batin melalui penerimaan diri dan latihan mindfulness kecil.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T18:31:24.435Z",
+  "updated_at": "2025-11-25T18:31:24.435Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "anxiety",
+    "overthinking",
+    "mindfulness",
+    "office life",
+    "self-acceptance",
+    "mental health",
+    "introspective",
+    "Indonesian literature"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a modern, orderly office workspace. A computer monitor takes center stage, displaying abstract data visualizations, gentle graphs, and luminous numerical sequences. Subtle reflections of soft neon office lighting ripple across the screen and the smooth surface of the desk. A neat keyboard and mouse are positioned beside the monitor. The composition utilizes rule of thirds and shallow depth of field, focusing sharply on the screen's glowing content. The overall atmosphere is one of quiet efficiency and subtle intrigue. Atmospheric electric lighting with soft blue and white tones.",
+    "style": "Cinematic photography, shallow depth of field, atmospheric electric lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/hening-di-antara-angka-angka/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young professional, Risa, grapples with constant anxiety and overthinking beneath her composed exterior. As a crucial presentation approaches, triggering her imposter syndrome, she finds a pivotal moment of self-acceptance and calm through a simple breathing exercise in the quiet of the office pantry. This leads her to deliver the presentation with genuine courage, embracing her imperfections and committing to daily mindfulness for inner peace.",
+    "target_emotion": "Introspection, calm, empathy, relief",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "mental health in workplace",
+      "anxiety management techniques",
+      "mindfulness at work",
+      "self acceptance story",
+      "overthinking solutions",
+      "professional growth journey",
+      "Indonesian short story",
+      "psychological drama",
+      "office stress"
+    ]
+  }
+}

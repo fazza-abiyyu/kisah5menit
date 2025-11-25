@@ -1,0 +1,43 @@
+{
+  "id": "story-1764094602795",
+  "slug": "pola-pembelian-aneh-di-minimarket",
+  "title": "Pola Pembelian Aneh di Minimarket",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi bagaimana observasi terhadap kebiasaan aneh pelanggan di minimarket mengungkap pola tersembunyi, mengajak seseorang untuk lebih peka terhadap detail di sekitar.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T18:16:42.795Z",
+  "updated_at": "2025-11-25T18:16:42.795Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "observasi",
+    "minimarket",
+    "kebaikan hati",
+    "human interest",
+    "reflektif",
+    "kisah kota",
+    "pola tersembunyi"
+  ],
+  "cover": {
+    "prompt": "Interior of a small, late-evening minimarket. Gentle, cool ambient lighting illuminates rows of everyday packaged goods and softly glowing refrigerated displays. A lone, indistinct human silhouette stands at the service counter. Through the glass entrance door, a tranquil street pathway is visible, softly illuminated by distant, calm streetlamps. Cinematic composition, rule of thirds, shallow depth of field, subtle depth, contemplative atmosphere.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-pembelian-aneh-di-minimarket/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kasir malam di minimarket mengamati pola pembelian aneh seorang pelanggan tetap. Ia menemukan barang-barang kecil yang hilang dan mulai mengidentifikasi pelanggan tersebut sebagai pelakunya. Setelah menyatukan petunjuk, ia menyadari bahwa tindakan 'pencurian' itu sebenarnya adalah bentuk sedekah tersembunyi untuk anak-anak jalanan, yang kemudian memicu respons kebaikan dari sang kasir.",
+    "target_emotion": "inspirasi, refleksi, kehangatan hati",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kasir minimarket",
+      "observasi",
+      "pola belanja",
+      "misteri ringan",
+      "kebaikan tersembunyi",
+      "kisah inspiratif",
+      "filantropi",
+      "detail kehidupan"
+    ]
+  }
+}
