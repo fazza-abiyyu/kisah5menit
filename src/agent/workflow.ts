@@ -1,4 +1,4 @@
-import { generateText } from "../lib/gemini";
+import { generateText } from "../lib/text-generation";
 import { generateImage } from "../lib/imagen";
 import { saveStory } from "../lib/storage";
 import { getStats, getLeastUsed, getDistributionPercentages, updateStats } from "../lib/stats";

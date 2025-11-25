@@ -1,4 +1,4 @@
-import { generateText } from "../lib/gemini";
+import { generateText } from "../lib/text-generation";
 import type { BatchAgentOutput } from "../types";
 
 const BATCH_PROMPT = `
