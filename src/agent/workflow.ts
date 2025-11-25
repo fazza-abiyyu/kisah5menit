@@ -1,6 +1,7 @@
 import { generateText } from "../lib/gemini";
 import { generateImage } from "../lib/imagen";
 import { saveStory } from "../lib/storage";
+import { getStats, getLeastUsed, getDistributionPercentages, updateStats } from "../lib/stats";
 import type { Story } from "../types";
 import type {
     PlanOutput,
@@ -226,6 +227,37 @@ export async function runPlanning(): Promise<PlanOutput> {
     const randomSeed = Math.floor(Math.random() * 10000);
     const timestamp = Date.now();
 
+    // Read distribution stats for balanced genre selection
+    const { getStats, getLeastUsed, getDistributionPercentages } = await import("../lib/stats.js");
+    const stats = getStats();
+    const leastUsed = getLeastUsed();
+    const percentages = getDistributionPercentages();
+
+    // Build stats context for AI
+    const statsContext = `
+**CURRENT DISTRIBUTION STATS (Total: ${stats.total_stories} stories):**
+
+Genre distribution:
+${Object.entries(percentages.genres).map(([g, p]) => `- ${g}: ${p}% (${stats.genres[g] || 0} stories)`).join('\n')}
+
+Tone distribution:
+${Object.entries(percentages.tones).map(([t, p]) => `- ${t}: ${p}% (${stats.tones[t] || 0} stories)`).join('\n')}
+
+**BALANCE REQUIREMENTS:**
+- 🎯 RECOMMENDED GENRE: ${leastUsed.genre} (currently lowest - PRIORITIZE THIS!)
+- 🎯 RECOMMENDED TONE: ${leastUsed.tone}
+- 🎯 RECOMMENDED SETTING: ${leastUsed.setting}
+- ⚠️ If any genre is >40%, DO NOT use it
+- ⚠️ Aim for balanced distribution across all genres
+`;
+
+    console.log("📊 Distribution stats:", {
+        total: stats.total_stories,
+        leastUsedGenre: leastUsed.genre,
+        leastUsedTone: leastUsed.tone,
+        genrePercentages: percentages.genres
+    });
+
     // Read recent stories to avoid repetition
     const { getStories } = await import("../lib/storage.js");
     const recentStories = getStories().slice(0, 5); // Get last 5 stories
@@ -260,6 +292,7 @@ export async function runPlanning(): Promise<PlanOutput> {
     }
 
     const promptWithSeed = `${PLANNING_PROMPT}
+${statsContext}
 ${recentPatternsText}
 **IMPORTANT - ENSURE UNIQUENESS:**
 - Generation Seed: ${randomSeed}
@@ -555,6 +588,9 @@ export async function runAgentCycle() {
 
         // Save to folder structure
         saveStory(story);
+
+        // Update distribution stats
+        updateStats(story);
 
         console.log(`Story saved: ${story.slug}`);
     } catch (error) {

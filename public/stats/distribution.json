@@ -1,0 +1,26 @@
+{
+  "last_updated": "2025-11-25T01:32:36.769Z",
+  "total_stories": 23,
+  "genres": {
+    "thriller ringan": 1,
+    "slice of life": 14,
+    "fantasy urban": 6,
+    "romance subtle": 1,
+    "sci-fi ringan": 1
+  },
+  "tones": {
+    "misterius ringan": 6,
+    "melankolis lembut": 6,
+    "introspektif menenangkan": 1,
+    "optimis pelan": 6,
+    "surreal": 4
+  },
+  "settings": {
+    "retail": 3,
+    "home": 7,
+    "outdoor": 1,
+    "urban": 2,
+    "other": 8,
+    "transportation": 2
+  }
+}

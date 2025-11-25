@@ -8,7 +8,8 @@
         "build:ssg": "tsx scripts/build-ssg.ts",
         "start": "node dist/server/app.js",
         "dev": "tsx watch src/server/app.ts",
-        "agent": "tsx src/index.ts"
+        "agent": "tsx src/index.ts",
+        "init-stats": "tsx src/scripts/init-stats.ts"
     },
     "keywords": [],
     "license": "ISC",
