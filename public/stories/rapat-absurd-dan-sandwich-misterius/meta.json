@@ -1,0 +1,46 @@
+{
+  "id": "story-1764035172012",
+  "slug": "rapat-absurd-dan-sandwich-misterius",
+  "title": "Rapat Absurd dan Sandwich Misterius",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi absurditas rutinitas kantor dan kegilaan kolega sambil mencari makna di balik sandwich bekal yang entah dari mana asalnya.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T01:46:12.012Z",
+  "updated_at": "2025-11-25T01:46:12.012Z",
+  "status": "published",
+  "tags": [
+    "kantor",
+    "humor",
+    "absurditas",
+    "sandwich",
+    "misteri",
+    "dark comedy",
+    "rutinitas",
+    "kolega",
+    "bos"
+  ],
+  "cover": {
+    "prompt": "An office desk bathed in soft, warm light, with a slightly messy stack of documents, an idle coffee mug, and a lonely sandwich resting on top, all set against the backdrop of a quiet, dimly lit workspace with blurred monitors and a subtle sense of stillness and routine.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/rapat-absurd-dan-sandwich-misterius/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anton, a jaded employee, finds a mysterious sandwich at his desk before a boring office meeting. Amidst absurd colleague interactions and irrelevant discussions, he tries to uncover the sandwich's origin, only to find it's from the eccentric boss with an absurd message about efficiency. He eats the sandwich, embracing the office's inherent oddities.",
+    "target_emotion": "Cynical amusement, reflective humor, sense of shared absurdity",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerpen dark comedy",
+      "kisah kantor absurd",
+      "humor sinis",
+      "sandwich misterius",
+      "drama kantor",
+      "manajemen nyentrik",
+      "rutinitas kerja",
+      "Anton karyawan",
+      "Pak Hartono bos",
+      "kisah absurditas"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+Anton menyeret langkah ke kubikelnya, menyerahkan diri pada hari Senin yang selalu terasa seperti mengulang dosa lama. Ruangan kantor masih sepi, hanya ada dengung AC dan cahaya monitor yang remang-remang. Rutinitasnya monoton, hanya dipecahkan oleh tawa sinis rekan-rekan yang, menurut Anton, telah lama mengubur kemampuan tertawa tulus. Namun pagi ini, ada anomali. Di atas meja kerjanya, di antara tumpukan dokumen yang tak pernah disentuh dan cangkir kopi dingin, tergeletak sebuah sandwich. Bukan miliknya.
+
+Anton mengernyit. Roti tawar itu, dengan isian misterius yang samar-samar, tampak mencurigakan. Itu tidak ada di sana saat ia meletakkan tasnya. Tidak ada di meja sebelah. Bahkan, tidak ada di mana pun dalam radius pandangannya. Namun di sana, benda itu diam, menantinya, sebuah teka-teki yang menuntut untuk dipecahkan sebelum kopi paginya sempat menghangatkan tenggorokan.
+
+“Ini siapa yang meninggalkan ini?” gumam Anton pelan, mengamati sandwich itu seolah-olah bisa memberinya petunjuk. Tidak ada label, tidak ada catatan kecil, tidak ada jejak yang bisa mengarah pada pemiliknya. Isiannya tampak seperti kombinasi selada layu, sepotong keju yang menguning di bagian pinggir, dan sesuatu yang mirip sisa-sisa telur orak-arik yang sudah melewati masa jayanya.
+
+Suara-suara mulai bermunculan dari arah ruang rapat, mengumumkan dimulainya sesi penyiksaan pagi yang akrab dikenal sebagai ‘Rapat Evaluasi Triwulan.’ Ini adalah panggung bagi drama-drama mikro, keluhan-keluhan makro, dan presentasi PowerPoint yang akan membuat daun telinga keriting. Anton menghela napas, setengah berharap sandwich itu adalah tiket untuk kabur dari realitas. Ia meraihnya perlahan, menyembunyikannya di balik tumpukan berkas saat rekan-rekan mulai berdatangan. Matanya sesekali melirik benda itu, rasa penasaran yang aneh bercampur dengan sedikit kegelisahan.
+
+Rapat pun dimulai. Kepala Bagian Pemasaran, Pak Wijoyo, yang selalu terlihat seperti baru bangun tidur dengan dasi masih terpasang, membuka rapat dengan nada datar. “Jadi, target penjualan kita… kembali di bawah ekspektasi.” Kata-katanya menggantung di udara, berat dan tanpa kejutan, seperti awan mendung yang sudah diantisipasi. Ruangan hening, diselingi bunyi ketikan ponsel Sari, rekan di bagian keuangan, yang jelas-jelas lebih tertarik pada drama TikTok terbaru daripada defisit penjualan.
+
+Di samping Anton, Budi dari departemen riset, mulai menggerutu pelan. “Padahal, riset pasar kita sudah jelas menunjukkan tren yang berbeda. Ini masalah implementasi, bukan konsep!” Budi selalu punya alasan, selalu dengan volume suara yang cukup untuk didengar semua orang, namun cukup rendah untuk menghindari konfrontasi langsung. Kata-katanya seperti gumaman dari alam lain, menyiratkan kejeniusan yang tak pernah dihargai.
+
+Anton mencoba fokus, tapi pikirannya terus melayang pada sandwich itu. Siapa yang akan meninggalkan sarapan misterius seperti ini? Dan kenapa di mejanya? Apakah ini semacam pesan rahasia, atau sekadar lelucon kantor yang garing, seperti lelucon Pak Wijoyo yang selalu basi tentang ‘sinergi tim’?
+
+Dengan keberanian yang sedikit dipaksakan, Anton mengangkat sandwich itu sedikit, mencoba memancing reaksi. “Eh, teman-teman… ini ada sandwich di meja saya. Ada yang punya?”
+
+Reaksi yang ia dapatkan malah semakin memperdalam misteri. Sari mengangkat kepala sebentar, matanya menyipit penuh selidik, seolah Anton baru saja mengumumkan penemuan spesies alien. “Sandwich? Wah, jangan-jangan… kutukan kantor lagi,” celetuknya, lalu kembali ke ponselnya, seringainya tersimpan rapi.
+
+Budi, yang baru saja selesai beretorika tentang pentingnya data, menoleh. “Sandwich? Kalau dari Ibu Rita (sekretaris bos), itu mungkin penawar stres. Kalau dari Pak Bos… nah, itu bisa jadi bom waktu.” Ia menatap Anton dengan ekspresi antara iba dan geli, seperti melihat tikus laboratorium yang baru saja memakan umpan eksperimen.
+
+Maria, rekan HRD yang biasanya paling bersemangat dan terlalu positif, tiba-tiba memotong, “Oh, itu mungkin sisa-sisa pesta ulang tahun kemarin! Aku ingat ada beberapa kue dan roti isi yang tidak habis. Siapa tahu ada yang nyasar ke mejamu, Anton!” Nada suaranya terlalu ceria untuk fakta bahwa mereka sedang membahas defisit penjualan. Anton ragu. Sisa pesta ulang tahun? Pesta itu tiga hari yang lalu, dan sandwich ini terlihat ‘segar’ dalam konteks busuknya, bukan sisa lama.
+
+Setiap pertanyaan Anton hanya membuka tabir kebiasaan-kebiasaan absurd rekan kerjanya. Mereka semua punya teori konspirasi sendiri, punya keengganan untuk mengakui kepemilikan, atau sekadar menganggapnya sebagai bagian dari kegilaan sehari-hari di kantor. Tidak ada yang terkejut oleh keberadaan sandwich itu, yang justru membuatnya semakin aneh.
+
+Anton merasa semakin penasaran dan sedikit terganggu. Ia membayangkan skenario terburuk: mungkin ini semacam jebakan untuk menguji kejujurannya. Atau pesan tersembunyi dari bos yang sedang frustrasi, ingin menguji kesabaran stafnya dengan benda-benda acak. Perusahaan ini memang dikenal dengan ‘metode manajemen’ yang nyentrik dan kadang-kadang tak masuk akal. Konon, beberapa tahun lalu, bos pernah meninggalkan sepasang kaus kaki bolong di meja seorang karyawan yang sering telat, tanpa sepatah kata pun.
+
+Sementara itu, rapat mencapai babak klimaks yang dipenuhi drama. Pak Wijoyo, entah bagaimana, berhasil mengalihkan topik dari angka penjualan ke ‘pentingnya kepemimpinan inspiratif’, sementara Sari dan Budi mulai berdebat tentang definisi ‘inovasi’. Semua orang berdebat, saling menyalahkan, atau pura-pura mendengarkan dengan tatapan kosong. Di tengah kekacauan itu, Anton, yang sudah menyerah pada upaya mencari tahu pemilik sandwich secara verbal, melihat sesuatu yang mencurigakan di balik roti tawar yang mulai melengkung itu.
+
+Ada selembar kertas kecil, terlipat rapi, terselip di antara lapisan roti dan isian. Dengan hati-hati, Anton menggeser roti dan mengambil kertas itu. Lipatan kecil itu terasa familiar di ujung jarinya. Itu jenis kertas memo yang hanya digunakan oleh departemen eksekutif, dengan logo perusahaan tercetak samar di sudutnya. Dan tulisan tangannya… ah, Anton mengenali guratan pena itu.
+
+Itu adalah tulisan tangan bos besar, Pak Hartono. Bos yang terkenal dengan kebiasaan anehnya, dengan sentuhan humor yang hanya ia sendiri yang mengerti, dan dengan gaya manajemen yang sering kali terasa seperti eksperimen sosial. Anton pernah melihatnya di beberapa memo internal yang isinya kadang lebih mirip kutipan filosofis ketimbang instruksi kerja.
+
+Napas Anton tertahan. Jadi, ini dari bos. Dan sandwich ini… adalah bagian dari ‘strategi’ terbaru Pak Hartono? Dengan rasa campur aduk antara geli dan cemas, Anton membuka lipatan kertas itu. Pesan yang tertulis di sana, dengan tinta biru yang tebal, adalah:
+
+“Efisiensi adalah ilusi. Jangan terlalu serius, hidup ini absurd. – H.”
+
+Anton menahan tawa yang siap meledak. Pesan itu, yang pasti dibuat oleh bos mereka sebagai sindiran atau mungkin hanya lelucon iseng, justru membuat seluruh kekacauan rapat terasa semakin relevan. “Hidup ini absurd.” Kalimat itu menggema di benaknya, menjelaskan segalanya sekaligus tidak menjelaskan apa-apa.
+
+Dengan tatapan sinis, Anton memutuskan. Dia akan memakan sandwich ini. Ini bukan sekadar roti isi; ini adalah manifesto. Dunia kantor yang penuh kebingungan, kebodohan, dan drama tak berkesudahan sudah cukup membuatnya stres. Jika harus ada pesan dari bos yang mengandung petuah penuh absurditas seperti ini, lebih baik dia nikmati saja. Anggap saja itu adalah bagian dari ‘keanehan’ yang harus dia terima sebagai gajinya.
+
+Sambil mendengar Budi yang kini sedang menganalogikan pasar sebagai ‘samudra yang ganas’ dan Sari yang terang-terangan bermain game di ponsel, Anton mengambil gigitan pertama dari sandwich itu. Rasanya hambar, mungkin karena sudah terlalu lama di tempat itu, atau mungkin karena perpaduan bahan-bahan yang memang tidak menarik. Ada sedikit rasa pahit dari selada layu dan kekenyalan aneh dari keju yang seperti sudah kehilangan jati dirinya. Tapi dia tidak peduli. Baginya, ini adalah simbol dari rutinitas absurd yang harus dia jalani setiap hari, sebuah kapsul waktu dari kegilaan korporat.
+
+Setelah selesai makan, menyisakan remah-remah di atas mejanya, Anton menatap sekeliling. Rekan-rekannya masih sibuk dengan drama masing-masing. Pak Wijoyo masih berusaha keras untuk terdengar berwibawa. Anton tersenyum tipis. Ia tahu dunia kantor tidak akan pernah berubah. Rekan-rekannya akan terus bermain drama, dan kebodohan akan selalu ada di sekitar, seperti benang kusut yang tak terurai. Tapi setidaknya, hari ini, dia telah menemukan sesuatu yang lucu—sebuah pesan rahasia yang tak masuk akal namun menggelitik, langsung dari otak jenius bos mereka.
+
+Dan ketika dia kembali ke pekerjaannya, dengan sisa-sisa sandwich di perutnya dan pikiran yang penuh sindiran, Anton merasa lebih ringan. Dunia ini memang aneh, tapi itulah yang membuatnya menarik. Karena dalam kebodohan dan absurditasnya, ada satu hal yang pasti: tidak semua hal perlu dimengerti. Kadang, cukup dinikmati saja, sambil tertawa kecil dalam hati. Pesan dari bosnya itu kini menjadi lelucon batin, sebuah mantra yang membantunya menertawakan kekacauan yang tak terhindarkan.
+
+Di akhir hari, saat ia membereskan mejanya, Anton teringat kembali pada pesan kecil itu. Sebuah pengingat bahwa kehidupan di kantor memang penuh hal-hal aneh yang tak perlu dipahami, cukup untuk ditertawakan atau dinikmati. Dan sandwich itu? Biarlah jadi misteri yang lucu dan absurd yang akan selalu dia kenang, sebagai bagian dari kegilaan menyenangkan yang membuatnya tetap waras di tengah hiruk pikuk kantor yang tak masuk akal.
+
+Sebab, pada akhirnya, dunia ini memang penuh hal-hal aneh. Tapi itulah yang membuatnya tetap hidup dan menarik, bahkan ketika hanya berupa sebuah sandwich hambar dan pesan filosofis absurd dari seorang bos.
