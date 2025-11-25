@@ -604,6 +604,17 @@ export async function runAgentCycle() {
         updateStats(story);
 
         console.log(`Story saved: ${story.slug}`);
+
+        // Auto-build SSG page for this story
+        console.log("Building SSG page...");
+        try {
+            const { execSync } = await import("child_process");
+            execSync("npm run build:ssg", { stdio: "inherit" });
+            console.log("✅ SSG page built successfully");
+        } catch (error) {
+            console.error("⚠️  SSG build failed:", error);
+            // Don't throw - story is already saved
+        }
     } catch (error) {
         console.error("Agent cycle failed:", error);
         throw error;
