@@ -1,0 +1,50 @@
+{
+  "id": "story-1764043200787",
+  "slug": "regulasi-kantor-dan-senyum-palsu",
+  "title": "Regulasi Kantor dan Senyum Palsu",
+  "genre": "dark comedy",
+  "theme": "Sebuah eksplorasi absurditas psikologi sehari-hari di lingkungan kerja, ketika regulasi konyol memicu pertarungan batin antara kepatuhan dan keinginan untuk tetap waras.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T04:00:00.787Z",
+  "updated_at": "2025-11-25T04:00:00.787Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "office life",
+    "corporate satire",
+    "passive aggressive",
+    "workplace humor",
+    "indonesian fiction",
+    "absurdity",
+    "employee experience",
+    "HR policy",
+    "mental wellness",
+    "fake smiles"
+  ],
+  "cover": {
+    "prompt": "A minimalist composition of a modern office workstation. A large computer monitor screen emits a cool, gentle glow, illuminating a portion of the desk and an open notebook. The screen subtly displays a corporate memo title: 'PROTOKOL KEBAHAGIAAN DI LINGKUNGAN KERJA'. A person's strong silhouette is positioned in front of the monitor, facing it, their posture suggesting deep contemplation and fatigue. The surrounding office environment is rendered with a shallow depth of field, creating a sense of a structured, vast workspace beyond, gently lit by soft ambient light. Focus on evoking a sterile, ordered atmosphere with a touch of quiet unease. Cinematic composition, rule of thirds.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/regulasi-kantor-dan-senyum-palsu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A junior employee, Rian, grapples with his company's absurd new \"Happiness Protocol\" mandating sincere smiles at all times. He struggles to feign genuine happiness while battling an overzealous HR manager and compliant colleagues. After accidentally revealing his cynicism during a meeting, Rian develops a unique, unsettlingly wide and fake smile as a form of passive-aggressive rebellion, which successfully confuses HR and subtly amuses his co-workers, allowing him to preserve his sanity.",
+    "target_emotion": "Humored cynicism, relatable frustration, amusement, subtle unease",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "office satire",
+      "corporate culture",
+      "workplace comedy",
+      "employee wellness",
+      "fake smiles",
+      "HR policies",
+      "indonesian story",
+      "passive aggressive rebellion",
+      "mental health at work",
+      "absurd office rules",
+      "daily life fiction",
+      "dark humor"
+    ]
+  }
+}

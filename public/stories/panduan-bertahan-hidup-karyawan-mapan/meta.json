@@ -1,0 +1,48 @@
+{
+  "id": "story-1764042828968",
+  "slug": "panduan-bertahan-hidup-karyawan-mapan",
+  "title": "Panduan Bertahan Hidup Karyawan Mapan",
+  "genre": "dark comedy",
+  "theme": "Menemukan kegilaan yang menghibur dalam rutinitas kerja yang monoton dan tuntutan manajemen yang tidak masuk akal.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T03:53:48.968Z",
+  "updated_at": "2025-11-25T03:53:48.968Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "corporate satire",
+    "office humor",
+    "work life",
+    "employee engagement",
+    "bureaucracy",
+    "sinis",
+    "humor",
+    "indonesian fiction"
+  ],
+  "cover": {
+    "prompt": "A stark, yet subtly warm-lit corporate cubicle environment. The main focus is a computer monitor screen, displaying an 'URGENT' email subject line in a prominent, glowing font. The surrounding desk holds stacks of paperwork and a few minimalist office objects, all rendered with a sense of quiet routine. Soft, natural light from an unseen window bathes a portion of the scene, creating gentle contrasts. The overall composition suggests a feeling of structured existence with a looming, unexpected element, focusing on the atmosphere of a typical workday interrupted.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/panduan-bertahan-hidup-karyawan-mapan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical veteran employee navigates absurd corporate policies, such as mandatory 'mood-boosting desk ornaments' and 'happiness workshops', finding unique, passive-aggressive ways to survive and subtly inspire colleagues in a humorously monotonous work environment. The narrative culminates in an ironic act of 'participation' during a mandatory happiness workshop, leading to a bitter satisfaction and a unique way of coping.",
+    "target_emotion": "Cynical amusement, relatable frustration, dark humor, subtle inspiration",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "corporate satire",
+      "office humor",
+      "workplace comedy",
+      "employee engagement",
+      "bureaucracy",
+      "dark comedy",
+      "indonesian fiction",
+      "short story",
+      "humorous sinis",
+      "survive corporate",
+      "office politics",
+      "passive resistance"
+    ]
+  }
+}

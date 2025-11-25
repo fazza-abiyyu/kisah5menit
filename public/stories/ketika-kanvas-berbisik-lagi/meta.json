@@ -1,0 +1,50 @@
+{
+  "id": "story-1764043566495",
+  "slug": "ketika-kanvas-berbisik-lagi",
+  "title": "Ketika Kanvas Berbisik Lagi",
+  "genre": "romance subtle",
+  "theme": "Menjelajahi kenangan masa lalu melalui peninggalan seni, menemukan kembali makna hubungan yang pernah ada, dan menerima perubahan dalam hidup dengan tenang.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T04:06:06.495Z",
+  "updated_at": "2025-11-25T04:06:06.495Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "art gallery",
+    "memories",
+    "past love",
+    "reflection",
+    "introspective",
+    "peaceful",
+    "indonesian fiction",
+    "contemporary romance",
+    "melancholy",
+    "healing",
+    "acceptance"
+  ],
+  "cover": {
+    "prompt": "A tranquil city street scene featuring an old, sturdy art gallery building with textured stone walls, set against a sky painted in soft gray and warm, gentle lighting. In the foreground, modern abstract paintings with bold colors and intriguing textures are visible through large windows, inviting curiosity. The atmosphere exudes calmness and quiet elegance, with subtle reflections on wet pavement and a sense of timelessness.",
+    "style": "Moody atmospheric illustration, soft lighting, painterly style",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ketika-kanvas-berbisik-lagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A photographer, Aria, visits an old art gallery and is drawn to a contemporary abstract painting. It triggers powerful memories of a past love and unarticulated regrets. Discovering a hidden note on the painting's frame, he finds a subtle connection to that person. This leads him to a peaceful acceptance of life's changes and the enduring nature of love and memories, without needing direct confrontation.",
+    "target_emotion": "peaceful reflection, bittersweet acceptance",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "romansa Indonesia",
+      "seni dan kenangan",
+      "cinta masa lalu",
+      "refleksi diri",
+      "galeri seni",
+      "kisah introspektif",
+      "ketenangan batin",
+      "bittersweet romance",
+      "cerita puitis",
+      "melankolis"
+    ]
+  }
+}

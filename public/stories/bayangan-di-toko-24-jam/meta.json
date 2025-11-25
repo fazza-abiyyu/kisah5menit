@@ -1,0 +1,47 @@
+{
+  "id": "story-1764043820938",
+  "slug": "bayangan-di-toko-24-jam",
+  "title": "Bayangan di Toko 24 Jam",
+  "genre": "thriller ringan",
+  "theme": "Explores the subtle psychological unease that arises from solitude and sensory ambiguity during late-night hours, prompting a character to question reality and their own perceptions.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T04:10:20.938Z",
+  "updated_at": "2025-11-25T04:10:20.938Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "misteri",
+    "psikologis",
+    "horor ringan",
+    "larut malam",
+    "minimarket",
+    "solitude",
+    "halusinasi",
+    "koin kuno",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "A calm early morning at a 24-hour convenience store exterior. A scooter is parked nearby, subtly lit by the scene's illumination. Overhead, a neon sign emits a soft, irregular glow. The cool night air carries a feeling of quiet completion and gentle weariness. A small package, subtly visible in the foreground, signifies the conclusion of a long route. Environmental shot, rule of thirds, shallow depth of field.",
+    "style": "Cinematic photography, cool ambient lighting with a gentle glow",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bayangan-di-toko-24-jam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Hadi, a delivery courier, struggles with fatigue during a late-night delivery to a dimly lit 24-hour minimarket. He finds the cashier absent and senses an unseen presence, hearing whispers and seeing fleeting shadows. Panicked, he drops the package and flees. Later, he dismisses it as fatigue but finds an ancient coin, leaving him to question reality and vowing not to return.",
+    "target_emotion": "mild psychological unease, suspense, and doubt",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "thriller psikologis",
+      "misteri minimarket",
+      "kisah larut malam",
+      "ketegangan psikologis",
+      "halusinasi kelelahan",
+      "cerita pendek Indonesia",
+      "fiksi misterius",
+      "sensasi dingin",
+      "koin kuno misterius",
+      "pengiriman malam"
+    ]
+  }
+}
