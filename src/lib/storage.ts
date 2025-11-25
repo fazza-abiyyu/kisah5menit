@@ -28,10 +28,17 @@ export function saveStory(story: Story): void {
         // Unescape newlines that were escaped during JSON parsing
         const contentPath = path.join(storyDir, "index.md");
         const unescapedContent = content.body
+            // First, replace double-escaped sequences (from double escaping)
+            .replace(/\\\\\\\\/g, '<<<BACKSLASH>>>')  // Temporarily mark real backslashes
+            .replace(/\\\\n/g, '\n')   // Convert \\n to newline
+            .replace(/\\\\r/g, '\r')   // Convert \\r to carriage return
+            .replace(/\\\\t/g, '\t')   // Convert \\t to tab
+            // Then handle single-escaped sequences
             .replace(/\\n/g, '\n')
             .replace(/\\r/g, '\r')
             .replace(/\\t/g, '\t')
-            .replace(/\\\\/g, '\\');
+            // Restore real backslashes
+            .replace(/<<<BACKSLASH>>>/g, '\\');
         fs.writeFileSync(contentPath, unescapedContent);
 
         console.log(`✅ Story saved to folder: ${storyDir}`);

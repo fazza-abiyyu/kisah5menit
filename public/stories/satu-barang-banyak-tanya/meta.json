@@ -1,0 +1,44 @@
+{
+  "id": "story-1764033174488",
+  "slug": "satu-barang-banyak-tanya",
+  "title": "Satu Barang, Banyak Tanya",
+  "genre": "thriller ringan",
+  "theme": "Mengungkap kecemasan tersembunyi seseorang saat berhadapan dengan situasi rutin yang berubah janggal, memicu pertanyaan tentang bahaya di sekitar kita.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T01:12:54.487Z",
+  "updated_at": "2025-11-25T01:12:54.487Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "mystery",
+    "suspense",
+    "psychological",
+    "minimarket",
+    "urban fiction",
+    "indonesian story",
+    "short story"
+  ],
+  "cover": {
+    "prompt": "A quiet street scene illuminated by warm streetlights, with a small minimarket at the end of a narrow pathway. Soft glow reflects off wet pavement after a gentle rain, creating a peaceful yet slightly melancholic atmosphere. The scene captures the stillness of late evening, with subtle hints of everyday life—like a lone bicycle leaning against a storefront or steam rising from a bowl of instant noodles on a window sill. Emphasize depth with layered elements and atmospheric lighting, avoiding any focus on faces or sensitive details.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/satu-barang-banyak-tanya/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young worker's late-night minimarket run turns unsettling when the cashier's overly personal questions and strange behavior, coupled with a mysterious code, ignite a growing paranoia, leaving them questioning reality and potential danger.",
+    "target_emotion": "Anxiety, suspicion, unease, mild paranoia",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "minimarket mystery",
+      "psychological thriller",
+      "urban suspense",
+      "indonesian story",
+      "hidden danger",
+      "paranoia",
+      "strange encounter",
+      "short story",
+      "everyday horror"
+    ]
+  }
+}

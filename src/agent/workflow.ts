@@ -59,16 +59,17 @@ Generate a plan for a daily short story based on the following criteria:
 - Artist, writer, musician, photographer
 - Delivery person, street vendor, shop owner
 
-**CRITICAL RULES:**
+**CRITICAL ANTI-REPETITION RULES:**
 - Language: Bahasa Indonesia (casual) with optional natural English or simple Mandarin
 - **NO coffee shops, cafes, or barista characters!**
-- **PRIORITIZE variety** - check recent stories and create something DIFFERENT
-- **For late-night generation (1 AM)**: Consider introspective, calming themes about:
-  - Late-night thoughts and self-reflection
-  - Processing the day's events
-  - Finding peace before sleep
-  - Quiet moments of clarity
-  - Gentle self-forgiveness
+- **MANDATORY VARIETY** - You MUST create something COMPLETELY DIFFERENT from recent stories
+- **AVOID these overused keywords in titles**: senja, balkon, jendela, taman, kopi, layar, atap
+- **DO NOT repeat**: same genre 2x in a row, same setting type 2x in a row, same tone 2x in a row
+- **MIX IT UP**: If you're unsure, pick from underused combinations:
+  - Dark comedy + office setting + cynical character
+  - Romance subtle + transportation + chance encounter
+  - Thriller ringan + retail/public service + mystery element
+  - Sci-fi ringan + urban spaces + technology twist
 
 Output JSON only matching this schema:
 {
@@ -225,8 +226,41 @@ export async function runPlanning(): Promise<PlanOutput> {
     const randomSeed = Math.floor(Math.random() * 10000);
     const timestamp = Date.now();
 
-    const promptWithSeed = `${PLANNING_PROMPT}
+    // Read recent stories to avoid repetition
+    const { getStories } = await import("../lib/storage.js");
+    const recentStories = getStories().slice(0, 5); // Get last 5 stories
 
+    let recentPatternsText = "";
+    if (recentStories.length > 0) {
+        const patterns = recentStories.map(s => ({
+            title: s.title,
+            genre: s.genre,
+            tone: s.tone,
+            titleKeywords: s.title.toLowerCase().split(/\s+/).filter(w => w.length > 3)
+        }));
+
+        const usedGenres = patterns.map(p => p.genre).join(", ");
+        const usedTones = patterns.map(p => p.tone).join(", ");
+        const usedKeywords = [...new Set(patterns.flatMap(p => p.titleKeywords))].join(", ");
+
+        recentPatternsText = `
+**RECENT STORIES TO AVOID REPEATING:**
+- Recent genres used: ${usedGenres}
+- Recent tones used: ${usedTones}
+- Recent title keywords: ${usedKeywords}
+- Recent titles: ${patterns.map(p => p.title).join("; ")}
+
+**YOU MUST:**
+- Pick a DIFFERENT genre from the most recent story
+- Pick a DIFFERENT tone from the most recent story
+- Avoid using any of the recent title keywords
+- Create a completely fresh concept and setting
+`;
+        console.log("Recent patterns detected:", { usedGenres, usedTones, usedKeywords: usedKeywords.substring(0, 100) });
+    }
+
+    const promptWithSeed = `${PLANNING_PROMPT}
+${recentPatternsText}
 **IMPORTANT - ENSURE UNIQUENESS:**
 - Generation Seed: ${randomSeed}
 - Timestamp: ${timestamp}
