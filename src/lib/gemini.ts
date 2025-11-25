@@ -22,52 +22,52 @@ function getRandomModel(): string {
     return POLLINATIONS_MODELS[Math.floor(Math.random() * POLLINATIONS_MODELS.length)];
 }
 
-async function tryPollinationsText(prompt: string, maxRetries: number = 2): Promise<string | null> {
-    // Try all models, with retries for each
-    for (const model of POLLINATIONS_MODELS) {
-        for (let attempt = 1; attempt <= maxRetries; attempt++) {
-            try {
-                console.log(`Trying Pollinations.ai with model: ${model} (attempt ${attempt}/${maxRetries})...`);
-                const url = `https://text.pollinations.ai/${encodeURIComponent(prompt)}?model=${model}&temperature=0.8`;
+async function tryPollinationsText(prompt: string, maxRetries: number = 1): Promise<string | null> {
+    // Try only 1 random model with minimal retries for speed
+    const model = getRandomModel();
 
-                const response = await fetch(url);
-                if (!response.ok) {
-                    console.log(`Pollinations ${model} failed with status ${response.status}`);
-                    if (attempt < maxRetries) {
-                        console.log(`Retrying in 2 seconds...`);
-                        await new Promise(resolve => setTimeout(resolve, 2000));
-                        continue;
-                    }
-                    continue; // Try next model
-                }
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+        try {
+            console.log(`Trying Pollinations.ai with model: ${model} (attempt ${attempt}/${maxRetries})...`);
+            const url = `https://text.pollinations.ai/${encodeURIComponent(prompt)}?model=${model}&temperature=0.8`;
 
-                const text = await response.text();
-                if (!text || text.length < 50) {
-                    console.log(`Pollinations ${model} returned insufficient text`);
-                    if (attempt < maxRetries) {
-                        console.log(`Retrying in 2 seconds...`);
-                        await new Promise(resolve => setTimeout(resolve, 2000));
-                        continue;
-                    }
-                    continue; // Try next model
-                }
-
-                console.log(`✅ Text generated successfully with Pollinations.ai (${model})`);
-                return text;
-            } catch (error: any) {
-                console.log(`Pollinations ${model} error: ${error.message}`);
+            const response = await fetch(url);
+            if (!response.ok) {
+                console.log(`Pollinations ${model} failed with status ${response.status}`);
                 if (attempt < maxRetries) {
-                    console.log(`Retrying in 2 seconds...`);
-                    await new Promise(resolve => setTimeout(resolve, 2000));
+                    console.log(`Retrying in 1 second...`);
+                    await new Promise(resolve => setTimeout(resolve, 1000));
                     continue;
                 }
-                continue; // Try next model
+                break; // Give up after retries
             }
+
+            const text = await response.text();
+            if (!text || text.length < 50) {
+                console.log(`Pollinations ${model} returned insufficient text`);
+                if (attempt < maxRetries) {
+                    console.log(`Retrying in 1 second...`);
+                    await new Promise(resolve => setTimeout(resolve, 1000));
+                    continue;
+                }
+                break; // Give up after retries
+            }
+
+            console.log(`✅ Text generated successfully with Pollinations.ai (${model})`);
+            return text;
+        } catch (error: any) {
+            console.log(`Pollinations ${model} error: ${error.message}`);
+            if (attempt < maxRetries) {
+                console.log(`Retrying in 1 second...`);
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                continue;
+            }
+            break; // Give up after retries
         }
     }
 
-    // All models and retries failed
-    console.log("All Pollinations.ai models failed after retries");
+    // Failed - will fallback to Gemini
+    console.log(`Pollinations.ai (${model}) failed after ${maxRetries} attempt(s), falling back to Gemini...`);
     return null;
 }
 
