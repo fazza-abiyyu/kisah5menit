@@ -1,0 +1,45 @@
+{
+  "id": "story-1764045612923",
+  "slug": "penyapu-malam-dan-robot-pemungut-sampah-yang-songong",
+  "title": "Penyapu Malam dan Robot Pemungut Sampah Yang Songong",
+  "genre": "sci-fi ringan",
+  "theme": "Kisah seorang petugas kebersihan malam yang harus beradaptasi dengan teknologi pembuangan sampah otonom yang terlalu pintar dan sedikit menyebalkan, menemukan absurditas dan sedikit kedamaian dalam rutinitasnya.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-11-25T04:40:12.922Z",
+  "updated_at": "2025-11-25T04:40:12.922Z",
+  "status": "published",
+  "tags": [
+    "sci-fi ringan",
+    "humor sinis",
+    "robot",
+    "petugas kebersihan",
+    "urban",
+    "adaptasi teknologi",
+    "interaksi manusia-mesin",
+    "rutinitas",
+    "absurditas"
+  ],
+  "cover": {
+    "prompt": "A bustling city street filled with overflowing trash heaps and tangled roadways, bathed in the warm glow of soft street lighting. The scene emphasizes layered textures of debris and the intricate network of pathways, with atmospheric haze adding depth and mood. No human faces are visible, focusing instead on the environment's complexity and subtle signs of urban life.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/penyapu-malam-dan-robot-pemungut-sampah-yang-songong/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah Pak Jaya, seorang petugas kebersihan malam yang skeptis, harus beradaptasi dengan robot pemungut sampah otonom yang sok tahu dan terlalu efisien. Konflik mereka memuncak saat robot mengalami bug dan menciptakan kekacauan, mendorong Pak Jaya untuk secara manual mengintervensi sistem robot, menemukan kedamaian dalam rutinitasnya, dan menyadari bahwa penerimaan terhadap absurditas adalah bagian dari hidup.",
+    "target_emotion": "Humor sinis, refleksi absurditas, penerimaan yang tenang",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "robot pemungut sampah",
+      "sci-fi ringan",
+      "humor sinis",
+      "petugas kebersihan",
+      "interaksi manusia-mesin",
+      "teknologi otonom",
+      "urban life",
+      "adaptasi teknologi",
+      "absurditas hidup"
+    ]
+  }
+}
