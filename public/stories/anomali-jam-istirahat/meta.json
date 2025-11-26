@@ -1,0 +1,52 @@
+{
+  "id": "story-1764180837982",
+  "slug": "anomali-jam-istirahat",
+  "title": "Anomali Jam Istirahat",
+  "genre": "mystery ringan",
+  "theme": "Menemukan arti di balik kejadian aneh yang terjadi di area kantor yang memicu refleksi diri tentang pentingnya observasi dan intuisi.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2025-11-26T18:13:57.982Z",
+  "updated_at": "2025-11-26T18:13:57.982Z",
+  "status": "published",
+  "tags": [
+    "mystery ringan",
+    "kantor",
+    "observasi",
+    "intuisi",
+    "refleksi",
+    "kehidupan sehari-hari",
+    "empati",
+    "human interest",
+    "cerpen",
+    "cerita pendek"
+  ],
+  "cover": {
+    "prompt": "A minimalist office interior, featuring clean architectural lines and a sense of organized complexity. A single, refined silhouette of a person is positioned in the foreground, standing calmly and facing towards the soft, diffused light source, suggesting keen observation of the intricate environment. Gentle, warm light flows through large windows, highlighting polished surfaces and creating a serene atmosphere. Focus on quiet contemplation and precise design, with subtle hints of intriguing pathways within the building structure. Rule of thirds composition, wide shot, emphasizing the quiet power of presence.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/anomali-jam-istirahat/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan yang tenang dan jeli, Arya, mengamati pola aneh di pantry kantor. Perubahan kecil yang misterius memicu rasa ingin tahunya, mendorongnya untuk menyelidiki secara diam-diam. Ia akhirnya menemukan bahwa anomali tersebut adalah kebiasaan unik seorang rekan kerja, Maya, yang menggunakan waktu istirahat untuk melipat origami dan minum teh herbal sebagai cara mengatasi stres. Resolusinya bukan konfrontasi, melainkan pemahaman dan refleksi diri Arya tentang pentingnya observasi empatik dan menghargai keunikan orang lain.",
+    "target_emotion": "refleksi, pemahaman, empati, ketenangan, rasa ingin tahu yang lembut",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "misteri ringan",
+      "kantor",
+      "observasi",
+      "refleksi",
+      "empati",
+      "kehidupan sehari-hari",
+      "psikologi",
+      "hubungan antar rekan kerja",
+      "kemanusiaan",
+      "Anomali Jam Istirahat",
+      "Arya",
+      "Maya",
+      "pantry kantor",
+      "origami"
+    ]
+  }
+}
