@@ -1,0 +1,47 @@
+{
+  "id": "story-1764267266466",
+  "slug": "jejak-langkah-di-tepi-sungai",
+  "title": "Jejak Langkah di Tepi Sungai",
+  "genre": "drama keluarga",
+  "theme": "Kisah ini menjelajahi upaya seorang ayah tunggal dan putrinya untuk menyatukan kembali hubungan mereka yang sempat renggang di tengah hiruk-pikuk kehidupan kota.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2025-11-27T18:14:26.466Z",
+  "updated_at": "2025-11-27T18:14:26.466Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "ayah tunggal",
+    "hubungan ayah anak",
+    "rekonsiliasi",
+    "jakarta",
+    "sungai ciliwung",
+    "emosional",
+    "hangat",
+    "komunikasi keluarga",
+    "remaja"
+  ],
+  "cover": {
+    "prompt": "Early morning light gently filtering through lush riverbank vegetation, softly illuminating a clean, urban jogging pathway beside the Ciliwung River. A lone, distant silhouette is visible on the pathway, engaging in a morning jog. The composition focuses on the pathway receding into a subtle environmental haze, conveying a peaceful sense of early activity and a new day's gentle start. Rule of thirds, wide view.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-langkah-di-tepi-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang ayah tunggal, Pak Budi, dan putrinya, Clara, memulai rutinitas jogging canggung yang mencerminkan jarak emosional mereka. Clara merasa dipaksa, sementara Pak Budi menyesali waktu yang hilang. Sebuah insiden kecil memicu percakapan jujur tentang harapan dan kerinduan, membuka kembali komunikasi. Mereka akhirnya menemukan kenyamanan dalam kebersamaan, berjanji untuk lebih sering menghabiskan waktu bersama dan saling memahami.",
+    "target_emotion": "harapan, kelegaan, kehangatan, refleksi",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "hubungan ayah anak",
+      "rekonsiliasi keluarga",
+      "ayah tunggal",
+      "komunikasi keluarga",
+      "jogging",
+      "jakarta",
+      "sungai ciliwung",
+      "cerita mengharukan",
+      "drama emosional",
+      "pengampunan"
+    ]
+  }
+}
