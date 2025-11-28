@@ -31,24 +31,24 @@ const POLLINATIONS_MODELS = [
     "roblox-rp"             // Llama 3.1 8B Instruct (tier: seed)
 ];
 
-function getRandomModel(): string {
+function getRandomModel(availableModels: string[] = POLLINATIONS_MODELS): string {
     // Filter out blacklisted models
-    const healthyModels = getHealthyModels(POLLINATIONS_MODELS);
+    const healthyModels = getHealthyModels(availableModels);
 
     if (healthyModels.length === 0) {
-        console.warn("⚠️  All Pollinations models are blacklisted, using fallback");
-        return POLLINATIONS_MODELS[0]; // Fallback to first model
+        console.warn("⚠️  All provided Pollinations models are blacklisted, using first available as fallback");
+        return availableModels[0]; // Fallback to first model
     }
 
     const selected = healthyModels[Math.floor(Math.random() * healthyModels.length)];
-    console.log(`🎲 Selected model: ${selected} (${healthyModels.length}/${POLLINATIONS_MODELS.length} healthy)`);
+    console.log(`🎲 Selected model: ${selected} (${healthyModels.length}/${availableModels.length} healthy from provided list)`);
     return selected;
 }
 
-async function tryPollinationsText(prompt: string, maxAttempts: number = 3): Promise<string | null> {
+async function tryPollinationsText(prompt: string, maxAttempts: number = 3, specificModels?: string[]): Promise<string | null> {
     for (let attempt = 1; attempt <= maxAttempts; attempt++) {
         // Rotate models for better chance of success
-        const model = getRandomModel();
+        const model = getRandomModel(specificModels);
         try {
             console.log(`Trying Pollinations.ai with model: ${model} (attempt ${attempt}/${maxAttempts})...`);
 
@@ -150,9 +150,9 @@ export async function generateText(prompt: string): Promise<string> {
     for (let loop = 1; loop <= MAX_LOOPS; loop++) {
         if (loop > 1) console.log(`⚠️ Starting generation loop ${loop}/${MAX_LOOPS}...`);
 
-        // Strategy: Gemini (2x) -> Pollinations (2x) - Gemini is more reliable now
+        // Strategy: Gemini SDK -> Pollinations (Gemini) -> Pollinations (Others)
 
-        // 1. Try Gemini first (2 attempts) - more reliable
+        // 1. Try Gemini SDK first (2 attempts) - Primary
         if (apiKey) {
             for (let i = 1; i <= 2; i++) {
                 const geminiResult = await tryGemini(prompt);
@@ -160,16 +160,23 @@ export async function generateText(prompt: string): Promise<string> {
                 if (i < 2) await new Promise(resolve => setTimeout(resolve, 1000));
             }
         } else {
-            console.log("Skipping Gemini (no API key)");
+            console.log("Skipping Gemini SDK (no API key)");
         }
 
-        // 2. Fallback to Pollinations (2 attempts) - currently unreliable with 402 errors
-        const polyResult = await tryPollinationsText(prompt, 2);
+        // 2. Try Pollinations with Gemini model specifically (2 attempts)
+        console.log("Falling back to Pollinations (Gemini only)...");
+        const polyGeminiResult = await tryPollinationsText(prompt, 2, ["gemini", "gemini-search"]);
+        if (polyGeminiResult) return polyGeminiResult;
+
+        // 3. Fallback to other Pollinations models (2 attempts)
+        console.log("Falling back to other Pollinations models...");
+        const otherModels = POLLINATIONS_MODELS.filter(m => !m.includes("gemini"));
+        const polyResult = await tryPollinationsText(prompt, 2, otherModels);
         if (polyResult) return polyResult;
 
         // If we're looping, wait a bit longer
         if (loop < MAX_LOOPS) await new Promise(resolve => setTimeout(resolve, 3000));
     }
 
-    throw new Error("Text generation failed after exhausting all strategies (Gemini 2x -> Pollinations 2x, looped)");
+    throw new Error("Text generation failed after exhausting all strategies (Gemini SDK -> Pollinations Gemini -> Pollinations Others)");
 } 
