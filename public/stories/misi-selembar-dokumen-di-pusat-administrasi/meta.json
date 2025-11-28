@@ -1,0 +1,44 @@
+{
+  "id": "story-1764353643721",
+  "slug": "misi-selembar-dokumen-di-pusat-administrasi",
+  "title": "Misi Selembar Dokumen di Pusat Administrasi",
+  "genre": "adventure ringan",
+  "theme": "Menggambarkan perjuangan menghadapi sistem birokrasi yang rumit, di mana kesabaran dan ketekunan diperlukan untuk mencapai tujuan sederhana.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2025-11-28T18:14:03.721Z",
+  "updated_at": "2025-11-28T18:14:03.721Z",
+  "status": "published",
+  "tags": [
+    "birokrasi",
+    "administrasi",
+    "perjuangan",
+    "freelancer",
+    "deadline",
+    "pelayanan publik",
+    "komedi situasional",
+    "frustrasi",
+    "lega"
+  ],
+  "cover": {
+    "prompt": "A cinematic wide shot focusing on a large administrative building, featuring 1980s architectural elements. The building's exterior shows gentle signs of age, with subtle peeling paint and light green moss on its surfaces. A prominent sign above the main entry, designed with neon lettering, has several unlit sections, creating a visual metaphor for interrupted or incomplete aspirations. The composition uses the rule of thirds, placing the building as a central, dominant element. Soft, diffused lighting bathes the scene, creating a contemplative and somewhat melancholic atmosphere. A distant, silhouetted figure stands on a gentle pathway in the foreground, observing the structure.",
+    "style": "Lo-fi aesthetic, vintage film grain, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/misi-selembar-dokumen-di-pusat-administrasi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer muda harus mengurus dokumen penting (SKHUM) untuk proyeknya yang krusial. Ia terjebak dalam labirin birokrasi, dioper dari loket ke loket, dan menghadapi prosedur rumit serta staf yang kurang membantu. Dokumennya ditemukan terselip di arsip lama, dan dengan bantuan tak terduga, berhasil diurus tepat waktu, memberikan rasa lega yang luar biasa.",
+    "target_emotion": "Frustrasi berubah menjadi lega, keberanian menghadapi sistem.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "birokrasi indonesia",
+      "kisah freelancer",
+      "tantangan administrasi",
+      "dokumentasi usaha",
+      "komedi tegang ringan",
+      "cerita inspiratif",
+      "pencarian dokumen",
+      "deadline proyek"
+    ]
+  }
+}
