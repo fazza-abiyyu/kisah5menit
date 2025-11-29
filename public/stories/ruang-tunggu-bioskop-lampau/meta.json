@@ -1,0 +1,47 @@
+{
+  "id": "story-1764440013559",
+  "slug": "ruang-tunggu-bioskop-lampau",
+  "title": "Ruang Tunggu Bioskop Lampau",
+  "genre": "psychological",
+  "theme": "Seorang pensiunan menemukan ketenangan dan makna hidup baru dengan berdamai dengan kenangan masa lalu di sebuah bioskop tua.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2025-11-29T18:13:33.558Z",
+  "updated_at": "2025-11-29T18:13:33.558Z",
+  "status": "published",
+  "tags": [
+    "pensiunan",
+    "bioskop tua",
+    "kenangan",
+    "masa lalu",
+    "introspeksi",
+    "psikologis",
+    "reflektif",
+    "bahasa indonesia",
+    "makna hidup",
+    "damai"
+  ],
+  "cover": {
+    "prompt": "A grand, yet gently aged cinema facade under soft, waning afternoon sunlight. Wooden planks cover the main entrance, while a subtly opened side door reveals a shaft of golden light illuminating countless dust particles floating in the air. A simple silhouette of a person, seen from the back, is gently pushing this side door further inward. The interior beyond shows soft light and deep tones, hinting at forgotten grandeur and the quiet passage of time. Emphasize the texture of weathered wood and the warm, ethereal glow of the sunbeams. Cinematic composition, shallow depth of field, rule of thirds.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, lo-fi aesthetic, vintage film grain, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ruang-tunggu-bioskop-lampau/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Hari, seorang pensiunan pustakawan, mengunjungi bioskop tua masa mudanya dan melalui perenungan mendalam tentang masa lalu, ia berdamai dengan penyesalan serta menemukan tujuan baru untuk masa depannya.",
+    "target_emotion": "ketenangan, refleksi, harapan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "psikologis",
+      "refleksi diri",
+      "masa tua",
+      "nostalgia",
+      "pencarian jati diri",
+      "sastra indonesia",
+      "bioskop terbengkalai",
+      "damai dengan masa lalu",
+      "tujuan hidup"
+    ]
+  }
+}
