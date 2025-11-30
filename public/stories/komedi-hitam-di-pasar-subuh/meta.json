@@ -1,0 +1,46 @@
+{
+  "id": "story-1764526420815",
+  "slug": "komedi-hitam-di-pasar-subuh",
+  "title": "Komedi Hitam di Pasar Subuh",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi humor gelap dan absurditas yang tersembunyi dalam rutinitas sehari-hari serta interaksi aneh di tengah hiruk pikuk pasar tradisional.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-11-30T18:13:40.815Z",
+  "updated_at": "2025-11-30T18:13:40.815Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "pasar tradisional",
+    "humor gelap",
+    "absurditas",
+    "kehidupan sehari-hari",
+    "sarkasme",
+    "Pak Budi",
+    "drama pasar",
+    "cerita Indonesia"
+  ],
+  "cover": {
+    "prompt": "An expansive view of a traditional Indonesian market at the earliest hours of dawn, before full daylight. Stalls laden with vibrant fresh green vegetables, like kangkung and bayam, are meticulously arranged. The atmosphere is one of serene industriousness, with soft, ambient light beginning to illuminate the scene. Gentle depth of field highlights the rich textures of the produce and the wooden market structures, conveying the daily rhythm and dedication of early morning trade.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/komedi-hitam-di-pasar-subuh/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows Pak Budi, a cynical vegetable vendor in an Indonesian traditional market. It explores the daily absurdities, from challenging customers to a dramatic incident involving a faking vendor, all observed through Pak Budi's detached, cynical lens. The climax reveals the 'drama' as a ruse to evade a loan shark, which Pak Budi anticipated, solidifying his ironic amusement at the market's chaos. Ultimately, he finds a strange comfort and entertainment in the market's inherent, never-ending theatrics.",
+    "target_emotion": "cynical amusement",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "komedi hitam",
+      "pasar subuh",
+      "pedagang sayur",
+      "humor sinis",
+      "cerita absurd",
+      "fiksi Indonesia",
+      "drama kehidupan",
+      "interaksi sosial",
+      "rentenir",
+      "komedi situasi"
+    ]
+  }
+}
