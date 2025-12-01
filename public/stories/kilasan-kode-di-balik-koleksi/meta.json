@@ -1,0 +1,50 @@
+{
+  "id": "story-1764613006375",
+  "slug": "kilasan-kode-di-balik-koleksi",
+  "title": "Kilasan Kode di Balik Koleksi",
+  "genre": "thriller ringan",
+  "theme": "Menemukan keindahan dan makna tersembunyi dalam benda-benda lama, membuka sebuah petualangan kecil yang tak terduga.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2025-12-01T18:16:46.375Z",
+  "updated_at": "2025-12-01T18:16:46.375Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "museum",
+    "photography",
+    "ancient symbols",
+    "indonesian culture",
+    "historical fiction",
+    "discovery",
+    "love story",
+    "art",
+    "inspiration",
+    "thriller ringan"
+  ],
+  "cover": {
+    "prompt": "An expansive, overcast urban view seen from an interior window during a late afternoon. In the foreground, a sleek camera lens rests gently on a simple surface, hinting at a moment of creative stillness. The environment evokes a sense of calm reflection and a gentle search for inspiration amidst the city's subdued colors. Subtle ambient lighting highlights the quiet texture of the scene.",
+    "style": "Cinematic photography, shallow depth of field, cool and muted color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kilasan-kode-di-balik-koleksi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A photography student, seeking inspiration for her final project, visits an old museum. While photographing an ancient relief, she discovers hidden, coded symbols. Through dedicated research, she deciphers a secret, heartwarming message—a personal love story from an artist of the past. This discovery brings her deep satisfaction and fresh inspiration, transforming her perspective on art and life.",
+    "target_emotion": "Warm satisfaction, inspiration, wonder, joy, intellectual curiosity",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Kilasan Kode di Balik Koleksi",
+      "museum mystery",
+      "hidden symbols",
+      "ancient code",
+      "indonesian art",
+      "Majapahit relief",
+      "photography project",
+      "student discovery",
+      "historical love story",
+      "cultural heritage",
+      "secret message",
+      "Lana's adventure"
+    ]
+  }
+}
