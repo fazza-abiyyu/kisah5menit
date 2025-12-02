@@ -1,0 +1,50 @@
+{
+  "id": "story-1764699385863",
+  "slug": "arus-data-di-sudut-jalan",
+  "title": "Arus Data di Sudut Jalan",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi bagaimana teknologi baru, meskipun kecil dan tak terlihat, dapat membawa perspektif baru dan adaptasi diri di tengah hiruk pikuk kota.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2025-12-02T18:16:25.863Z",
+  "updated_at": "2025-12-02T18:16:25.863Z",
+  "status": "published",
+  "tags": [
+    "sci-fi ringan",
+    "urban",
+    "futuristik",
+    "teknologi",
+    "penemuan diri",
+    "koneksi",
+    "jakarta",
+    "augmented reality",
+    "mural digital",
+    "optimisme",
+    "cerita pendek"
+  ],
+  "cover": {
+    "prompt": "A cozy, compact studio interior at an early hour or late evening. A computer monitor, a central element, emits a soft, cool blue glow across a workstation, displaying intricate graphic design visuals. Beside the monitor, a humble coffee mug sits, catching subtle light. A partially open window offers a diffused, out-of-focus vista of a city's gentle awakening or settling down, with soft street illuminations and a sense of quiet urban air permeating the space. Composition emphasizes depth and a sense of routine, with a focus on the objects and the interplay of indoor and outdoor light.",
+    "style": "Cinematic photography, shallow depth of field, atmospheric lighting with contrasting cool and subtle warm tones.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/arus-data-di-sudut-jalan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, a young graphic designer, feels stifled by her routine and city life. While exploring a new route, she discovers a hidden interactive digital mural. She notices a subtle 'bug' revealing strange data patterns. Decrypting them, Risa realizes it's a blueprint for an augmented reality navigation system designed to personalize and tranquilize urban experiences. Invited to a beta test, she embraces the opportunity, finding a new purpose and connecting with a community of like-minded innovators.",
+    "target_emotion": "hope, wonder, personal growth",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "cerita fiksi ilmiah ringan",
+      "urban futuristik",
+      "teknologi augmented reality",
+      "mural interaktif",
+      "penemuan diri di kota",
+      "jakarta fiksi",
+      "inovasi urban",
+      "kisah inspiratif",
+      "desain grafis",
+      "komunitas pengembang",
+      "masa depan kota",
+      "optimisme perkotaan"
+    ]
+  }
+}
