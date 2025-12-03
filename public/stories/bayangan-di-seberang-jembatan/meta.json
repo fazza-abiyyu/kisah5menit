@@ -1,0 +1,48 @@
+{
+  "id": "story-1764785792663",
+  "slug": "bayangan-di-seberang-jembatan",
+  "title": "Bayangan di Seberang Jembatan",
+  "genre": "mystery ringan",
+  "theme": "Mengamati detail-detail kecil di sekitar kita dapat mengungkap cerita tersembunyi yang awalnya tampak tak signifikan, memicu refleksi diri tentang kebiasaan dan asumsi kita sehari-hari.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-12-03T18:16:32.663Z",
+  "updated_at": "2025-12-03T18:16:32.663Z",
+  "status": "published",
+  "tags": [
+    "mystery ringan",
+    "introspektif",
+    "observasi",
+    "rutinitas",
+    "fotografi",
+    "ciliwung",
+    "kedamaian",
+    "refleksi diri",
+    "kisah personal"
+  ],
+  "cover": {
+    "prompt": "A serene late afternoon view over the Ciliwung River. The sky is a gentle blend of soft orange, muted purple, and grayish-blue, reminiscent of a fading watercolor artwork. Golden hour light bathes the scene. Subtle ripples on the water reflect the tranquil sky. In the midground, a lone silhouette, possibly a figure holding a camera, stands on a riverside pathway, observing the peaceful panorama. Distant buildings form gentle silhouettes against the colorful horizon. The composition evokes a sense of calm contemplation and subtle intrigue.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, strong silhouettes, gentle lighting.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bayangan-di-seberang-jembatan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance photographer becomes obsessed with a woman's consistent, enigmatic routine across a bridge, documenting her daily actions. Through detailed observation, he uncovers the simple, personal meaning behind her ritual, leading to self-reflection about his own tendency to seek grand narratives and finding peace in accepting life's simple moments.",
+    "target_emotion": "introspeksi, kedamaian, refleksi, kekaguman akan kesederhanaan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "fotografi",
+      "sungai ciliwung",
+      "misteri ringan",
+      "observasi",
+      "rutinitas",
+      "refleksi diri",
+      "kisah inspiratif",
+      "cerpen",
+      "kehidupan kota",
+      "kedamaian",
+      "pengamatan",
+      "psikologi"
+    ]
+  }
+}
