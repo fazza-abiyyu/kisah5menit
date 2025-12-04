@@ -1,0 +1,47 @@
+{
+  "id": "story-1764872190284",
+  "slug": "percakapan-di-tepi-sandbox",
+  "title": "Percakapan di Tepi Sandbox",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi kerumitan dinamika keluarga tunggal saat seorang ibu dan anaknya mencoba memahami serta menerima perubahan besar yang akan datang dalam hidup mereka.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2025-12-04T18:16:30.284Z",
+  "updated_at": "2025-12-04T18:16:30.284Z",
+  "status": "published",
+  "tags": [
+    "keluarga",
+    "ibu-anak",
+    "perubahan",
+    "emosi",
+    "drama",
+    "taman-bermain",
+    "perpindahan",
+    "cinta",
+    "ketakutan",
+    "dinamika-keluarga"
+  ],
+  "cover": {
+    "prompt": "A serene playground at late afternoon, bathed in warm, gentle golden hour light. A weathered swing set with faded paint occupies the foreground. A solitary child figure sits quietly on one of the swings, seen from a distance, perhaps in soft silhouette, conveying a pensive mood. The background shows a few blurred, distant children's activities, adding depth. Cinematic composition, rule of thirds, shallow depth of field, soft warm tones.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/percakapan-di-tepi-sandbox/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang ibu tunggal membawa putrinya, Dini, ke taman bermain. Sang ibu kesulitan mengungkapkan rencana perubahan besar dalam hidup mereka (pindah dan kehadiran pasangan baru). Dini menghindar, lalu menanyakan apakah ia akan tetap menjadi anak satu-satunya. Ibu memeluk Dini, mengakui ketakutannya sendiri, dan mereka berjanji untuk melewati semua ini bersama, memperkuat ikatan mereka.",
+    "target_emotion": "Empati, kerentanan, harapan, kelegaan emosional, kegelisahan, kasih sayang",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "ibu tunggal",
+      "dinamika keluarga",
+      "perubahan hidup",
+      "ketakutan anak",
+      "penerimaan",
+      "drama keluarga",
+      "ikatan ibu dan anak",
+      "percakapan sulit",
+      "taman bermain",
+      "kisah emosional"
+    ]
+  }
+}
