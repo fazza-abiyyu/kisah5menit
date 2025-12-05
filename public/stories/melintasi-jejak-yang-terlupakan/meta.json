@@ -1,0 +1,50 @@
+{
+  "id": "story-1764958431053",
+  "slug": "melintasi-jejak-yang-terlupakan",
+  "title": "Melintasi Jejak yang Terlupakan",
+  "genre": "adventure ringan",
+  "theme": "Menjelajahi keindahan sederhana dalam sebuah perjalanan tak terduga, menemukan ketenangan diri di tengah perubahan pemandangan, dan merangkul petualangan internal.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2025-12-05T18:13:51.053Z",
+  "updated_at": "2025-12-05T18:13:51.053Z",
+  "status": "published",
+  "tags": [
+    "perjalanan",
+    "refleksi",
+    "ketenangan diri",
+    "petualangan internal",
+    "tenang",
+    "pelarian",
+    "jakarta",
+    "pedesaan",
+    "kereta",
+    "self-discovery",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A contemplative urban scene, interior view of a modern office space. A computer monitor screen displays abstract, glowing data visualizations. Beyond a wide window, the expansive Jakarta cityscape unfolds under the soft, warm light of early morning or late afternoon, with a gentle, atmospheric blur that emphasizes the bustling city's scale. Architectural lines of the window frame and a clean desk surface create a quiet sense of enclosure, subtly juxtaposed against the vastness outside. The interplay of interior light with the city's distant illumination evokes a mood of quiet reflection and a longing for new horizons amidst the urban rhythm. Focus on light, composition, and a sense of potential, hinting at a moment of deep thought and transformation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/melintasi-jejak-yang-terlupakan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda dari Jakarta yang jenuh mencari pelarian dengan membeli tiket kereta ke kota kecil tanpa tujuan. Perjalanan ini memaksanya menghadapi kegelisahan internal tentang tujuan hidup dan ekspektasi. Setibanya di stasiun, interaksi dengan seorang nenek penjual teh memberinya perspektif baru tentang makna keberadaan dan kesederhanaan, mendorongnya untuk berjalan menyusuri desa tanpa rencana, menemukan kedamaian yang lama hilang dan berjanji mendengarkan diri sendiri.",
+    "target_emotion": "Ketenangan dan refleksi diri",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "reflective journey",
+      "self-discovery",
+      "urban escape",
+      "indonesian fiction",
+      "tranquil adventure",
+      "inner peace",
+      "simple life",
+      "jakarta stress",
+      "train travel",
+      "small town exploration",
+      "finding purpose",
+      "introspection"
+    ]
+  }
+}
