@@ -1,0 +1,54 @@
+{
+  "id": "story-1765044799692",
+  "slug": "bisikan-dalam-kanvas-tua",
+  "title": "Bisikan dalam Kanvas Tua",
+  "genre": "psychological",
+  "theme": "Menemukan cerminan diri dan menerima kerentanan emosional di tengah keheningan karya seni yang terlupakan.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2025-12-06T18:13:19.692Z",
+  "updated_at": "2025-12-06T18:13:19.692Z",
+  "status": "published",
+  "tags": [
+    "psikologi",
+    "seni",
+    "refleksi diri",
+    "urban",
+    "Jakarta",
+    "galeri",
+    "melankolis",
+    "penerimaan diri",
+    "emosi",
+    "introspeksi",
+    "kedalaman emosi",
+    "self-discovery",
+    "personal growth"
+  ],
+  "cover": {
+    "prompt": "Cinematic wide shot of a vast urban landscape during golden hour, transitioning into deep blue hour. The composition features repetitive patterns of warmly glowing apartment building windows, alongside blurred city street activity and the subtle lines of a public transit system in motion. Focus on architectural forms and the interplay of natural light and gentle city glow, evoking a feeling of urban routine and quiet contemplation within a sprawling, energetic city. Utilize rule of thirds and shallow depth of field for an immersive perspective.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-dalam-kanvas-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, overwhelmed by urban routine and internal emptiness, discovers a forgotten art gallery. An abstract painting there becomes a profound mirror to her chaotic yet beautiful inner self, leading to an emotional epiphany and deep self-acceptance.",
+    "target_emotion": "Contemplative peace, self-acceptance, emotional catharsis",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen psikologi",
+      "galeri seni",
+      "self-discovery",
+      "penerimaan diri",
+      "kerentanan emosi",
+      "Jakarta",
+      "keheningan",
+      "lukisan abstrak",
+      "introspeksi",
+      "kedalaman emosi",
+      "melankolis",
+      "personal growth",
+      "kesehatan mental",
+      "seni sebagai terapi"
+    ]
+  }
+}
