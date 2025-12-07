@@ -1,0 +1,47 @@
+{
+  "id": "story-1765131230258",
+  "slug": "simfoni-warna-diam",
+  "title": "Simfoni Warna Diam",
+  "genre": "romance subtle",
+  "theme": "Menemukan keindahan koneksi antarmanusia melalui apresiasi seni yang sama di tempat yang tak terduga, membuka pintu bagi kemungkinan perasaan hangat.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2025-12-07T18:13:50.258Z",
+  "updated_at": "2025-12-07T18:13:50.258Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "art gallery",
+    "Jakarta",
+    "photographer",
+    "graphic designer",
+    "human connection",
+    "inspiration",
+    "warmth",
+    "simfoni warna diam"
+  ],
+  "cover": {
+    "prompt": "View of the ornate entrance to a grand colonial art gallery. Its weathered facade hints at age and an enchanting character, bathed in soft, diffused afternoon light. Through the open doorway, polished wooden floors extend inward, gently illuminated by the ambient glow. A subtle sense of quiet history pervades the atmosphere. Cinematic composition, rule of thirds, dramatic lighting, shallow depth of field.",
+    "style": "Cinematic photography, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/simfoni-warna-diam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rina, a freelance photographer, finds solace in an old art gallery, drawn to an abstract painting. She soon notices Dani, a graphic designer, equally captivated by the same artwork. An accidental sound from Rina's camera breaks the ice, leading to a conversation where they discover a profound, shared appreciation for the painting and art in general, almost touching hands in the process. Their light-hearted discussion continues, revealing mutual interests and a comfortable chemistry. As the gallery closes, they part with a warm feeling and an unspoken hope for a future encounter, leaving Rina inspired by the art and the unexpected human connection.",
+    "target_emotion": "Ketenangan, kehangatan, inspirasi, harapan",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "romansa",
+      "seni",
+      "galeri",
+      "koneksi",
+      "Jakarta",
+      "fotografi",
+      "desain grafis",
+      "kisah cinta",
+      "pertemuan tak terduga",
+      "inspirasi seni"
+    ]
+  }
+}
