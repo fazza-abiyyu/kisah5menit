@@ -1,0 +1,50 @@
+{
+  "id": "story-1765217763299",
+  "slug": "catatan-kaki-shift-ketiga",
+  "title": "Catatan Kaki Shift Ketiga",
+  "genre": "dark comedy",
+  "theme": "Seorang karyawan menemukan humor gelap dan kebebasan aneh dalam rutinitas kerja lembur yang monoton, menyingkap absurditas eksistensial di balik tuntutan perusahaan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-12-08T18:16:03.299Z",
+  "updated_at": "2025-12-08T18:16:03.299Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "corporate satire",
+    "existential dread",
+    "office life",
+    "overtime",
+    "employee rebellion",
+    "humor gelap",
+    "sarkasme",
+    "jono",
+    "shift malam",
+    "karyawan"
+  ],
+  "cover": {
+    "prompt": "A deserted office cubicle in the deep quiet of night. The central focus is a computer monitor displaying a simple digital clock, glowing softly. Tall stacks of cream and white reports are arranged neatly on the desk. Gentle, ambient overhead illumination casts a serene atmosphere, with subtle reflections on the monitor screen. The overall composition evokes quiet contemplation and enduring solitude.",
+    "style": "Cinematic photography, shallow depth of field, subtle cool tones with a faint screen glow, minimalist composition.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/catatan-kaki-shift-ketiga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Jono, an exhausted office worker, finds dark humor and strange freedom during a monotonous night shift. He's pushed to his limit by an absurd email request, leading him to a small, symbolic rebellion against corporate demands by altering files and leaving sarcastic notes. He leaves feeling sardonically victorious, his perception of work forever tainted by the dark comedy he created.",
+    "target_emotion": "cynical amusement, relatable frustration, dark humor",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "catatan kaki shift ketiga",
+      "dark comedy indonesia",
+      "humor gelap kantor",
+      "satire korporat",
+      "kehidupan kantor",
+      "pekerja lembur",
+      "jono cerita",
+      "absurditas kerja",
+      "pemberontakan karyawan",
+      "kisah shift malam",
+      "komedi sinis",
+      "narasi karyawan"
+    ]
+  }
+}
