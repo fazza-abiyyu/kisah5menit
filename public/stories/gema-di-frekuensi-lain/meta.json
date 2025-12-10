@@ -1,0 +1,47 @@
+{
+  "id": "story-1765390589134",
+  "slug": "gema-di-frekuensi-lain",
+  "title": "Gema di Frekuensi Lain",
+  "genre": "sci-fi ringan",
+  "theme": "Menggali perasaan cemas dan adaptasi terhadap sebuah perangkat teknologi baru yang menjanjikan kemudahan, namun menyimpan misteri kecil.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2025-12-10T18:16:29.134Z",
+  "updated_at": "2025-12-10T18:16:29.134Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "teknologi",
+    "augmented reality",
+    "emosi",
+    "jakarta",
+    "refleksi",
+    "urban",
+    "kecemasan",
+    "sentry",
+    "kehidupan kota"
+  ],
+  "cover": {
+    "prompt": "Cinematic wide shot, late evening, a lone figure walks across a modern pedestrian overpass above a multi-lane city avenue in Jakarta. The urban landscape stretches into the distance, illuminated by the gentle ambient glow of city lights. The figure is captured in silhouette, their form defined against the soft illumination, with a subtle, futuristic ear-mounted device visible. A sense of quiet contemplation and technological integration pervades the scene. Composition adheres to the rule of thirds, with shallow depth of field creating a focused perspective on the overpass and figure.",
+    "style": "Cinematic photography, shallow depth of field, ambient city glow color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gema-di-frekuensi-lain/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda, Bima, mencoba perangkat AR audio canggih bernama 'Sentry' yang menjanjikan pendengaran superior dan visualisasi data lingkungan real-time. Namun, perangkat tersebut mulai menangkap 'gema' atau 'sinyal' aneh yang membentuk pola visualisasi data yang menakutkan, seolah menangkap 'kesedihan kota'. Pengalaman ini memuncak di sebuah jembatan penyeberangan, menampilkan kumpulan emosi atau data yang terabaikan, membuat Bima menyadari adanya 'frekuensi lain'. Ia akhirnya melepas Sentry, memilih untuk menikmati keheningan kota tanpa filter digital, mengubah persepsinya tentang interaksi manusia dan teknologi.",
+    "target_emotion": "Kecemasan ringan dan refleksi",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "sci-fi ringan",
+      "teknologi AR",
+      "Sentry",
+      "Jakarta",
+      "emosi kota",
+      "kecemasan",
+      "realitas tersembunyi",
+      "refleksi teknologi",
+      "cerita pendek",
+      "Bima"
+    ]
+  }
+}
