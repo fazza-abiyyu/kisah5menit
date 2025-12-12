@@ -1,0 +1,46 @@
+{
+  "id": "story-1765563394662",
+  "slug": "jejak-senyap-di-aliran-air",
+  "title": "Jejak Senyap di Aliran Air",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi bagaimana observasi rutin terhadap hal-hal kecil di lingkungan sehari-hari dapat mengungkap potongan misteri lama dan membawa ketenangan pada pikiran yang ingin tahu.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2025-12-12T18:16:34.662Z",
+  "updated_at": "2025-12-12T18:16:34.662Z",
+  "status": "published",
+  "tags": [
+    "misteri ringan",
+    "sejarah lokal",
+    "penemuan",
+    "observasi",
+    "reflektif",
+    "ketenangan",
+    "petualangan",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A serene riverside pathway at dawn, bathed in soft, golden light filtering through abundant, dew-kissed foliage. Gentle currents in the river create subtle, peaceful reflections. The atmosphere evokes a tranquil sense of routine and deep connection with nature. A lone, distant silhouette of a person walks calmly on the pathway, viewed from behind, emphasizing the expansive natural setting. Cinematic composition with a focus on environmental beauty, rule of thirds, and a shallow depth of field to highlight specific elements.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-senyap-di-aliran-air/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Harjo menemukan kotak kayu tua berisi peta kuno dan petunjuk misterius di tepi sungai. Melalui observasi dan penelitian, ia mengurai teka-teki sejarah lokal yang terlupakan, menemukan sebuah prasasti kuno di bawah reruntuhan jembatan. Penemuan ini bukan harta materi, melainkan kisah berharga yang memberinya kepuasan dan koneksi mendalam dengan masa lalu kotanya, serta ketenangan reflektif.",
+    "target_emotion": "Ketenangan reflektif dan rasa ingin tahu yang terpenuhi.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "misteri",
+      "sejarah lokal",
+      "penemuan",
+      "petualangan",
+      "sungai",
+      "kota tua",
+      "ketenangan",
+      "refleksi",
+      "indonesia",
+      "budaya"
+    ]
+  }
+}
