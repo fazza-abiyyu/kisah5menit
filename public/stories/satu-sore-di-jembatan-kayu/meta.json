@@ -1,0 +1,44 @@
+{
+  "id": "story-1765649587259",
+  "slug": "satu-sore-di-jembatan-kayu",
+  "title": "Satu Sore di Jembatan Kayu",
+  "genre": "drama keluarga",
+  "theme": "Sebuah keluarga menemukan cara baru untuk berkomunikasi dan saling mendukung setelah melewati masa sulit, menunjukkan kekuatan ikatan dan penerimaan.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2025-12-13T18:13:07.259Z",
+  "updated_at": "2025-12-13T18:13:07.259Z",
+  "status": "published",
+  "tags": [
+    "keluarga",
+    "drama",
+    "rekonsiliasi",
+    "komunikasi",
+    "jembatan kayu",
+    "orang tua tunggal",
+    "saudara",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Riverside landscape at golden hour. The calm water surface beautifully reflects the soft, warm hues of the low setting sun, painting the scene in oranges and golds. Gentle, lush vegetation lines the riverbanks, with subtle hints of wild flowers. The overall atmosphere is deeply serene and contemplative, evoking a quiet sense of introspection and gentle weariness through the peaceful environment. Cinematic wide shot, rule of thirds, gentle depth of field, focusing on natural beauty and the interplay of light on water. No specific individuals or detailed human features are present.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/satu-sore-di-jembatan-kayu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Ibu Maya, seorang orang tua tunggal, merasa lelah dengan rutinitasnya dan ketegangan dengan adiknya, Sarah. Saat Sarah muncul di tepi sungai, konflik lama muncul. Puncaknya, mainan putra Maya, Leo, jatuh ke sungai dari jembatan kayu, memaksa Maya dan Sarah bekerja sama. Momen itu membuka jalan bagi percakapan jujur di mana mereka mengakui kesalahan masing-masing dan sepakat untuk memulai kembali, demi Leo dan ikatan keluarga mereka, dengan harapan baru yang tumbuh pelan.",
+    "target_emotion": "Harapan, kelegaan, empati, pemahaman",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "kisah keluarga",
+      "hubungan saudara",
+      "drama Indonesia",
+      "rekonsiliasi keluarga",
+      "pengampunan",
+      "kedamaian",
+      "harapan",
+      "orang tua tunggal"
+    ]
+  }
+}

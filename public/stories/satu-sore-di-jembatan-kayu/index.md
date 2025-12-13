@@ -1,0 +1,49 @@
+Maya menghela napas panjang, menatap Leo yang asyik bermain dengan pasir di tepi sungai. Matahari sore mulai condong, memancarkan warna jingga keemasan di permukaan air yang tenang. Suara gemericik sungai dan desiran angin yang membawa aroma melati liar seharusnya menenangkan, tapi pikiran Maya terasa penuh. Rutinitas sebagai orang tua tunggal, pekerjaan yang menuntut, dan ganjalan di hati tentang adiknya, Sarah, seolah menjadi beban yang tak pernah benar-benar pergi. Kelelahan itu terasa di setiap sendinya, membebani bahu dan jiwanya.
+
+"Ma, lihat! Aku buat gunung!" Leo berseru gembira, mengangkat kedua tangan kecilnya yang penuh pasir. Maya tersenyum, senyum yang sedikit dipaksakan, mengangguk pada putranya. "Bagus sekali, Nak." Ia mengusap rambut Leo, merasakan tekstur halus butiran pasir di helainya.
+
+Saat itulah, bayangan seseorang jatuh di sebelahnya. Maya mendongak, hatinya sedikit tercekat. Sarah. Adik perempuannya, dengan rambut hitam terurai dan sepasang mata yang dulu selalu mirip dengannya, kini terlihat sedikit asing. Ada jarak yang tak kasat mata di antara mereka. "Hai, May," sapa Sarah pelan, suaranya seperti embusan angin sore. "Kebetulan lewat." Ada keraguan dalam nada bicaranya, juga pada gerak-gerik tangannya yang meremas ujung selendang yang ia pegang erat.
+
+Maya hanya mengangguk, tanpa membalas sapaan dengan antusiasme yang sama. Bukan karena ia tidak senang melihat adiknya, tapi lapisan kecanggungan itu terlalu tebal. Sebuah kejadian lama, kesalahpahaman yang tak pernah benar-benar diselesaikan, telah menciptakan tembok di antara mereka. "Apa kabar?" Maya mencoba memulai. Percakapan ringan selalu terasa seperti medan perang kecil yang harus ia arungi.
+
+"Baik. Kamu?" Sarah menatap Leo yang kini sudah kembali serius dengan istana pasirnya. Ia mencoba tersenyum, tapi senyum itu tak sampai ke matanya, hanya sekilas di bibirnya. "Leo sudah besar, ya?"
+
+"Begitulah," jawab Maya singkat, memalingkan pandang. Udara di antara mereka terasa menipis, membatasi ruang bernapas. Maya tahu ia seharusnya memanfaatkan momen ini, tapi rasa enggan dan sedikit sakit hati yang masih tersimpan membuatnya sulit membuka diri. Sulit untuk berpura-pura semuanya baik-baik saja. "Ada apa, Ra? Tumben." Ia tak bisa menahan nada sinis yang terselip dalam suaranya.
+
+Sarah menarik napas panjang, seolah mengumpulkan keberanian. "Aku… cuma mau lihat kamu. Sudah lama." Ia duduk di samping Maya, menjaga jarak aman di antara mereka. "Waktu itu… aku minta maaf, May. Aku tahu aku salah." Suaranya hampir berbisik, nyaris tenggelam oleh suara gemericik sungai.
+
+Maya memalingkan muka, menatap Leo. Ia merasa lelah mengulang-ulang masa lalu, tapi melupakannya terasa seperti mengkhianati perasaannya sendiri. "Sudahlah, Ra. Sudah lewat." Kalimat itu terdengar seperti penolakan, lebih kepada dirinya sendiri daripada Sarah. Ia ingat bagaimana dulu Sarah selalu mendukungnya, menjadi sandarannya, sebelum akhirnya sebuah pilihan dan kesalahpahaman mengoyak kepercayaan mereka hingga menjadi serpihan.
+
+"Tidak semudah itu, May. Aku tahu kamu marah," Sarah bersikeras, nadanya sedikit lebih kuat sekarang. "Aku waktu itu terlalu egois. Mikirin diri sendiri." Matanya memohon, mencari pengertian dari kakaknya. "Tapi, May, kamu nggak pernah mau dengerin juga kenapa aku waktu itu…" Sarah menggantung kalimatnya, seolah mencari kata yang tepat untuk menggambarkan kepedihannya sendiri.
+
+Ketegangan lama itu bangkit kembali, terasa seperti listrik statis di udara. Maya merasa dadanya sesak, ingin membantah, ingin meluapkan semua kekesalannya yang terpendam. Tapi ia melihat Leo. Putranya yang polos itu sesekali melirik ke arah mereka, raut wajahnya yang ceria sedikit mengerut, seperti merasakan atmosfer aneh yang menyelimuti ibunya dan bibinya. Sebuah kesadaran menusuk hati Maya. Ia tidak bisa terus-menerus membiarkan ketegangan ini membebani hidupnya, apalagi di depan Leo yang membutuhkan kedamaian.
+
+"Maaf, buang-buang waktuku saja," Maya bergumam, berusaha bangkit. Ia merasa tidak sanggup lagi berhadapan dengan masa lalu yang berulang, luka yang terus terbuka. Sarah terlihat terluka oleh ucapan itu, tapi Maya terlalu fokus pada perasaannya sendiri untuk menyadari itu sepenuhnya.
+
+Leo, yang sedang berlari menuju jembatan kayu kecil yang melintasi anak sungai, tergelincir sebentar. Bukan jatuh, tapi keseimbangannya sedikit goyah. Tangan mungilnya yang memegang mainan favoritnya, sebuah mobil-mobilan biru cerah dengan ban karet, tak sengaja terlepas. Mainan itu meluncur melewati sela-sela papan jembatan, jatuh 'plung!' ke air sungai yang berarus pelan. Leo terdiam, matanya membesar penuh keterkejutan, lalu isak tangisnya pecah. "Mobil Leo! Hiks… mobil Leo!"
+
+Maya dan Sarah, secara refleks, serempak berlari ke jembatan. Tanpa kata, tanpa saling pandang. Hanya ada kepanikan yang sama di wajah mereka, fokus pada tangisan Leo dan mobil yang hanyut. Mobil-mobilan biru itu sudah mulai hanyut, terbawa arus pelan menjauhi jembatan. "Aduh!" Maya berseru, mencoba meraihnya tapi tangannya tak sampai. Jembatan itu tidak terlalu tinggi, tapi cukup sulit dijangkau dari atas.
+
+Sarah, tanpa ragu, langsung berlutut di tepi jembatan. Matanya bergerak cepat, mencari sesuatu. Ia menangkap ranting kering yang cukup panjang di bawah semak belukar dekat pangkal jembatan. "May, pegangin aku!" katanya cepat, sudah meraih ranting itu. Maya, masih terkejut dan panik melihat putranya menangis, tanpa pikir panjang menahan lengan Sarah yang bersandar pada tiang jembatan yang mulai usang.
+
+Sarah menjulurkan ranting itu, berusaha mengaitkan ujungnya ke ban mobil-mobilan yang sudah sedikit jauh. Air sungai yang dingin menyentuh ujung jarinya, tapi ia tak peduli. Maya menahan napas, merasa deg-degan, jantungnya berdebar kencang. Leo terus menangis, tangannya menggapai-gapai ke arah mobilnya yang perlahan menghilang dari pandangan.
+
+Satu detik. Dua detik. Ranting itu hampir tak sampai, terasa terlalu pendek. Tapi Sarah terus mencoba, fokusnya terpaku pada mobil biru yang kian jauh. Maya merapatkan pegangan pada lengan Sarah, seolah memberikan kekuatan dan dukungan yang tak terucap. Aroma basah kayu jembatan dan bau lumut terasa kuat di udara, menguar bersama ketegangan.
+
+Akhirnya, dengan sebuah gerakan cepat yang penuh perhitungan, Sarah berhasil mengaitkan mainan itu. Ia menariknya pelan, sangat hati-hati, hingga mainan itu kembali ke tangannya. Ia bangkit, napasnya sedikit terengah-engah, dan menyerahkan mobil biru yang basah itu kepada Leo. "Nih, jangan nangis lagi." Suara Sarah lembut, jauh dari ketegangan sebelumnya, penuh kehangatan.
+
+Leo langsung memeluk mobil-mobilannya, isaknya perlahan mereda menjadi gumaman lega. Sebuah senyum tipis mengembang di bibir Maya saat ia melihat betapa leganya Leo. Momen singkat kerja sama yang spontan itu terasa seperti jembatan yang menghubungkan kembali mereka berdua, lebih dari sekadar jembatan kayu di bawah kaki mereka. Ada sesuatu yang telah terlewati, sesuatu yang kini terasa lebih ringan.
+
+Mereka berdiri di atas jembatan, di bawah cahaya matahari yang kini makin meredup, meninggalkan jejak oranye dan ungu di langit barat. Angin sore terasa lebih sejuk, membelai wajah mereka. Sarah menoleh pada Maya, tatapan matanya tak lagi defensif, melainkan penuh kelembutan. "Kamu… baik-baik saja, May?" Pertanyaan itu tulus, bukan basa-basi.
+
+Maya menghela napas, kali ini terasa lebih ringan dan lega. Ia memandang Sarah, melihat adiknya, bukan lagi sosok yang membuatnya kesal. "Aku… aku juga minta maaf, Ra. Aku tahu aku juga nggak pernah mau dengerin kamu waktu itu." Suaranya tercekat, tercekat oleh emosi yang membuncah. Mengucapkan itu terasa sangat sulit, tapi juga sangat melegakan. "Aku cuma… terlalu marah. Dan terlalu lelah dengan semuanya." Ia menatap ke bawah, ke arah sungai yang mengalir tenang, membawa semua kekeruhan pergi.
+
+Sarah tersenyum, senyum yang kali ini sampai ke matanya, memancarkan kelegaan yang sama. "Nggak apa-apa, May. Aku juga salah. Kita sama-sama keras kepala." Ia menatap sungai, mengamati riak air. "Aku waktu itu takut banget, May. Kecewa sama diri sendiri. Makanya aku ambil keputusan yang… ya, gitu. Nggak mikirin kamu dan orang lain." Ia menarik napas dalam, melepaskan beban yang sudah lama ia pikul seorang diri.
+
+Keheningan menyelimuti mereka sejenak, tapi kali ini bukan keheningan yang canggung, melainkan keheningan yang penuh pengertian dan empati. Suara Leo yang kini kembali bermain dengan mobil-mobilannya di tanah, tak jauh dari jembatan, menjadi latar belakang yang menenangkan, melengkapi suasana damai.
+
+"Kita… kita bisa coba lagi, Ra," kata Maya, suaranya pelan dan penuh harap. "Mungkin bukan melupakan, tapi belajar dari yang sudah-sudah. Demi kita. Demi Leo juga, agar dia tidak merasakan beban ini." Ia menoleh pada Sarah, dan kali ini, senyumnya benar-benar tulus, memancarkan ketulusan dari hati ke hati.
+
+Sarah mengangguk, matanya berkaca-kaca, membiarkan air mata haru menetes. "Tentu, May. Aku mau. Aku… aku kangen kita yang dulu." Ia mengulurkan tangannya, dan Maya menyambutnya. Genggaman itu terasa hangat, sebuah janji tanpa kata, sebuah awal yang baru.
+
+Mereka sepakat untuk memulai kembali. Tidak akan mudah, pasti ada kerikil-kerikil kecil di jalan yang harus mereka lalui bersama, tapi setidaknya, jembatan di antara mereka sudah tidak lagi runtuh. Mereka berjanji untuk lebih sering bertemu, menikmati sore bersama Leo, membangun kembali ikatan yang pernah putus, sehelai demi sehelai. Harapan baru itu tumbuh pelan di hati Maya, seperti tunas muda yang mencari cahaya, membawa serta kelegaan yang mendalam. Mereka berdua, dan Leo, berjalan meninggalkan jembatan kayu itu, meninggalkan sisa-sisa senja, menuju harapan yang kini terasa lebih terang dan hangat di ufuk masa depan.
