@@ -1,0 +1,47 @@
+{
+  "id": "story-1765822639826",
+  "slug": "lorong-lupa-waktu",
+  "title": "Lorong Lupa Waktu",
+  "genre": "adventure ringan",
+  "theme": "Menjelajahi lorong asing dapat membuka pintu pada introspeksi tak terduga, mengungkap hikmah tersembunyi dalam rutinitas sehari-hari.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-12-15T18:17:19.826Z",
+  "updated_at": "2025-12-15T18:17:19.826Z",
+  "status": "published",
+  "tags": [
+    "introspeksi",
+    "mindfulness",
+    "urban exploration",
+    "short story",
+    "cerita pendek",
+    "perjalanan",
+    "rutinitas",
+    "seni jalanan",
+    "self-discovery",
+    "petualangan kota"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography, shallow depth of field, warm color grading. An evocative urban landscape during the soft morning light. The composition features a prominent, elegant wristwatch or a minimalist desk clock in the foreground, gently illuminated, symbolizing the passage of time and pressing commitments. In the background, out of focus, a bustling city pathway with tall, modern buildings and the gentle flow of everyday urban activity. The overall atmosphere conveys a sense of quiet pressure and continuous momentum. Utilize the rule of thirds for a balanced yet dynamic composition. Emphasize soft light and clear skies, no harsh elements.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lorong-lupa-waktu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Luna, a freelance designer, takes an unfamiliar shortcut through a drab alleyway, hoping to save time. There, she discovers a hidden, faded mural rich with symbolic meaning. This unexpected encounter prompts a deep introspection about her own busy routine and overlooked details in life. Losing herself in the mural's narrative, she reflects on the nature of time and the beauty hidden in everyday existence. She emerges from the alley with a newfound mindfulness and appreciation for life's subtle wonders, transforming a mundane shortcut into a journey of self-discovery.",
+    "target_emotion": "Reflection, tranquility, mindfulness, gentle surprise",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "lorong lupa waktu",
+      "cerita introspektif",
+      "mindfulness urban",
+      "mural tersembunyi",
+      "kisah kesadaran",
+      "petualangan ringan",
+      "keindahan rutinitas",
+      "refleksi diri",
+      "urban exploration",
+      "short story indonesia"
+    ]
+  }
+}
