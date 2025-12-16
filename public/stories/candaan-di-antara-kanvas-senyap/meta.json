@@ -1,0 +1,50 @@
+{
+  "id": "story-1765908992633",
+  "slug": "candaan-di-antara-kanvas-senyap",
+  "title": "Candaan di Antara Kanvas Senyap",
+  "genre": "psychological",
+  "theme": "Mengeksplorasi bagaimana pandangan sinis terhadap seni modern secara tak terduga mengungkap refleksi diri tentang rasa tidak aman dan nilai kreativitas pribadi.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-12-16T18:16:32.633Z",
+  "updated_at": "2025-12-16T18:16:32.633Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "humorous",
+    "art",
+    "modern art",
+    "self-discovery",
+    "sarcasm",
+    "creativity",
+    "insecurity",
+    "Jakarta",
+    "indonesian story",
+    "contemporary art"
+  ],
+  "cover": {
+    "prompt": "An expansive, pristine contemporary art gallery interior. In the foreground, a pair of slightly scuffed white sneakers, appearing weighted, rests on a polished, minimalist floor. Beyond, vibrant and intriguing abstract art installations are artfully displayed in a spacious, sunlit room. Soft, natural daylight filters in from large architectural windows, gently illuminating the scene and hinting at the vast urban landscape of Jakarta beyond. The composition emphasizes the contrast between the everyday object and the evocative art, creating a mood of gentle, urban contemplation with a subtle note of reluctance.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/candaan-di-antara-kanvas-senyap/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical graphic designer, Anto, begrudgingly accompanies his friend to a contemporary art exhibition, mocking every piece and visitor. His sarcastic facade crumbles when he accidentally stumbles upon a broken bench art installation, sparking an unexpected self-reflection about his own creative insecurities and fears of judgment. He leaves with a slightly softened view of art and a profound new self-awareness.",
+    "target_emotion": "amusement, self-reflection, empathy for inner conflict",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "contemporary art",
+      "art exhibition",
+      "cynicism",
+      "graphic designer",
+      "self-doubt",
+      "creativity",
+      "personal reflection",
+      "Indonesian literature",
+      "humorous story",
+      "psychological fiction",
+      "Jakarta culture",
+      "modern art criticism"
+    ]
+  }
+}
