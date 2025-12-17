@@ -1,0 +1,46 @@
+{
+  "id": "story-1765995546032",
+  "slug": "ketika-timun-bicara",
+  "title": "Ketika Timun Bicara",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi ironi kehidupan sehari-hari di mana kebaikan kecil seringkali datang dengan motif tersembunyi atau konsekuensi yang tidak terduga.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2025-12-17T18:19:06.032Z",
+  "updated_at": "2025-12-17T18:19:06.032Z",
+  "status": "published",
+  "tags": [
+    "pasar tradisional",
+    "komedi gelap",
+    "ironi",
+    "kesalahpahaman",
+    "moral",
+    "pedagang",
+    "dompet hilang",
+    "hidup sehari-hari",
+    "nuranip",
+    "konsekuensi tak terduga"
+  ],
+  "cover": {
+    "prompt": "A serene morning view of a bustling traditional Asian market. Warm, soft golden light of dawn gently bats colorful stacks of fresh vegetables: green kangkung, vibrant eggplants, and crisp cucumbers, meticulously arranged on a vendor's wooden stall in the foreground. The air shimmers with a gentle humidity, hinting at aromatic spices. In the background, out of focus, a gentle blur of market-goers and other stalls creates a sense of vibrant activity and community, suggesting a lively environment. A subtle, unobtrusive figure of a vendor is positioned slightly off-center, observing the unfolding scene with a calm, patient presence. The composition uses the rule of thirds, with a shallow depth of field to highlight the intricate details of the produce. The overall atmosphere is one of peaceful observation amidst the market's lively start.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ketika-timun-bicara/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical vegetable vendor, Pak Budi, finds a lost wallet, leading to a comedic and tense public misunderstanding at the market as he tries to return it, only for an ironic truth to emerge. His well-intended, yet self-serving, act of kindness backfires, highlighting the absurdities of daily life and human nature.",
+    "target_emotion": "Amusement through irony and mild tension, followed by a sense of humorous exasperation.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kisah pasar",
+      "komedi Indonesia",
+      "dompet hilang",
+      "pedagang sayur",
+      "cerita lucu",
+      "ironi kehidupan",
+      "kesalahpahaman kocak",
+      "drama pasar",
+      "sarkasme"
+    ]
+  }
+}
