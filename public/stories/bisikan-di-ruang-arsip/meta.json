@@ -1,0 +1,46 @@
+{
+  "id": "story-1766081789645",
+  "slug": "bisikan-di-ruang-arsip",
+  "title": "Bisikan di Ruang Arsip",
+  "genre": "thriller ringan",
+  "theme": "Menemukan petunjuk aneh di balik keheningan sebuah museum tua, mengungkap rahasia yang tersembunyi dalam rutinitas sehari-hari.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2025-12-18T18:16:29.644Z",
+  "updated_at": "2025-12-18T18:16:29.644Z",
+  "status": "published",
+  "tags": [
+    "museum",
+    "arsip",
+    "thriller-ringan",
+    "misteri",
+    "investigasi",
+    "rahasia",
+    "kurator",
+    "observasi",
+    "film-lama",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "Interior of an aged film archive museum. Tall, arched windows allow warm, natural sunlight to stream into the space, illuminating gentle dust motes suspended in the air. Vintage film canisters and reels are neatly arranged on wooden shelving, receding into a soft background. An old, quiet floor fan, catching the subtle glow, stands in the foreground as an artifact of time. The scene evokes a sense of preserved heritage and profound stillness, with a focus on textures and the play of light. Composition emphasizes depth and the tranquil ambiance.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-di-ruang-arsip/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Ibu Rahma, seorang kurator di museum arsip film lama yang sepi, menemukan pola keausan lantai yang aneh dan hilangnya klip-klip film kecil. Keinginannya terusik, dan melalui observasi tenang, ia mengungkap sebuah panel tersembunyi di balik lemari yang menyembunyikan aktivitas rahasia. Ia mendokumentasikan temuan-temuan ini untuk kemudian disampaikan kepada pihak berwenang secara anonim, tanpa konfrontasi langsung.",
+    "target_emotion": "curiosity, mild suspense, intrigue",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "museum arsip film",
+      "misteri museum",
+      "kisah kurator",
+      "thriller indonesia",
+      "detektif amatir",
+      "rahasia tersembunyi",
+      "cerita pendek",
+      "konspirasi kecil",
+      "pengamatan detail"
+    ]
+  }
+}
