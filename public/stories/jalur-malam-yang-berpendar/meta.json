@@ -1,0 +1,48 @@
+{
+  "id": "story-1766168088410",
+  "slug": "jalur-malam-yang-berpendar",
+  "title": "Jalur Malam yang Berpendar",
+  "genre": "sci-fi ringan",
+  "theme": "Eksplorasi bagaimana adaptasi terhadap teknologi baru yang mengubah rutinitas malam hari bisa membawa pandangan hidup yang lebih optimis dan menemukan makna tersembunyi.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2025-12-19T18:14:48.409Z",
+  "updated_at": "2025-12-19T18:14:48.409Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "augmented reality",
+    "urban exploration",
+    "Jakarta",
+    "technology",
+    "night life",
+    "optimism",
+    "hidden gems",
+    "ojek online",
+    "short story",
+    "discovery"
+  ],
+  "cover": {
+    "prompt": "A cinematic environmental shot of a lone motorcycle moving along a wide urban thoroughfare at night. The vast city unfolds in the background, adorned with a multitude of luminous, glowing city lights under a serene night sky. The perspective is slightly elevated and behind the motorcycle, capturing its subtle tail light. A distinct silhouette of a rider is positioned on the vehicle, facing towards the horizon. The composition adheres to the rule of thirds, utilizing a shallow depth of field to create a soft, ethereal blur of the background lights. The focus is on the journey and the immense urban tapestry, evoking a sense of ceaseless motion and the gentle rhythm of city life. Architectural elements and vehicle lights contribute to the atmospheric lighting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jalur-malam-yang-berpendar/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang driver ojek online, Dimas, yang bosan dengan rutinitas malamnya, mulai menemukan keindahan tersembunyi kota berkat update aplikasi navigasi yang menampilkan anomali visual augmented reality. Puncaknya, ia mengikuti petunjuk cahaya AR ke sebuah instalasi seni tersembunyi, mengubah pandangannya tentang kota dan rutinitasnya menjadi lebih optimis dan penuh makna.",
+    "target_emotion": "Optimism, wonder, discovery, curiosity, renewed perspective",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "Jakarta night",
+      "ojek online story",
+      "augmented reality fiction",
+      "urban exploration",
+      "discovery story",
+      "technology and optimism",
+      "hidden art installations",
+      "driver life Jakarta",
+      "sci-fi short story",
+      "Indonesian fiction"
+    ]
+  }
+}
