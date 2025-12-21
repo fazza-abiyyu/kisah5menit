@@ -1,0 +1,45 @@
+{
+  "id": "story-1766340852181",
+  "slug": "hening-setelah-hidangan",
+  "title": "Hening Setelah Hidangan",
+  "genre": "drama keluarga",
+  "theme": "Mengeksplorasi kerumitan hubungan orang tua dan anak dewasa, menemukan kedamaian dalam penerimaan, dan pentingnya komunikasi terbuka meskipun sulit.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-12-21T18:14:12.180Z",
+  "updated_at": "2025-12-21T18:14:12.180Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan orang tua anak",
+    "penerimaan",
+    "komunikasi",
+    "penyesalan",
+    "ibu dan anak",
+    "malam hari",
+    "introspeksi",
+    "kedamaian"
+  ],
+  "cover": {
+    "prompt": "A serene indoor scene during the late hours, focusing on a closed, simple wooden door. A gentle, inviting golden light streams from a narrow opening at the base of the door, casting a soft glow onto the floor. The surroundings are otherwise hushed and still, highlighting the warm illumination. The composition emphasizes quiet anticipation and subtle intrigue.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/hening-setelah-hidangan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang anak dewasa pulang larut malam dan menemukan ibunya menunggu di dapur. Keheningan di antara mereka terasa berat karena bertahun-tahun kesalahpahaman dan ekspektasi yang tidak terpenuhi. Melalui obrolan jujur dan pengakuan kerentanan, mereka meminta maaf, menemukan pemahaman, dan ikatan keluarga yang lebih kuat terbentuk dari kejujuran yang menenangkan.",
+    "target_emotion": "Ketenangan, penerimaan, kehangatan, haru, empati",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "drama keluarga",
+      "hubungan ibu anak",
+      "penerimaan diri",
+      "komunikasi keluarga",
+      "penyesalan",
+      "kedamaian batin",
+      "kisah mengharukan",
+      "malam hari"
+    ]
+  }
+}
