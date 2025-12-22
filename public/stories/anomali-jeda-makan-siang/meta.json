@@ -1,0 +1,48 @@
+{
+  "id": "story-1766427367080",
+  "slug": "anomali-jeda-makan-siang",
+  "title": "Anomali Jeda Makan Siang",
+  "genre": "adventure ringan",
+  "theme": "Menemukan makna petualangan dalam rutinitas sehari-hari di tempat kerja, menghadapi tantangan kecil yang tak terduga yang mengubah perspektif hidup.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2025-12-22T18:16:07.079Z",
+  "updated_at": "2025-12-22T18:16:07.079Z",
+  "status": "published",
+  "tags": [
+    "kantor",
+    "petualangan",
+    "misteri",
+    "rutinitas",
+    "jeda makan siang",
+    "penemuan diri",
+    "thriller ringan",
+    "kisah inspiratif",
+    "urban fantasy",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A cinematic wide shot capturing the interior of a contemporary corporate office space, emphasizing a feeling of endless, repetitive daily tasks. Rows of sleek, identical workstations stretch into the distance, forming a structured, almost maze-like sequence. On one prominent desk, a computer screen displays a repetitive data input interface or an unceasing list of emails. A small, slightly overlooked potted plant sits beside it, its vitality muted, hinting at fading inspiration. Soft, uniform light from large windows, gently tinted with a subtle, professional warmth, illuminates the architectural lines and repeating elements of the environment, creating a sense of controlled quietness. Composition uses the rule of thirds, with a gentle depth of field, and a subdued, professional color palette.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/anomali-jeda-makan-siang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan HR yang jenuh menemukan peta misterius di laci mejanya, mengarahkan pada petualangan rahasia di dalam gedung kantor. Berjuang melawan ketakutan melanggar aturan, ia akhirnya menemukan kapsul waktu yang mengungkap sejarah tak terduga perusahaan dan membawa perubahan perspektif dalam rutinitas hariannya.",
+    "target_emotion": "curiosity, light tension, rejuvenation, wonder, excitement",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Anomali Jeda Makan Siang",
+      "cerita petualangan kantor",
+      "misteri kantor",
+      "penemuan diri",
+      "rutinitas kerja",
+      "kisah inspiratif",
+      "petualangan ringan",
+      "karyawan HR",
+      "global megapro",
+      "kapsul waktu",
+      "urban fantasy indonesia"
+    ]
+  }
+}
