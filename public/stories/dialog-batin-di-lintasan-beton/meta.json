@@ -1,0 +1,50 @@
+{
+  "id": "story-1766513756012",
+  "slug": "dialog-batin-di-lintasan-beton",
+  "title": "Dialog Batin di Lintasan Beton",
+  "genre": "psychological",
+  "theme": "Menggali sisi humoris dari kecemasan dan overthinking harian, belajar menemukan kedamaian dengan mentertawakan bisikan-bisikan internal diri.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-12-23T18:15:56.012Z",
+  "updated_at": "2025-12-23T18:15:56.012Z",
+  "status": "published",
+  "tags": [
+    "kecemasan",
+    "overthinking",
+    "humor",
+    "psikologis",
+    "jogging",
+    "taman kota",
+    "monolog internal",
+    "self-reflection",
+    "jakarta",
+    "kehidupan sehari-hari"
+  ],
+  "cover": {
+    "prompt": "A tranquil city park at early dawn. Gentle, soft light of the rising sun filters through the abundant tree foliage, creating a serene and hopeful atmosphere. The main focus is on a pair of running shoes on a clear, well-maintained pathway, subtly suggesting a fresh start and personal ambition. A distant, blurred silhouette of a person can be perceived at the pathway's beginning, embodying a sense of quiet solitude and new intention. Lush greenery and a peaceful, expansive environment dominate the scene. Environmental shot, cinematic composition with rule of thirds, emphasizing depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/dialog-batin-di-lintasan-beton/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Bima attempts to clear his mind during a morning jog, but is constantly interrupted by absurd internal monologues and cynical observations. He struggles to focus, even with meditation, until he realizes peace comes from acknowledging and laughing at his internal chatter, embracing the humor in his overthinking rather than fighting it. He finishes his run with a newfound coping mechanism.",
+    "target_emotion": "Amusement, self-awareness, relatable frustration, eventual acceptance and humor",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "kecemasan",
+      "overthinking",
+      "humor psikologis",
+      "jogging",
+      "monolog internal",
+      "self-acceptance",
+      "stress relief",
+      "urban life",
+      "indonesian fiction",
+      "daily struggles",
+      "mindfulness",
+      "inner peace",
+      "mental health"
+    ]
+  }
+}
