@@ -1,0 +1,55 @@
+{
+  "id": "story-1766600142889",
+  "slug": "sketsa-di-gerbong-pagi",
+  "title": "Sketsa di Gerbong Pagi",
+  "genre": "romance subtle",
+  "theme": "Menggali potensi koneksi tak terduga yang muncul dari pertemuan singkat dalam rutinitas harian, menunjukkan bagaimana kebaikan kecil bisa menumbuhkan awal sebuah hubungan.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2025-12-24T18:15:42.888Z",
+  "updated_at": "2025-12-24T18:15:42.888Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle",
+    "koneksi tak terduga",
+    "pertemuan singkat",
+    "rutinitas harian",
+    "kebaikan kecil",
+    "hubungan",
+    "tenang",
+    "reflektif",
+    "KRL",
+    "commuter train",
+    "sketsa",
+    "seniman",
+    "arsitek data",
+    "jakarta",
+    "urban romance",
+    "slice of life"
+  ],
+  "cover": {
+    "prompt": "Interior view of a bustling commuter train car at early morning. Focus on the gentle light filtering through windows, illuminating the moving environment. A sleek laptop rests on a surface, reflecting the soft ambient glow. Passenger figures are depicted as blurred, indistinct shapes or elegant silhouettes, conveying the sense of a shared daily rhythm without specific details. The composition utilizes the rule of thirds, with a shallow depth of field to draw attention to the foreground elements, while the background suggests the cityscape passing by. The overall mood is one of quiet purpose and routine, with warm, inviting lighting.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sketsa-di-gerbong-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young data architect's monotonous KRL routine is disrupted when her laptop dies, forcing her to observe her surroundings. She notices a mysterious artist sketching passengers, and after an awkward eye contact, he accidentally drops his sketchbook. Rani discovers detailed sketches of herself inside. She keeps the book, hoping for a future encounter with the artist, seeing it as a potential catalyst for an unexpected connection.",
+    "target_emotion": "curiosity, warmth, hopeful anticipation, lightheartedness, sense of wonder, subtle romantic tension",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "romance KRL",
+      "kisah kereta api",
+      "cerita pendek romantis",
+      "seniman di kereta",
+      "koneksi tak terduga",
+      "jakarta commuter line",
+      "sketsa wajah",
+      "cerita cinta diam-diam",
+      "novel ringan",
+      "fiksi indonesia",
+      "rutinitas kantor"
+    ]
+  }
+}
