@@ -1,0 +1,49 @@
+{
+  "id": "story-1766686508716",
+  "slug": "senyum-abadi-sang-penjaga-museum",
+  "title": "Senyum Abadi Sang Penjaga Museum",
+  "genre": "dark comedy",
+  "theme": "Menggali makna mendalam dan kegembiraan absurd dari rutinitas pekerjaan yang tak biasa, bahkan saat dihadapkan pada misteri kecil yang tak terduga di museum.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2025-12-25T18:15:08.716Z",
+  "updated_at": "2025-12-25T18:15:08.716Z",
+  "status": "published",
+  "tags": [
+    "museum",
+    "satpam",
+    "manekin",
+    "dark comedy",
+    "rutinitas",
+    "optimisme",
+    "persahabatan",
+    "seni",
+    "misteri",
+    "Indonesia",
+    "keheningan",
+    "kisah hidup"
+  ],
+  "cover": {
+    "prompt": "A wide-angle, expansive view of an ancient museum lobby at night. Gentle ambient light glows from strategically placed sources, softly illuminating the polished marble floor and towering architectural elements. A stately artifact, partially highlighted by the soft light, stands as a focal point in the composition. The scene uses the rule of thirds with a subtle depth of field, emphasizing the grand scale and serene atmosphere of the space. The mood is one of profound tranquility and quiet contemplation, capturing the essence of routine within antiquity.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-abadi-sang-penjaga-museum/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows Pak Budi, an aging night guard at a forgotten museum, who finds a peculiar manikin resembling himself. Instead of reporting it, he 'adopts' it, naming it 'Budi Muda,' and treats it as his new colleague, sharing his thoughts during his lonely shifts. This unusual interaction eventually catches the attention of a young curator who discovers the manikin is a misplaced contemporary art project. Pak Budi's unexpected 'relationship' with Budi Muda transforms it into a unique, living exhibit, bringing joy and meaning to his routine.",
+    "target_emotion": "Amusement, warmth, gentle contemplation, and a sense of finding unique joy in the mundane and unexpected.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "museum penjaga",
+      "satpam museum",
+      "manekin unik",
+      "dark comedy Indonesia",
+      "kisah inspiratif",
+      "persahabatan tak terduga",
+      "misteri museum",
+      "seni kontemporer",
+      "rutinitas kerja",
+      "kebahagiaan sederhana"
+    ]
+  }
+}
