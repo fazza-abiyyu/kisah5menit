@@ -1,0 +1,47 @@
+{
+  "id": "story-1766772912981",
+  "slug": "sinyal-rahasia-di-jembatan-penyeberangan",
+  "title": "Sinyal Rahasia di Jembatan Penyeberangan",
+  "genre": "thriller ringan",
+  "theme": "Menggali misteri kecil di balik rutinitas kota, mengungkapkan bahwa kadang hal paling mencurigakan justru tersembunyi di tempat yang paling biasa.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2025-12-26T18:15:12.981Z",
+  "updated_at": "2025-12-26T18:15:12.981Z",
+  "status": "published",
+  "tags": [
+    "misteri",
+    "thriller",
+    "urban",
+    "jakarta",
+    "pesan rahasia",
+    "graffiti",
+    "jembatan",
+    "petualangan",
+    "investigasi",
+    "rutinitas"
+  ],
+  "cover": {
+    "prompt": "A sturdy pedestrian overpass bridge at twilight, stretching above a bustling city street. The sky above transitions from warm orange to soft purple hues. City lights begin to glow below, creating a soft bokeh effect. A solitary, silhouetted form is captured mid-stride, moving towards the edge of the frame. A gentle atmospheric haze softens the distant urban landscape, conveying an expansive, quiet ambiance. Cinematic composition, rule of thirds, dramatic golden hour lighting, shallow depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sinyal-rahasia-di-jembatan-penyeberangan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang pekerja kantoran muda bernama Rendi menemukan pola aneh dari coretan graffiti di jembatan penyeberangan yang ia lewati setiap hari, mencurigai bahwa itu adalah pesan rahasia. Rasa penasarannya membawanya untuk mengumpulkan bukti dan menguraikan pola tersebut. Saat memotret, ia merasa diikuti dan kemudian berhasil menguraikan pesan tersembunyi yang mengarahkannya ke lokasi pertemuan rahasia. Dengan hati-hati, Rendi mengikuti petunjuk, menyaksikan pertukaran mencurigakan dua orang asing di bawah jembatan, dan merekamnya sebagai bukti, merasa bangga telah mengungkap sepotong misteri urban.",
+    "target_emotion": "Curiosity and light tension, leading to a sense of intrigue and accomplishment.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "misteri urban",
+      "pesan rahasia",
+      "graffiti",
+      "thriller ringan",
+      "petualangan kota",
+      "jakarta",
+      "detektif amatir",
+      "jembatan penyeberangan",
+      "konspirasi",
+      "observasi"
+    ]
+  }
+}
