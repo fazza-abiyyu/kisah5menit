@@ -1,0 +1,47 @@
+{
+  "id": "story-1766859249108",
+  "slug": "kilauan-mikro-di-rak-detergen",
+  "title": "Kilauan Mikro di Rak Detergen",
+  "genre": "sci-fi ringan",
+  "theme": "Menemukan keajaiban kecil dan koneksi tak terduga dalam rutinitas sehari-hari, membangkitkan rasa ingin tahu akan dunia di sekitar kita.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2025-12-27T18:14:09.107Z",
+  "updated_at": "2025-12-27T18:14:09.107Z",
+  "status": "published",
+  "tags": [
+    "sci-fi ringan",
+    "keajaiban kecil",
+    "koneksi manusia",
+    "rutinitas sehari-hari",
+    "minimarket",
+    "observasi",
+    "inspiratif",
+    "slice of life",
+    "filosofis"
+  ],
+  "cover": {
+    "prompt": "A 24-hour convenience store named 'Minimarket Bintang' at a street intersection during a peaceful evening. A lone automatic scooter is parked in front. A subtle silhouette of a person stands near the scooter, holding a warm beverage sachet. Gentle lighting from the store illuminates the immediate area, contrasting with the soft twilight hues of the calm evening sky.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kilauan-mikro-di-rak-detergen/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A part-time courier observes mysterious micro-glimmers in a 24-hour convenience store, discovering they react to human emotions and positive interactions. These glimmers become most vibrant during an act of sincere kindness between a child and a grandmother, transforming his perception of everyday places into canvases of human connection.",
+    "target_emotion": "Uplifted, warmth, wonder, subtle introspection, connection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "sci-fi ringan",
+      "kehidupan sehari-hari",
+      "inspirasi",
+      "koneksi manusia",
+      "minimarket",
+      "observasi",
+      "kebaikan",
+      "fenomena aneh",
+      "cerita hangat",
+      "keajaiban tersembunyi"
+    ]
+  }
+}
