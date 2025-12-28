@@ -1,0 +1,47 @@
+{
+  "id": "story-1766945709349",
+  "slug": "pola-aneh-di-shift-malam",
+  "title": "Pola Aneh di Shift Malam",
+  "genre": "mystery ringan",
+  "theme": "Menguak keanehan kecil dalam rutinitas malam yang sepi, seorang penjaga keamanan menemukan refleksi atas pola hidup dan ketenangan di tengah misteri yang tak terdukan.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2025-12-28T18:15:09.349Z",
+  "updated_at": "2025-12-28T18:15:09.349Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "introspective",
+    "calm",
+    "night shift",
+    "office",
+    "security guard",
+    "humanity",
+    "Jakarta",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "A long, polished hallway within an upscale office tower, late in the evening. The space is largely unoccupied, with only the gentle glow of internal lighting accentuating the architectural lines. Cool, subtle illumination reflects off smooth surfaces, creating a serene ambiance. Through a vast window, the soft, distant luminescence of a sprawling metropolis is visible, offering a view of vibrant distant activity contrasting with the calm interior. A sense of quiet routine pervades the extensive corporate area.",
+    "style": "Cinematic photography, shallow depth of field, sophisticated atmospheric color palette",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-aneh-di-shift-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang penjaga keamanan bernama Budi menemukan pola kejadian ganjil selama shift malamnya di gedung perkantoran. Awalnya diabaikan, keanehan ini memicu rasa ingin tahunya. Penyelidikan hati-hati mengungkapkan rahasia personal dan simbolis dari seorang rekan kerja, memberikan Budi pemahaman baru tentang rutinitas dan ketenangan batin.",
+    "target_emotion": "Ketenangan, refleksi, rasa ingin tahu yang tenang, kepuasan emosional.",
+    "reading_time_minutes": 9,
+    "keywords": [
+      "penjaga keamanan",
+      "shift malam",
+      "gedung perkantoran",
+      "misteri ringan",
+      "introspeksi",
+      "rutinitas",
+      "ketenangan",
+      "jakarta",
+      "kisah manusia",
+      "observasi"
+    ]
+  }
+}
