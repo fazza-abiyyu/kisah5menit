@@ -1,0 +1,45 @@
+{
+  "id": "story-1767032171160",
+  "slug": "lantai-antara-kita",
+  "title": "Lantai Antara Kita",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi dinamika keluarga dan tekanan yang memaksa pengungkapan emosi tersembunyi, membawa pada pemahaman baru atau ketegangan yang lebih dalam.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2025-12-29T18:16:11.160Z",
+  "updated_at": "2025-12-29T18:16:11.160Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "konflik emosional",
+    "pengungkapan diri",
+    "lift macet",
+    "ketegangan",
+    "apartemen",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "Interior view of a contemporary lift, stationary between building levels. The environment is enveloped in profound stillness and a low light condition. A singular, faint emergency light softly illuminates a portion of the metallic control panel and a few unresponsive buttons. The composition employs a shallow depth of field and rule of thirds, emphasizing the enclosed, weighty atmosphere within the lift. A delicate, abstract floral pattern or a subtle elegant texture in the background hints at a contrasting element of recent celebration. The perspective creates a sense of profound quiet and enclosed space, avoiding any direct figures or detailed faces.",
+    "style": "Cinematic photography, minimalist composition, shallow depth of field, strong silhouettes created by accent lighting, atmospheric color grading with muted tones.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lantai-antara-kita/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A mother (Rina) and son (Ardi) become trapped in a malfunctioning apartment lift after a tense family gathering. The confined space forces them to confront long-suppressed emotions and misunderstandings about Ardi's burdensome role and Rina's choices following his father's passing, leading to a raw and honest exchange that paves the way for future communication and mutual understanding.",
+    "target_emotion": "Introspeksi, empati, kelegaan, dan harapan.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu anak",
+      "konflik emosional",
+      "perasaan terpendam",
+      "lift macet",
+      "apartemen",
+      "tekanan hidup",
+      "pemahaman diri",
+      "komunikasi keluarga",
+      "healing"
+    ]
+  }
+}
