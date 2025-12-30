@@ -1,0 +1,47 @@
+{
+  "id": "story-1767118557033",
+  "slug": "kode-di-balik-panel-listrik",
+  "title": "Kode di Balik Panel Listrik",
+  "genre": "adventure ringan",
+  "theme": "Mengungkapkan bahwa bahkan dalam rutinitas kerja yang paling membosankan sekalipun, selalu ada celah untuk petualangan kecil dan penemuan tak terduga yang dapat mencerahkan hari.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2025-12-30T18:15:57.033Z",
+  "updated_at": "2025-12-30T18:15:57.033Z",
+  "status": "published",
+  "tags": [
+    "adventure",
+    "humor",
+    "office life",
+    "mystery",
+    "discovery",
+    "indonesian",
+    "satpam",
+    "slice-of-life",
+    "hidden gems",
+    "routine"
+  ],
+  "cover": {
+    "prompt": "Interior of an aged office building during the quiet night hours. A prominent, imposing electrical panel, filled with a maze of conduits and switches, dominates the frame, positioned according to the rule of thirds. Soft, ambient illumination casts a gentle sheen on the metal surfaces and a subtle play of light upon the surrounding wall. The atmosphere is one of profound stillness and contained potential. A long corridor extends into the background, hinting at the vastness of the building.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kode-di-balik-panel-listrik/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Satpam Budi, bored with his night shift, discovers cryptic markings behind an electrical panel in an old office building. Intrigued, he follows these clues, leading him through forgotten parts of the office. The 'treasure hunt' culminates in the discovery of a box of humorous and nostalgic letters from past employees, giving him a new perspective on his job and the mundane office environment, turning his monotonous night into a personal adventure.",
+    "target_emotion": "Amusement, lighthearted curiosity, a sense of pleasant discovery, gentle introspection.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "satpam Budi",
+      "petualangan kantor",
+      "misteri panel listrik",
+      "humor tempat kerja",
+      "kisah sehari-hari",
+      "cerita pendek Indonesia",
+      "penemuan tak terduga",
+      "rutinitas membosankan",
+      "surat lama karyawan",
+      "gudang arsip"
+    ]
+  }
+}
