@@ -1,0 +1,46 @@
+{
+  "id": "story-1767291325365",
+  "slug": "debu-kenangan-di-laci-lama",
+  "title": "Debu Kenangan di Laci Lama",
+  "genre": "psychological",
+  "theme": "Sebuah perjalanan reflektif seorang karyawan yang menemukan arti memaafkan diri sendiri melalui kenangan yang tersimpan dalam benda-benda lama di ruang arsip kantor.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-01-01T18:15:25.365Z",
+  "updated_at": "2026-01-01T18:15:25.365Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "reflection",
+    "memory",
+    "self-forgiveness",
+    "office life",
+    "indonesian story",
+    "melancholy",
+    "introspection",
+    "past mistakes"
+  ],
+  "cover": {
+    "prompt": "An ancient, textured wooden door, visibly aged and coated in a thick layer of fine dust, positioned in a quiet corner of a forgotten interior space. Gentle ambient illumination filters into the room, highlighting suspended particles in the still air. The atmosphere is imbued with the subtle scent of old paper and the quiet passage of time. The scene evokes a feeling of uncovering a rich, preserved past and entering a corridor of deep memories. Focused on the object, no people.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, rule of thirds composition, environmental focus.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/debu-kenangan-di-laci-lama/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan bernama Rama diminta membersihkan ruang arsip kantor lama yang terbengkalai. Selama prosesnya, ia menemukan benda-benda kecil seperti pulpen mentor dan gantungan kunci rekan kerja yang memicu ingatan akan kesalahan masa lalu dan penyesalan. Puncak ceritanya adalah penemuan foto dan surat terakhir dari mendiang ibunya, yang memaksa Rama menghadapi penyesalan terbesarnya dan menyadari pentingnya memaafkan diri sendiri untuk melangkah maju menuju kedamaian batin.",
+    "target_emotion": "Introspeksi, melankolis, penyesalan, pemaafan diri, kedamaian",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "self-reflection",
+      "forgiveness",
+      "nostalgia",
+      "memory lane",
+      "personal growth",
+      "emotional journey",
+      "indonesian literature",
+      "short story",
+      "office archives",
+      "healing"
+    ]
+  }
+}
