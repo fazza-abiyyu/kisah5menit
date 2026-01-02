@@ -1,0 +1,48 @@
+{
+  "id": "story-1767377859951",
+  "slug": "jeda-di-meja-kosong",
+  "title": "Jeda di Meja Kosong",
+  "genre": "romance subtle",
+  "theme": "Menemukan koneksi tak terduga dan keindahan dalam rutinitas kerja sehari-hari, mengajarkan bahwa kebahagiaan seringkali tersimpan dalam detail-detail kecil yang kita bagikan dengan orang lain.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-01-02T18:17:39.951Z",
+  "updated_at": "2026-01-02T18:17:39.951Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "office life",
+    "workplace connection",
+    "daily routine",
+    "introspection",
+    "unexpected discovery",
+    "slice of life",
+    "indonesian fiction"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph of a well-organized desk setup in a bright, professional workspace. Gentle morning light softly illuminates a steaming cup of coffee and a pair of headphones placed beside a computer monitor displaying a subtle design interface. The monitor emits a very faint, soft glow. The foreground features a neatly arranged desk, with hints of paper stacks and the outline of a printer in the slightly blurred background, creating a sense of a focused and serene daily routine. The composition utilizes the rule of thirds, with a shallow depth of field. Warm, inviting color grading enhances the feeling of a productive start to the workday.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jeda-di-meja-kosong/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A graphic designer, accustomed to her monotonous office routine, notices the absence of her colleague from the desk across. The empty desk disrupts her focus, making her realize how much she relied on the subtle rhythms of his presence. She finds a unique bookmark with a sketch and a phone number left behind, revealing a deeper, unexpected side to her quiet colleague. Upon his return, the shared discovery of the bookmark sparks their first meaningful conversation, transforming their routine office interactions into a warm, familiar connection.",
+    "target_emotion": "Warmth, Reflection, Comfort, Quiet joy, Curiosity, Serenity",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "office romance",
+      "subtle romance story",
+      "workplace connection",
+      "daily routine",
+      "unexpected discovery",
+      "indonesian fiction",
+      "short story",
+      "personal reflection",
+      "office life",
+      "finding happiness",
+      "hidden details",
+      "quiet observations"
+    ]
+  }
+}
