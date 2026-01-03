@@ -1,0 +1,49 @@
+{
+  "id": "story-1767464065467",
+  "slug": "karton-misterius-di-pantry-kantor",
+  "title": "Karton Misterius di Pantry Kantor",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi bagaimana adaptasi terhadap keanehan dan humor gelap di tempat kerja dapat menumbuhkan kebersamaan serta kebahagiaan ironis.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-01-03T18:14:25.467Z",
+  "updated_at": "2026-01-03T18:14:25.467Z",
+  "status": "published",
+  "tags": [
+    "kantor",
+    "humor",
+    "misteri",
+    "komedi",
+    "absurditas",
+    "kerja",
+    "pantry",
+    "karton",
+    "kebersamaan",
+    "adaptasi",
+    "dark comedy",
+    "employee engagement"
+  ],
+  "cover": {
+    "prompt": "A plain, medium-sized cardboard box is gently placed in a quiet corner of a bright, modern office pantry on an upper floor. A contemporary water dispenser is softly visible in the background, offering environmental context. The illumination is gentle and even, highlighting the unassuming presence of the box. The composition utilizes the rule of thirds, with a shallow depth of field to subtly emphasize the box as a point of calm interest within the organized space. The overall atmosphere conveys a sense of subtle intrigue within a familiar, everyday setting, free from human presence.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/karton-misterius-di-pantry-kantor/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan menemukan karton misterius di pantry kantor yang mulai mengeluarkan benda aneh dan tugas lucu, menciptakan kekacauan dan kebersamaan di antara rekan kerja. Saat manajemen curiga, tim bersatu melindungi keanehan itu, menjadikannya bagian tak terpisahkan dari dinamika kantor yang absurd dan ironis.",
+    "target_emotion": "Amusement, ironic happiness, lightheartedness, sense of belonging through shared absurdity",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kantor",
+      "humor gelap",
+      "komedi kantor",
+      "karton misterius",
+      "keanehan kerja",
+      "dinamika kantor",
+      "absurditas",
+      "tempat kerja",
+      "cerita pendek",
+      "indonesia"
+    ]
+  }
+}
