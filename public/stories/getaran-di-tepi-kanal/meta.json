@@ -1,0 +1,49 @@
+{
+  "id": "story-1767550494176",
+  "slug": "getaran-di-tepi-kanal",
+  "title": "Getaran di Tepi Kanal",
+  "genre": "thriller ringan",
+  "theme": "Sebuah eksplorasi mengenai bagaimana sensasi fisik yang misterius bisa menjadi manifestasi dari kecemasan atau kenangan psikologis yang belum terselesaikan, mendorong karakter untuk introspeksi mendalam.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-01-04T18:14:54.176Z",
+  "updated_at": "2026-01-04T18:14:54.176Z",
+  "status": "published",
+  "tags": [
+    "psikologis",
+    "thriller ringan",
+    "introspeksi",
+    "memori",
+    "self-discovery",
+    "kecemasan",
+    "kanal",
+    "misteri internal",
+    "reflektif",
+    "trauma"
+  ],
+  "cover": {
+    "prompt": "Cinematic wide shot of a tranquil canal at golden hour, its calm waters reflecting the soft, warm sky. A gently textured pathway runs alongside, lined with graceful willow trees and sturdy old buildings of classic architecture. A distant, out-of-focus silhouette of a person moves along the path, suggesting a peaceful ritual. Emphasize leading lines and a sense of depth, with warm color grading.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/getaran-di-tepi-kanal/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya experiences mysterious physical vibrations during her runs by a canal. Initially confused and anxious, she searches for external causes without success. During a particularly strong vibration, she realizes it's an internal manifestation of a suppressed childhood memory—a forgotten near-drowning accident at that exact spot. She resolves to use this 'alarm' as a guide for self-discovery and accepting past trauma.",
+    "target_emotion": "Introspeksi, ketenangan setelah ketegangan, pemahaman diri",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "thriller psikologis",
+      "misteri",
+      "kecemasan",
+      "kenangan tertekan",
+      "introspeksi",
+      "self-discovery",
+      "trauma masa kecil",
+      "kanal",
+      "narasi reflektif",
+      "sensasi fisik",
+      "penemuan diri"
+    ]
+  }
+}
