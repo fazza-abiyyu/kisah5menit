@@ -1,0 +1,43 @@
+{
+  "id": "story-1767723381738",
+  "slug": "misteri-kaos-kaki-kanan-yang-hilang-di-gang-pasar",
+  "title": "Misteri Kaos Kaki Kanan yang Hilang di Gang Pasar",
+  "genre": "mystery ringan",
+  "theme": "Menemukan intrik dan keanehan lucu dalam pengamatan sehari-hari yang dilakukan seorang penjual di gang pasar, mengubah hal kecil menjadi petualangan detektif mini.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-01-06T18:16:21.738Z",
+  "updated_at": "2026-01-06T18:16:21.738Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "humor",
+    "pasar",
+    "detektif",
+    "kucing",
+    "slice of life",
+    "Indonesia",
+    "kaos kaki"
+  ],
+  "cover": {
+    "prompt": "Early morning scene at the entrance of a bustling market pathway. A humble, inviting street food stall with subtle steam rising, positioned on one side. On the opposite side, freshly laundered clothes hang and gently sway on a line, illuminated by soft, natural daylight. The composition emphasizes strong silhouettes and clean lines, capturing a sense of quiet, keen observation. Gentle ambient lighting, serene atmosphere. Focus on environment and objects, no detailed faces.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/misteri-kaos-kaki-kanan-yang-hilang-di-gang-pasar/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Jono, a cynical yet highly observant street food vendor, notices a peculiar pattern: a right sock consistently goes missing from laundry lines around the market every Monday morning. Driven by a pragmatic and humorous challenge, he embarks on a mini-detective adventure, eventually discovering the 'culprit' to be an old stray cat with a unique hobby of collecting right socks for its nest. Jono retrieves the socks, returns them to their oblivious owners with sarcastic remarks, and proudly adds 'sock detective' to his repertoire.",
+    "target_emotion": "Amusement, curiosity, lightheartedness, witty satisfaction",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "misteri kaos kaki",
+      "cerita lucu",
+      "detektif jalanan",
+      "kisah pasar",
+      "humor Indonesia",
+      "kucing aneh",
+      "observasi sehari-hari",
+      "petualangan ringan"
+    ]
+  }
+}
