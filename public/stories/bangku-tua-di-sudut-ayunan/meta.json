@@ -1,0 +1,51 @@
+{
+  "id": "story-1767809829726",
+  "slug": "bangku-tua-di-sudut-ayunan",
+  "title": "Bangku Tua di Sudut Ayunan",
+  "genre": "drama keluarga",
+  "theme": "Sebuah refleksi melankolis tentang ingatan masa lalu dan bagaimana keluarga berubah seiring waktu, menemukan kedamaian dalam kenangan manis yang bertahan.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-01-07T18:17:09.726Z",
+  "updated_at": "2026-01-07T18:17:09.726Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "kenangan",
+    "keluarga",
+    "rindu",
+    "melankolis",
+    "taman kota",
+    "kakek",
+    "refleksi",
+    "Indonesia",
+    "masa lalu"
+  ],
+  "cover": {
+    "prompt": "Golden hour in a lively city park. A solitary, weathered wooden park bench with peeling paint is positioned in a quiet area under a flamboyant tree, its branches gently losing leaves. The scene focuses on the quiet contemplation evoked by the bench and tree. In the mid-ground, out of focus, gentle blurs of children playing and bright park equipment catch the warm light, creating a vivid contrast. A subtle silhouette of a person is seated on the bench, adding to the atmosphere of gentle reflection amidst activity. Rule of thirds composition, rich, warm light effects.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bangku-tua-di-sudut-ayunan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kakek duduk di bangku taman yang sepi, merefleksikan kenangan manis bersama cucu-cucunya yang kini berjauhan. Melihat momen kehangatan keluarga lain memicu kesedihan sekaligus rasa syukur, mendorongnya untuk menemukan kedamaian dan kembali menjalin komunikasi dengan anaknya.",
+    "target_emotion": "melankolis lembut, rindu, harapan, kedamaian, refleksi",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "bangku taman",
+      "kenangan masa lalu",
+      "keluarga yang terpencar",
+      "rindu cucu",
+      "drama keluarga",
+      "refleksi hidup",
+      "kesendirian",
+      "harapan",
+      "kakek",
+      "taman kota",
+      "melankolis",
+      "hubungan keluarga",
+      "cerita pendek Indonesia",
+      "perubahan waktu"
+    ]
+  }
+}
