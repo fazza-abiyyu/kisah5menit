@@ -1,0 +1,46 @@
+{
+  "id": "story-1767896095577",
+  "slug": "relief-tersembunyi-di-bawah-lintasan",
+  "title": "Relief Tersembunyi di Bawah Lintasan",
+  "genre": "adventure ringan",
+  "theme": "Menjelajahi sudut kota yang terlupakan, menemukan cerita tersembunyi dari masa lalu, dan merasakan keindahan dalam kesederhanaan observasi.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-01-08T18:14:55.576Z",
+  "updated_at": "2026-01-08T18:14:55.576Z",
+  "status": "published",
+  "tags": [
+    "fotografi",
+    "urban exploration",
+    "sejarah kota",
+    "seniman lokal",
+    "relief kuno",
+    "kisah tersembunyi",
+    "refleksi",
+    "penemuan",
+    "krisis 98"
+  ],
+  "cover": {
+    "prompt": "A captivating environmental shot of a vibrant, traditional city market, viewed from a slightly elevated perspective. Winding urban pathways and ancient building facades are bathed in soft, warm golden hour light. The air conveys a sense of bustling yet gentle activity, reflecting the rich aromas of spices and life. A vintage mirrorless camera, slightly worn but cherished, is subtly placed in the foreground or mid-ground, suggesting a journey of discovery. Cinematic composition with a gentle rule of thirds, excellent depth of field, and a nostalgic, inviting atmosphere. Focus on textures, architectural details, and the overall ambiance of a city's overlooked beauty.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/relief-tersembunyi-di-bawah-lintasan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance photographer discovers a hidden ancient relief under a quiet pedestrian overpass. Driven by curiosity, she uncovers its origins as a silent monument to those who endured a past city crisis, created by a vanished local artist. She photographs and documents it, choosing to keep its exact location a secret, valuing its quiet history.",
+    "target_emotion": "Nostalgia, wonder, reflective connection to history, appreciation for hidden beauty.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "relief kuno",
+      "fotografer lepas",
+      "sejarah kota",
+      "seniman jalanan",
+      "monumen bisu",
+      "urban exploration",
+      "kisah tersembunyi",
+      "krisis 98",
+      "petualangan reflektif",
+      "penemuan seni"
+    ]
+  }
+}
