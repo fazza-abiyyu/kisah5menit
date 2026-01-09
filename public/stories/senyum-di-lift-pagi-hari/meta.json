@@ -1,0 +1,43 @@
+{
+  "id": "story-1767982609983",
+  "slug": "senyum-di-lift-pagi-hari",
+  "title": "Senyum di Lift Pagi Hari",
+  "genre": "psychological",
+  "theme": "Menceritakan perjalanan seseorang dalam menemukan kembali kebahagiaan dan perspektif positif melalui observasi sederhana dalam rutinitas hariannya.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-01-09T18:16:49.983Z",
+  "updated_at": "2026-01-09T18:16:49.983Z",
+  "status": "published",
+  "tags": [
+    "optimisme",
+    "rutinitas harian",
+    "penemuan diri",
+    "kehidupan kota",
+    "cerita pendek",
+    "kebahagiaan sederhana",
+    "mindfulness",
+    "refleksi"
+  ],
+  "cover": {
+    "prompt": "A modern apartment interior bathed in soft, early morning light. A large, reflective surface, like a window or a minimalist mirror, dominates the frame, showing a subtle, ambiguous reflection of the room itself or a very distant, undefined silhouette. The background reveals the gentle blur of an awakening urban landscape, with towering buildings hinting at a tech-centric environment. Emphasize a sense of quiet routine and thoughtful pause. Cinematic composition, rule of thirds, and shallow depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-di-lift-pagi-hari/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan muda yang merasa jenuh dengan rutinitas kantor menemukan kembali kebahagiaan dan perspektif positif melalui observasi sederhana terhadap interaksi dan momen kecil di dalam lift apartemennya setiap pagi, mengubah pandangannya dari kecemasan menjadi optimisme.",
+    "target_emotion": "Hope, Optimism, Warmth, Gratitude",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "inspirasi pagi",
+      "self-improvement",
+      "kesejahteraan mental",
+      "urban life",
+      "bahasa indonesia",
+      "cerita motivasi",
+      "rutinitas positif",
+      "kebahagiaan dalam kesederhanaan"
+    ]
+  }
+}
