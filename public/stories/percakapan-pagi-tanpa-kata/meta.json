@@ -1,0 +1,48 @@
+{
+  "id": "story-1768068896040",
+  "slug": "percakapan-pagi-tanpa-kata",
+  "title": "Percakapan Pagi Tanpa Kata",
+  "genre": "romance subtle",
+  "theme": "Menemukan benang merah kebaikan dan koneksi tak terduga dalam rutinitas perjalanan harian yang monoton, membangun harapan akan interaksi yang lebih dalam.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-01-10T18:14:56.040Z",
+  "updated_at": "2026-01-10T18:14:56.040Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "slice of life",
+    "commuter life",
+    "krl",
+    "jakarta",
+    "daily routine",
+    "unexpected connection",
+    "optimism",
+    "silent conversation",
+    "indonesian story"
+  ],
+  "cover": {
+    "prompt": "A tranquil morning scene from inside a commuter train, capturing the essence of a daily journey. A window, framed by the train's interior, reveals a gently illuminated outside world in soft focus. An empty seat or a very subtle, generalized silhouette of a passenger is positioned near the window. Gentle, warm morning light streams into the carriage, creating areas of subtle shading and highlights on the seats and interior surfaces. A simple travel mug or thermos sits placidly, hinting at a warm beverage. Cinematic composition with a shallow depth of field, emphasizing the quiet atmosphere of routine and gentle contemplation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/percakapan-pagi-tanpa-kata/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, a commuter, notices a mysterious man in her daily train routine. They share silent smiles but hesitate to speak. A sudden train stop causes Risa to drop her documents, and the man helps her, leading to a brief, meaningful conversation. This breaks the ice, changing their routine into something they both anticipate, building hope for deeper connection.",
+    "target_emotion": "Hope, warmth, gentle anticipation, optimistic connection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita romantis",
+      "commuter line",
+      "koneksi manusia",
+      "rutinitas pagi",
+      "perjalanan kereta",
+      "romansa tersembunyi",
+      "interaksi tak terduga",
+      "harapan",
+      "kisah perkotaan",
+      "percintaan diam-diam"
+    ]
+  }
+}
