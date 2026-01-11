@@ -1,0 +1,47 @@
+{
+  "id": "story-1768155285179",
+  "slug": "ritual-kulkas-kantor",
+  "title": "Ritual Kulkas Kantor",
+  "genre": "dark comedy",
+  "theme": "Menggali sisi absurd dari ritual kantor yang tampak sepele, di mana perjuangan batin seorang karyawan menghadapi kecemasan hariannya terungkap dalam sebuah insiden kecil di kulkas komunal.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-01-11T18:14:45.179Z",
+  "updated_at": "2026-01-11T18:14:45.179Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "office life",
+    "workplace anxiety",
+    "communal fridge",
+    "overthinking",
+    "absurdity",
+    "indonesian story",
+    "slice of life",
+    "passive aggressive",
+    "humor sinis"
+  ],
+  "cover": {
+    "prompt": "A stark white, minimalist communal office refrigerator, positioned as the prominent focal point in a clean, uncluttered office pantry setting. Subtle, diffused ambient light softly illuminates the scene, hinting at a quiet, everyday environment. A faint, cool internal glow emanates from the refrigerator's slightly ajar door, casting a very gentle sheen on its surface. The overall composition evokes a pervasive sense of apprehension and unspoken tension, suggesting unseen elements and a history of forgotten items within its silent enclosure. Cinematic composition, rule of thirds, shallow depth of field, warm color grading.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ritual-kulkas-kantor/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Aisyah, an anxious office worker, faces a crisis when her favorite labeled yogurt disappears from the communal fridge, seemingly replaced by an unknown pudding. This incident sparks an internal drama about control, injustice, and passive-aggressiveness within the office. After a day of overthinking and plotting 'revenge,' she discovers her yogurt was merely hidden behind other items, and the pudding belonged to someone else. This leads to a realization about her own self-created anxieties and finding peace in the absurdity of office life.",
+    "target_emotion": "Reflective amusement and relief",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "office drama",
+      "workplace anxiety",
+      "communal fridge story",
+      "overthinking at work",
+      "dark comedy short story",
+      "indonesian office life",
+      "passive aggressive workplace",
+      "daily routine humor",
+      "self-discovery at work",
+      "absurd office situations"
+    ]
+  }
+}
