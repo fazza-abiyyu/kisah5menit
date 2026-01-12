@@ -1,0 +1,42 @@
+{
+  "id": "story-1768241861395",
+  "slug": "objek-misterius-di-jpo-malam",
+  "title": "Objek Misterius di JPO Malam",
+  "genre": "thriller ringan",
+  "theme": "Menggali ketegangan halus yang muncul ketika seorang individu menemukan objek asing di tempat umum yang sepi, mempertanyakan asal-usulnya dan niat di baliknya.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-01-12T18:17:41.395Z",
+  "updated_at": "2026-01-12T18:17:41.395Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "misteri",
+    "urban",
+    "jakarta",
+    "ketegangan",
+    "psikologis",
+    "pendek",
+    "jpo"
+  ],
+  "cover": {
+    "prompt": "A lone silhouette traversing a contemporary pedestrian bridge, high above a bustling Jakarta cityscape at twilight. The metropolitan street below is a river of soft, warm vehicle lights and building illuminations, creating a gentle, humid atmosphere. The scene emphasizes urban scale and a sense of quiet observation amidst city movement, with a focus on the bridge's architecture and the city's warm glow. Environmental storytelling.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/objek-misterius-di-jpo-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer bernama Laras menemukan kotak misterius di JPO yang sepi di malam hari, memicu rasa penasaran dan firasat diawasi, hingga akhirnya memutuskan meninggalkannya namun terhantui oleh kegelisahan dan misteri urban.",
+    "target_emotion": "Curiosity, light suspense, uneasiness, wonder",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "urban mystery",
+      "jakarta",
+      "thriller ringan",
+      "jpo",
+      "objek aneh",
+      "ketegangan psikologis",
+      "cerita pendek"
+    ]
+  }
+}
