@@ -1,0 +1,48 @@
+{
+  "id": "story-1768328293599",
+  "slug": "tablet-ajaib-mbok-tun",
+  "title": "Tablet Ajaib Mbok Tun",
+  "genre": "sci-fi ringan",
+  "theme": "Kisah seorang penjual jamu senior di pasar tradisional yang dipaksa beradaptasi dengan perangkat teknologi baru, menemukan humor dan tantangan dalam rutinitasnya.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-01-13T18:18:13.598Z",
+  "updated_at": "2026-01-13T18:18:13.598Z",
+  "status": "published",
+  "tags": [
+    "teknologi",
+    "tradisi",
+    "pasar",
+    "humor",
+    "adaptasi",
+    "jamu",
+    "Indonesia",
+    "sci-fi ringan",
+    "kearifan lokal"
+  ],
+  "cover": {
+    "prompt": "A vibrant traditional Indonesian market scene, bathed in the soft glow of golden hour. Focus on a well-arranged jamu seller's stall, showcasing an array of colorful artisanal bottles and fragrant natural herbs on a rustic wooden counter. A sleek, modern smart tablet sits prominently among the traditional wares, creating a visual contrast. Warm, filtering sunlight illuminates the textures and colors, with a gentle bokeh effect subtly blurring the lively market activity in the background. The composition highlights the peaceful juxtaposition of old traditions meeting new technology, evoking a sense of gentle transition.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/tablet-ajaib-mbok-tun/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Mbok Tun, a traditional jamu seller, reluctantly adopts a 'smart tablet' for her stall. The device's glitches and frustrating features, like misnaming ingredients and playing loud dangdut music during peak hours, disrupt her routine. In a moment of crisis, Mbok Tun cleverly bypasses the tablet for manual transactions, earning praise from customers. She eventually finds a compromise, using the tablet for basic scanning while relying on her trusted manual system for actual payments.",
+    "target_emotion": "Amusement and a touch of nostalgic reflection on technological adaptation.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Mbok Tun",
+      "jamu seller",
+      "traditional market",
+      "technology adoption",
+      "digitalization",
+      "Pasar Beringin",
+      "humorous story",
+      "Indonesian culture",
+      "generational gap",
+      "market vendors",
+      "local wisdom",
+      "sci-fi ringan"
+    ]
+  }
+}
