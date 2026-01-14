@@ -1,0 +1,46 @@
+{
+  "id": "story-1768414700449",
+  "slug": "rekaman-hening-layar-usang",
+  "title": "Rekaman Hening Layar Usang",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi keheningan dan jejak masa lalu di sebuah bioskop tua, seorang penulis menemukan petunjuk misteri kecil yang membutuhkan perhatian, menguak memori yang tertinggal.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-01-14T18:18:20.448Z",
+  "updated_at": "2026-01-14T18:18:20.448Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "melancholy",
+    "nostalgia",
+    "old cinema",
+    "unresolved love",
+    "writer",
+    "indonesian story",
+    "emotional mystery"
+  ],
+  "cover": {
+    "prompt": "Exterior view of an aged cinema building, named 'Pelangi' (Rainbow), displaying a softened, worn facade that speaks of the gentle passage of time. A vintage neon sign above the entrance, mostly unilluminated, reveals only a few letters with a soft, inviting glow. The surroundings are tranquil, bathed in a warm, gentle illumination of late afternoon. The scene evokes a deep sense of nostalgia and quietude, highlighting the building as a peaceful, intriguing escape. A lone, distant silhouette stands near the entrance, observing the structure, emphasizing the solitude and atmospheric scale. Cinematic composition with a shallow depth of field, focusing on the illuminated sign and the building's gentle charm.",
+    "style": "Lo-fi aesthetic, vintage film grain, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/rekaman-hening-layar-usang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a young writer, finds inspiration in an old, quiet cinema. She uncovers a recurring mystery involving a ticket and a faint perfume, leading her to a hidden journal detailing a poignant, unfulfilled love story. Inspired, she writes a tribute, continuing a silent ritual at the cinema.",
+    "target_emotion": "melancholy, nostalgia, empathy, quiet intrigue",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "bioskop tua",
+      "misteri",
+      "cinta tak sampai",
+      "penulis",
+      "melankolis",
+      "nostalgia",
+      "kisah sedih",
+      "jurnal rahasia",
+      "inspirasi",
+      "pelangi cinema",
+      "emotional discovery"
+    ]
+  }
+}
