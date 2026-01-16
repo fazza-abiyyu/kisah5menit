@@ -1,0 +1,47 @@
+{
+  "id": "story-1768587466459",
+  "slug": "jejak-senyap-di-lorong",
+  "title": "Jejak Senyap di Lorong",
+  "genre": "adventure ringan",
+  "theme": "Menemukan petualangan tersembunyi dan cerita bisu di balik jejak-jejak samar yang ditinggalkan di sudut-sudut kota yang terlupakan.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-01-16T18:17:46.459Z",
+  "updated_at": "2026-01-16T18:17:46.459Z",
+  "status": "published",
+  "tags": [
+    "adventure",
+    "urban exploration",
+    "mystery",
+    "discovery",
+    "street art",
+    "community",
+    "observation",
+    "city life",
+    "light adventure",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "An empty, ceramic coffee mug rests on a minimalist desk. Beside it, a large computer monitor is off, its screen reflecting a soft, gentle glow from an internal light source or distant urban lights entering through a window. The overall composition evokes a tranquil, early morning atmosphere, signifying the quiet completion of a dedicated task. Shallow depth of field blurs the background, hinting at an urban setting just beyond a window. The mood is peaceful and reflective.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-senyap-di-lorong/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang desainer grafis menemukan simbol aneh di lorong sepi saat pulang kerja larut malam. Rasa penasaran mendorongnya mengikuti jejak-jejak serupa yang membimbingnya melalui kota, menguak peta kecil dan sketsa tersembunyi yang mengarah ke instalasi seni jalanan atau kebun komunitas rahasia. Ia menemukan kepuasan dari petualangan ringan ini, mengungkap sisi lain kota yang terabaikan, dan meninggalkan jejak kecilnya sendiri.",
+    "target_emotion": "curiosity, peaceful discovery, wonder",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "urban exploration",
+      "misteri kota",
+      "seni jalanan",
+      "cerita penemuan",
+      "petualangan",
+      "desain grafis",
+      "observasi urban",
+      "komunitas tersembunyi",
+      "jakarta",
+      "indonesia"
+    ]
+  }
+}
