@@ -1,0 +1,52 @@
+{
+  "id": "story-1768673738297",
+  "slug": "cahaya-batin-di-bawah-rembulan",
+  "title": "Cahaya Batin di Bawah Rembulan",
+  "genre": "psychological",
+  "theme": "Seorang seniman muda yang seringkali membandingkan dirinya dengan orang lain, menemukan ketenangan dan penerimaan diri di tepi sungai kota yang sunyi di malam hari.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-01-17T18:15:38.297Z",
+  "updated_at": "2026-01-17T18:15:38.297Z",
+  "status": "published",
+  "tags": [
+    "self-discovery",
+    "inner-peace",
+    "artist-life",
+    "urban-reflection",
+    "mindfulness",
+    "personal-growth",
+    "creative-block",
+    "anxiety",
+    "self-acceptance",
+    "moonlight-inspiration",
+    "Indonesian-fiction"
+  ],
+  "cover": {
+    "prompt": "A solitary figure, seen as a silhouette, seated on a worn wooden bench by a tranquil riverbank. The person is in a contemplative pose, gazing across the water. Distant city lights twinkle across the river like countless gentle fireflies, creating a soft, luminous backdrop. The scene is enveloped by the serene ambiance of early nightfall, with graceful tree canopies gently enclosing the space. Cool air permeates the peaceful setting, evoking a profound sense of calm amidst quiet introspection.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/cahaya-batin-di-bawah-rembulan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Elisa, a freelance illustrator, struggles with self-doubt and comparison to peers, feeling trapped by internal and external pressures. While sitting by a quiet city river, her gaze upon the moon's reflection triggers a memory of her grandmother's wisdom about the unique value in every part of a river's journey. This realization helps Elisa find a renewed sense of peace and optimism, inspiring her to appreciate her own process and find happiness in her unique path, rather than solely focusing on outcomes or comparisons.",
+    "target_emotion": "hope and serenity",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "self-discovery",
+      "inner-peace",
+      "artist-struggles",
+      "personal-growth",
+      "mindfulness",
+      "Indonesian-fiction",
+      "creative-block",
+      "overthinking",
+      "self-acceptance",
+      "moonlight-inspiration",
+      "urban-river",
+      "psychological-story",
+      "Elisa-story",
+      "Cahaya-Batin"
+    ]
+  }
+}
