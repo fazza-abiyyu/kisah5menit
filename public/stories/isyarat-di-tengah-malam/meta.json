@@ -1,0 +1,45 @@
+{
+  "id": "story-1768760068367",
+  "slug": "isyarat-di-tengah-malam",
+  "title": "Isyarat di Tengah Malam",
+  "genre": "romance subtle",
+  "theme": "Menjelajahi bagaimana pertemuan tak terduga di kesendirian malam dapat memicu secercah harapan dan koneksi manusia yang lembut, meskipun dalam situasi yang sedikit menegangkan.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-01-18T18:14:28.366Z",
+  "updated_at": "2026-01-18T18:14:28.366Z",
+  "status": "published",
+  "tags": [
+    "romansa",
+    "urban",
+    "kesendirian",
+    "koneksi",
+    "malam",
+    "ketegangan ringan",
+    "interaksi non-verbal",
+    "harapan",
+    "kurir"
+  ],
+  "cover": {
+    "prompt": "A solitary figure, depicted in a subtle silhouette, walks with a weary posture across an elevated pedestrian walkway. A substantial bag is visible on their form. Below, a calm and wide urban thoroughfare lies still. The atmosphere is defined by a cool, expansive early morning light, with delicate traces of mist in the air. Distant, soft urban glows punctuate the environment, emphasizing the quiet expanse. The composition employs a shallow depth of field and rule of thirds, focusing on the journey and the tranquil, vast urban landscape.",
+    "style": "Cinematic photography, shallow depth of field, cool color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/isyarat-di-tengah-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kurir pengantar paket melintasi jembatan penyeberangan sepi larut malam, merasakan dingin dan kelelahan. Di bawah jembatan, ia melihat seorang wanita muda berdiri sendirian, tampak gelisah, memicu keraguan apakah harus mendekat. Saat berpapasan, pandangan mereka bertemu dan isyarat kecil yang tak terucap menciptakan momen kelembutan di tengah ketegangan. Keduanya melanjutkan langkah dengan perasaan yang sedikit berbeda, membawa pulang 'isyarat' koneksi dan perlindungan tak terduga.",
+    "target_emotion": "Harapan, koneksi, ketenangan, refleksi",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerpen romansa",
+      "kisah malam",
+      "pertemuan tak terduga",
+      "koneksi manusia",
+      "isyarat tanpa kata",
+      "drama urban",
+      "kurir malam",
+      "kesendirian kota",
+      "harapan tersembunyi"
+    ]
+  }
+}
