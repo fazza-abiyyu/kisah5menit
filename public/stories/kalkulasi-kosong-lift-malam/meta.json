@@ -1,0 +1,47 @@
+{
+  "id": "story-1768846607517",
+  "slug": "kalkulasi-kosong-lift-malam",
+  "title": "Kalkulasi Kosong Lift Malam",
+  "genre": "dark comedy",
+  "theme": "Menggali makna absurditas dalam rutinitas pekerjaan malam, mencari keunikan di tengah keseragaman yang membosankan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-01-19T18:16:47.517Z",
+  "updated_at": "2026-01-19T18:16:47.517Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "night shift",
+    "office mystery",
+    "absurdity",
+    "humor",
+    "satire",
+    "daily life",
+    "petugas keamanan",
+    "karaoke",
+    "rutinitas"
+  ],
+  "cover": {
+    "prompt": "A tranquil, spacious lobby of a contemporary corporate building during the late evening. The area is softly illuminated by gentle ambient lights from above. On a polished, minimalist reception counter, a single cell phone is the subtle focal point, emitting a contained, soft glow from its screen, indicating a quiet notification that punctuates the stillness. In the deep background, a very faint, blurred silhouette of a lone figure is observed through a shallow depth of field, suggesting a watchful presence without any specific details. The architectural lines are clean and modern, contributing to an atmosphere of calm routine.",
+    "style": "Cinematic photography, shallow depth of field, gentle ambient lighting, subtle cool and warm tones",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kalkulasi-kosong-lift-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Tarno, a cynical night security guard, investigates a recurring mystery of an empty lift stopping at floor 7. His wild theories (ghosts, secret mouse syndicates) lead him to enter the lift, which takes him to the basement where he discovers the mundane and humorous truth: a cleaning lady's secret karaoke sessions.",
+    "target_emotion": "Amusement, ironic reflection, lighthearted cynicism",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kalkulasi kosong lift malam",
+      "petugas keamanan malam",
+      "dark comedy story",
+      "misteri lift kantor",
+      "cerita absurd",
+      "rutinitas kerja malam",
+      "karaoke basement",
+      "Pak Tarno",
+      "Bi Sumi",
+      "humor sinis"
+    ]
+  }
+}
