@@ -1,0 +1,43 @@
+{
+  "id": "story-1768933178895",
+  "slug": "pola-tak-terpahami-di-tepi-sungai",
+  "title": "Pola Tak Terpahami di Tepi Sungai",
+  "genre": "thriller ringan",
+  "theme": "Kisah ini mengeksplorasi bagaimana sebuah observasi aneh dan tak terjelaskan dalam rutinitas sehari-hari dapat mengikis rasa aman, memaksa seseorang beradaptasi dengan realitas yang baru dan sedikit mengerikan.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-01-20T18:19:38.895Z",
+  "updated_at": "2026-01-20T18:19:38.895Z",
+  "status": "published",
+  "tags": [
+    "misteri",
+    "thriller psikologis",
+    "rutinitas",
+    "ketidakpastian",
+    "sungai",
+    "introspeksi",
+    "penerimaan",
+    "observasi"
+  ],
+  "cover": {
+    "prompt": "A peaceful riverside pathway winding through lush natural surroundings, bathed in gentle morning light. The air is cool and subtly humid, creating a serene, meditative atmosphere. A lone, indistinct figure in the distance walks slowly along the path, a subtle silhouette against the soft light, embodying a personal ritual. Focus on the texture of the worn path, smooth river stones, and the soft rustle of unseen foliage. Cinematic composition using rule of thirds, with a shallow depth of field, highlighting the tranquil journey.",
+    "style": "Cinematic photography, shallow depth of field, soft natural colors, subtle light haze",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-tak-terpahami-di-tepi-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rina, seorang desainer grafis, menemukan pola aneh yang berulang di tepi sungai selama rutinitas paginya. Awalnya diabaikan, pola-pola ini menjadi semakin mengganggu dan membuatnya mempertanyakan kewarasannya. Setelah melakukan eksperimen kecil, Rina mengkonfirmasi bahwa pola-pola tersebut adalah hasil interaksi non-alamiah, memvalidasi ketakutannya. Akhirnya, ia belajar untuk berdamai dengan misteri ini dan menerima ketidakpastian sebagai bagian dari hidup, menemukan kedamaian baru.",
+    "target_emotion": "introspeksi, kecemasan ringan, rasa penasaran, penerimaan, ketenangan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "misteri",
+      "thriller ringan",
+      "fiksi psikologis",
+      "kehidupan sehari-hari",
+      "observasi",
+      "ketidakpastian",
+      "bahasa indonesia"
+    ]
+  }
+}
