@@ -1,0 +1,48 @@
+{
+  "id": "story-1769020121845",
+  "slug": "lintasan-hening-komuter",
+  "title": "Lintasan Hening Komuter",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi perasaan melankolis dan kecemasan dalam rutinitas harian yang serba otomatis, menemukan ketenangan melalui introspeksi di tengah hiruk pikuk teknologi.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-01-21T18:28:41.845Z",
+  "updated_at": "2026-01-21T18:28:41.845Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "melankolis",
+    "futuristik",
+    "introspeksi",
+    "kecemasan",
+    "teknologi",
+    "komuter",
+    "Bahasa Indonesia"
+  ],
+  "cover": {
+    "prompt": "Interior of a futuristic, minimalist commuter capsule. Pearl gray walls with soft blue LED light accents. An ergonomically designed seat is positioned centrally. The atmosphere is serene and quiet, evoking the feeling of a personal, miniature spacecraft cockpit. The composition emphasizes clean lines and modern design. Cinematic wide shot, gentle ambient lighting, shallow depth of field.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lintasan-hening-komuter/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah Anya, seorang freelancer, yang menemukan ketenangan dan menerima melankoli di tengah rutinitas komuter otomatis yang efisien. Sebuah 'glitch' sistem mengungkap pemandangan nyata dan memicu memori, mengubah perjalanannya dari sekadar transit menjadi ruang introspeksi yang berharga.",
+    "target_emotion": "Refleksi, melankoli lembut, penerimaan, ketenangan, harapan halus.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "sci-fi ringan",
+      "melankolis",
+      "futuristik",
+      "komuter otomatis",
+      "kecemasan",
+      "introspeksi",
+      "teknologi",
+      "rutinitas",
+      "self-discovery",
+      "emosi",
+      "Bahasa Indonesia",
+      "solitude",
+      "inner peace"
+    ]
+  }
+}
