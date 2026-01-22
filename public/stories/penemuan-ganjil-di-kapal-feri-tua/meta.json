@@ -1,0 +1,47 @@
+{
+  "id": "story-1769105824366",
+  "slug": "penemuan-ganjil-di-kapal-feri-tua",
+  "title": "Penemuan Ganjil di Kapal Feri Tua",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi keanehan kecil di sekitar kita bisa mengungkap cerita tersembunyi dan memicu rasa ingin tahu yang tak terduga, mengubah rutinitas menjadi petualangan.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-01-22T18:17:04.366Z",
+  "updated_at": "2026-01-22T18:17:04.366Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "observational",
+    "ferry",
+    "memory",
+    "pensioner",
+    "human interest",
+    "routine",
+    "hidden story",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "A classic, well-traveled ferry, 'Pelita Harapan', navigates serene waters during the golden hour. A lone, older gentleman in silhouette stands near the railing, observing the expansive horizon as a gently illuminated city skyline appears in the distance. The composition emphasizes the peaceful routine of the journey and the quiet contemplation it offers. Cinematic rule of thirds, soft depth of field, and warm, natural lighting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/penemuan-ganjil-di-kapal-feri-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A retired history teacher, Budi, observes an unusual wooden box on his daily ferry commute. His curiosity leads him to discreetly investigate, uncovering a consistent ritual performed by an elderly woman, Nenek Minah. He eventually discovers the box contains cherished mementos (a shell and a photo), revealing it to be a personal altar of remembrance for a lost loved one, a ritual understood and respected by the ferry crew.",
+    "target_emotion": "gentle intrigue and heartfelt contemplation",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "ferry story",
+      "observational fiction",
+      "indonesian short story",
+      "mystery light",
+      "memory lane",
+      "pensioner adventure",
+      "daily commute",
+      "hidden meaning",
+      "human connection",
+      "Pelita Harapan"
+    ]
+  }
+}
