@@ -1,0 +1,56 @@
+{
+  "id": "story-1769192234512",
+  "slug": "debu-di-bingkai-foto-lama",
+  "title": "Debu di Bingkai Foto Lama",
+  "genre": "drama keluarga",
+  "theme": "Mempelajari bahwa kedekatan dalam keluarga bisa ditemukan dalam keheningan dan kenangan sederhana, bukan hanya melalui percakapan panjang.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-01-23T18:17:14.512Z",
+  "updated_at": "2026-01-23T18:17:14.512Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "kedekatan keluarga",
+    "kenangan masa lalu",
+    "komunikasi non-verbal",
+    "refleksi",
+    "keheningan",
+    "bingkai foto",
+    "nostalgia",
+    "indonesian short story"
+  ],
+  "cover": {
+    "prompt": "A cozy, warmly lit home interior, focusing on a soft, plush rug in a tranquil living room. A gentle wisp of steam rises from a cup of jasmine tea placed nearby, hinting at a moment of calm and a welcoming aroma. The room is bathed in a soothing, ambient glow, suggesting a peaceful evening. Through a subtly blurred window in the background, a soft luminescence from distant city structures provides a gentle, contrasting backdrop. The overall mood is one of quiet comfort and serene domesticity.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/debu-di-bingkai-foto-lama/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rian, a busy young professional, returns home to find his mother, Ibu Wati, cleaning old photo frames with a nostalgic touch. Rian feels an unspoken emotional distance between them due to their changing lives and his busyness. The climax occurs when Ibu Wati points to a childhood photo of Rian and shares a forgotten memory, sparking a deep understanding between them without many words. Rian realizes that true family connection and communication can be found in quiet presence and shared simple memories, not just long conversations.",
+    "target_emotion": "Warmth, nostalgia, peaceful understanding, familial connection, quiet reflection.",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu anak",
+      "kedekatan keluarga",
+      "kenangan masa lalu",
+      "komunikasi non-verbal",
+      "refleksi keluarga",
+      "bingkai foto",
+      "nostalgia",
+      "cerita pendek Indonesia",
+      "Rian",
+      "Ibu Wati",
+      "family drama",
+      "mother-son relationship",
+      "family bonding",
+      "past memories",
+      "non-verbal communication",
+      "family reflection",
+      "photo frames",
+      "quiet connection"
+    ]
+  }
+}
