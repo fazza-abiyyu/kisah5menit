@@ -1,0 +1,46 @@
+{
+  "id": "story-1769364898395",
+  "slug": "bisikan-dari-proyektor-usang",
+  "title": "Bisikan dari Proyektor Usang",
+  "genre": "psychological",
+  "theme": "Menjelajahi kecemasan tersembunyi yang muncul saat seseorang menghadapi artefak masa lalu, memicu ingatan yang lama terkubur.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-01-25T18:14:58.395Z",
+  "updated_at": "2026-01-25T18:14:58.395Z",
+  "status": "published",
+  "tags": [
+    "museum",
+    "archive",
+    "film projector",
+    "psychological",
+    "mystery",
+    "memory",
+    "haunting",
+    "short story",
+    "indonesian literature"
+  ],
+  "cover": {
+    "prompt": "Interior of a grand, serene national archives museum. Immense, orderly shelves filled with historical documents, wrapped in aged brown paper and clear protective covers. The atmosphere is profoundly still, with a sense of time standing gentle. Soft, natural light streams in through unseen windows, highlighting the aged textures of paper and creating a gentle glow. Composition focuses on the expansive perspective of the aisles between the tall archive shelves, inviting contemplation. The overall mood is one of quiet discovery and historical preservation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-dari-proyektor-usang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Andini, a graphic designer, discovers a vintage film projector in an old archive museum. Upon touching it, she experiences vivid memory flashes and unsettling whispers, linking her to a past tragedy involving a disappeared cinematographer and an unfinished film. Overwhelmed by the psychological connection, she decides to investigate further, seeking peace for herself and the potential soul tied to the artifact.",
+    "target_emotion": "anxiety, unease, curiosity",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "museum mystery",
+      "haunted projector",
+      "psychological thriller short story",
+      "archival secrets",
+      "historical artifact mystery",
+      "indonesian short story",
+      "ghostly whispers",
+      "cinematographer mystery",
+      "unsolved mystery",
+      "memory flashes"
+    ]
+  }
+}
