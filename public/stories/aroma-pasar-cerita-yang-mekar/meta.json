@@ -1,0 +1,50 @@
+{
+  "id": "story-1769451559798",
+  "slug": "aroma-pasar-cerita-yang-mekar",
+  "title": "Aroma Pasar, Cerita yang Mekar",
+  "genre": "romance subtle",
+  "theme": "Menemukan kehangatan dan koneksi tak terduga dalam rutinitas sehari-hari di tengah hiruk pikuk pasar tradisional.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-01-26T18:19:19.797Z",
+  "updated_at": "2026-01-26T18:19:19.797Z",
+  "status": "published",
+  "tags": [
+    "pasar tradisional",
+    "romansa",
+    "koneksi manusia",
+    "inspirasi",
+    "rutinitas",
+    "cerita pendek",
+    "bahasa indonesia",
+    "optimisme",
+    "kehangatan",
+    "freelancer",
+    "bunga",
+    "interaksi sosial",
+    "kisah sehari-hari"
+  ],
+  "cover": {
+    "prompt": "A vibrant traditional market scene, bathed in warm, dappled sunlight filtering through overhead awnings. Focus on the rich tapestry of colors from abundant fresh fruits and vegetables, alongside textured, aromatic spices arranged in open stalls. A gentle silhouette of a person, holding a simple cloth bag, walks through a sunlit market pathway, evoking a sense of routine and inspiration. The composition highlights the lively atmosphere and the dancing light, with a soft blur in the background to emphasize depth.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/aroma-pasar-cerita-yang-mekar/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang desainer grafis lepas yang cenderung tertutup, Anin, menemukan ritme dan inspirasi di pasar tradisional, khususnya di lapak bunga. Ia secara tak sadar menantikan interaksi singkat dengan penjual bunga. Sebuah insiden kecil di lapak bunga menjadi kesempatan Anin untuk menawarkan bantuan, membuka percakapan lebih dalam, dan menemukan kesamaan minat dengan penjual bunga bernama Rendy. Pengalaman ini mengubah pandangan Anin, menyadari potensi koneksi sejati dari hal-hal sederhana dan tak terduga.",
+    "target_emotion": "Warmth, gentle hope, serenity, quiet joy",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita romantis pasar",
+      "pasar tradisional indonesia",
+      "kisah cinta sederhana",
+      "inspirasi desain grafis",
+      "penjual bunga",
+      "freelancer indonesia",
+      "romansa sehari-hari",
+      "koneksi tak terduga",
+      "short story bahasa indonesia",
+      "optimisme dalam rutinitas"
+    ]
+  }
+}
