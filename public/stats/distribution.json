@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-01-26T18:19:51.036Z",
-  "total_stories": 93,
+  "last_updated": "2026-01-27T18:21:53.682Z",
+  "total_stories": 94,
   "genres": {
     "thriller ringan": 9,
     "slice of life": 14,
     "fantasy urban": 6,
     "romance subtle": 10,
     "sci-fi ringan": 9,
-    "dark comedy": 9,
+    "dark comedy": 10,
     "mystery ringan": 9,
     "drama keluarga": 9,
     "adventure ringan": 9,
@@ -16,7 +16,7 @@
   "tones": {
     "misterius ringan": 11,
     "melankolis lembut": 11,
-    "introspektif menenangkan": 11,
+    "introspektif menenangkan": 12,
     "optimis pelan": 12,
     "surreal": 4,
     "humoris sinis": 11,
@@ -32,7 +32,7 @@
     "other": 32,
     "transportation": 7,
     "office": 8,
-    "cultural": 6,
+    "cultural": 7,
     "night": 6
   }
 }

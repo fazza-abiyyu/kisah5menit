@@ -1,0 +1,42 @@
+{
+  "id": "story-1769538094252",
+  "slug": "penjaga-malam-dan-filsafat-patung-aneh",
+  "title": "Penjaga Malam dan Filsafat Patung Aneh",
+  "genre": "dark comedy",
+  "theme": "Seorang penjaga galeri seni menemukan humor gelap dan ironi dalam rutinitasnya mengamati pengunjung dan karya seni aneh, mempertanyakan makna di balik pretensi.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-01-27T18:21:34.251Z",
+  "updated_at": "2026-01-27T18:21:34.251Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "art gallery",
+    "philosophy",
+    "irony",
+    "introspective",
+    "social commentary",
+    "indonesian literature"
+  ],
+  "cover": {
+    "prompt": "Interior of a grand art gallery at night, featuring towering abstract sculptures. The expansive space is bathed in gentle, low ambient light, subtly highlighting the architectural grandeur and the unique forms of the artworks. A pervasive sense of calm and stillness fills the hushed halls. This scene is captured with cinematic photography, utilizing a shallow depth of field to guide the viewer's focus, and a warm, inviting color grading that adds depth and a timeless quality. Composition adheres to the rule of thirds, emphasizing scale and quiet contemplation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/penjaga-malam-dan-filsafat-patung-aneh/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Budi, a bored night guard at an art gallery, observes the absurdities of the art world. He finds deep irony when a famous art critic gives a bombastic explanation for a meaningless sculpture. Later, Budi overhears the critic admitting he fabricated the interpretation for reputation. This revelation leads Budi to a new, liberating perspective on authenticity and pretension.",
+    "target_emotion": "Amusement, contemplation, ironic satisfaction",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "art criticism",
+      "gallery guard",
+      "pretension",
+      "authenticity",
+      "irony",
+      "dark humor",
+      "philosophical",
+      "modern art"
+    ]
+  }
+}
