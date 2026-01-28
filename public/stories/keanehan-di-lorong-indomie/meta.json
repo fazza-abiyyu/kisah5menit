@@ -1,0 +1,44 @@
+{
+  "id": "story-1769624554548",
+  "slug": "keanehan-di-lorong-indomie",
+  "title": "Keanehan di Lorong Indomie",
+  "genre": "thriller ringan",
+  "theme": "Menemukan keanehan dan misteri kecil di balik rutinitas pekerjaan malam, memicu rasa ingin tahu yang tak terduga di tengah kebosanan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-01-28T18:22:34.548Z",
+  "updated_at": "2026-01-28T18:22:34.548Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "humor",
+    "slice-of-life",
+    "indonesia",
+    "minimarket",
+    "night-shift",
+    "urban-fiction",
+    "quirky"
+  ],
+  "cover": {
+    "prompt": "Interior view of a convenience store at late hours. Gentle, persistent illumination from overhead lighting creates a subtle glow on aisles stocked with everyday items. A beverage cooler emits a soft, steady hum. The composition features rows of products extending into the distance, with a checkout counter in the midground. The visual style conveys a scene of quiet routine and profound familiarity. Incorporate a soft focus and a slight vintage photographic grain, suggesting a memory or a repeatedly observed setting, with a gentle, ambient feel.",
+    "style": "Cinematic photography with a lo-fi aesthetic, featuring a subtle vintage film grain, shallow depth of field, and a gently nostalgic feel.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/keanehan-di-lorong-indomie/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Budi, a minimarket cashier on a night shift, discovers a peculiar, hand-written label on an Indomie pack, sparking an unexpected investigation. Amidst absurd customer interactions and CCTV limitations, he uncovers seemingly personal clues. The mystery culminates in an anti-climactic yet amusing revelation: the 'clues' were merely a new staff's clerical error and a child's doodle. Budi returns to his routine, now with a cynical smile and a new story, having solved his trivial, comical 'case'.",
+    "target_emotion": "amusement, curiosity, light intrigue, relatability",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Indomie mystery",
+      "minimarket humor",
+      "night shift",
+      "thriller ringan",
+      "kasir cerita",
+      "detektif lucu",
+      "kisah perkotaan",
+      "rutinitas unik",
+      "misteri receh"
+    ]
+  }
+}
