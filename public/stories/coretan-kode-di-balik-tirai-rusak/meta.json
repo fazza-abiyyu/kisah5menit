@@ -1,0 +1,45 @@
+{
+  "id": "story-1769797542938",
+  "slug": "coretan-kode-di-balik-tirai-rusak",
+  "title": "Coretan Kode di Balik Tirai Rusak",
+  "genre": "mystery ringan",
+  "theme": "Eksplorasi tentang bagaimana sebuah tanda kecil dan tidak biasa di bangunan tua bisa memicu rasa ingin tahu dan mengarah pada investigasi amatir yang menyenangkan.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-01-30T18:25:42.938Z",
+  "updated_at": "2026-01-30T18:25:42.938Z",
+  "status": "published",
+  "tags": [
+    "misteri",
+    "sejarah",
+    "penemuan",
+    "bioskop tua",
+    "klub film",
+    "komunitas",
+    "investigasi amatir",
+    "warisan",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A cinematic wide shot capturing the allure of forgotten history. Focus on the weathered architecture of an ancient building, showcasing subtle signs of age and intricate textures on its stone surfaces. A secluded, narrow pathway, adorned with delicate moss and soft plant life, extends towards the structure, bathed in gentle natural light. Faded markings on a wall subtly suggest stories of the past. The composition uses the rule of thirds and a shallow depth of field to create depth, evoking a sense of quiet contemplation and the enduring narratives held within aged places, without any human figures.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/coretan-kode-di-balik-tirai-rusak/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang mahasiswa sejarah menemukan simbol aneh di balik tirai panggung bioskop tua terbengkalai. Rasa ingin tahunya memicu penyelidikan yang mengungkap bahwa simbol itu adalah logo klub film rahasia dari masa lalu. Ia menemukan salah satu pendirinya, yang menjelaskan bahwa simbol itu adalah warisan bagi penerus yang mencintai sinema sejati, menginspirasi sang mahasiswa untuk mendokumentasikan dan berpotensi menghidupkan kembali klub tersebut.",
+    "target_emotion": "Rasa ingin tahu, nostalgia, harapan, penemuan, inspirasi",
+    "reading_time_minutes": 9,
+    "keywords": [
+      "bioskop tua misteri",
+      "klub film rahasia",
+      "sejarah kota",
+      "simbol tersembunyi",
+      "penemuan warisan",
+      "sinema komunitas",
+      "investigasi mahasiswa",
+      "kisah inspiratif",
+      "budaya lokal"
+    ]
+  }
+}
