@@ -1,0 +1,46 @@
+{
+  "id": "story-1769883395040",
+  "slug": "bisikan-tengah-hening-dapur",
+  "title": "Bisikan Tengah Hening Dapur",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi dinamika hubungan antara orang tua dan anak yang semakin menjauh, menemukan cara untuk merajut kembali kehangatan keluarga di tengah kesibukan hidup.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-01-31T18:16:35.040Z",
+  "updated_at": "2026-01-31T18:16:35.040Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "komunikasi keluarga",
+    "kehangatan rumah",
+    "malam hari",
+    "refleksi",
+    "kerinduan",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A minimalist composition of a partially open wrought iron gate leading to a home's entrance on a tranquil residential street. The scene is set just before midnight, illuminated by a gentle, ambient glow from a distant streetlamp or a soft interior light filtering through. Focus on the quietude of the surroundings and the simple lines of the architecture. A subtle sense of arrival and contemplation.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-tengah-hening-dapur/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A busy son returns home late to find his elderly mother awake in the kitchen, preparing a snack. Their initial awkward silence, a symptom of growing distance due to his demanding schedule, eventually breaks into a tender and honest conversation. They confront their unspoken longings and rediscover comfort and understanding in their simple, late-night exchange, realizing the profound importance of their bond.",
+    "target_emotion": "Nostalgia, understanding, warmth, introspection, empathy",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu anak",
+      "komunikasi keluarga",
+      "kisah menyentuh",
+      "cerita pendek Indonesia",
+      "bisikan malam",
+      "kehangatan rumah",
+      "refleksi hidup",
+      "waktu keluarga",
+      "penyesalan",
+      "pengertian"
+    ]
+  }
+}
