@@ -1,0 +1,48 @@
+{
+  "id": "story-1769969870453",
+  "slug": "ekspedisi-malam-tanpa-rencana",
+  "title": "Ekspedisi Malam Tanpa Rencana",
+  "genre": "adventure ringan",
+  "theme": "Menemukan keindahan tak terduga dan kegembiraan dalam menjelajahi sudut kota yang belum pernah terjamah saat malam hari, mengajarkan bahwa keajaiban ada di setiap langkah.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-02-01T18:17:50.453Z",
+  "updated_at": "2026-02-01T18:17:50.453Z",
+  "status": "published",
+  "tags": [
+    "urban adventure",
+    "hidden gem",
+    "city exploration",
+    "discovery",
+    "creativity",
+    "night walk",
+    "indonesian fiction",
+    "short story",
+    "personal growth",
+    "inspiration",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "A softly illuminated studio apartment interior at 2 AM. A digital clock displays glowing numbers beside an open laptop on a desk. An ergonomic chair is positioned in the foreground or midground. The ambient light from the screen creates a gentle atmosphere, evoking a sense of quiet accomplishment after a long period of focused work. Emphasis on objects and the serene environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ekspedisi-malam-tanpa-rencana/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a freelance graphic designer, decides to take an unfamiliar shortcut home after a late-night project. She discovers a hidden mini-park in a secluded alley, an 'Oasis Tersembunyi' adorned with DIY lights and recycled art, where local youths are enjoying music. This unexpected urban adventure brings her inspiration and a fresh perspective on life.",
+    "target_emotion": "wonder and inspiration",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "urban adventure story",
+      "jakarta night",
+      "hidden park",
+      "unexpected discovery",
+      "creative community",
+      "freelance life",
+      "inspiration fiction",
+      "short story indonesia",
+      "city exploration",
+      "monotony escape"
+    ]
+  }
+}
