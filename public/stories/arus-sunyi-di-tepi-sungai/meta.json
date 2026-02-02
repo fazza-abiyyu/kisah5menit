@@ -1,0 +1,47 @@
+{
+  "id": "story-1770056809976",
+  "slug": "arus-sunyi-di-tepi-sungai",
+  "title": "Arus Sunyi di Tepi Sungai",
+  "genre": "psychological",
+  "theme": "Menggali kedalaman pikiran tentang keputusan masa lalu dan menemukan kedamaian dalam penerimaan diri melalui refleksi pribadi di tengah rutinitas.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-02-02T18:26:49.976Z",
+  "updated_at": "2026-02-02T18:26:49.976Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "introspektif",
+    "penyesalan",
+    "penerimaan diri",
+    "kedamaian batin",
+    "refleksi",
+    "freelancer",
+    "sungai",
+    "rutinitas"
+  ],
+  "cover": {
+    "prompt": "A serene riverside scene during golden hour. The tranquil water flows gently, reflecting the soft, warm light. In the foreground, a modern laptop rests on a surface, its screen emitting a subtle, dim glow, displaying text. The vibrant, yet faint distant hum of a city skyline is visible in the background, softened by a gentle haze. Focus on the quiet contemplation and the contrast between nature's peace and the glowing technology. Emphasize the water's calming movement.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/arus-sunyi-di-tepi-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer, Maya, yang terganggu oleh penyesalan masa lalu, mencari kedamaian di tepi sungai. Melalui refleksi dan meditasi tak terencana, ia mencapai penerimaan diri dan kembali bekerja dengan pandangan baru, menemukan ketenangan dalam perjalanan hidupnya.",
+    "target_emotion": "Ketenangan, refleksi, harapan, penerimaan.",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "Arus Sunyi di Tepi Sungai",
+      "cerita psikologis",
+      "refleksi diri",
+      "penerimaan diri",
+      "kedamaian batin",
+      "penyesalan masa lalu",
+      "kisah inspiratif",
+      "meditasi",
+      "kehidupan freelancer",
+      "cerpen Indonesia",
+      "motivasi"
+    ]
+  }
+}
