@@ -1,0 +1,46 @@
+{
+  "id": "story-1770143980091",
+  "slug": "jalur-dua-detak-jantung",
+  "title": "Jalur Dua, Detak Jantung",
+  "genre": "romance subtle",
+  "theme": "Menemukan secercah koneksi dan ketegangan halus di tengah keramaian rutinitas komuter, membuka mata terhadap potensi hubungan tak terduga.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-02-03T18:39:40.091Z",
+  "updated_at": "2026-02-03T18:39:40.091Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "commuter",
+    "KRL",
+    "Jakarta",
+    "observational",
+    "slice-of-life",
+    "subtle tension",
+    "connection",
+    "strangers",
+    "urban life"
+  ],
+  "cover": {
+    "prompt": "A densely packed commuter train car interior, during morning rush hour. The scene conveys a profound sense of collective movement and close proximity through blurred forms of many passengers. The focus is on the textures of the train walls and the subtle patterns of various garments. A vertical support pole is held firmly, implying a resolute grip amidst the constant motion. Gentle, warm light filters through unseen windows, creating soft reflections on the metallic elements and lending a serene, slightly reflective atmosphere. Composition adheres to the rule of thirds, emphasizing the deep perspective of the crowded interior. No specific faces or detailed human features are present, prioritizing an environmental and atmospheric depiction.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jalur-dua-detak-jantung/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A tired young commuter on a crowded train is drawn to a mysterious woman reading a book. He grapples with curiosity and subtle tension, observing her until a sudden jolt makes her drop her book. Their eyes meet, and a brief, silent connection is made as he helps her. Though they part ways without words, the encounter leaves a profound and transformative impact on his daily commute and perception of the world.",
+    "target_emotion": "Curiosity, subtle yearning, mild tension, quiet connection, reflective warmth",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "KRL commuter story",
+      "Jakarta daily life",
+      "train romance",
+      "stranger connection",
+      "observational story",
+      "subtle love story",
+      "routine transformed",
+      "urban romance",
+      "indonesian short story"
+    ]
+  }
+}
