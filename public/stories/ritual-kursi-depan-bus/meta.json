@@ -1,0 +1,48 @@
+{
+  "id": "story-1770229971800",
+  "slug": "ritual-kursi-depan-bus",
+  "title": "Ritual Kursi Depan Bus",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi absurditas dan ironi dalam rutinitas perjalanan pulang-pergi, menemukan sisi gelap yang lucu dari interaksi sosial yang terpaksa.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-02-04T18:32:51.800Z",
+  "updated_at": "2026-02-04T18:32:51.800Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "rutinitas perjalanan",
+    "bus kota",
+    "jakarta",
+    "absurditas",
+    "observasi",
+    "humor sinis",
+    "interaksi sosial",
+    "kursi favorit",
+    "karyawan kantoran",
+    "transjakarta"
+  ],
+  "cover": {
+    "prompt": "A wide, cinematic shot inside a modern city bus during the earliest hours of morning. Focus on a single, well-worn seat, slightly isolated yet part of the larger environment. Gentle, diffused light from a pale sky filters through the bus windows, casting subtle illumination on the textured surfaces. Through the glass, the towering, somewhat anonymous structures of a bustling metropolis like Jakarta are visible, just beginning to stir. A few indistinct human shapes, presented as soft silhouettes, suggest the presence of other commuters, creating a sense of quiet, shared routine. The composition utilizes the rule of thirds, with a shallow depth of field, drawing attention to the seat as a focal point within the urban journey.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ritual-kursi-depan-bus/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan kantoran yang sinis rutin naik bus yang sama ke kursi favoritnya, mengamati penumpang aneh. Suatu pagi, kursinya diduduki orang asing yang melakukan hal-hal aneh. Kekesalannya memuncak saat orang asing itu menjelaskan motivasinya yang absurd, sebuah pencarian prisma pelangi tiga detik. Meski rutinitasnya terganggu, sang protagonis menemukan 'bahan bakar' baru untuk observasinya yang sinis, memberinya perspektif baru tentang absurditas kehidupan sehari-hari.",
+    "target_emotion": "Cynical amusement and reflection on daily absurdities",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "dark comedy indonesia",
+      "jakarta commuter story",
+      "kisah bus transjakarta",
+      "kursi favorit bus",
+      "absurditas kehidupan kota",
+      "observasi sosial",
+      "humor sinis",
+      "rutinitas pagi",
+      "kisah karyawan kantor"
+    ]
+  }
+}
