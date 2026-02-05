@@ -1,0 +1,46 @@
+{
+  "id": "story-1770316478684",
+  "slug": "kode-rahasia-kotak-resi",
+  "title": "Kode Rahasia Kotak Resi",
+  "genre": "thriller ringan",
+  "theme": "Melalui sebuah teka-teki kecil, seorang kasir belajar mengatasi kecemasan masa lalu dan menemukan optimisme dalam hal-hal tak terduga.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-02-05T18:34:38.684Z",
+  "updated_at": "2026-02-05T18:34:38.684Z",
+  "status": "published",
+  "tags": [
+    "minimarket",
+    "thriller",
+    "kecemasan",
+    "optimisme",
+    "teka-teki",
+    "kisah-kasir",
+    "psikologis",
+    "kejutan-tak-terduga",
+    "misteri-ringan"
+  ],
+  "cover": {
+    "prompt": "Exterior view of a 24-hour convenience store at deep night hours. Vibrant neon signs cast a brilliant glow across the scene, creating strong contrasts. The building stands on a tranquil roadside pathway. A solitary figure is subtly visible inside, a silhouette against the luminous interior, positioned near the service counter. A pervasive sense of quiet unease permeates the setting, evocative of an invisible, subtle frost beginning to emerge. Focus on environmental details and mood.",
+    "style": "Cinematic photography, shallow depth of field, cool and contrasting color tones, rule of thirds composition",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kode-rahasia-kotak-resi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a new cashier, unravels a mysterious series of codes left by an old customer in a quiet minimarket. Initially fearing a threat, she ultimately discovers a whimsical game that helps her overcome past anxieties and embrace unexpected optimism, deciding to continue the playful tradition.",
+    "target_emotion": "Kelegaan, optimisme, dan rasa senang karena menemukan hal baik tak terduga setelah mengatasi kecemasan.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kode rahasia",
+      "minimarket",
+      "thriller ringan",
+      "kecemasan",
+      "optimisme",
+      "kisah kasir",
+      "teka-teki",
+      "cerita pendek",
+      "kejutan",
+      "bahasa indonesia"
+    ]
+  }
+}
