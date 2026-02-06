@@ -1,0 +1,53 @@
+{
+  "id": "story-1770402728791",
+  "slug": "jejak-kenangan-di-pod-lintasan",
+  "title": "Jejak Kenangan di Pod Lintasan",
+  "genre": "sci-fi ringan",
+  "theme": "Bagaimana teknologi canggih, alih-alih mendekatkan, justru menciptakan rasa sepi dan nostalgia akan interaksi manusia yang sederhana.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-02-06T18:32:08.791Z",
+  "updated_at": "2026-02-06T18:32:08.791Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "fiksi ilmiah",
+    "teknologi",
+    "masa depan",
+    "isolasi",
+    "kesepian",
+    "nostalgia",
+    "interaksi manusia",
+    "melankolis",
+    "transportasi otomatis",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "Sleek, silver automated transport pod gliding silently on a magnetic rail through a minimalist futuristic transit pathway. A transparent, shimmering holographic privacy bubble subtly surrounds an implied presence within the pod, creating a serene personal micro-world. Focus on the graceful form of the pod, the ethereal glow of the bubble, and the clean lines of the surrounding advanced architecture. Gentle ambient lighting illuminates the scene, highlighting subtle reflections on the pod's surface. Cinematic composition with a shallow depth of field, emphasizing the pod as the central element. Strong silhouette of the passenger within the bubble, avoiding specific facial features. Overall mood conveys personal space, advanced engineering, and peaceful progress.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-kenangan-di-pod-lintasan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda setiap hari menggunakan pod transportasi otomatis futuristik, terisolasi dalam gelembung hologram. Ia merasa hampa dan kesepian, merindukan interaksi manusia masa lalu. Saat pod melewati stasiun tua, sebuah gangguan menampilkan kilasan memori dari era sebelum teknologi, memicu kerinduan mendalam. Meskipun tiba di tujuan, perasaan melankolis itu tetap ada, menyadarkannya bahwa koneksi manusia lebih berharga daripada efisiensi teknologi.",
+    "target_emotion": "Melankolis, nostalgia, dan kerinduan akan koneksi manusia",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "fiksi ilmiah",
+      "teknologi masa depan",
+      "transportasi otomatis",
+      "isolasi sosial",
+      "kesepian modern",
+      "nostalgia",
+      "koneksi manusia",
+      "interaksi sosial",
+      "melankolis",
+      "cerita pendek",
+      "arya",
+      "pod lintasan",
+      "hologram privasi",
+      "stasiun terbengkalai",
+      "kerinduan"
+    ]
+  }
+}
