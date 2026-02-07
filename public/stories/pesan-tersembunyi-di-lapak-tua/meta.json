@@ -1,0 +1,43 @@
+{
+  "id": "story-1770488290790",
+  "slug": "pesan-tersembunyi-di-lapak-tua",
+  "title": "Pesan Tersembunyi di Lapak Tua",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi keanehan kecil di tengah keramaian pasar, mencari pola di balik kebiasaan sehari-hari yang tak terduga yang menyimpan rahasia.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-02-07T18:18:10.790Z",
+  "updated_at": "2026-02-07T18:18:10.790Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "pasar tradisional",
+    "observasi",
+    "kasih sayang",
+    "rahasia",
+    "Indonesia",
+    "slice of life",
+    "keluarga"
+  ],
+  "cover": {
+    "prompt": "A vibrant outdoor market scene at golden hour, capturing the essence of observation and gentle activity. The foreground features a colorful vegetable stall, abundant with fresh green mustard greens and other various produce, arranged artfully. Soft morning light illuminates the scene, creating a warm and inviting atmosphere. In the mid-ground, a pathway gently winds through other market stands. Subtle, artistic silhouettes of market-goers are visible in the background, hinting at the bustling environment without revealing detailed faces. The composition emphasizes depth and the rich textures of the market, focusing on the sensory experience and colorful arrangements.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-tersembunyi-di-lapak-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, an observant freelancer, discovers a series of cryptic notes hidden in her usual vegetable stall. Initially believing it to be a grand mystery, she investigates the market and its vendors. Through careful observation, especially of a teenage boy who frequently interacts with the stall owner, she unravels the true meaning: the notes are a loving, secret communication from a mother to her son, reminding him of school tasks or study schedules, disguised as a playful game amidst the market's daily hustle.",
+    "target_emotion": "Rasa ingin tahu, kehangatan, haru, apresiasi.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "pasar tradisional",
+      "misteri ringan",
+      "observasi",
+      "kasih ibu",
+      "kisah inspiratif",
+      "komunikasi rahasia",
+      "kehidupan sehari-hari"
+    ]
+  }
+}
