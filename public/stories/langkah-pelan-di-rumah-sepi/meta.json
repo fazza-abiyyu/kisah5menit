@@ -1,0 +1,46 @@
+{
+  "id": "story-1770574758281",
+  "slug": "langkah-pelan-di-rumah-sepi",
+  "title": "Langkah Pelan di Rumah Sepi",
+  "genre": "drama keluarga",
+  "theme": "Sebuah refleksi tenang tentang upaya orang tua tunggal menyeimbangkan pekerjaan dan ikatan keluarga, mencari kedamaian di rumah setelah hari yang panjang.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-02-08T18:19:18.281Z",
+  "updated_at": "2026-02-08T18:19:18.281Z",
+  "status": "published",
+  "tags": [
+    "drama",
+    "keluarga",
+    "ibu tunggal",
+    "refleksi",
+    "kelelahan",
+    "cinta anak",
+    "kedamaian",
+    "kisah inspiratif",
+    "kehidupan sehari-hari"
+  ],
+  "cover": {
+    "prompt": "An indoor apartment entryway, captured immediately after a door has gently closed, establishing a deep calm. Subtle, warm lighting from an unseen source creates gentle illumination across a textured wall and a simple console table holding a key holder. In the background, through a distant window or glass partition, the soft, diffused glow of a serene urban landscape in late evening is visible, emphasizing quietude. The composition focuses on environmental peace and the feeling of a tranquil arrival, utilizing soft focus for depth. Emphasize warm, inviting tones.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/langkah-pelan-di-rumah-sepi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Laras, seorang ibu tunggal yang kelelahan, tiba di rumah setelah hari yang panjang dan mengingat cekcok kecil dengan putrinya pagi tadi. Saat membersihkan dapur, ia menemukan catatan tempel penuh kasih sayang dari putrinya yang meluluhkan hatinya, memberikan kedamaian dan kekuatan untuk menghadapi esok hari.",
+    "target_emotion": "Kedamaian, Kehangatan, dan Harapan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "ibu tunggal",
+      "kelelahan kerja",
+      "cinta anak",
+      "refleksi malam",
+      "kedamaian rumah",
+      "kisah inspiratif",
+      "cerita pendek bahasa indonesia",
+      "keseimbangan hidup",
+      "hubungan ibu anak"
+    ]
+  }
+}
