@@ -1,0 +1,50 @@
+{
+  "id": "story-1770662443237",
+  "slug": "lorong-warna-tak-terduga",
+  "title": "Lorong Warna Tak Terduga",
+  "genre": "adventure ringan",
+  "theme": "Menemukan kebahagiaan tak terduga dan inspirasi baru melalui sebuah petualangan kecil di sudut kota yang terabaikan.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-02-09T18:40:43.237Z",
+  "updated_at": "2026-02-09T18:40:43.237Z",
+  "status": "published",
+  "tags": [
+    "urban exploration",
+    "hidden gem",
+    "mural art",
+    "community project",
+    "inspiration",
+    "optimism",
+    "slice of life",
+    "city adventure",
+    "discovery",
+    "feel-good",
+    "Jakarta"
+  ],
+  "cover": {
+    "prompt": "A cinematic photograph capturing a laptop screen, emitting a cool blue glow. A single, distinct cursor blinks gently on a clear, digital canvas. The composition features a shallow depth of field, subtly blurring the background into a soft focus, revealing a quiet, comfortable interior space bathed in warm, gentle lighting. The overall mood is one of contemplative stillness and the quiet potential of a new beginning, subtly contrasting the laptop's hue with the inviting room ambiance. Rule of thirds composition, focusing on the screen and the atmospheric lighting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lorong-warna-tak-terduga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kania, a graphic designer battling creative block, seeks inspiration by exploring her city. She discovers a hidden, seemingly dilapidated alley that reveals a vibrant art display of murals depicting local history and community aspirations, leading to a secret mini city park. This unexpected journey reignites her creative spirit and changes her perspective on urban beauty.",
+    "target_emotion": "optimism and renewed inspiration",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "freelancer inspiration",
+      "hidden city gems",
+      "urban art exploration",
+      "community murals",
+      "Jakarta hidden places",
+      "unexpected beauty",
+      "creative block solution",
+      "feel-good story",
+      "Indonesian short story",
+      "adventure in the city",
+      "optimism",
+      "discovery"
+    ]
+  }
+}
