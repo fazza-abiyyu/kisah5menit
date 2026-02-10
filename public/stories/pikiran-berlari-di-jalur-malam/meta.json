@@ -1,0 +1,49 @@
+{
+  "id": "story-1770749333669",
+  "slug": "pikiran-berlari-di-jalur-malam",
+  "title": "Pikiran Berlari di Jalur Malam",
+  "genre": "psychological",
+  "theme": "Menjelajahi kecemasan yang muncul saat seseorang berusaha lari dari pikiran sendiri, menemukan bahwa menghadapinya adalah satu-satunya jalan keluar.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-02-10T18:48:53.669Z",
+  "updated_at": "2026-02-10T18:48:53.669Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "anxiety",
+    "mental health",
+    "introspection",
+    "running",
+    "night run",
+    "urban",
+    "short story",
+    "indonesian fiction",
+    "self-discovery",
+    "inner conflict"
+  ],
+  "cover": {
+    "prompt": "A tranquil suburban running pathway at the onset of evening. City lights gently fade, transforming into a soft, comforting orange radiance that beautifully outlines distant trees and utility poles in strong, peaceful silhouettes. The wide, open pathway invites a sense of quiet solitude and personal escape. Cinematic composition, rule of thirds, environmental focus, subtle depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, strong silhouettes",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pikiran-berlari-di-jalur-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young worker attempts to escape daily stress by night jogging, but encounters a growing sense of paranoia and unease that blurs the line between reality and imagination. The story explores the protagonist's struggle with internal anxiety, culminating in a confrontation with their mental state and a new understanding of self.",
+    "target_emotion": "unease, anxiety, introspection, realization",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "psychological thriller",
+      "anxiety story",
+      "mental health fiction",
+      "running narrative",
+      "urban mystery",
+      "introspective short story",
+      "inner demons",
+      "escape reality",
+      "night jog",
+      "self-reflection",
+      "indonesian fiction"
+    ]
+  }
+}
