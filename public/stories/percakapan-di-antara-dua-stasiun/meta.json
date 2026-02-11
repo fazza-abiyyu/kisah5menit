@@ -1,0 +1,44 @@
+{
+  "id": "story-1770835554609",
+  "slug": "percakapan-di-antara-dua-stasiun",
+  "title": "Percakapan di Antara Dua Stasiun",
+  "genre": "romance subtle",
+  "theme": "Menemukan koneksi tak terduga dalam rutinitas perjalanan, menunjukkan bahwa kebaikan kecil dapat membuka pintu hubungan baru yang berarti.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-02-11T18:45:54.609Z",
+  "updated_at": "2026-02-11T18:45:54.609Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "commuter life",
+    "KRL",
+    "unexpected connection",
+    "jakarta",
+    "short story",
+    "optimistic",
+    "act of kindness"
+  ],
+  "cover": {
+    "prompt": "A cinematic photograph capturing the serene yet bustling atmosphere of a morning commuter train. Soft, warm natural light gently streams through a large train window, illuminating the interior. The primary focus is on a modern laptop screen, displaying abstract graphic design elements with a subtle, soft glow, placed in the foreground. Beside it, a warm cup is visible. In the background, blurred forms of other passengers are subtly suggested, appearing as gentle, indistinct silhouettes, conveying a sense of shared journey without detailed features. Outside the window, a soft, out-of-focus impression of city buildings passes by. The composition emphasizes a feeling of focused routine and quiet introspection amidst the daily rhythm. Rule of thirds, soft lighting transitions, balanced composition.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/percakapan-di-antara-dua-stasiun/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Mira's monotonous KRL commute is disrupted when her card fails. A stranger, Bima, helps her and they end up in a charming conversation about shared interests. As Mira exits, Bima subtly leaves his number on the card, transforming her routine into a hopeful new beginning.",
+    "target_emotion": "Hopeful warmth and pleasant surprise",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "romance",
+      "commuter story",
+      "KRL Jakarta",
+      "slice of life",
+      "random act of kindness",
+      "new connection",
+      "optimistic story",
+      "daily commute",
+      "Indonesian story"
+    ]
+  }
+}
