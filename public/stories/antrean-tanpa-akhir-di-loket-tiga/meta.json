@@ -1,0 +1,50 @@
+{
+  "id": "story-1770921807889",
+  "slug": "antrean-tanpa-akhir-di-loket-tiga",
+  "title": "Antrean Tanpa Akhir di Loket Tiga",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi absurditas dan frustrasi tersembunyi dalam rutinitas birokrasi yang lambat, menemukan humor pahit dalam pengalaman sehari-hari.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-02-12T18:43:27.889Z",
+  "updated_at": "2026-02-12T18:43:27.889Z",
+  "status": "published",
+  "tags": [
+    "birokrasi",
+    "antrean",
+    "dark comedy",
+    "sinis",
+    "frustrasi",
+    "absurdis",
+    "layanan publik",
+    "indonesia",
+    "freelancer",
+    "drama perkantoran"
+  ],
+  "cover": {
+    "prompt": "A wide-angle cinematic shot capturing the interior of a public service office lobby during the morning. Diffused, soft natural light streams through tall windows, illuminating a spacious but utilitarian and slightly worn aesthetic. Rows of simple waiting chairs extend into the distance, leading towards a distant service counter. The composition emphasizes depth and scale, suggesting a quiet, mundane atmosphere focused on the process of official tasks. Focus on architectural lines and the subtle contrast between perceived grandeur and practical functionality. No detailed faces or identifiable individuals are present, only an expansive environmental view.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/antrean-tanpa-akhir-di-loket-tiga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelancer, Risa, attempts to renew her expired license at a public service office. She faces an absurdly long queue, ambiguous forms, and unhelpful staff. After hours of waiting, she finally reaches the counter only to be told she missed a crucial stamp from a department that closed an hour ago. Risa leaves defeated but finds cynical humor in the bureaucratic ordeal, planning to use it as a story for her friends.",
+    "target_emotion": "frustration, cynical amusement, relatable exasperation",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "antrean panjang",
+      "birokrasi indonesia",
+      "dark comedy",
+      "cerita sinis",
+      "layanan publik",
+      "frustrasi administrasi",
+      "komedi gelap",
+      "pengalaman freelancer",
+      "absurditas birokrasi",
+      "kisah nyata birokrasi",
+      "surat izin kerja",
+      "kantor pemerintah",
+      "stempel"
+    ]
+  }
+}
