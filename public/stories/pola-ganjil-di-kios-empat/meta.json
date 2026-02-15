@@ -1,0 +1,49 @@
+{
+  "id": "story-1771179520499",
+  "slug": "pola-ganjil-di-kios-empat",
+  "title": "Pola Ganjil di Kios Empat",
+  "genre": "mystery ringan",
+  "theme": "Sebuah observasi aneh terhadap penataan barang di sebuah kios kosong yang mengarah pada penemuan cerita tersembunyi di balik rutinitas dan benda-benda lama.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-02-15T18:18:40.499Z",
+  "updated_at": "2026-02-15T18:18:40.499Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "light mystery",
+    "market life",
+    "indonesian story",
+    "hidden story",
+    "memory",
+    "nostalgia",
+    "everyday mystery",
+    "observational"
+  ],
+  "cover": {
+    "prompt": "Early morning scene in a bustling market, bathed in the soft, golden light of dawn. A well-organized market stall takes center focus, abundantly stocked with towering sacks of grain, neatly arranged shiny bottles of cooking oil, and colorful bars of fragrant soaps. Steam gently rises from a nearby coffee stall at the edge of the busy pathway. The overall atmosphere is warm, inviting, and industrious, capturing the quiet anticipation of the day's start. Focus on the abundance of provisions and the early morning light. Composition emphasizes depth and the array of goods.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-ganjil-di-kios-empat/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A market vendor notices peculiar, consistent arrangements in a neighboring empty stall. Initially dismissing it as coincidence, the recurring patterns spark his curiosity. He investigates, finding subtle clues leading to a personal story from the past, connected to the previous owner and her granddaughter, revealing a hidden narrative within the market's routine.",
+    "target_emotion": "curiosity, reflection, heartwarming, nostalgia, gentle wonder",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "pola ganjil",
+      "kios kosong",
+      "pasar tradisional",
+      "misteri ringan",
+      "kisah tersembunyi",
+      "memori",
+      "nenek",
+      "cucu",
+      "observasi",
+      "rutinitas pasar",
+      "kisah personal",
+      "indonesia",
+      "pak budi"
+    ]
+  }
+}
