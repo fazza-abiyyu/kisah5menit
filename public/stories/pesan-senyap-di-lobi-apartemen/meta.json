@@ -1,0 +1,47 @@
+{
+  "id": "story-1771266448148",
+  "slug": "pesan-senyap-di-lobi-apartemen",
+  "title": "Pesan Senyap di Lobi Apartemen",
+  "genre": "drama keluarga",
+  "theme": "Menemukan kehangatan dan dukungan tak terduga dalam rutinitas sehari-hari, mengungkapkan bahwa koneksi antarmanusia bisa muncul dalam kesunyian dan pengertian.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-02-16T18:27:28.147Z",
+  "updated_at": "2026-02-16T18:27:28.147Z",
+  "status": "published",
+  "tags": [
+    "ibu tunggal",
+    "kesendirian",
+    "dukungan tak terduga",
+    "koneksi manusia",
+    "lobi apartemen",
+    "drama keluarga",
+    "kisah inspiratif",
+    "Jakarta",
+    "nenek",
+    "empati",
+    "rutinitas"
+  ],
+  "cover": {
+    "prompt": "Early morning in a calm, modern apartment lobby, bathed in soft, diffused golden light entering through large windows. The polished floor reflects the subtle illumination. A small, vibrant backpack rests near an elegant potted plant, suggesting a child's presence. A stylish, comfortable waiting area is visible, emphasizing a serene start to the day. The composition highlights the peaceful routine, with a shallow depth of field gently blurring the background. Focus on the quiet elegance of the space.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-senyap-di-lobi-apartemen/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang ibu tunggal yang terbebani oleh tuntutan hidup, Maya, menemukan dukungan tak terduga dan koneksi mendalam melalui gestur diam dari Nenek Indah, seorang lansia pendiam di lobi apartemen. Peristiwa kecil ini mengubah perspektif Maya tentang kesendirian dan keluarga.",
+    "target_emotion": "harapan dan kenyamanan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kisah ibu tunggal",
+      "hubungan antar generasi",
+      "cerita inspiratif",
+      "drama kehidupan",
+      "apartemen jakarta",
+      "kesendirian di kota",
+      "kekuatan empati",
+      "koneksi manusiawi",
+      "dukungan emosional"
+    ]
+  }
+}
