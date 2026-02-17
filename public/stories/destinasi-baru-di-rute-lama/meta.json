@@ -1,0 +1,49 @@
+{
+  "id": "story-1771353631464",
+  "slug": "destinasi-baru-di-rute-lama",
+  "title": "Destinasi Baru di Rute Lama",
+  "genre": "adventure ringan",
+  "theme": "Menemukan kebahagiaan dan kejutan dalam perjalanan sehari-hari yang biasanya dianggap biasa saja, melalui observasi dan interaksi kecil.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-02-17T18:40:31.464Z",
+  "updated_at": "2026-02-17T18:40:31.464Z",
+  "status": "published",
+  "tags": [
+    "komuter",
+    "perjalanan",
+    "rutinitas",
+    "kejutan",
+    "observasi",
+    "inspirasi",
+    "kebahagiaan",
+    "slice of life",
+    "petualangan ringan",
+    "stasiun",
+    "mural",
+    "kopi"
+  ],
+  "cover": {
+    "prompt": "Early morning view from a commuter train window, bathed in soft, warm light around 07:15 AM. Outside, the evolving landscape features orderly rows of homes, green fields gently transitioning to urban structures, and aged advertising panels. A quiet coffee cup sits on the window ledge, next to a pair of subtle earphones. The scene evokes a gentle sense of daily routine and quiet observation. Cinematic composition with a focus on the outside view, applying the rule of thirds and gentle depth of field, illuminated by an ambient glow.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/destinasi-baru-di-rute-lama/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan muda yang bosan dengan rutinitas perjalanan kereta komuternya setiap pagi, menemukan kejutan dan perspektif baru saat keretanya dialihkan ke jalur alternatif, mendorongnya untuk melakukan sesuatu yang berbeda dan menemukan kebahagiaan dalam momen tak terduga.",
+    "target_emotion": "ceria, terinspirasi, optimis, reflektif",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerita inspiratif",
+      "kisah motivasi",
+      "perjalanan hidup",
+      "kebahagiaan sederhana",
+      "rutinitas berubah",
+      "stasiun anggrek",
+      "petualangan kota",
+      "observasi",
+      "mural",
+      "perspektif baru"
+    ]
+  }
+}
