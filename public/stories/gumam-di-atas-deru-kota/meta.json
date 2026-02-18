@@ -1,0 +1,48 @@
+{
+  "id": "story-1771439750771",
+  "slug": "gumam-di-atas-deru-kota",
+  "title": "Gumam di Atas Deru Kota",
+  "genre": "psychological",
+  "theme": "Seorang freelancer yang terjebak dalam pusaran overthinking di tengah hiruk-pikuk kota, mencari makna dari pola acak dan menciptakan ketegangan sendiri.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-02-18T18:35:50.771Z",
+  "updated_at": "2026-02-18T18:35:50.771Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "urban",
+    "overthinking",
+    "freelancer",
+    "self-discovery",
+    "jakarta",
+    "observation",
+    "internal conflict",
+    "contemplative"
+  ],
+  "cover": {
+    "prompt": "An expansive overhead perspective from a pedestrian bridge above a bustling urban landscape in Jakarta. Below, the city unfolds as a dynamic tapestry of concrete structures and flowing movement, where distant vehicles and people appear as abstract, painterly patterns. The scene evokes a sense of serene contemplation amidst the city's rhythm, bathed in the gentle, warm light of golden hour with subtle atmospheric effects.",
+    "style": "Moody atmospheric illustration, soft lighting, painterly style",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gumam-di-atas-deru-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelancer, Aina, observes a bustling city from a pedestrian bridge. Initially finding solace, she starts noticing unsettling, repetitive patterns (e.g., a specific red bag, recurring gestures) that make her doubt her perception and reality. Driven by intense anxiety, she descends to confront these patterns, only to realize they are likely a product of her overthinking mind or mere urban coincidences. This internal confrontation leads to a profound acceptance of life's randomness, finding peace in observation without the need for complex interpretations.",
+    "target_emotion": "anxiety, contemplation, relief, introspection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "psychological fiction",
+      "urban narrative",
+      "overthinking",
+      "freelance life",
+      "jakarta story",
+      "self-discovery",
+      "internal monologue",
+      "city observation",
+      "existential dread",
+      "mind games",
+      "pedestrian bridge",
+      "short story"
+    ]
+  }
+}
