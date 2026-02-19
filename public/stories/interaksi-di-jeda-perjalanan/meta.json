@@ -1,0 +1,50 @@
+{
+  "id": "story-1771526231253",
+  "slug": "interaksi-di-jeda-perjalanan",
+  "title": "Interaksi di Jeda Perjalanan",
+  "genre": "romance subtle",
+  "theme": "Menemukan keindahan koneksi manusia yang tak terduga dalam rutinitas perjalanan sehari-hari, meskipun hanya sebatas pandangan mata dan senyum tipis.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-02-19T18:37:11.253Z",
+  "updated_at": "2026-02-19T18:37:11.253Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "daily commute",
+    "strangers to lovers",
+    "jakarta",
+    "bus journey",
+    "unexpected connection",
+    "optimism",
+    "slice of life",
+    "indonesian fiction",
+    "short story",
+    "urban life",
+    "human connection"
+  ],
+  "cover": {
+    "prompt": "Interior of a city bus during golden hour. Gentle, warm sunlight streams through the windows, creating a soft glow. In the foreground, a canvas messenger bag rests on a seat, subtly out of focus. A quiet silhouette of a person in the middle ground holds an open book or a slim tablet, illuminated by the beautiful morning light. Blurred glimpses of a vibrant cityscape are visible through the bus windows, suggesting movement. Composition uses rule of thirds, with a shallow depth of field to emphasize the atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/interaksi-di-jeda-perjalanan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A subtle romance between two strangers, Maya and Bayu, who regularly take the same bus. An accidental encounter breaks their comfortable silence, leading to a brief but meaningful conversation and a growing unspoken connection, transforming their daily commute into a journey of anticipation and hope.",
+    "target_emotion": "Hope, warmth, gentle anticipation, subtle joy of connection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "subtle romance story",
+      "bus commute encounter",
+      "jakarta short story",
+      "strangers connect",
+      "daily routine transformed",
+      "unexpected love story",
+      "indonesian romance fiction",
+      "urban love story",
+      "finding hope in routine",
+      "human connection in transit"
+    ]
+  }
+}
