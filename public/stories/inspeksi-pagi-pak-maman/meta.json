@@ -1,0 +1,49 @@
+{
+  "id": "story-1771612202461",
+  "slug": "inspeksi-pagi-pak-maman",
+  "title": "Inspeksi Pagi Pak Maman",
+  "genre": "dark comedy",
+  "theme": "Eksplorasi tentang bagaimana seorang penjaga keamanan menemukan kedamaian dan humor sinis dalam rutinitas sehari-hari di tengah kekonyolan birokrasi yang tak ada habisnya.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-02-20T18:30:02.461Z",
+  "updated_at": "2026-02-20T18:30:02.461Z",
+  "status": "published",
+  "tags": [
+    "satpam",
+    "birokrasi",
+    "komedi hitam",
+    "humor sinis",
+    "pelayanan publik",
+    "rutinitas",
+    "jakarta",
+    "slice of life",
+    "absurditas"
+  ],
+  "cover": {
+    "prompt": "Early morning in the grand lobby of an Integrated Public Service Building. Soft, warm dawn light illuminates the spacious area, with a prominent automatic revolving door central in the frame. A lone figure, a security guard in a slightly loose uniform, stands as a quiet silhouette near the door, embodying a sense of routine and gentle anticipation. Cinematic composition, rule of thirds, shallow depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/inspeksi-pagi-pak-maman/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Maman, a cynical security guard, finds humor in the absurd daily routine of a public service building. He observes Ibu Sulastri's unending bureaucratic struggles, which eventually find a bizarre resolution through a 'lidah mertua' plant vlog, reinforcing Pak Maman's peaceful acceptance of life's inherent silliness.",
+    "target_emotion": "cynical amusement, wry humor, resignation with a smile",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "Pak Maman",
+      "satpam",
+      "birokrasi",
+      "komedi hitam",
+      "pelayanan publik",
+      "cerita pendek",
+      "humor sinis",
+      "Jakarta",
+      "rutinitas",
+      "absurditas",
+      "lidah mertua",
+      "vlog",
+      "Indonesia"
+    ]
+  }
+}
