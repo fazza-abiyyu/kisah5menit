@@ -1,0 +1,54 @@
+{
+  "id": "story-1771697872902",
+  "slug": "celah-di-antara-dua-dinding",
+  "title": "Celah di Antara Dua Dinding",
+  "genre": "thriller ringan",
+  "theme": "Mengeksplorasi bagaimana mengambil jalan pintas yang tidak biasa dapat memicu refleksi diri tentang rasa takut dan keberanian dalam menghadapi hal yang tidak diketahui.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-02-21T18:17:52.902Z",
+  "updated_at": "2026-02-21T18:17:52.902Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "ringan",
+    "suspense",
+    "refleksi diri",
+    "ketakutan",
+    "keberanian",
+    "psikologis",
+    "urban exploration",
+    "introspektif",
+    "kota",
+    "misteri",
+    "persepsi",
+    "realita",
+    "ketidakpastian",
+    "cerpen"
+  ],
+  "cover": {
+    "prompt": "A serene urban pathway in a historic city area, illuminated by the gentle glow of morning light. Focus on the rich textures of aged brickwork and stone with subtle botanical growth. Architectural features and delicate details are highlighted by soft, elongated light patterns. The composition uses the rule of thirds with a shallow depth of field, creating an environmental shot that evokes a sense of quiet discovery and visual inspiration. No human figures are present, allowing the cityscape itself to convey its untold narratives.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/celah-di-antara-dua-dinding/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang desainer grafis menjelajahi celah sempit misterius di antara bangunan tua. Pengalaman ini memicu ketegangan dan perasaan diawasi, yang memaksa karakter merenung tentang persepsi, rasa takut, dan keberanian dalam menghadapi hal yang tidak diketahui.",
+    "target_emotion": "Refleksi diri, ketegangan ringan, keberanian, dan ketenangan introspektif.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "celah sempit",
+      "thriller ringan",
+      "refleksi diri",
+      "kisah perkotaan",
+      "inspirasi desain",
+      "ketakutan",
+      "keberanian",
+      "cerita pendek",
+      "psikologis",
+      "misteri urban",
+      "jalan pintas",
+      "persepsi realita"
+    ]
+  }
+}
