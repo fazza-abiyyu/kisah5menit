@@ -1,0 +1,46 @@
+{
+  "id": "story-1771784336372",
+  "slug": "gema-digital-di-jembatan-tua",
+  "title": "Gema Digital di Jembatan Tua",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi bagaimana teknologi masa depan dapat mempertemukan kita dengan gema kenangan lama yang perlahan memudar di tengah hiruk pikuk kota.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-02-22T18:18:56.372Z",
+  "updated_at": "2026-02-22T18:18:56.372Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "teknologi",
+    "kenangan",
+    "jakarta",
+    "jembatan",
+    "melankolis",
+    "emosi",
+    "masa lalu",
+    "AR"
+  ],
+  "cover": {
+    "prompt": "A weathered wooden pedestrian bridge, its textured planks worn by untold urban journeys, gracefully extends over a vibrant and expansive cityscape. Below, the city of Jakarta gleams with continuous energy and a soft glow of urban activity. A solitary human silhouette stands contemplatively on the bridge, observing the sweeping panoramic vista. Cinematic wide shot, rule of thirds composition, strong depth of field. Golden hour light bathes the scene, creating a reflective and evocative atmosphere with gentle illumination and warm hues.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gema-digital-di-jembatan-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A digital archivist, Risa, encounters mysterious 'echoes' of past lives on an old Jakarta bridge scheduled for demolition, perceived through her AR lenses. These non-archival fragments of human experience culminate in an intense, vivid replay of a couple's emotional separation, profoundly affecting Risa. The experience shifts her perception, leading her to understand that while technology advances and physical structures change, the essence of human emotion and collective memory endures, urging a deeper appreciation for the 'echoes' of the past.",
+    "target_emotion": "melancholy, empathy, and introspective wonder",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "sci-fi indonesia",
+      "jakarta digital",
+      "jembatan tua",
+      "memori kolektif",
+      "teknologi AR",
+      "kisah melankolis",
+      "perpisahan emosional",
+      "cerita pendek",
+      "refleksi manusia",
+      "masa lalu dan masa depan"
+    ]
+  }
+}
