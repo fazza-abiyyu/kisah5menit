@@ -1,0 +1,46 @@
+{
+  "id": "story-1771872325177",
+  "slug": "jejak-di-lobi-senyap",
+  "title": "Jejak di Lobi Senyap",
+  "genre": "mystery ringan",
+  "theme": "Sebuah pensiunan dengan mata jeli mengungkap misteri kecil di lobi apartemennya, menemukan kehangatan dalam interaksi tak terduga.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-02-23T18:45:25.176Z",
+  "updated_at": "2026-02-23T18:45:25.176Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "pensiunan",
+    "apartemen",
+    "koneksi antarmanusia",
+    "teka-teki",
+    "observasi",
+    "Indonesia",
+    "persahabatan"
+  ],
+  "cover": {
+    "prompt": "A tranquil apartment lobby in the early morning. Soft morning light bathes plush sofas and well-maintained green potted plants. In the foreground, a pristine marble table, usually bare, holds an intriguing small object. Gentle light plays across the polished surfaces, highlighting the quiet elegance. The overall atmosphere is calm and inviting, with an understated sophistication. Cinematic composition, rule of thirds, shallow depth of field, focusing on the table with the lobby as a soft background.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-di-lobi-senyap/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Hadi, seorang pensiunan dengan hobi mengamati detail, menemukan secarik kertas aneh di lobi apartemennya. Ia menyelidiki teka-teki tersebut melalui observasi para penghuni dan pola gedung. Akhirnya, ia menemukan bahwa kode itu adalah komunikasi rahasia antara seorang anak kecil dan tetangga pensiunan yang penyendiri untuk bermain catur dari jarak jauh, yang membawa kehangatan dan koneksi tak terduga.",
+    "target_emotion": "Curiosity, warmth, satisfaction, heartwarming connection",
+    "reading_time_minutes": 10,
+    "keywords": [
+      "cerita pendek",
+      "misteri ringan",
+      "apartemen",
+      "pensiunan",
+      "koneksi sosial",
+      "teka-teki",
+      "observasi",
+      "kisah mengharukan",
+      "catur",
+      "persahabatan antar generasi"
+    ]
+  }
+}
