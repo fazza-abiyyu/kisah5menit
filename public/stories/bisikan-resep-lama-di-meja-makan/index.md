@@ -1,0 +1,59 @@
+Arya tiba di rumah ibunya sore itu, disambut aroma tanah basah sehabis hujan dan sedikit wangi melati yang semerbak dari halaman depan. Pintu rumah kayu yang sudah termakan usia itu tidak terkunci, seperti biasa Ibu Siska, ibunya, selalu percaya ia akan pulang. "Ma, Arya pulang!" serunya sambil meletakkan tas laptop di sofa ruang tamu yang empuk. Dari dapur, terdengar suara gemerisik kertas dan denting mangkuk keramik yang pelan. Arya melongokkan kepala, menemukan ibunya, Ibu Siska, duduk di meja makan dengan kacamata bertengger di hidung, asyik menelusuri halaman-halaman lusuh sebuah buku tebal. Itu buku resep keluarga, warisan turun-temurun, yang sudah puluhan tahun menghuni rak dapur. Sampulnya terbuat dari karton keras yang mulai melengkung di sudut, dan beberapa halamannya sudah ditempel selotip usang. Bau kertas tua dan rempah-rempah kering samar-samar tercium dari buku itu.
+
+Di sebelahnya, beberapa bahan masakan – wortel yang baru dikupas dan dipotong rapi, seikat sawi hijau segar, dan semangkuk kecil udang yang sudah dibersihkan – menanti. Arya mengerutkan dahi. Ibunya jarang lagi memasak hidangan sesederhana ini, apalagi dari buku resep tua itu. Biasanya, kalau Arya pulang, Ibu akan menyiapkan masakan 'berat' favoritnya, seperti rendang atau opor ayam, seolah ingin memastikan anaknya selalu merasa kenyang dan disambut dengan meriah.
+
+"Eh, Arya? Sudah sampai? Kenapa tidak bersuara lagi?" Ibu Siska mengangkat kepala, senyumnya merekah, menghangatkan suasana dapur. "Mama baru mau mulai masak, nih. Kangen masakan lama. Masakan yang ringan-ringan saja."
+
+Arya mendekat, menarik kursi di seberang ibunya. Ia mengintip halaman yang sedang dibuka ibunya. Tulisan tangan di sana sudah agak pudar dan kekuningan, tapi masih terbaca jelas. "Masak apa, Ma? Kelihatannya resep zaman purba. Sup yang paling kuno mungkin?" Arya mencoba mencairkan suasana dengan candaan ringan.
+
+Ibu Siska berpura-pura cemberut. "Jangan begitu, ini resep warisan Nenekmu. Bukan purba, tapi klasik." Ia tersenyum kecil. "Sup tahu udang, sederhana saja. Tapi ini resep yang sering Papa masak dulu, kalau Mama sedang tidak enak badan atau kalau cuaca sedang dingin. Papa selalu bilang, sup ini bisa menghangatkan sampai ke hati."
+
+Arya terdiam sejenak, kenangan tentang ayahnya yang sudah tiada hampir sepuluh tahun lalu, tiba-tiba menyengat dadanya. Sebuah sentuhan rindu yang pahit. "Oh, ya? Arya tidak tahu." Ia berusaha mengingat, namun hanya samar-samar.
+
+"Iya. Dulu Papa paling jago masak ini, lho. Dan soto ayam buatannya juga juara. Kamu ingat tidak? Aroma bumbunya selalu memenuhi seluruh rumah." Ibu Siska mendesah lembut, seperti meniup kabut kenangan.
+
+"Ingat sedikit, Ma. Dulu kan Arya masih kecil sekali," jawab Arya. Ia meraih sehelai wortel yang sudah dipotong dan menggigitnya renyah. "Mau Arya bantu, Ma? Arya bisa potong-potong sayur."
+
+Ibu Siska mengangguk, senyumnya agak getir, seolah ada beban yang terangkat namun juga tertinggal. "Boleh. Potong-potong wortel ini, lalu sawinya." Dia menyodorkan pisau dan talenan kayu. "Dulu, waktu kamu dan Papa masih sering di rumah, dapur ini selalu ramai. Ada saja suara tawa, obrolan, kadang Papa juga bernyanyi sambil masak." Matanya menerawang. "Sekarang... kadang sepi sekali, ya. Hanya suara kompor dan air mendidih saja yang terdengar."
+
+Perkataan itu, lembut dan tanpa tuntutan, justru menusuk Arya lebih dalam. Ia tahu persis apa yang ibunya rasakan. Dapur yang dulu selalu riuh dengan suara tawa, dentingan panci, dan adu argumen ringan antara Mama dan Papa, kini hanya menyisakan gema kenangan. Ia menelan ludah, merasakan perih yang familiar. Rutinitas pekerjaannya yang menuntut, deadline yang tak berujung, dan lingkaran pertemanan di kota, telah menyita hampir seluruh waktu dan tenaganya. Ia menyadari, di balik setiap ‘tidak apa-apa’ yang ibunya ucapkan, ada ruang kosong yang diam-diam bertambah besar. Ia merasakan kepedihan lembut menyusup di dadanya, sebuah penyesalan atas waktu yang terlewatkan, kata-kata yang tak terucapkan, dan kehadiran yang sering absen.
+
+"Maaf, Ma. Arya jadi jarang pulang," ucapnya pelan, sambil mulai memotong wortel menjadi bentuk bunga-bunga kecil, berusaha mengalihkan perhatian dari rasa bersalah yang menggerogoti.
+
+Ibu Siska mengamati tangannya yang cekatan. "Tidak apa-apa, Nak. Mama tahu kamu sibuk, punya kehidupanmu sendiri. Tapi kadang, Mama cuma ingin ada yang menemani masak begini. Bicara hal-hal kecil, atau sekadar berbagi cerita tentang hari ini." Suaranya tetap tenang, tapi ada harapan yang menggantung di udara.
+
+Mereka melanjutkan memasak dalam hening yang nyaman. Aroma bawang putih yang ditumis dengan sedikit minyak kelapa mulai memenuhi dapur, bercampur dengan wangi segar sayuran yang baru dipotong. Ibu Siska sibuk membersihkan udang dan menyiapkan bumbu halus, sementara Arya melanjutkan tugas memotong-motong dan membantu menyiapkan air kaldu. Perlahan, irama kebersamaan itu kembali terasa. Sampai akhirnya, Ibu Siska membalik halaman, dan jari telunjuknya berhenti di sebuah judul yang ditulis dengan tinta yang lebih tebal dan agak buram, seperti sengaja diberi penekanan: "Sup Bening Nenek – Penambah Semangat."
+
+"Nah, ini dia," Ibu Siska berbisik, seolah-olah berbicara pada dirinya sendiri, atau mungkin pada kenangan yang jauh. "Resep Sup Bening Nenek. Dulu, Nenekmu bilang, sup ini bisa mengusir segala kesedihan, dan memberi semangat baru bagi yang merasakannya."
+
+Arya menatap resep itu, lalu melihat ke samping. Tulisan tangan ayahnya terselip di pinggir halaman, menuliskan catatan kecil dengan tinta yang berbeda: "Untuk Siska, agar selalu sehat dan semangat. Dengan cinta, dari P-mu." Sebuah gurat senyum tipis, campur sendu, muncul di bibir Ibu Siska. Kenangan itu begitu hidup, begitu nyata.
+
+"Papa paling suka sup ini," katanya, suaranya sedikit melirih. "Setiap kali Nenek datang, Papa pasti minta dibuatkan ini. Dan Nenek selalu menurutinya, dengan senang hati. Dulu kita sering makan bareng di meja ini, berempat. Nenek, Papa, Mama, dan kamu yang selalu duduk di pangkuan Papa. Meja ini selalu penuh." Ibu Siska menepuk lembut permukaan meja kayu jati yang mengkilap itu.
+
+Arya bisa membayangkan dengan jelas. Meja makan kayu jati ini, yang sekarang terasa terlalu besar dan agak kosong untuk mereka berdua, dulu selalu penuh tawa, obrolan, dan kadang suara denting sendok yang bertabrakan. Aroma sup hangat yang mengepul, cerita-cerita Nenek yang selalu penuh kebijaksanaan dan pelajaran hidup, dan tatapan penuh cinta dari ayahnya. Tradisi itu, kehangatan itu, perlahan memudar seiring berjalannya waktu, seiring hilangnya orang-orang yang mengisi kekosongan tersebut. Waktu memang tak bisa diputar kembali.
+
+"Dulu, setiap malam Minggu, kita selalu masak bareng, Ma. Papa selalu pakai celemek yang ada gambar koki gendut itu, kan?" kenang Arya, suaranya sedikit parau karena emosi yang tertahan.
+
+Ibu Siska tertawa kecil, tawa yang sedikit berat dan penuh nostalgia. "Iya, celemek pemberian Mama. Dulu dia bilang, itu jimat keberuntungannya di dapur." Ada jeda panjang, dipenuhi oleh dengung kenangan. "Kadang Mama berpikir, apa Mama sudah cukup waktu menemani Papa, ya? Setelah kamu besar dan sibuk dengan sekolah, lalu Papa juga pensiun, kami jadi sering berdua saja di rumah. Mama sibuk di kebun, Papa dengan dunianya sendiri. Merasa kurang sekali waktu itu."
+
+Arya menatap ibunya. Ada kerutan tipis di sudut matanya, menyimpan begitu banyak cerita yang belum terucap, begitu banyak penyesalan yang tak terbahas. "Mama sudah memberikan yang terbaik, Ma. Papa tahu itu."
+
+"Mungkin. Tapi penyesalan itu selalu ada, ya, Nak?" Ibu Siska balas menatapnya, matanya sedikit berkaca-kaca, mencerminkan kejujuran yang menenangkan. "Sama seperti Mama melihatmu sekarang. Kamu sudah punya duniamu sendiri, pekerjaanmu, teman-temanmu. Mama senang, bangga sekali. Tapi ada juga rasa... entahlah. Merasa waktu cepat sekali berlalu. Rasanya baru kemarin kamu minta gendong dan tidak mau lepas dari Mama, sekarang sudah tinggi besar dan jarang pulang."
+
+Kata-kata itu, diucapkan dengan suara bergetar dan tatapan yang menelanjangi jiwanya, adalah pengakuan paling jujur dan menyakitkan yang pernah Arya dengar dari ibunya. Bukan keluhan yang menuntut, bukan pula sindiran yang menyalahkan, melainkan ekspresi murni dari hati seorang ibu yang melihat anaknya tumbuh menjauh, menjalani kehidupannya sendiri. Arya merasakan dadanya teremas. Ada penyesalan yang membuncah, keinginan kuat untuk memutar waktu, mengembalikan hari-hari ketika ia masih dengan senang hati mengekor ke mana pun ibunya pergi. Ia ingin mengatakan sesuatu yang besar, yang bisa menyapu semua kerinduan dan mengisi kekosongan itu. Sebuah janji agung, atau sebuah deklarasi cinta yang bisa mengobati. Namun, kata-kata itu terasa begitu berat dan sulit keluar, tersangkut di tenggorokannya. Yang keluar hanyalah, "Arya kangen masakan Mama, lebih dari apa pun."
+
+Sup tahu udang yang sederhana itu akhirnya siap. Aroma harumnya memenuhi seluruh ruangan, mengundang selera untuk segera menyantapnya. Mereka duduk di meja makan, berhadapan, dengan uap tipis mengepul dari mangkuk sup di antara mereka. Uap hangat dari mangkuk sup membubung, mengembun di kacamata Arya sesaat. Sendok pertama terasa begitu akrab, hangat, dan menenangkan, membawa kembali kenangan yang tersimpan dalam memori rasa. Persis seperti ingatan Arya tentang masakan ibunya, penuh dengan sentuhan kasih sayang.
+
+"Enak sekali, Ma," Arya berkata, tulus. "Ini persis seperti yang Papa masak dulu. Gurihnya pas, tahunya lembut, udangnya segar." Ia menatap ibunya dengan senyum.
+
+Ibu Siska tersenyum, senyum yang kali ini lebih lega dan bahagia, sebuah pancaran kelegaan yang murni. "Resep Nenekmu memang tidak pernah salah, Nak. Selalu membawa kehangatan."
+
+Mereka makan dalam diam yang sesekali diisi obrolan ringan tentang pekerjaan Arya, tanaman baru di kebun Ibu Siska yang mulai berbunga, atau rencana renovasi kecil di rumah yang sudah lama tertunda. Tapi kali ini, keheningan itu tidak lagi terasa canggung atau sunyi yang membebani, melainkan sunyi yang penuh dengan cerita tak terucap, dengan pengertian yang mendalam antara mereka berdua. Seolah-olah, melalui sup bening sederhana itu, lapisan-lapisan kecanggungan dan jarak yang selama ini menyelimuti telah meleleh, digantikan oleh kehangatan dan kedekatan yang sudah lama mereka lupakan.
+
+Setelah mangkuk kosong dan meja makan dibersihkan, Arya menatap ibunya. "Ma," katanya, suaranya lebih mantap. "Mungkin mulai sekarang, Arya akan sering pulang. Tidak harus menunggu hari raya, tidak harus di akhir pekan yang panjang. Mungkin cuma untuk makan malam seperti ini, atau sekadar menemani Mama merawat kebun di sore hari, atau sekadar minum teh di teras."
+
+Mata Ibu Siska sedikit melebar, lalu kerutan di sudut matanya melunak, sebuah kelegaan yang besar menyebar di seluruh wajahnya. "Sungguh? Kamu tidak sibuk?"
+
+"Iya, Ma. Arya janji," ucap Arya, merasakan sebuah resolusi yang kuat dan tulus dalam dirinya. Ia sadar, kedekatan tidak selalu harus dibangun dengan kata-kata manis atau hadiah mahal. Terkadang, sebuah kehadiran, sebuah janji kecil, dan berbagi semangkuk sup yang sederhana di meja makan yang sama, sudah lebih dari cukup untuk mengikat kembali benang-benang hubungan yang longgar.
+
+Sore itu, di rumah yang dulu terasa asing karena jarang dikunjungi, Arya menemukan kembali kedamaian. Bukan kedamaian yang hingar-bingar, tapi kedamaian yang tenang, hangat, dan reflektif. Kedamaian yang serupa dengan aroma sup bening yang masih samar-samar tercium di udara, menjanjikan kenangan baru untuk dibangun dan dihargai. Ia meraih tangan ibunya yang keriput karena usia dan kerja keras, lalu menggenggamnya erat. Senyum di wajah ibunya adalah jawaban terbaik yang bisa ia harapkan, sebuah penerimaan dan kelegaan yang tak terhingga.

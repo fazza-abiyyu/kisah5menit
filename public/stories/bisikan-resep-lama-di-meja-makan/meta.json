@@ -1,0 +1,49 @@
+{
+  "id": "story-1771958626199",
+  "slug": "bisikan-resep-lama-di-meja-makan",
+  "title": "Bisikan Resep Lama di Meja Makan",
+  "genre": "drama keluarga",
+  "theme": "Mengeksplorasi hubungan keluarga yang berubah dan menemukan kedekatan baru melalui kenangan, penyesalan lembut, serta penerimaan akan waktu yang berlalu.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-02-24T18:43:46.199Z",
+  "updated_at": "2026-02-24T18:43:46.199Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "kenangan masa lalu",
+    "masakan tradisional",
+    "penyesalan",
+    "refleksi",
+    "nostalgia",
+    "kebersamaan keluarga",
+    "Bahasa Indonesia",
+    "slice of life"
+  ],
+  "cover": {
+    "prompt": "An inviting perspective of an aged wooden house entrance during late afternoon. The foreground shows the ground softly damp after rain, reflecting the gentle light. Lush jasmine plants with delicate white blossoms frame the view. Warm, diffused golden light gently illuminates the weathered wood and the serene, natural surroundings. A deep sense of comfort and a welcoming atmosphere of homecoming. Rule of thirds composition, environmental shot, with shallow depth of field, hinting at a cozy interior beyond the slightly open door.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-resep-lama-di-meja-makan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "An adult son, Arya, visits his mother and finds her cooking old family recipes. As they cook, the mother gently reveals her nostalgia and loneliness, hinting at a desire for more shared time, prompting Arya's soft regret. A specific recipe, 'Sup Bening Nenek', brings forth bittersweet memories of his late father and fading traditions. Through quiet conversation, they share unspoken regrets and a desire for deeper understanding. The story concludes with Arya making an implicit and verbal promise to visit more often, finding renewed peace and connection in these simple moments.",
+    "target_emotion": "Nostalgia, warmth, reflection, gentle sorrow, hope, reconciliation, understanding, comfort",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita keluarga",
+      "drama hubungan ibu anak",
+      "masakan nenek",
+      "resep warisan",
+      "pulang kampung",
+      "refleksi diri",
+      "kenangan ayah",
+      "kedekatan keluarga",
+      "penyesalan",
+      "waktu keluarga",
+      "cerita pendek indonesia",
+      "slice of life indonesia"
+    ]
+  }
+}
