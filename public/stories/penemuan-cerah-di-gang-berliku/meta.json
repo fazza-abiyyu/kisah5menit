@@ -1,0 +1,42 @@
+{
+  "id": "story-1772045218150",
+  "slug": "penemuan-cerah-di-gang-berliku",
+  "title": "Penemuan Cerah di Gang Berliku",
+  "genre": "adventure ringan",
+  "theme": "Menjelajahi sebuah gang tersembunyi di pasar tua dan menemukan keindahan tak terduga serta koneksi manusia yang menghangatkan hati.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-02-25T18:46:58.150Z",
+  "updated_at": "2026-02-25T18:46:58.150Z",
+  "status": "published",
+  "tags": [
+    "petualangan",
+    "pasar tradisional",
+    "komunitas",
+    "fotografi",
+    "penemuan",
+    "slice of life",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "A serene traditional Indonesian market at golden hour, bathed in warm, gentle light. The scene focuses on the rich textures of various vendor stalls: meticulously stacked spices, vibrant fabrics, and fresh produce. A clear pathway winds through the market, guiding the eye. The composition emphasizes environmental details, with a shallow depth of field creating a subtle softness in the background. An artistic, slightly out-of-focus detail of a vintage camera lens rests on a wooden surface, suggesting observation and routine. The overall atmosphere conveys a sense of familiar beauty and quiet contemplation, with no explicit human figures, focusing on objects and the marketplace environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/penemuan-cerah-di-gang-berliku/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang fotografer yang bosan menemukan gang misterius di pasar, yang awalnya tampak menakutkan namun akhirnya mengarah ke komunitas tersembunyi yang hangat dan penuh kehidupan.",
+    "target_emotion": "Warmth, curiosity, discovery, inspiration, connection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "pasar tradisional",
+      "gang tersembunyi",
+      "fotografer",
+      "komunitas pasar",
+      "petualangan singkat",
+      "koneksi manusia",
+      "inspirasi",
+      "cerita Indonesia"
+    ]
+  }
+}
