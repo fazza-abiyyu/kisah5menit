@@ -1,0 +1,47 @@
+{
+  "id": "story-1772216727961",
+  "slug": "pantulan-pagi-di-tepi-sungai",
+  "title": "Pantulan Pagi di Tepi Sungai",
+  "genre": "romance subtle",
+  "theme": "Menjelajahi bagaimana sebuah interaksi sederhana di tepi sungai dapat membuka hati seseorang untuk kemungkinan hubungan baru dan optimisme.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-02-27T18:25:27.961Z",
+  "updated_at": "2026-02-27T18:25:27.961Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "optimisme",
+    "inspirasi",
+    "pagi",
+    "sungai",
+    "penulis lepas",
+    "fotografi",
+    "koneksi",
+    "perasaan ringan",
+    "awal baru"
+  ],
+  "cover": {
+    "prompt": "A serene river flowing gently. A weathered wooden bench is positioned by the water's edge, under the soft glow of a breaking day. The eastern sky transitions from a delicate, fading orange to a calming, bright blue, suggesting a clear and expansive morning. On the bench, a single, pristine blank white paper rests, catching the gentle morning light. The overall atmosphere conveys quiet contemplation and the promise of a fresh start. Crisp morning atmosphere. Cinematic composition, rule of thirds, gentle depth of field, warm and cool color interplay.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pantulan-pagi-di-tepi-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Raya, a struggling freelance writer, finds unexpected inspiration and a potential new connection with Arjuna, an amateur photographer, after helping him retrieve a dropped camera lens by a quiet river. This interaction shifts her from anxiety to optimism, opening her heart to new possibilities and subtle hope for future encounters.",
+    "target_emotion": "Optimism and quiet warmth",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita romansa",
+      "inspirasi menulis",
+      "pagi hari",
+      "tepi sungai",
+      "koneksi tak terduga",
+      "kisah optimis",
+      "penulis dan fotografer",
+      "cerita pendek Indonesia",
+      "kebuntuan ide",
+      "harapan baru"
+    ]
+  }
+}
