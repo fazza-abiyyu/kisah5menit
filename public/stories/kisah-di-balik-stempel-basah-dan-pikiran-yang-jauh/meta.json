@@ -1,0 +1,46 @@
+{
+  "id": "story-1772302560794",
+  "slug": "kisah-di-balik-stempel-basah-dan-pikiran-yang-jauh",
+  "title": "Kisah di Balik Stempel Basah dan Pikiran yang Jauh",
+  "genre": "dark comedy",
+  "theme": "Seorang pegawai pos yang sinis menemukan introspeksi dan humor gelap dalam absurditas rutinitas birokrasi dan interaksi sehari-hari yang berulang.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-02-28T18:16:00.793Z",
+  "updated_at": "2026-02-28T18:16:00.793Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "birokrasi",
+    "kantor pos",
+    "rutinitas",
+    "introspeksi",
+    "humor gelap",
+    "Indonesia",
+    "urban life"
+  ],
+  "cover": {
+    "prompt": "Cinematic interior view of a bustling, yet serene, old post office counter. Gentle, warm morning light filters through large windows, creating a soft, inviting glow across the scene. On the wooden counter, a traditional wet stamp, a digital weighing scale, and organized stacks of aged paper are prominently featured. A subtle wisp of steam ascends from a small, simple mug, hinting at freshly brewed coffee. In the soft-focused background, the impression of a patient queue of patrons is visible, their forms blurred and indistinct, emphasizing the constancy of daily operations. The composition utilizes shallow depth of field, drawing attention to the textured details of the workspace and evoking a feeling of established routine and gentle nostalgia.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kisah-di-balik-stempel-basah-dan-pikiran-yang-jauh/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Raga, seorang pegawai loket kantor pos, menemukan humor gelap dan introspeksi dalam rutinitas birokrasi yang monoton. Melalui interaksi aneh dengan pelanggan dan sebuah insiden kecil, ia merenungkan makna hidup, yang puncaknya saat ia menemukan surat lama tak terkirim. Pengalaman ini memicu tindakan kecil yang melanggar aturan demi sentuhan kemanusiaan, membawa Raga pada ketenangan ironis dalam memandang absurditas dunianya.",
+    "target_emotion": "Introspeksi menenangkan, humor gelap, refleksi pahit, diakhiri dengan penerimaan atas absurditas hidup.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kantor pos",
+      "pegawai loket",
+      "birokrasi",
+      "humor gelap",
+      "introspeksi",
+      "surat lama",
+      "rutinitas",
+      "koneksi manusia",
+      "kisah sehari-hari",
+      "cerita pendek Indonesia",
+      "Raga"
+    ]
+  }
+}
