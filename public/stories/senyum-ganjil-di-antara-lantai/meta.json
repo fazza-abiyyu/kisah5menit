@@ -1,0 +1,49 @@
+{
+  "id": "story-1772389056929",
+  "slug": "senyum-ganjil-di-antara-lantai",
+  "title": "Senyum Ganjil di Antara Lantai",
+  "genre": "thriller ringan",
+  "theme": "Menguak keanehan kecil dalam rutinitas sehari-hari melalui observasi sinis, mempertanyakan motif di balik tindakan orang, yang ternyata lebih absurd dari dugaan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-03-01T18:17:36.928Z",
+  "updated_at": "2026-03-01T18:17:36.928Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "humor",
+    "satpam",
+    "apartemen",
+    "misteri ringan",
+    "kecemasan sosial",
+    "absurditas",
+    "jakarta",
+    "rutinitas",
+    "observasi sinis"
+  ],
+  "cover": {
+    "prompt": "A majestic, modern apartment skyscraper in a vibrant urban landscape, towering upwards into the gentle glow of the golden hour. The building's sleek, reflective surfaces subtly catch the warm light, emphasizing its architectural grandeur. The composition features a strong sense of place, with a subtle hint of the constant, intricate flow of city existence at its base, viewed from a respectful distance. Environmental shot, architectural focus.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-ganjil-di-antara-lantai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Herman, seorang satpam senior, merasa tak ada lagi yang bisa mengejutkannya di apartemen mewah tempat ia bekerja. Namun, seorang penghuni baru dengan 'senyum ganjil' dan rutinitas mencurigakan—selalu naik turun lift ke lantai yang sama dengan tas belanjaan kosong—membangkitkan rasa penasaran sinisnya. Ia mulai mengamati CCTV dan mencari pola, berspekulasi tentang motif di balik ritual aneh tersebut. Akhirnya, Pak Herman memutuskan untuk menghadapi Bapak Senyum Ganjil secara tidak langsung di lift, yang berakhir dengan pengakuan absurd: Bapak tersebut sedang menjalani terapi kejiwaan 'simulasi belanja' untuk mengatasi kecemasan sosial, dengan tas kosong sebagai properti dan lantai yang dituju adalah tempat konseling. Pak Herman merasa lega sekaligus jengkel, menyadari bahwa misteri terbesar seringkali adalah absurditas belaka.",
+    "target_emotion": "amusement, cynical relief, curiosity, slight exasperation",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "thriller ringan",
+      "satpam",
+      "apartemen mewah",
+      "misteri lift",
+      "kecemasan sosial",
+      "simulasi belanja",
+      "kisah absurd",
+      "jakarta selatan",
+      "humor sinis",
+      "observasi sehari-hari",
+      "perilaku aneh"
+    ]
+  }
+}
