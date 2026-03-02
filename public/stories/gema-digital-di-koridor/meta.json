@@ -1,0 +1,47 @@
+{
+  "id": "story-1772476212315",
+  "slug": "gema-digital-di-koridor",
+  "title": "Gema Digital di Koridor",
+  "genre": "sci-fi ringan",
+  "theme": "Bagaimana teknologi canggih yang tersembunyi dapat secara halus mempengaruhi rutinitas dan kenangan manusia, menimbulkan rasa melankolis akan waktu yang berlalu.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-03-02T18:30:12.315Z",
+  "updated_at": "2026-03-02T18:30:12.315Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "teknologi",
+    "memori",
+    "melankolis",
+    "apartemen",
+    "privasi",
+    "emosi",
+    "refleksi",
+    "perasaan"
+  ],
+  "cover": {
+    "prompt": "An exterior view of a sturdy, multi-story apartment building from the 1990s, depicted during the gentle evening hours. Warm, inviting light spills from several windows, contrasting with the soft blue hues of the sky at dusk. A quiet urban pathway leads towards the building's entrance, conveying a sense of calm accomplishment and homecoming. The overall atmosphere suggests a peaceful conclusion to a busy day, with a subtle, comforting warmth.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gema-digital-di-koridor/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a young software developer, discovers that the digital panel in her old apartment's lift reflects her personal thoughts and forgotten memories. This phenomenon raises questions about privacy and reality, creating an introspective anxiety. Eventually, during a melancholic moment, the lift displays a deeply personal slideshow of her childhood memories, concluding with a gentle digital farewell. Anya accepts the technology as a 'digital echo' that preserves human emotions and memories, finding a sense of peace and connection with this silent, unexpected companion.",
+    "target_emotion": "melancholy, introspection, peaceful acceptance, wonder",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "sci-fi ringan",
+      "teknologi canggih",
+      "memori digital",
+      "apartemen tua",
+      "privasi",
+      "melankolis",
+      "cerita pendek",
+      "Anya",
+      "lift pintar",
+      "kenangan masa lalu",
+      "gema digital"
+    ]
+  }
+}
