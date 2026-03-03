@@ -1,0 +1,49 @@
+{
+  "id": "story-1772562830884",
+  "slug": "jejak-aneh-di-kotak-surat",
+  "title": "Jejak Aneh di Kotak Surat",
+  "genre": "mystery ringan",
+  "theme": "Menggali rasa ingin tahu yang tersembunyi ketika menemukan sebuah petunjuk misterius di tengah rutinitas perkotaan, membuka mata pada koneksi tak terduga.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-03T18:33:50.883Z",
+  "updated_at": "2026-03-03T18:33:50.883Z",
+  "status": "published",
+  "tags": [
+    "mystery ringan",
+    "urban",
+    "observasi",
+    "interaksi sosial",
+    "Jakarta",
+    "apartemen",
+    "rasa ingin tahu",
+    "pesan tersembunyi",
+    "kisah sehari-hari",
+    "introspeksi"
+  ],
+  "cover": {
+    "prompt": "An expansive, modern apartment lobby at late afternoon, bathed in a gentle, warm light streaming through large windows. The view outside reveals a dynamic urban landscape, subtly indicating the vibrant, ceaseless movement of a city. The atmosphere is quiet and contemplative, highlighting overlooked architectural details and the interplay of light on polished surfaces. A distant, soft silhouette of a person quietly observes the scene, emphasizing a sense of peaceful introspection amidst urban energy. Composition follows the rule of thirds, with an inviting depth of field that softens the background.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-aneh-di-kotak-surat/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang desainer grafis introvert menemukan surat misterius di kotak surat apartemen yang salah, memicu rasa ingin tahunya. Melalui observasi detail, ia menyadari bahwa itu adalah teka-teki manis dari seorang anak untuk ayahnya, yang pada akhirnya memberinya perspektif baru tentang koneksi tak terlihat di lingkungannya.",
+    "target_emotion": "Rasa ingin tahu yang hangat dan perasaan koneksi yang damai",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "misteri ringan",
+      "kehidupan apartemen",
+      "observasi kota",
+      "interaksi tak terlihat",
+      "jakarta",
+      "kisah inspiratif",
+      "pesan anak",
+      "penemuan",
+      "rasa penasaran",
+      "introvert",
+      "kehidupan urban"
+    ]
+  }
+}
