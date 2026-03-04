@@ -1,0 +1,45 @@
+{
+  "id": "story-1772649081033",
+  "slug": "pesan-dari-jeda-elevator",
+  "title": "Pesan dari Jeda Elevator",
+  "genre": "drama keluarga",
+  "theme": "Mengeksplorasi bagaimana seorang anak dewasa dengan tenang menghadapi perubahan halus dalam penuaan orang tua, menemukan kedamaian dalam momen-momen reflektif yang dibagikan.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-03-04T18:31:21.033Z",
+  "updated_at": "2026-03-04T18:31:21.033Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "penuaan",
+    "refleksi",
+    "hubungan ayah anak",
+    "memori",
+    "penerimaan",
+    "Jakarta"
+  ],
+  "cover": {
+    "prompt": "A modern, sophisticated apartment lobby interior, featuring highly polished marble floors that gently reflect the intricate light from a grand crystal chandelier. Cool ambient lighting, indicative of air conditioning, softly blends with the warm glow emanating from interior architectural elements. An automatic glass entrance door stands slightly ajar in the background, suggesting a moment of arrival or departure. The overall scene conveys a sense of serene routine and quiet contemplation, with an undercurrent of thoughtful introspection. Cinematic wide shot, inviting depth, and thoughtful composition.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-dari-jeda-elevator/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Laras, seorang profesional muda, mengunjungi ayahnya yang semakin menua dan menyadari kemunduran halus dalam memorinya. Sebuah momen reflektif di dalam lift, di mana ia teringat kenangan masa kecil yang dibagikan ayahnya, menegaskan kembali ikatan abadi mereka dan memberinya kedamaian serta penerimaan terhadap perubahan hidup.",
+    "target_emotion": "kedamaian reflektif, penerimaan, haru",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "penuaan",
+      "ingatan",
+      "refleksi diri",
+      "hubungan orang tua anak",
+      "penerimaan hidup",
+      "cerita pendek",
+      "bahasa Indonesia",
+      "Jakarta",
+      "memori masa kecil",
+      "kedamaian"
+    ]
+  }
+}
