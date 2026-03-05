@@ -1,0 +1,46 @@
+{
+  "id": "story-1772737520683",
+  "slug": "mencari-senyum-di-sudut-pasar-lama",
+  "title": "Mencari Senyum di Sudut Pasar Lama",
+  "genre": "adventure ringan",
+  "theme": "Menggali keindahan tersembunyi dan cerita-cerita kecil dalam rutinitas kota, menemukan inspirasi baru dari interaksi tak terduga.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-03-05T19:05:20.682Z",
+  "updated_at": "2026-03-05T19:05:20.682Z",
+  "status": "published",
+  "tags": [
+    "petualangan kota",
+    "pasar tradisional",
+    "inspirasi",
+    "kehidupan kota",
+    "jakarta",
+    "interaksi sosial",
+    "jajanan tradisional",
+    "seni",
+    "fotografi"
+  ],
+  "cover": {
+    "prompt": "An interior shot of a minimalist home workspace in Jakarta. Through a large window, a muted, slightly hazy daytime cityscape of Jakarta extends. On a simple, uncluttered desk, a laptop screen displays abstract digital patterns and non-specific text, next to a steaming cup of instant coffee. In the foreground, a single, vibrantly colored potted plant with open blossoms provides a striking contrast to the otherwise calm and neutral tones of the room and city beyond. The overall mood is quiet contemplation with a subtle yearning for sensory richness.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, rule of thirds composition, soft natural lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/mencari-senyum-di-sudut-pasar-lama/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young freelancer, Maya, breaks free from her monotonous routine to explore an unfamiliar traditional market, getting lost but finding unexpected warmth, forgotten culinary delights, and artistic inspiration through heartwarming encounters, particularly with an elderly vendor.",
+    "target_emotion": "Warmth, optimism, curiosity, inspiration, joy of discovery.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "pasar lama jakarta",
+      "cerita inspiratif",
+      "petualangan urban",
+      "jajanan tempo dulu",
+      "fotografi pasar",
+      "freelancer jakarta",
+      "maya kisah",
+      "tradisi indonesia",
+      "penemuan diri",
+      "kehidupan komunitas"
+    ]
+  }
+}
