@@ -1,0 +1,44 @@
+{
+  "id": "story-1772821695528",
+  "slug": "bisikan-dari-instalasi",
+  "title": "Bisikan Dari Instalasi",
+  "genre": "psychological",
+  "theme": "Menggali kecemasan tersembunyi seseorang yang melihat dirinya terpantul di setiap karya seni, memicu pertanyaan tentang realitas dan identitas diri.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-06T18:28:15.528Z",
+  "updated_at": "2026-03-06T18:28:15.528Z",
+  "status": "published",
+  "tags": [
+    "psikologis",
+    "galeri seni",
+    "identitas diri",
+    "kecemasan",
+    "kontemporer",
+    "Jakarta",
+    "narasi internal",
+    "seni instalasi"
+  ],
+  "cover": {
+    "prompt": "A spacious, minimalist art gallery entrance. Clean white walls and a gleaming marble floor reflect soft, diffuse natural light. Through large windows, a subtle, serene overcast Jakarta city skyline is visible in the distance. An elegant silhouette is just stepping into the quiet, sterile space, creating a gentle sense of anticipation. Focus on architectural lines and the environmental details of the gallery, emphasizing a calm yet intriguing atmosphere.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-dari-instalasi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa mengunjungi galeri seni kontemporer dan mulai merasakan koneksi aneh dengan instalasi, seolah karya-karya itu mencerminkan pikiran dan ketakutan terdalamnya. Sensasi tegang meningkat saat ia mempertanyakan realitas pengalamannya. Pencerahan terjadi di depan instalasi 'Lubang Hitam Jiwa', di mana ia menyadari bahwa bisikan dan pantulan adalah proyeksi kecemasan batinnya sendiri. Ia meninggalkan galeri dengan pemahaman baru yang mentah tentang kerentanan psikologisnya.",
+    "target_emotion": "Unsettling curiosity, introspection, subtle psychological tension",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita psikologis",
+      "galeri seni kontemporer",
+      "kecemasan",
+      "identitas diri",
+      "realitas",
+      "narasi internal",
+      "seni instalasi",
+      "Jakarta",
+      "refleksi diri"
+    ]
+  }
+}
