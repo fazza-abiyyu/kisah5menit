@@ -1,0 +1,56 @@
+{
+  "id": "story-1772907392838",
+  "slug": "resonansi-artefak-terlupakan",
+  "title": "Resonansi Artefak Terlupakan",
+  "genre": "slice of life",
+  "theme": "Melalui rutinitas memelihara benda-benda lama di museum, seorang archivist muda menemukan kedamaian dan makna mendalam dalam jejak-jejak masa lalu yang terlupakan.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-03-07T18:16:32.838Z",
+  "updated_at": "2026-03-07T18:16:32.838Z",
+  "status": "published",
+  "tags": [
+    "archivist",
+    "museum",
+    "artefak",
+    "sejarah",
+    "penemuan",
+    "masa lalu",
+    "kedamaian",
+    "optimisme",
+    "rutinitas",
+    "indonesia",
+    "slice of life",
+    "kisah pribadi"
+  ],
+  "cover": {
+    "prompt": "Expansive interior view of an ancient museum archive. Golden dry season sunlight streams through tall, ornate windows, illuminating dancing dust motes above vast rows of aged wooden bookshelves filled with antique books and historical artifacts. The warm light creates a rich, inviting ambiance, particularly on a gently lit, less frequented section of the collection. A subtle, distant silhouette of a person, possibly an archivist, is visible, adding a sense of quiet discovery and timeless intrigue to the scene.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/resonansi-artefak-terlupakan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang archivist muda, Anya, menemukan artefak tak beridentitas di gudang museum. Ia terdorong untuk mengungkap kisahnya yang misterius. Setelah penelusuran panjang, ia menemukan ukiran samar yang mengarah pada sebuah keluarga lokal. Melalui interaksi dengan seorang pengunjung tua, Anya berhasil mendokumentasikan cerita di balik artefak tersebut, menemukan makna mendalam dalam benda kecil yang terlupakan.",
+    "target_emotion": "kedamaian dan optimisme",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "museum",
+      "archivist",
+      "artefak terlupakan",
+      "sejarah pribadi",
+      "kisah keluarga",
+      "penemuan",
+      "makna hidup",
+      "kedamaian",
+      "rutinitas",
+      "masa lalu",
+      "warisan",
+      "indonesia",
+      "cerita pendek",
+      "slice of life",
+      "optimisme",
+      "benda kuno",
+      "dokumentasi museum"
+    ]
+  }
+}
