@@ -1,0 +1,48 @@
+{
+  "id": "story-1772993885303",
+  "slug": "garis-paralel-di-tepi-sungai",
+  "title": "Garis Paralel di Tepi Sungai",
+  "genre": "romance subtle",
+  "theme": "Eksplorasi introspektif tentang bagaimana observasi diam-diam bisa menumbuhkan koneksi tak terduga dan rasa ingin tahu yang lembut di antara dua jiwa yang asing.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-03-08T18:18:05.303Z",
+  "updated_at": "2026-03-08T18:18:05.303Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "introspektif",
+    "observasi",
+    "koneksi tak terduga",
+    "cinta diam-diam",
+    "jakarta",
+    "sungai ciliwung",
+    "senja",
+    "kedamaian",
+    "slice of life",
+    "fiksi indonesia"
+  ],
+  "cover": {
+    "prompt": "A tranquil scene at golden hour on the bank of the Ciliwung River. An old, weathered wooden bench sits by the water's edge, bathed in the soft, warm light of a Jakarta sunset. A sketchbook and pencil rest gently on the bench, inviting contemplation. The calm river reflects the vibrant orange and pink hues of the sky, with delicate waru leaves rustling in a gentle breeze. Focus on the serene atmosphere and the natural beauty of the riverbank. Environmental shot with cinematic composition, rule of thirds, and shallow depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/garis-paralel-di-tepi-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang seniman yang mencari ketenangan di tepi sungai menemukan dirinya tertarik pada seorang pembaca misterius. Konflik internal muncul antara menjaga jarak pengamat atau mengejar potensi koneksi. Puncaknya adalah tatapan dan senyum singkat yang saling mengakui keberadaan, diakhiri dengan keputusan seniman untuk merangkul keindahan ambiguitas dan inspirasi yang muncul dari potensi hubungan tak terucap.",
+    "target_emotion": "Introspection, tranquility, subtle curiosity, peaceful wonder, gentle longing",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek romansa",
+      "fiksi introspektif",
+      "koneksi tak terucap",
+      "seniman pengamat",
+      "kisah tepi sungai",
+      "jakarta senja",
+      "romansa diam-diam",
+      "inspirasi senja",
+      "kedamaian batin",
+      "observasi kehidupan"
+    ]
+  }
+}
