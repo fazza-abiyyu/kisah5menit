@@ -1,0 +1,48 @@
+{
+  "id": "story-1773081354943",
+  "slug": "siklus-tak-berujung-di-laundry-pak-rt",
+  "title": "Siklus Tak Berujung di Laundry Pak RT",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi ironi kehidupan sehari-hari melalui interaksi pelanggan yang absurd dan rutinitas mencuci yang tak ada habisnya, menyoroti sisi gelap humor manusia.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-03-09T18:35:54.943Z",
+  "updated_at": "2026-03-09T18:35:54.943Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "laundry",
+    "ironi",
+    "kehidupan sehari-hari",
+    "humor sinis",
+    "pak rt",
+    "absurditas",
+    "indonesia",
+    "cerpen"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a bustling neighborhood laundromat interior. The foreground features soft, towering stacks of colorful, freshly laundered textiles, creating a gentle barrier. In the mid-ground, a rhythmic line of active washing machines and dryers are softly illuminated by warm, natural light filtering through large windows. The composition uses shallow depth of field, creating a visual intrigue and suggesting a perspective of observation from behind the comforting piles of fabric. The overall mood is one of quiet contemplation amidst everyday cycles, hinting at the gentle absurdity of life.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/siklus-tak-berujung-di-laundry-pak-rt/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak RT, a cynical laundromat owner, observes the absurd dramas of his customers. He notices a recurring strange habit from Pak Budi, who consistently leaves odd items in his laundry. Pak RT decides to 'address' this issue with a cynical, unconventional method by publicly attaching one of Pak Budi's forgotten items with a mocking note. This leads to Pak Budi's public humiliation and outrage, but Pak RT finds immense personal satisfaction in the chaotic outcome, confirming his belief in humanity's endless absurdity.",
+    "target_emotion": "Amusement, cynical satisfaction, recognition of everyday absurdities, schadenfreude.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "laundry",
+      "pak rt",
+      "dark comedy",
+      "ironi",
+      "absurditas",
+      "humor sinis",
+      "kisah sehari-hari",
+      "indonesia",
+      "cerpen",
+      "siklus abadi",
+      "pelanggan aneh",
+      "kelupaan"
+    ]
+  }
+}
