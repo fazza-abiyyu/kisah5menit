@@ -1,0 +1,46 @@
+{
+  "id": "story-1773167617403",
+  "slug": "lampu-mati-di-gang-sempit",
+  "title": "Lampu Mati di Gang Sempit",
+  "genre": "thriller ringan",
+  "theme": "Penemuan aneh di tengah rutinitas malam yang sepi memicu refleksi mendalam tentang kerapuhan hidup dan pilihan masa lalu.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-03-10T18:33:37.403Z",
+  "updated_at": "2026-03-10T18:33:37.403Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "melankolis lembut",
+    "introspeksi",
+    "misteri",
+    "kehidupan kota",
+    "kurir malam",
+    "Jakarta",
+    "penemuan",
+    "kerapuhan hidup"
+  ],
+  "cover": {
+    "prompt": "A vintage Indonesian 'motor bebek' scooter, with its lone rider appearing as a strong silhouette against the expansive, quiet metropolitan street of Jakarta. The scene is set in the tranquil hours past eleven PM. The street surface has a subtle gleam, reflecting the gentle, low illumination from the distant urban setting. A single, soft yellow headlight casts a delicate, ephemeral streak of light across the damp asphalt, leading the eye forward. Emphasize the cool, serene atmosphere of the city at rest. Environmental shot, focusing on the journey and the quiet urban landscape.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lampu-mati-di-gang-sempit/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Dimas, a night delivery courier, finds a mysteriously abandoned wallet with old IDs and a poignant poem in a suddenly dark alley, triggering deep introspection about life's fragility and past choices.",
+    "target_emotion": "Melancholy, introspection, slight unease",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kurir malam",
+      "Jakarta",
+      "gang sempit",
+      "dompet hilang",
+      "puisi",
+      "introspeksi",
+      "kerapuhan hidup",
+      "misteri",
+      "kisah pendek",
+      "melankolis"
+    ]
+  }
+}

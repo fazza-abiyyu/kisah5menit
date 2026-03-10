@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-03-09T18:39:28.880Z",
-  "total_stories": 135,
+  "last_updated": "2026-03-10T18:37:17.073Z",
+  "total_stories": 136,
   "genres": {
-    "thriller ringan": 14,
+    "thriller ringan": 15,
     "slice of life": 15,
     "fantasy urban": 6,
     "romance subtle": 15,
@@ -15,7 +15,7 @@
   },
   "tones": {
     "misterius ringan": 16,
-    "melankolis lembut": 16,
+    "melankolis lembut": 17,
     "introspektif menenangkan": 17,
     "optimis pelan": 17,
     "surreal": 4,
@@ -28,7 +28,7 @@
     "retail": 19,
     "home": 10,
     "outdoor": 10,
-    "urban": 9,
+    "urban": 10,
     "other": 48,
     "transportation": 10,
     "office": 11,
