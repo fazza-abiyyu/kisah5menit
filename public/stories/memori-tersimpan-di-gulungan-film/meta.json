@@ -1,0 +1,46 @@
+{
+  "id": "story-1773254300945",
+  "slug": "memori-tersimpan-di-gulungan-film",
+  "title": "Memori Tersimpan di Gulungan Film",
+  "genre": "sci-fi ringan",
+  "theme": "Mengeksplorasi bagaimana kenangan masa lalu dan teknologi yang terlupakan dapat saling terhubung, mengungkap rahasia kecil yang tersembunyi dalam rutinitas sehari-hari.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-11T18:38:20.945Z",
+  "updated_at": "2026-03-11T18:38:20.945Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "mystery",
+    "nostalgia",
+    "teknologi",
+    "bioskop tua",
+    "kenangan",
+    "penemuan",
+    "masa lalu"
+  ],
+  "cover": {
+    "prompt": "An empty, vintage cinema interior, capturing a warm, nostalgic atmosphere. Worn, plush velvet seating in muted, rich colors fills the frame. Gentle beams of soft, golden light filter through, illuminating subtle dust motes and highlighting the textures of aged wood and faded architectural grandeur. The scene evokes a quiet comfort and a deep sense of preserved history, with a focus on environmental detail and a subtle depth of field.",
+    "style": "Lo-fi aesthetic, vintage film grain, nostalgic feel, cinematic photography",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/memori-tersimpan-di-gulungan-film/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, a part-time worker at an old cinema facing closure, discovers a damaged film reel that, when played, projects strange flashes of memory or information. Initially thinking it's a malfunction, she realizes it's hidden data. Using a forgotten device called \"Lumina-Scope\" found in the archives, she deciphers these flashes, revealing coherent memories of a past projectionist, Ani, who secretly embedded her life and innovative theories into the film. Risa documents her findings, honoring the cinema's history and the forgotten technology.",
+    "target_emotion": "curiosity, nostalgia, wonder",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "bioskop tua",
+      "memori tersembunyi",
+      "teknologi kuno",
+      "sci-fi ringan",
+      "penemuan",
+      "nostalgia",
+      "cerita masa lalu",
+      "artefak digital",
+      "rekaman optik",
+      "film rusak",
+      "sejarah bioskop"
+    ]
+  }
+}
