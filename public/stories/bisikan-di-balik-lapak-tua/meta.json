@@ -1,0 +1,47 @@
+{
+  "id": "story-1773340590464",
+  "slug": "bisikan-di-balik-lapak-tua",
+  "title": "Bisikan di Balik Lapak Tua",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi keanehan kecil di tengah kesunyian malam, menemukan cerita tersembunyi dari benda-benda yang tampak biasa.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-03-12T18:36:30.464Z",
+  "updated_at": "2026-03-12T18:36:30.464Z",
+  "status": "published",
+  "tags": [
+    "misteri ringan",
+    "pasar tradisional",
+    "malam hari",
+    "reflektif",
+    "penemuan",
+    "kisah pendek",
+    "indonesia",
+    "benda tua",
+    "jam saku",
+    "keheningan"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph of an old Indonesian market at nightfall, bathed in warm, soft lighting. Shallow depth of field. Focus on the tranquil ambiance of winding market pathways and neatly arranged, closed stalls. A majestic tamarind tree with gently rustling leaves stands tall. The scene features subtle hints of lingering activity, like the gentle closing of a wooden market door, evoking a peaceful, serene quietness. The air feels cool, carrying faint hints of earth and spices. Environmental shot, no discernible faces, strong focus on composition and lighting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-di-balik-lapak-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Budi, seorang penjual sayur di pasar tradisional, terganggu oleh bisikan aneh dari lapak kosong sebelah. Rasa penasarannya membawanya pada penyelidikan malam hari di pasar yang sepi. Setelah beberapa malam observasi, ia menemukan sumber bisikan itu adalah sebuah jam saku tua yang rusak, tersembunyi di dalam kotak kayu. Roda giginya bergesekan karena angin, menciptakan ilusi suara misterius. Penemuan ini membuat Pak Budi merenungkan tentang cerita yang bisa ditemukan di balik hal-hal biasa dan nilai kenangan.",
+    "target_emotion": "Curiosity, tranquility, slight melancholy, introspection, wonder",
+    "reading_time_minutes": 7.1,
+    "keywords": [
+      "cerita pendek",
+      "misteri pasar",
+      "kisah indonesia",
+      "pak budi",
+      "lapak kosong",
+      "jam saku tua",
+      "refleksi",
+      "kesunyian malam",
+      "keanehan kecil",
+      "penemuan tak terduga"
+    ]
+  }
+}
