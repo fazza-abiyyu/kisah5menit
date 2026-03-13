@@ -1,0 +1,47 @@
+{
+  "id": "story-1773426350330",
+  "slug": "satu-meja-sejuta-cerita-di-malam-senyap",
+  "title": "Satu Meja, Sejuta Cerita di Malam Senyap",
+  "genre": "drama keluarga",
+  "theme": "Explorasi mendalam tentang bagaimana sebuah keluarga kecil menemukan kebahagiaan dan kekuatan dari momen sederhana di tengah hiruk pikuk kota.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-03-13T18:25:50.329Z",
+  "updated_at": "2026-03-13T18:25:50.329Z",
+  "status": "published",
+  "tags": [
+    "keluarga",
+    "ibu dan anak",
+    "jakarta",
+    "kebersamaan",
+    "optimisme",
+    "drama",
+    "kasih sayang",
+    "momen sederhana",
+    "inspiratif",
+    "kota"
+  ],
+  "cover": {
+    "prompt": "An expansive, stunning view of Jakarta's bustling night cityscape as seen from a simple apartment rooftop on a higher floor. Thousands of twinkling city lights form an abstract, glowing tapestry stretching across the horizon, complementing a soft scattering of natural stars above. In the foreground, a comfortable, gently folded blanket rests on the rooftop surface, hinting at a cherished ritual. Two subtle human silhouettes are positioned on the rooftop, observing the magnificent urban panorama. Cinematic composition with a wide shot, employing the rule of thirds and a shallow depth of field to emphasize both the vast city glow and the intimate foreground details. Warm, inviting ambient lighting from the city's illumination creates a serene and wondrous atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/satu-meja-sejuta-cerita-di-malam-senyap/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang ibu tunggal di Jakarta berusaha menyembunyikan kekhawatiran finansial dari putranya, Adi. Melalui ritual piknik malam di atap apartemen, Adi secara tak terduga menghibur ibunya dengan gambar bintang buatan, mengingatkan bahwa kebahagiaan sejati ada pada ikatan keluarga, bukan materi.",
+    "target_emotion": "Haru, hangat, optimis, dan rasa kebersamaan.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita keluarga",
+      "ibu tunggal",
+      "anak dan ibu",
+      "kisah inspiratif",
+      "drama keluarga",
+      "kehidupan kota jakarta",
+      "kebahagiaan sederhana",
+      "ikatan keluarga",
+      "piknik malam",
+      "cerita pendek"
+    ]
+  }
+}
