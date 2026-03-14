@@ -1,0 +1,45 @@
+{
+  "id": "story-1773512434231",
+  "slug": "pesan-dalam-derit-lantai",
+  "title": "Pesan dalam Derit Lantai",
+  "genre": "adventure ringan",
+  "theme": "Menemukan bahwa petualangan bisa muncul dari penemuan tak terduga di lingkungan rumah sendiri, mengubah rutinitas menjadi eksplorasi yang penuh rasa ingin tahu.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-14T18:20:34.231Z",
+  "updated_at": "2026-03-14T18:20:34.231Z",
+  "status": "published",
+  "tags": [
+    "adventure",
+    "mystery",
+    "home exploration",
+    "WFH",
+    "discovery",
+    "curiosity",
+    "urban apartment",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "Minimalist interior of a quiet studio apartment. A simple wooden desk with a laptop and a mug, positioned under gentle, diffused daylight from a window. The focus is on the clean lines and understated objects, conveying a sense of daily routine. A subtle, anonymous human form is suggested in the mid-ground, perhaps partially visible as a soft shape, standing near a section of a parquet wooden floor. The composition uses the rule of thirds to highlight the quiet ambiance and thoughtful atmosphere. Soft, muted color tones throughout.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-dalam-derit-lantai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "An architect tired of WFH discovers a loose floorboard in his minimalist apartment. This leads him to a hidden box containing old notes and a broken compass left by a previous resident. He attempts to decipher the cryptic clues, feeling like an amateur detective exploring his own home. He eventually finds a secret panel revealing a single letter and a key-shaped locket, realizing the true treasure is the philosophy that adventure and discovery can be found in the mundane and closest surroundings, connecting him to the past.",
+    "target_emotion": "curiosity, intrigue, wonder, mild apprehension",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "apartemen",
+      "misteri",
+      "petualangan",
+      "penemuan",
+      "WFH",
+      "kisah pendek",
+      "literatur indonesia",
+      "explorasi rumah",
+      "derit lantai",
+      "rahasia tersembunyi"
+    ]
+  }
+}
