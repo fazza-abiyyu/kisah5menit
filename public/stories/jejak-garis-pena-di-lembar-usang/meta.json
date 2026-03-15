@@ -1,0 +1,46 @@
+{
+  "id": "story-1773598874243",
+  "slug": "jejak-garis-pena-di-lembar-usang",
+  "title": "Jejak Garis Pena di Lembar Usang",
+  "genre": "psychological",
+  "theme": "Jelajahi perjalanan batin seorang individu yang menemukan kekuatan baru dan harapan untuk masa depan melalui penemuan kembali passion masa kecil.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-03-15T18:21:14.243Z",
+  "updated_at": "2026-03-15T18:21:14.243Z",
+  "status": "published",
+  "tags": [
+    "self-discovery",
+    "passion",
+    "creative block",
+    "personal growth",
+    "introspection",
+    "indonesian story",
+    "new beginnings",
+    "art",
+    "psychological"
+  ],
+  "cover": {
+    "prompt": "A minimalist, organized office desk, viewed from a slight distance, featuring a laptop displaying a simple, geometric design and a single, unadorned coffee mug. Gentle, diffused daylight from a large window illuminates the scene, creating soft reflections on the clean surfaces. The composition emphasizes strong silhouettes of the office objects and subtle, repetitive patterns in the architectural elements of the room, conveying a sense of efficient routine and quiet order, yet with an underlying feeling of muted atmosphere. Cinematic photography, rule of thirds, focus on depth and clean lines.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-garis-pena-di-lembar-usang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Lintang, seorang desainer grafis muda, merasa hampa dalam kariernya yang stabil. Ia menemukan kembali gairah menggambar masa kecilnya melalui buku sketsa lama, memicu kesadaran akan kebutuhan ekspresi diri. Kisah ini berakhir dengan keputusan Lintang untuk mengintegrasikan proyek kreatif pribadi ke dalam hidupnya, menemukan keseimbangan dan makna baru, menatap masa depan dengan optimisme.",
+    "target_emotion": "Harapan, Inspirasi, Pembaruan Diri",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "desainer grafis",
+      "passion masa kecil",
+      "kreativitas",
+      "motivasi",
+      "penemuan diri",
+      "psikologis",
+      "cerita inspiratif",
+      "sketsa",
+      "seni",
+      "keseimbangan hidup"
+    ]
+  }
+}
