@@ -1,0 +1,46 @@
+{
+  "id": "story-1773686667356",
+  "slug": "debu-dan-kisah-yang-terlupa",
+  "title": "Debu dan Kisah yang Terlupa",
+  "genre": "slice of life",
+  "theme": "Melalui proses membereskan barang-barang lama di rumah, seorang individu menemukan makna mendalam dalam rutinitas dan mencapai self-discovery tentang pentingnya persahabatan yang pernah terlupakan.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-03-16T18:44:27.356Z",
+  "updated_at": "2026-03-16T18:44:27.356Z",
+  "status": "published",
+  "tags": [
+    "self-discovery",
+    "friendship",
+    "introspection",
+    "decluttering",
+    "memory",
+    "forgiveness",
+    "emotional healing",
+    "slice of life",
+    "Indonesian literature"
+  ],
+  "cover": {
+    "prompt": "A still life composition in a quiet, sunlit room corner. A tall stack of old, dust-covered cardboard boxes rests undisturbed, illuminated by gentle, warm natural light streaming from an unseen window. Fine dust motes are visible dancing in the air, creating a soft atmosphere. A closed laptop sits subtly on a table nearby, hinting at a workspace. The scene uses cinematic composition with the rule of thirds, employing a shallow depth of field to emphasize the textures of the boxes and the tranquil, introspective mood. The overall ambiance evokes a sense of forgotten memories and the gentle progression of moments.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/debu-dan-kisah-yang-terlupa/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young freelancer, Arya, embarks on decluttering his 'storage' of old boxes, where he unearths letters and sketches from a long-lost childhood friend, Rama. This discovery triggers a deep reflection on past friendships, personal shortcomings, and the importance of self-forgiveness and acceptance. The process leads him to not only organize his physical space but also to find inner peace by confronting and releasing emotional burdens.",
+    "target_emotion": "reflection, serenity, catharsis, peace, introspection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "self-discovery",
+      "childhood friendship",
+      "decluttering",
+      "introspection",
+      "personal growth",
+      "forgiveness",
+      "memory lane",
+      "slice of life story",
+      "Indonesian short story",
+      "emotional healing"
+    ]
+  }
+}
