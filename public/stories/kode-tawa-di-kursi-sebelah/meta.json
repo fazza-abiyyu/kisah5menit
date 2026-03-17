@@ -1,0 +1,43 @@
+{
+  "id": "story-1773773059344",
+  "slug": "kode-tawa-di-kursi-sebelah",
+  "title": "Kode Tawa di Kursi Sebelah",
+  "genre": "romance subtle",
+  "theme": "Menemukan kehangatan dan koneksi tak terduga dalam rutinitas perjalanan, meski awalnya dipandang sinis atau skeptis oleh karakter utama.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-03-17T18:44:19.343Z",
+  "updated_at": "2026-03-17T18:44:19.343Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "slice-of-life",
+    "humor",
+    "commuter-life",
+    "jakarta",
+    "unexpected-connection",
+    "sarcasm",
+    "introspection"
+  ],
+  "cover": {
+    "prompt": "Interior view of a modern city commuter train carriage, looking through a large window. Gentle morning light softly illuminates the scene. Outside, a slightly blurred urban landscape with pathways and buildings suggests the rhythm of daily transit. Inside the carriage, the presence of other passengers is depicted as indistinct, softly lit figures or subtle silhouettes in the background, some engaged with glowing screens. The main focus is on the contemplative atmosphere of a quiet corner by the window, conveying a sense of observing the journey.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kode-tawa-di-kursi-sebelah/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda yang sinis, Sarah, setiap pagi mengamati kebiasaan aneh penumpang di kursi seberangnya di kereta komuter. Awalnya terganggu, ia perlahan penasaran. Sebuah insiden pengereman mendadak membuat barang mereka bercampur, memicu interaksi sarkastik yang berujung tawa, mengungkapkan kecocokan humor. Momen singkat ini meninggalkan Sarah dengan perasaan hangat, mengubah rutinitas paginya menjadi sedikit lebih ceria.",
+    "target_emotion": "Amusement, subtle warmth, and a touch of reflective joy.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "romance kereta komuter",
+      "cerita pendek humoris",
+      "koneksi tak terduga",
+      "slice of life jakarta",
+      "humor sinis",
+      "kisah sehari-hari",
+      "cerita tentang tawa",
+      "interaksi di kereta"
+    ]
+  }
+}
