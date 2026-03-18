@@ -1,0 +1,47 @@
+{
+  "id": "story-1773859335507",
+  "slug": "skenario-absurd-jemuran-senyap",
+  "title": "Skenario Absurd Jemuran Senyap",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi keanehan dan ironi yang ditemukan dalam rutinitas rumah tangga yang paling membosankan, menemukan humor gelap dalam kesendirian.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-03-18T18:42:15.507Z",
+  "updated_at": "2026-03-18T18:42:15.507Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "apartemen",
+    "rutinitas",
+    "kesendirian",
+    "refleksi",
+    "humor gelap",
+    "jemuran",
+    "monolog internal",
+    "eksistensialisme",
+    "kehidupan modern"
+  ],
+  "cover": {
+    "prompt": "A contemplative interior scene, capturing a serene and slightly melancholic atmosphere within a compact apartment room. Soft, diffused morning light gently filters through a faded grey curtain, suggesting an overcast day beyond. In a tranquil corner, a substantial pile of clothing or laundry, neatly stacked, becomes a focal point, symbolizing daily routines and quiet introspection. The composition employs the rule of thirds, focusing on the interplay of light and ordinary objects to evoke a sense of peaceful solitude and a gentle, muted environment. No specific individuals are depicted.",
+    "style": "Cinematic photography, shallow depth of field, soft overcast light, muted color palette",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/skenario-absurd-jemuran-senyap/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, seorang pekerja lepas muda, menemukan humor gelap dan refleksi eksistensial dalam ritual menjemur pakaian, terutama saat berhadapan dengan kaus kaki ganjil dan kemeja usang, yang berpuncak pada menciptakan 'seni instalasi' dari cuciannya di tengah keheningan apartemen.",
+    "target_emotion": "Amusement, introspection, gentle melancholy, and a sense of shared absurdity in daily life.",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "dark comedy",
+      "solitude",
+      "apartment life",
+      "daily routine",
+      "existential reflection",
+      "laundry",
+      "indonesian literature",
+      "absurd humor",
+      "melancholy",
+      "introspection"
+    ]
+  }
+}
