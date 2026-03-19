@@ -1,0 +1,46 @@
+{
+  "id": "story-1773945545729",
+  "slug": "pergeseran-yang-tak-terlihat",
+  "title": "Pergeseran yang Tak Terlihat",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi perasaan aneh saat objek-objek familiar di rumah bergeser secara misterius, memicu pertanyaan tentang ingatan dan realitas pribadi.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-19T18:39:05.729Z",
+  "updated_at": "2026-03-19T18:39:05.729Z",
+  "status": "published",
+  "tags": [
+    "psikologis",
+    "misteri",
+    "introspeksi",
+    "thriller",
+    "rutinitas",
+    "sleepwalking",
+    "kesehatan mental",
+    "apartemen",
+    "penemuan diri"
+  ],
+  "cover": {
+    "prompt": "An interior view of a quiet apartment studio in the gentle illumination of morning. A wooden bookshelf is prominently featured, holding many neatly organized novels. One particular novel, distinctively placed upside down on a shelf, its cover unseen, creates a subtle visual anomaly within the otherwise tidy arrangement. The composition uses the rule of thirds, focusing on the bookshelf.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pergeseran-yang-tak-terlihat/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A graphic designer, Riana, notices familiar objects in her meticulously tidy apartment mysteriously shifting. Initially dismissing it, the incidents intensify, leading to paranoia and self-doubt. Installing hidden cameras, she discovers herself sleepwalking, moving items, and leaving subconscious notes. Riana realizes these acts are a manifestation of stress and monotonous routine, prompting her to seek professional help for self-discovery and a deeper understanding of her inner self.",
+    "target_emotion": "unease, curiosity, introspection, relief",
+    "reading_time_minutes": 9,
+    "keywords": [
+      "cerita pendek",
+      "thriller psikologis",
+      "misteri pribadi",
+      "sleepwalking",
+      "kesehatan mental",
+      "apartemen",
+      "ketegangan",
+      "introspeksi",
+      "penemuan diri",
+      "rutinitas monoton"
+    ]
+  }
+}
