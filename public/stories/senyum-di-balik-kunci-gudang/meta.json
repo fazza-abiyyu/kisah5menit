@@ -1,0 +1,47 @@
+{
+  "id": "story-1774117186472",
+  "slug": "senyum-di-balik-kunci-gudang",
+  "title": "Senyum di Balik Kunci Gudang",
+  "genre": "mystery ringan",
+  "theme": "Seorang pensiunan yang ceria menemukan kebahagiaan dalam memecahkan teka-teki kecil di lingkungannya, mengungkap kebaikan tak terduga.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-03-21T18:19:46.472Z",
+  "updated_at": "2026-03-21T18:19:46.472Z",
+  "status": "published",
+  "tags": [
+    "pensiunan",
+    "misteri ringan",
+    "persahabatan",
+    "apartemen",
+    "detektif cilik",
+    "kebahagiaan",
+    "kebaikan tak terduga",
+    "observasi",
+    "ceria",
+    "hangat"
+  ],
+  "cover": {
+    "prompt": "A serene, cinematic view from a high-rise apartment window, looking down upon a vibrant cityscape at golden hour. Soft, warm sunlight streams into the room, gently illuminating the large window and the expansive urban landscape below. Intricate details of buildings and pathways weave through the scene, suggesting a world of constant gentle observation. A subtle, out-of-focus silhouette in the foreground hints at the presence of a calm, observant individual. The overall atmosphere is one of peaceful contemplation and quiet fascination with the surrounding environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-di-balik-kunci-gudang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Radit, seorang pensiunan yang ceria, mengamati pola aneh di sekitar ruang penyimpanan umum di apartemennya di mana barang-barang kecil sering berpindah tempat tanpa sebab. Ia memasang 'perangkap' dan menemukan pelakunya adalah Rafa, seorang anak kesepian yang bermain detektif. Alih-alih menghukum, Pak Radit menjalin persahabatan dengan Rafa, membimbingnya ke kegiatan yang lebih positif, dan mengubah misteri kecil menjadi jalinan persahabatan yang hangat.",
+    "target_emotion": "Warmth, Joy, Understanding, Contentment",
+    "reading_time_minutes": 9,
+    "keywords": [
+      "cerita pendek",
+      "misteri apartemen",
+      "pensiunan detektif",
+      "persahabatan antar generasi",
+      "kebahagiaan",
+      "pengamatan",
+      "teka-teki anak",
+      "detektif cilik",
+      "kesepian anak",
+      "solusi kreatif"
+    ]
+  }
+}
