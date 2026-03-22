@@ -1,0 +1,47 @@
+{
+  "id": "story-1774203602932",
+  "slug": "ayunan-tua-dan-percakapan-baru",
+  "title": "Ayunan Tua dan Percakapan Baru",
+  "genre": "drama keluarga",
+  "theme": "Menggali ketegangan emosional antara orang tua yang bercerai saat mereka berusaha membuat keputusan sulit demi kebaikan anak.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-22T18:20:02.932Z",
+  "updated_at": "2026-03-22T18:20:02.932Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "perceraian",
+    "orang tua",
+    "anak",
+    "komunikasi",
+    "ketegangan emosional",
+    "keputusan sulit",
+    "taman bermain",
+    "senja",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "An expansive, quiet playground at dusk, bathed in the gentle glow of the setting sun. A weathered park bench is positioned prominently in the foreground. In the mid-ground, old swings sway softly in the cool air, surrounded by a wide area of moist sand. The sky above is a beautiful, painterly blend of soft orange and muted gray hues, where the radiant sunset appears from behind distant, silhouetted tall buildings. A solitary human silhouette is seated on the bench, observing the peaceful environment. Cinematic composition, rule of thirds, and shallow depth of field are essential.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ayunan-tua-dan-percakapan-baru/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Menggali ketegangan emosional antara orang tua yang bercerai saat mereka berusaha membuat keputusan sulit demi kebaikan anak. Berlatar di taman bermain sepi saat senja, cerita ini fokus pada dialog dan emosi terpendam, yang akhirnya diinterupsi oleh kehadiran anak.",
+    "target_emotion": "ketegangan, empati, harapan tipis",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "drama keluarga",
+      "perceraian",
+      "orang tua bercerai",
+      "masa depan anak",
+      "kompromi",
+      "komunikasi orang tua",
+      "ketegangan keluarga",
+      "cerita pendek Indonesia",
+      "taman bermain senja",
+      "konflik orang tua"
+    ]
+  }
+}

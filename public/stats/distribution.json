@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-21T18:23:13.955Z",
-  "total_stories": 147,
+  "last_updated": "2026-03-22T18:23:29.386Z",
+  "total_stories": 148,
   "genres": {
     "thriller ringan": 16,
     "slice of life": 16,
@@ -9,7 +9,7 @@
     "sci-fi ringan": 16,
     "dark comedy": 16,
     "mystery ringan": 16,
-    "drama keluarga": 15,
+    "drama keluarga": 16,
     "adventure ringan": 15,
     "psychological": 15
   },
@@ -22,12 +22,12 @@
     "humoris sinis": 18,
     "tenang reflektif": 18,
     "ceria hangat": 18,
-    "tegang ringan": 17
+    "tegang ringan": 18
   },
   "settings": {
     "retail": 20,
     "home": 11,
-    "outdoor": 10,
+    "outdoor": 11,
     "urban": 10,
     "other": 54,
     "transportation": 10,
