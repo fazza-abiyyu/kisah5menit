@@ -1,0 +1,46 @@
+{
+  "id": "story-1774291021912",
+  "slug": "arah-tak-terduga",
+  "title": "Arah Tak Terduga",
+  "genre": "adventure ringan",
+  "theme": "Menemukan keindahan dan makna dalam rutinitas yang terpecah oleh sebuah perjalanan tak terduga, mengubah kejenuhan menjadi sebuah penemuan diri yang menenangkan.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-03-23T18:37:01.912Z",
+  "updated_at": "2026-03-23T18:37:01.912Z",
+  "status": "published",
+  "tags": [
+    "ojek online",
+    "perjalanan",
+    "petualangan kecil",
+    "penemuan diri",
+    "rutinitas",
+    "kebaikan",
+    "inspiratif",
+    "slice of life",
+    "optimisme"
+  ],
+  "cover": {
+    "prompt": "A gentle morning light bathes a quiet city street, capturing the essence of a recurring daily cycle. An urban pathway intersection features a lone parked motorcycle and a small, inviting coffee stall. A familiar convenience store building stands further down the street. The composition uses the rule of thirds, with a subtle depth of field focusing on immediate foreground elements and the familiar surroundings softly blurred. The atmosphere is calm and contemplative, emphasizing the routine of daily life in a bustling but predictable urban landscape.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/arah-tak-terduga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang driver ojek online bernama Budi menerima pesanan jauh ke pinggir kota. Awalnya kesal dengan perjalanan asing, ia mulai menemukan keindahan dan kebaikan tak terduga di sepanjang jalan, termasuk membantu seorang anak. Pengalaman ini mengubah kejenuhannya menjadi kepuasan dan optimisme.",
+    "target_emotion": "Inspirasi, ketenangan, optimisme",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita inspiratif",
+      "ojek online",
+      "petualangan tak terduga",
+      "penemuan diri",
+      "mengatasi kejenuhan",
+      "kebaikan hati",
+      "kisah optimisme",
+      "fiksi Indonesia",
+      "slice of life",
+      "perjalanan mengubah hidup"
+    ]
+  }
+}
