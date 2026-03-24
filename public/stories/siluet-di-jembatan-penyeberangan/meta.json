@@ -1,0 +1,45 @@
+{
+  "id": "story-1774377882829",
+  "slug": "siluet-di-jembatan-penyeberangan",
+  "title": "Siluet di Jembatan Penyeberangan",
+  "genre": "psychological",
+  "theme": "Seorang profesional muda menemukan ketenangan batin dan kejelasan pikiran di tengah rutinitas kota yang padat, menghadapi kecemasan sehari-hari dan belajar menemukan makna dalam observasi kecil.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-03-24T18:44:42.828Z",
+  "updated_at": "2026-03-24T18:44:42.828Z",
+  "status": "published",
+  "tags": [
+    "psikologis",
+    "introspeksi",
+    "perkotaan",
+    "kecemasan",
+    "ketenangan",
+    "refleksi diri",
+    "makna hidup",
+    "observasi"
+  ],
+  "cover": {
+    "prompt": "An elegantly curved pedestrian bridge gracefully spanning a vibrant city main road at twilight. The bridge is positioned for a cinematic composition, with a gentle silhouette of a person standing, observing the expansive urban view. Below, the bustling street comes alive with an endless flow of vehicle lights creating luminous trails, and a multitude of individuals moving with the city's rhythm. Soft, warm city lights begin to glow across the detailed urban landscape, casting a peaceful atmosphere over the dynamic scene. The image should convey a sense of serene observation amidst urban energy, utilizing depth of field to highlight the foreground bridge and the city beyond.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/siluet-di-jembatan-penyeberangan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, a young graphic designer, habitually walks across a pedestrian bridge after work, observing the city's hustle as a calming ritual. Despite work pressure and urban chaos, she often feels anxious and inadequate, her gaze unfocused. One evening, she truly notices small details—a child's laugh, a tired parking attendant's smile, cooking aromas—realizing peace isn't about escaping the noise but changing her response to it, finding meaning in small observations. She leaves with a lighter feeling and clearer perspective, understanding introspection involves accepting uncertainty and finding beauty in overlooked moments.",
+    "target_emotion": "ketenangan, refleksi, penerimaan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "introspeksi",
+      "refleksi diri",
+      "kecemasan perkotaan",
+      "ketenangan batin",
+      "observasi",
+      "makna hidup",
+      "psikologis",
+      "urban",
+      "jembatan penyeberangan",
+      "serenity"
+    ]
+  }
+}
