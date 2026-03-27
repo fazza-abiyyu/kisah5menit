@@ -1,0 +1,56 @@
+{
+  "id": "story-1774636805592",
+  "slug": "bis-terakhir-dan-jurnal-yang-tertinggal",
+  "title": "Bis Terakhir dan Jurnal Yang Tertinggal",
+  "genre": "romance subtle",
+  "theme": "Menyadari bahwa koneksi tak terduga yang tertunda kadang membawa pelajaran berharga tentang penerimaan dan keindahan perpisahan yang manis, meski hanya lewat sebuah observasi harian.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-03-27T18:40:05.592Z",
+  "updated_at": "2026-03-27T18:40:05.592Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle",
+    "melancholic",
+    "gentle",
+    "unspoken connection",
+    "farewell",
+    "observational",
+    "acceptance",
+    "bus",
+    "night",
+    "city",
+    "journal",
+    "discovery",
+    "design",
+    "inspiration",
+    "short story",
+    "indonesian"
+  ],
+  "cover": {
+    "prompt": "Quiet city street scene at night, viewed from inside a public transit bus. The interior of the bus shows gentle, diffused lighting, with a hint of warm glow from exterior street lamps on a wet road. Focus on the passing urban environment, blurred by motion, creating a sense of tranquil passage. A single, distinct seat or window frame in the foreground, suggesting a contemplative perspective. The atmosphere is calm and peaceful, conveying a sense of quiet solitude and the end of a long day.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bis-terakhir-dan-jurnal-yang-tertinggal/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a graphic designer, regularly observes a mysterious passenger on her last bus ride home. One night, the passenger is absent, and Anya discovers a personal journal left behind. Upon opening it, she finds sketches and design ideas remarkably similar to her own, along with a farewell message indicating the owner's departure from the city. Anya is left with a bittersweet mix of sadness over the unspoken connection's end and inspiration from this unexpected resonance, keeping the journal as a reminder to be more observant and hopeful for future encounters.",
+    "target_emotion": "melancholic, reflective, bittersweet, contemplative, inspired",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Bis Terakhir dan Jurnal Yang Tertinggal",
+      "romance subtle",
+      "unspoken connection",
+      "farewell",
+      "bus story",
+      "melancholy",
+      "design inspiration",
+      "found journal",
+      "jakarta night bus",
+      "observational story",
+      "bittersweet ending",
+      "serendipity"
+    ]
+  }
+}
