@@ -1,0 +1,46 @@
+{
+  "id": "story-1774722169098",
+  "slug": "transaksi-janggal-larut-malam",
+  "title": "Transaksi Janggal Larut Malam",
+  "genre": "dark comedy",
+  "theme": "Menemukan keanehan tersembunyi dan komedi gelap dalam interaksi pelanggan sehari-hari di sebuah minimarket yang monoton, memicu pertanyaan tentang motif di balik hal-hal kecil.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-28T18:22:49.098Z",
+  "updated_at": "2026-03-28T18:22:49.098Z",
+  "status": "published",
+  "tags": [
+    "minimarket",
+    "kasir",
+    "shift malam",
+    "misteri ringan",
+    "komedi gelap",
+    "absurditas",
+    "rutinitas",
+    "observasi sosial",
+    "hamster",
+    "humor sinis"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a 24-hour convenience store interior at 3 AM. A wide shot looking down a long, neatly stocked aisle, showcasing rows of everyday products under a soft, cool ambient glow from ceiling lights. Shallow depth of field, with focus on the mid-ground shelves, creating a gentle blur in the foreground and background. The scene conveys a tranquil, monotonous atmosphere, reflecting the quiet routine of the early morning. No discernible people in detail, only the environment and its objects.",
+    "style": "Cinematic photography, shallow depth of field, cool ambient glow, soft color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/transaksi-janggal-larut-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical night-shift convenience store cashier becomes intrigued by a mysterious regular customer who consistently buys strange, illogical items. His investigation into the odd transactions leads to an absurd and comical revelation about the customer's true, mundane motives, bringing a new, ironic perspective to his monotonous routine.",
+    "target_emotion": "Amusement, curiosity, and a sense of ironic understanding",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "transaksi janggal",
+      "minimarket",
+      "kasir",
+      "shift malam",
+      "komedi gelap",
+      "cerita pendek",
+      "misteri ringan",
+      "keanehan manusia",
+      "hamster"
+    ]
+  }
+}
