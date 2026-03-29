@@ -1,0 +1,48 @@
+{
+  "id": "story-1774808655821",
+  "slug": "pergeseran-tak-terucap",
+  "title": "Pergeseran Tak Terucap",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi bagaimana perubahan kecil dalam rutinitas sehari-hari dapat memicu refleksi mendalam tentang persepsi dan ketenangan batin.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-03-29T18:24:15.820Z",
+  "updated_at": "2026-03-29T18:24:15.820Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "psikologis",
+    "reflektif",
+    "apartemen",
+    "observasi",
+    "ingatan",
+    "lansia",
+    "empati",
+    "ketenangan",
+    "pergeseran",
+    "Bahasa Indonesia"
+  ],
+  "cover": {
+    "prompt": "A spacious, minimalist modern apartment lobby bathed in soft morning light. Impeccable, clean lines define the architecture. A precisely centered abstract artwork adorns a prominent wall. A solitary figure, seen as a strong silhouette, stands near a large window, contemplating the serene and orderly environment. Gentle, warm glow.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pergeseran-tak-terucap/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Sarah, seorang profesional yang detail, mulai menyadari perubahan kecil di lobi apartemennya yang rapi. Awalnya diabaikan, perubahan ini meningkat, memicu kecemasan dan paranoidanya. Bersembunyi di lobi, ia menemukan pelakunya adalah Nenek Siti, penghuni lansia dengan ingatan rapuh yang menata ulang benda sesuai persepsinya. Sarah kemudian merasakan empati dan menemukan kedamaian dalam menerima ketidaksempurnaan ini.",
+    "target_emotion": "Empati, Ketenangan, Pemahaman, Refleksi diri",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "pergeseran tak terucap",
+      "cerita thriller ringan",
+      "psikologis reflektif",
+      "apartemen misteri",
+      "gangguan memori",
+      "empati lansia",
+      "ketenangan batin",
+      "perubahan rutin",
+      "persepsi realitas",
+      "short story indonesia"
+    ]
+  }
+}
