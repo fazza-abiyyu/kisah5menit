@@ -1,0 +1,47 @@
+{
+  "id": "story-1774896220959",
+  "slug": "pesan-ramah-dari-layar-jalanan",
+  "title": "Pesan Ramah dari Layar Jalanan",
+  "genre": "sci-fi ringan",
+  "theme": "Menemukan kebahagiaan dan koneksi baru di tengah perubahan teknologi yang tak terduga, membuktikan bahwa inovasi bisa mendekatkan hati dan membawa keceriaan dalam rutinitas.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-03-30T18:43:40.959Z",
+  "updated_at": "2026-03-30T18:43:40.959Z",
+  "status": "published",
+  "tags": [
+    "fiksi ilmiah ringan",
+    "koneksi manusia",
+    "teknologi positif",
+    "kejutan kota",
+    "kebahagiaan",
+    "persahabatan",
+    "Jakarta",
+    "kurir paket",
+    "interaksi digital",
+    "seniman"
+  ],
+  "cover": {
+    "prompt": "An expansive, dense urban cityscape at golden hour, inspired by Jakarta. Towering, modern skyscrapers dominate the horizon, with busy city pathways winding between them. Numerous bright, interactive public screens are visible throughout the environment, subtly displaying abstract patterns and gentle, glowing advertisements. In the mid-ground, a lone figure on a delivery scooter, seen as a subtle silhouette, navigates the steady flow of city movement. A gentle, atmospheric haze softens the distant buildings and the overall urban vista. Focus on the interplay of urban architecture, pervasive digital presence, and a quiet sense of routine. Cinematic composition, rule of thirds.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-ramah-dari-layar-jalanan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Dina, seorang kurir paket yang jenuh, tiba-tiba menerima pesan personal dari layar interaktif publik. Rasa penasaran membawanya mencari 'easter egg' di Taman Kota, di mana ia bertemu Rio, seniman pencipta sistem layar tersebut, yang bertujuan menyebarkan kebahagiaan melalui teknologi. Pertemuan itu mengembalikan keceriaan Dina dan membukakan perspektif baru tentang koneksi manusia di era digital.",
+    "target_emotion": "Optimisme, keceriaan, kehangatan, harapan, rasa ingin tahu.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita fiksi ilmiah",
+      "koneksi teknologi",
+      "kebahagiaan urban",
+      "kurir jakarta",
+      "seniman digital",
+      "inspirasi harian",
+      "petualangan kota",
+      "interaksi AI",
+      "mood boost",
+      "persahabatan tak terduga"
+    ]
+  }
+}
