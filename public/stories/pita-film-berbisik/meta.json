@@ -1,0 +1,44 @@
+{
+  "id": "story-1774982605562",
+  "slug": "pita-film-berbisik",
+  "title": "Pita Film Berbisik",
+  "genre": "mystery ringan",
+  "theme": "Seorang proyeksionis tua menyelidiki bayangan aneh dalam gulungan film usang, mengungkap rahasia kecil yang tersembunyi di balik sejarah bioskop.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-03-31T18:43:25.562Z",
+  "updated_at": "2026-03-31T18:43:25.562Z",
+  "status": "published",
+  "tags": [
+    "bioskop tua",
+    "misteri ringan",
+    "proyeksionis",
+    "pesan tersembunyi",
+    "nostalgia",
+    "kisah kota",
+    "penemuan"
+  ],
+  "cover": {
+    "prompt": "Interior view of an aged cinema auditorium, bathed in soft, warm illumination. Focus on rows of vintage velvet seats, showing gentle wear and rich, faded textures. An antique film projector stands prominently, its subtle glow suggesting decades of service. Gentle light filters through, highlighting the quiet atmosphere and the enduring character of the space. The composition emphasizes the grandeur that once was, now softened by time, with subtly textured walls and ceiling. A deep sense of nostalgia and enduring connection to the location.",
+    "style": "Lo-fi aesthetic, vintage film grain, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pita-film-berbisik/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Indra, seorang proyeksionis veteran di Bioskop Purnama, menemukan anomali misterius—bayangan tak dikenal—dalam gulungan film klasik. Saat ia mencoba mengisolasi dan memahami bayangan itu, ia menyadari bahwa itu adalah petunjuk tersembunyi yang mengarah ke bagian tak terjamah di dalam bioskop. Setelah pencarian yang mendebarkan, Indra menemukan sebuah 'time capsule' atau pesan pribadi dari masa lalu bioskop, mengungkap cerita terlupakan yang kini menjadi miliknya, meninggalkan sensasi damai setelah ketegangan ringan.",
+    "target_emotion": "curiosity, light suspense, nostalgia, peaceful discovery",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerita pendek",
+      "bioskop tua",
+      "misteri ringan",
+      "proyeksionis",
+      "penemuan",
+      "nostalgia",
+      "pita film",
+      "rahasia bioskop",
+      "cerita Indonesia",
+      "time capsule"
+    ]
+  }
+}
