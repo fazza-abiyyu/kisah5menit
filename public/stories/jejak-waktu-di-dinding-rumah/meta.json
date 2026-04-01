@@ -1,0 +1,45 @@
+{
+  "id": "story-1775068960336",
+  "slug": "jejak-waktu-di-dinding-rumah",
+  "title": "Jejak Waktu di Dinding Rumah",
+  "genre": "drama keluarga",
+  "theme": "Mengeksplorasi kembali ikatan kekeluargaan dan menemukan titik temu antara tradisi lama dengan pandangan hidup baru, mempererat hubungan ibu dan anak melalui pemahaman mendalam.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-04-01T18:42:40.336Z",
+  "updated_at": "2026-04-01T18:42:40.336Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "tradisi",
+    "modernisasi",
+    "memori",
+    "indonesia",
+    "rumah masa kecil",
+    "pengorbanan",
+    "pemahaman"
+  ],
+  "cover": {
+    "prompt": "An old, weathered childhood home under the soft, warm light of late afternoon. Its walls, once bright, now show gentle yellowing and subtle peeling paint, conveying a sense of enduring history. A lone, contemplative figure stands quietly at a distance, observing the house from a calm pathway. The composition emphasizes the home's character and the atmosphere of nostalgic reflection, with a focus on environmental details and the gentle interplay of light and texture.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-waktu-di-dinding-rumah/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rara returns to her childhood home, clashing with her mother over modernizing the old house. The discovery of hidden markings on a wall reveals deep family history and her father's legacy, leading to a profound understanding and reconciliation between mother and daughter, blending tradition with new perspectives.",
+    "target_emotion": "Nostalgia, empathy, warmth, understanding, peaceful optimism.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu dan anak",
+      "perbedaan generasi",
+      "tradisi vs modernisasi",
+      "kenangan rumah",
+      "kisah keluarga indonesia",
+      "nilai keluarga",
+      "rekonsiliasi",
+      "optimisme"
+    ]
+  }
+}
