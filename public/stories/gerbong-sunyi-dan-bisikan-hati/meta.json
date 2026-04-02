@@ -1,0 +1,48 @@
+{
+  "id": "story-1775155152334",
+  "slug": "gerbong-sunyi-dan-bisikan-hati",
+  "title": "Gerbong Sunyi dan Bisikan Hati",
+  "genre": "adventure ringan",
+  "theme": "Melalui perjalanan rutin di KRL, seorang profesional muda menemukan kembali makna hidup dan pentingnya kehadiran diri dalam momen-momen kecil yang selama ini diabaikan.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-04-02T18:39:12.334Z",
+  "updated_at": "2026-04-02T18:39:12.334Z",
+  "status": "published",
+  "tags": [
+    "KRL",
+    "Jakarta",
+    "rutinitas",
+    "introspeksi",
+    "perjalanan",
+    "refleksi",
+    "slice of life",
+    "makna hidup",
+    "senja",
+    "transformasi diri",
+    "momen kecil"
+  ],
+  "cover": {
+    "prompt": "An environmental shot from inside a modern commuter train. A gentle human silhouette is subtly visible, looking out of a slightly weathered window. The window reflects the warm, ambient interior lighting of the train. Outside, the vibrant urban landscape of a city in late afternoon transforms into a beautiful, soft blur of colors, with distant city lights beginning to emerge as a gentle sparkle. The focus is on the quiet atmosphere of the journey and the fleeting, abstract views of the urban environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gerbong-sunyi-dan-bisikan-hati/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Maya, a young professional weary of her monotonous KRL commute, begins to notice overlooked details, sparking introspection. A stunning sunset from a bridge ignites reflections on forgotten dreams, leading to a profound realization that meaning and beauty reside in small, present moments, transforming her routine journey into a vital adventure of self-discovery.",
+    "target_emotion": "peaceful introspection, calm, hopeful",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen KRL",
+      "kisah inspiratif",
+      "makna hidup",
+      "refleksi diri",
+      "perjalanan pulang",
+      "Jakarta stories",
+      "introspeksi",
+      "penemuan diri",
+      "rutinitas menjadi petualangan",
+      "short story Indonesia"
+    ]
+  }
+}
