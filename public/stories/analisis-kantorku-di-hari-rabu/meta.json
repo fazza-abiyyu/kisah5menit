@@ -1,0 +1,47 @@
+{
+  "id": "story-1775240998414",
+  "slug": "analisis-kantorku-di-hari-rabu",
+  "title": "Analisis Kantorku di Hari Rabu",
+  "genre": "psychological",
+  "theme": "Eksplorasi tentang bagaimana rutinitas kerja yang monoton dan pengamatan sinis terhadap lingkungan sekitar dapat memicu refleksi diri mendalam tentang makna eksistensi, diwarnai humor pahit.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-04-03T18:29:58.414Z",
+  "updated_at": "2026-04-03T18:29:58.414Z",
+  "status": "published",
+  "tags": [
+    "office life",
+    "existentialism",
+    "sarcasm",
+    "indonesian literature",
+    "routine",
+    "corporate life",
+    "reflections",
+    "humor",
+    "psychological drama",
+    "workplace satire"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph of an office interior on a gentle Wednesday morning. Soft, warm sunlight streams across a desk, illuminating a simple coffee cup, steam gently rising. The composition uses the rule of thirds, with the coffee cup as a focal point, creating a sense of routine and quiet observation. In the very soft background, an out-of-focus entryway or hallway suggests early office activity, maintaining a respectful distance. The atmosphere is calm and reflective, capturing the subtle beginnings of a workday.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/analisis-kantorku-di-hari-rabu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Bima, an office worker, begins his Wednesday with cynical observations of colleagues and office absurdities. A printer malfunction sparks an existential crisis about his monotonous career. During lunch, he contrasts his emptiness with a young colleague's simple joys, leading to a profound feeling of loneliness. He finds no dramatic resolution but accepts the absurdity, choosing to write down his observations as a form of release and bitter acceptance of his reality.",
+    "target_emotion": "introspective reflection, bitter amusement, melancholic recognition, existential dread, cynical humor",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "office worker story",
+      "existential crisis office",
+      "corporate satire",
+      "indonesian short story",
+      "daily routine reflection",
+      "cynical humor",
+      "work life balance",
+      "psychological fiction",
+      "monotony",
+      "self-reflection"
+    ]
+  }
+}
