@@ -1,0 +1,56 @@
+{
+  "id": "story-1775327031961",
+  "slug": "aliran-kenangan-di-pinggir-sungai",
+  "title": "Aliran Kenangan di Pinggir Sungai",
+  "genre": "slice of life",
+  "theme": "Mengeksplorasi bagaimana kenangan lama bisa muncul di tengah rutinitas sederhana, membawa rasa melankolis namun damai.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-04-04T18:23:51.961Z",
+  "updated_at": "2026-04-04T18:23:51.961Z",
+  "status": "published",
+  "tags": [
+    "nostalgia",
+    "melankolis",
+    "elderly",
+    "river",
+    "indonesia",
+    "slice of life",
+    "memory",
+    "regret",
+    "acceptance",
+    "sunset",
+    "ciliwung",
+    "reflection",
+    "life lessons"
+  ],
+  "cover": {
+    "prompt": "A tranquil river at sunset, bathed in a radiant golden glow that shimmers on the calm water surface. A grand, leafy trembesi tree frames one side of the river bank, its branches extending gracefully. Under its peaceful embrace, a solitary elderly figure is seated, a simple form with a wooden cane beside them, facing the gentle current. The scene is composed with a wide shot, shallow depth of field, emphasizing the serene landscape and the warm, ethereal atmosphere. Soft, diffused lighting highlights the golden hues of the setting sun.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/aliran-kenangan-di-pinggir-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "An elderly man sitting by a tranquil river is transported back to his youth by a sudden memory triggered by a reflection and children's laughter. He reflects on a lost love and missed opportunities, experiencing a wave of bittersweet nostalgia and regret. Immersing himself in these memories, he finds new clarity and ultimately accepts his past, discovering peace in his present reality.",
+    "target_emotion": "melancholy, nostalgia, peace, acceptance, slight regret",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Kakek Harjo",
+      "Sungai Ciliwung",
+      "kenangan",
+      "masa lalu",
+      "penyesalan",
+      "penerimaan",
+      "slice of life",
+      "cerita pendek",
+      "Indonesia",
+      "melankolis",
+      "senja",
+      "cinta pertama",
+      "nostalgia",
+      "hidup",
+      "pelajaran hidup",
+      "quiet reflection"
+    ]
+  }
+}
