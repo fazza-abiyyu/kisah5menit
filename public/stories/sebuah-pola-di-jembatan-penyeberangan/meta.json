@@ -1,0 +1,47 @@
+{
+  "id": "story-1775413511260",
+  "slug": "sebuah-pola-di-jembatan-penyeberangan",
+  "title": "Sebuah Pola di Jembatan Penyeberangan",
+  "genre": "romance subtle",
+  "theme": "Menjelajahi bagaimana sebuah pengamatan kecil dan rasa ingin tahu yang ringan dapat membuka pintu bagi sebuah koneksi tak terduga antara dua orang asing di tengah hiruk pikuk kota.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-04-05T18:25:11.260Z",
+  "updated_at": "2026-04-05T18:25:11.260Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "urban",
+    "jakarta",
+    "observasi",
+    "koneksi",
+    "misteri ringan",
+    "desainer grafis",
+    "jembatan penyeberangan",
+    "rutinitas",
+    "subtle romance"
+  ],
+  "cover": {
+    "prompt": "Early morning scene in Jakarta, focusing on an aged metal pedestrian overpass with a faded, corrugated roof. The bridge stretches across a busy street, with the distant urban architecture of Thamrin visible through a soft morning glow. Gentle sunlight bathes the scene, highlighting the structure and creating a hopeful atmosphere. Subtle silhouettes of people are visible, conveying the daily commute without specific features, ascending towards the city. The composition uses the rule of thirds, emphasizing the bridge's path.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sebuah-pola-di-jembatan-penyeberangan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows a graphic designer who observes a man's consistent pattern of tote bag colors and book genres on a pedestrian overpass in Jakarta. Her initial curiosity leads to a subtle 'investigation' and eventually a non-verbal interaction that sparks a unique connection in the busy city.",
+    "target_emotion": "Curiosity, warmth, hope, intrigue",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "kisah cinta urban",
+      "romansa jakarta",
+      "jembatan penyeberangan",
+      "observasi harian",
+      "koneksi tak terduga",
+      "misteri pola",
+      "desainer grafis",
+      "rutinitas kota",
+      "interaksi non-verbal"
+    ]
+  }
+}
