@@ -1,0 +1,48 @@
+{
+  "id": "story-1775500788259",
+  "slug": "filosofi-kasir-malam",
+  "title": "Filosofi Kasir Malam",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi ketenangan aneh dan humor gelap seorang kasir malam yang menemukan filosofi hidupnya dari pengulangan absurd serta observasi terhadap perilaku manusia di jam-jam sepi.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-04-06T18:39:48.259Z",
+  "updated_at": "2026-04-06T18:39:48.259Z",
+  "status": "published",
+  "tags": [
+    "kasir malam",
+    "filosofi hidup",
+    "humor gelap",
+    "reflektif",
+    "minimarket",
+    "drama manusia",
+    "rutinitas",
+    "absurditas",
+    "ketenangan batin",
+    "observasi"
+  ],
+  "cover": {
+    "prompt": "Interior view of a 24-hour convenience store at late night. The cashier counter is central, with softly lit shelves displaying various common products in the background. A beverage cooler on the side emits a gentle, ambient glow. The scene conveys a profound quietness and stillness, with warm overhead lights creating an inviting atmosphere. Cinematic composition, rule of thirds, and shallow depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/filosofi-kasir-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Rudi, a night cashier at a 24-hour minimarket, cultivates a calm, almost philosophical outlook amidst the absurd parade of human behavior after midnight. He observes various strange customers, each adding to his unique worldview. The climax arrives when a well-dressed man experiences an existential crisis over forgotten money for biscuits, which Pak Rudi resolves with quiet generosity, solidifying his philosophy that ironic peace can be found in life's absurdities.",
+    "target_emotion": "ironic amusement, contemplative serenity, dark humor",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kasir minimarket",
+      "filosofi malam",
+      "cerita pendek",
+      "humor gelap",
+      "kehidupan malam",
+      "observasi manusia",
+      "rutinitas kerja",
+      "kedamaian batin",
+      "drama minimarket",
+      "antropologi kasir",
+      "indonesia"
+    ]
+  }
+}
