@@ -1,0 +1,45 @@
+{
+  "id": "story-1775587463005",
+  "slug": "kunjungan-ganjil-setelah-jam-kerja",
+  "title": "Kunjungan Ganjil Setelah Jam Kerja",
+  "genre": "thriller ringan",
+  "theme": "Menyelidiki kejanggalan kecil dalam rutinitas sehari-hari dapat mengungkap sisi tersembunyi dari lingkungan yang paling biasa, memicu rasa ingin tahu sekaligus ketegangan.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-04-07T18:44:23.005Z",
+  "updated_at": "2026-04-07T18:44:23.005Z",
+  "status": "published",
+  "tags": [
+    "klinik",
+    "misteri",
+    "thriller",
+    "kejanggalan",
+    "investigasi",
+    "dilema moral",
+    "sistem korup",
+    "jakarta",
+    "psikologis"
+  ],
+  "cover": {
+    "prompt": "A quiet clinic reception area in the late evening. Soft, warm interior lighting casts a gentle glow across a clean, modern space. The entrance is visible, with a subtle evening light filtering from outside. A lone figure, captured as a gentle silhouette from behind, steps into the calm environment. Empty waiting chairs and a reception desk with a discreet screen glow contribute to the serene, peaceful atmosphere. Emphasize architectural lines and the overall feeling of quiet solitude and gentle anticipation for comfort.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kunjungan-ganjil-setelah-jam-kerja/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda, Anya, mengunjungi klinik setelah jam kerja untuk keluhan ringan. Ia menjadi curiga karena observasi interaksi staf yang tidak biasa, yang membuatnya merasa diawasi. Rasa penasarannya tumbuh saat ia memperhatikan detail-detail kecil yang saling berkaitan di klinik yang tampak normal. Anya diam-diam menyelidiki petunjuk seperti catatan dan kartu akses, yang mengarah pada penemuan 'rahasia' berupa praktik pelayanan 'premium' atau 'jalur cepat' yang etisnya dipertanyakan. Rahasia tersebut terkuak sebagai sistem diskriminatif, bukan kejahatan fisik, membuat Anya lega namun terbebani oleh pengetahuan baru tentang sisi gelap di tempat biasa.",
+    "target_emotion": "curiosity, unease, slight tension, moral discomfort",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "klinik misterius",
+      "thriller ringan indonesia",
+      "kejanggalan klinik",
+      "investigasi amatir",
+      "praktik medis eksklusif",
+      "dilema etika",
+      "cerita pendek",
+      "misteri perkotaan",
+      "rahasia tersembunyi"
+    ]
+  }
+}
