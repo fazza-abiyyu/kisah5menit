@@ -1,0 +1,47 @@
+{
+  "id": "story-1775674771567",
+  "slug": "senyum-di-lintasan-pintar",
+  "title": "Senyum di Lintasan Pintar",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi bagaimana inovasi teknologi sederhana dapat memicu kebaikan kecil dan adaptasi sosial di tengah rutinitas perkotaan yang padat, membawa dampak positif yang tidak terduga.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-04-08T18:59:31.566Z",
+  "updated_at": "2026-04-08T18:59:31.566Z",
+  "status": "published",
+  "tags": [
+    "teknologi",
+    "sci-fi ringan",
+    "inovasi",
+    "kebaikan",
+    "urban",
+    "humanis",
+    "inspirasi",
+    "wearable tech",
+    "smart city"
+  ],
+  "cover": {
+    "prompt": "A futuristic city pathway, depicted as a 'river of light' made of interactive polymer, glowing softly with dynamic, geometric patterns. The pathway stretches through a vibrant, bustling urban environment, flanked by sleek, illuminated architecture. Subtle, blurred silhouettes of people are gently moving along the path, conveying a sense of progress and hopeful purpose. Focus on the radiant glow and intricate designs of the pathway, with soft ambient city lights in the background. Elevated perspective, rule of thirds composition, capturing the expansive flow of the smart pedestrian path.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-di-lintasan-pintar/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang developer muda menguji perangkat wearable yang memancarkan getaran mood positif di jalur pejalan kaki pintar. Awalnya frustrasi dengan respons minim, ia kemudian menyaksikan bagaimana perangkatnya secara tak terduga memicu serangkaian tindakan kebaikan kecil saat seorang anak tersesat, menyadarkannya akan dampak humanis dari inovasinya.",
+    "target_emotion": "inspirasi, optimisme, kehangatan, harapan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "sci-fi ringan",
+      "teknologi wearable",
+      "kebaikan hati",
+      "urban futuristik",
+      "inovasi sosial",
+      "koneksi manusia",
+      "cerita inspiratif",
+      "dampak positif teknologi",
+      "smart city",
+      "humanisme",
+      "kebahagiaan"
+    ]
+  }
+}
