@@ -1,0 +1,50 @@
+{
+  "id": "story-1775760259193",
+  "slug": "bisikan-dari-koleksi-tua",
+  "title": "Bisikan dari Koleksi Tua",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi keindahan tersembunyi dalam rutinitas dan menemukan kebahagiaan tak terduga saat memecahkan misteri kecil di museum lokal.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-04-09T18:44:19.193Z",
+  "updated_at": "2026-04-09T18:44:19.193Z",
+  "status": "published",
+  "tags": [
+    "mystery ringan",
+    "museum",
+    "observasi",
+    "detektif amatir",
+    "artefak",
+    "sejarah lokal",
+    "penemuan",
+    "inspirasi",
+    "cerita indonesia",
+    "misteri",
+    "koleksi tua"
+  ],
+  "cover": {
+    "prompt": "Interior of a local history museum, tranquil and serene ambiance. Soft, diffused natural light gently filters through tall arched windows, casting an inviting glow upon the wooden floors. Focus on a single, elegant display vitrine, crafted from polished dark wood and clear glass, standing prominently in the quiet hall. Inside the vitrine, a curated collection of vintage jewelry pieces are subtly arranged. One particular piece within the locked vitrine exhibits a delicate and intriguing shimmer, drawing the viewer's attention. The background features the vast, peaceful expanse of the museum space, with other display cases fading softly into the distance. A sense of quiet contemplation and gentle curiosity pervades the scene. Cinematic composition, using the rule of thirds to highlight the vitrine, with a gentle, focused light on the intriguing object.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-dari-koleksi-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Clara, a volunteer at a quiet local museum, notices a silver brooch subtly shifting. Over time, she discovers a pattern of small objects moving, leading her to suspect a hidden message. She deciphers these movements as clues from an ailing former curator, Pak Harjo, revealing the location of a long-lost important document. Clara successfully retrieves the document from behind a painting, solving a historical mystery and bringing a moment of clarity and peace to Pak Harjo, while forging an unexpected connection with the museum's past.",
+    "target_emotion": "kehangatan hati dan rasa ingin tahu",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kisah museum",
+      "misteri ringan",
+      "relawan museum",
+      "detektif amatir",
+      "artefak bergerak",
+      "sejarah tersembunyi",
+      "kurator tua",
+      "penemuan rahasia",
+      "inspirasi harian",
+      "cerita indonesia",
+      "kebahagiaan kecil",
+      "teka-teki museum"
+    ]
+  }
+}
