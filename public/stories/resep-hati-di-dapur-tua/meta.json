@@ -1,0 +1,46 @@
+{
+  "id": "story-1775931930711",
+  "slug": "resep-hati-di-dapur-tua",
+  "title": "Resep Hati di Dapur Tua",
+  "genre": "drama keluarga",
+  "theme": "Mengeksplorasi perjuangan seorang ibu sepuh dalam menerima perubahan dan adaptasi dinamika keluarga seiring bertambahnya usia.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-04-11T18:25:30.710Z",
+  "updated_at": "2026-04-11T18:25:30.710Z",
+  "status": "published",
+  "tags": [
+    "keluarga",
+    "ibu",
+    "adaptasi",
+    "perubahan",
+    "dapur",
+    "drama",
+    "indonesia",
+    "kemandirian",
+    "hubungan"
+  ],
+  "cover": {
+    "prompt": "An inviting, traditional kitchen interior. Gentle morning light softly illuminates a rustic wooden wall shelf, artfully arranged with various glass spice jars filled with colorful dried spices such as cumin, coriander, and nutmeg. A section of an aged wooden bench is visible in the foreground, suggesting a quiet, established presence. The atmosphere is warm and fragrant, imbued with a sense of cherished tradition and time passing. Soft light creates subtle dimension across the textures of wood and glass.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/resep-hati-di-dapur-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Ibu Rahmi, seorang ibu sepuh, bergulat dengan perubahan peran di dapurnya saat anaknya, Ardi, mengambil alih tugas. Konflik internalnya antara kemandirian dan kesadaran usia mencapai klimaks dalam percakapan yang penuh kenangan dan kasih sayang. Cerita berakhir dengan penerimaan perubahan sebagai babak baru kehidupan, meski tanpa keputusan final, membawa ketenangan dan rasa dihargai.",
+    "target_emotion": "kontemplasi, kehangatan, penerimaan, ketenangan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kisah ibu",
+      "perubahan keluarga",
+      "drama indonesia",
+      "cerita pendek",
+      "dapur tua",
+      "kemandirian lansia",
+      "hubungan anak ibu",
+      "adaptasi hidup",
+      "nilai keluarga",
+      "introspeksi"
+    ]
+  }
+}
