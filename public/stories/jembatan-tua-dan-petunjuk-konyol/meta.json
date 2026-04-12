@@ -1,0 +1,47 @@
+{
+  "id": "story-1776018608123",
+  "slug": "jembatan-tua-dan-petunjuk-konyol",
+  "title": "Jembatan Tua dan Petunjuk Konyol",
+  "genre": "adventure ringan",
+  "theme": "Mengeksplorasi sisi tersembunyi kota melalui sebuah deteksi ringan dan menemukan keunikan di balik rutinitas yang membosankan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-04-12T18:30:08.122Z",
+  "updated_at": "2026-04-12T18:30:08.122Z",
+  "status": "published",
+  "tags": [
+    "urban adventure",
+    "indonesian",
+    "mystery",
+    "humor",
+    "kurir",
+    "grafiti",
+    "slice of life",
+    "jakarta setting",
+    "absurdity",
+    "cynicism"
+  ],
+  "cover": {
+    "prompt": "Morning rush hour on a vibrant city street, densely packed and slow-moving. A main pathway is unexpectedly blocked by a lively gathering of street food vendors, prominently featuring 'cilok' carts with their steaming displays and colorful signage. A motorcycle mirror in the foreground captures a subtle, blurred reflection, conveying a hint of exasperation. The scene is bathed in soft, early morning light with warm color grading, emphasizing the bustling urban environment. Cinematic composition, rule of thirds, shallow depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jembatan-tua-dan-petunjuk-konyol/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rendi, a cynical courier, finds his usual route blocked by a 'cilok' protest, forcing him onto a neglected, graffiti-covered old bridge. While navigating the strange symbols, an old vendor warns him about 'things moving below'. Following the enigmatic clues, Rendi uncovers a hidden, absurd message or object just as a sudden 'city clean-up' event erupts, forcing him to quickly stash his find. He delivers his package but is left with a new, albeit cynical, perspective on the hidden curiosities of his monotonous urban life.",
+    "target_emotion": "amusement, cynical satisfaction, curiosity",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kurir",
+      "jembatan",
+      "grafiti",
+      "petunjuk",
+      "misteri",
+      "komedi",
+      "urban",
+      "indonesia",
+      "rutinitas",
+      "petualangan"
+    ]
+  }
+}
