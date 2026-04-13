@@ -1,37 +1,49 @@
 {
-  "id": "story-1722272400000",
+  "id": "story-1776106650547",
   "slug": "bayangan-di-gerbong-terakhir",
   "title": "Bayangan di Gerbong Terakhir",
-  "genre": "fantasy urban",
-  "theme": "Pencarian makna di tengah keanehan, atau menemukan keindahan dalam absurditas.",
-  "tone": "surreal",
+  "genre": "psychological",
+  "theme": "Menjelajahi kedalaman penyesalan masa lalu dan proses penerimaan diri, menemukan ketenangan di tengah keheningan malam yang sunyi selama perjalanan pulang.",
+  "tone": "melankolis lembut",
   "language": "id-mixed",
-  "created_at": "2024-07-29T17:00:00Z",
-  "updated_at": "2024-07-29T17:00:00Z",
+  "created_at": "2026-04-13T18:57:30.547Z",
+  "updated_at": "2026-04-13T18:57:30.547Z",
   "status": "published",
   "tags": [
-    "fantasi urban",
-    "surealisme",
-    "pencarian diri",
-    "kereta komuter",
-    "dimensi lain"
+    "psychological",
+    "penyesalan",
+    "penerimaan diri",
+    "reflektif",
+    "kereta",
+    "melankolis",
+    "indonesia",
+    "perjalanan batin",
+    "keputusan hidup"
   ],
   "cover": {
-    "prompt": "Early morning at a quiet, deserted train station platform. A solitary figure, seen as a strong silhouette, stands patiently at the far end of the platform. The scene emphasizes the long, empty platform stretching into the distance, with the distinctive last carriage of a commuter train just visible, either arriving or departing. Atmospheric soft golden hour light filters through the scene, casting gentle, elongated shadows. The overall mood conveys structured routine and quiet solitude. Cinematic composition, rule of thirds, leading lines of the platform, subtle depth of field with a blurred urban background.",
+    "prompt": "View from inside a quiet train carriage at night. Outside the window, a blur of vibrant, glowing city lights streak past, creating dynamic, energetic lines against the deep tones of the night. These abstract light trails suggest the rapid pulse of an urban environment. A subtle, soft silhouette of a person is positioned near the window, their form gently defined by the ambient train illumination, conveying a sense of serene isolation and thoughtful reflection. The window pane shows gentle reflections of these bright city elements, adding to the visual depth. Distant building forms appear as intriguing, indistinct shapes, contributing to an atmosphere of contemplation and a gentle, nostalgic resonance. Focus on depth of field, with the interior subtly in focus and the exterior city lights beautifully blurred.",
     "style": "Cinematic photography, shallow depth of field, warm color grading",
     "aspect_ratio": "4:5",
     "image_url": "/stories/bayangan-di-gerbong-terakhir/cover.png"
   },
   "meta": {
-    "plan_summary": "Kisah tentang Adi, seorang komuter yang menemukan gerbong kereta hariannya adalah portal ke dimensi lain, dipandu oleh penumpang tak terlihat. Pengalaman sureal ini memaksanya mempertanyakan realitas, hingga ia belajar merangkul keanehan dan menemukan makna baru dalam hidup.",
-    "target_emotion": "wonder, disorientation, and ultimately, acceptance",
-    "reading_time_minutes": 7,
+    "plan_summary": "Clara, seorang desainer grafis freelance, bergulat dengan penyesalan atas keputusan karier masa lalu selama perjalanan kereta malam yang sunyi. Pergumulan batin ini mencapai puncaknya di terowongan gelap, di mana ia menyadari bahwa penyesalan adalah penjara yang ia bangun sendiri. Melalui pencerahan yang menyakitkan namun jujur, ia menerima bahwa ia telah melakukan yang terbaik saat itu, menemukan kedamaian dan harapan untuk masa depan.",
+    "target_emotion": "Melankolis, introspektif, penyesalan, lalu bergeser ke arah penerimaan, kedamaian, dan harapan.",
+    "reading_time_minutes": 9,
     "keywords": [
-      "fantasi urban",
-      "surealisme",
-      "realitas alternatif",
-      "pencarian diri",
-      "perjalanan kereta"
+      "cerita pendek",
+      "psikologis",
+      "penyesalan",
+      "penerimaan diri",
+      "perjalanan kereta",
+      "melankolis",
+      "introspeksi",
+      "kehidupan perkotaan",
+      "keputusan hidup",
+      "fiksi reflektif",
+      "psikologi karakter",
+      "bahasa indonesia",
+      "self-acceptance"
     ]
   }
 }
