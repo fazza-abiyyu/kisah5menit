@@ -1,0 +1,45 @@
+{
+  "id": "story-1776192914146",
+  "slug": "pola-malam-di-toko-sebelah",
+  "title": "Pola Malam di Toko Sebelah",
+  "genre": "slice of life",
+  "theme": "Menemukan sebuah keanehan kecil dalam rutinitas malam yang membosankan dapat membuka pandangan baru tentang lingkungan sekitar.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-04-14T18:55:14.146Z",
+  "updated_at": "2026-04-14T18:55:14.146Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "misteri ringan",
+    "minimarket",
+    "kasir shift malam",
+    "rutinitas",
+    "kesepian",
+    "koneksi manusia",
+    "observasi",
+    "Jakarta"
+  ],
+  "cover": {
+    "prompt": "Late night minimarket interior, softly lit aisles stretching into the distance. A large wall clock indicates very early morning hours, subtly illuminated. A gentle cool atmosphere pervades the space. Through the large front window, a peaceful street scene is visible, illuminated by a gentle, ambient glow from distant streetlights. The composition focuses on the environment, emphasizing the quiet expanse of the store and the routine of the hour. An implied human presence is a distant, unidentifiable figure, blending into the background.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-malam-di-toko-sebelah/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kasir shift malam di minimarket, Mira, mengamati pola belanja aneh dari pelanggan paruh baya yang selalu datang tepat pukul 2 pagi. Rasa penasarannya memuncak saat pelanggan itu secara tak sengaja menjatuhkan gantungan kunci unik dengan simbol familiar. Mira kemudian menyadari bahwa pola belanja tersebut adalah cara pelanggan mengatasi kesepian atau kecemasannya, sebuah 'rutinitas penenang'. Mira memutuskan untuk menawarkan secangkir teh gratis padanya, menemukan koneksi manusiawi di balik keanehan tersebut.",
+    "target_emotion": "Empati, rasa ingin tahu, kehangatan, dan pengertian.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen minimarket",
+      "kisah kasir malam",
+      "misteri ringan",
+      "slice of life Indonesia",
+      "rutinitas unik",
+      "koneksi antar manusia",
+      "kisah inspiratif",
+      "kesepian perkotaan",
+      "pengertian"
+    ]
+  }
+}
