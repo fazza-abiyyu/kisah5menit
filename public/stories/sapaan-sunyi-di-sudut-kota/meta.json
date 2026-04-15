@@ -1,0 +1,48 @@
+{
+  "id": "story-1776279465671",
+  "slug": "sapaan-sunyi-di-sudut-kota",
+  "title": "Sapaan Sunyi di Sudut Kota",
+  "genre": "romance subtle",
+  "theme": "Mengeksplorasi koneksi tak terucapkan dan pemahaman mendalam yang tumbuh antara dua jiwa soliter yang menemukan ketenangan di tempat yang sama di tengah hiruk pikuk malam perkotaan.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-04-15T18:57:45.671Z",
+  "updated_at": "2026-04-15T18:57:45.671Z",
+  "status": "published",
+  "tags": [
+    "jakarta",
+    "taman kota",
+    "penulis",
+    "penjaga keamanan",
+    "romantis",
+    "koneksi",
+    "keheningan",
+    "urban",
+    "soliter",
+    "subtle romance",
+    "cerita pendek"
+  ],
+  "cover": {
+    "prompt": "A serene city park bench, nestled peacefully beneath the expansive canopy of an ancient Trembesi tree. A single cup of cold coffee rests on the bench. The scene is bathed in a soft, gentle ambient light emanating from distant urban structures, creating a tranquil evening atmosphere in a bustling city corner. Focus on the quiet setting, the lush texture of the tree's foliage, and the inviting, empty bench, emphasizing a contemplative mood through environmental details and subtle lighting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sapaan-sunyi-di-sudut-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah tentang seorang penulis lepas dan penjaga keamanan yang rutin bertemu di bangku taman kota, menemukan kenyamanan dalam kehadiran satu sama lain tanpa berinteraksi langsung. Keheningan mereka terpecah saat penjaga membantu penulis mengambil buku yang terjatuh, membuka jalan bagi koneksi yang lebih tulus dan pemahaman tanpa suara.",
+    "target_emotion": "Ketenangan, harapan, kehangatan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "romansa tersembunyi",
+      "koneksi tanpa kata",
+      "kehidupan kota",
+      "persahabatan urban",
+      "malam sunyi",
+      "cerita reflektif",
+      "pengamatan diam",
+      "penulis lepas",
+      "penjaga keamanan",
+      "Jakarta malam"
+    ]
+  }
+}
