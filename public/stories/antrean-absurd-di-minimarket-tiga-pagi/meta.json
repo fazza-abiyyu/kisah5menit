@@ -1,0 +1,45 @@
+{
+  "id": "story-1776365719900",
+  "slug": "antrean-absurd-di-minimarket-tiga-pagi",
+  "title": "Antrean Absurd di Minimarket Tiga Pagi",
+  "genre": "dark comedy",
+  "theme": "Exploring bagaimana absurditas dalam rutinitas malam hari bisa mengungkap sisi lucu dan menyentuh dari keberadaan manusia yang kesepian.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-04-16T18:55:19.900Z",
+  "updated_at": "2026-04-16T18:55:19.900Z",
+  "status": "published",
+  "tags": [
+    "minimarket",
+    "komedi",
+    "absurditas",
+    "malam hari",
+    "kesepian",
+    "slice of life",
+    "humor",
+    "dini hari",
+    "karakter unik"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a deserted minimarket interior at early dawn. The scene is composed using the rule of thirds, with rows of perfectly aligned shelves and products leading the eye towards a distant, softly blurred counter area. Intense, steady overhead lights cast a clear, uniform glow across the polished floor, creating gentle reflections. A solitary, anonymous figure, visible only as a subtle silhouette, stands calmly near the checkout. The overall impression is one of profound quietness and suspended time, bathed in an artificial, cool luminosity.",
+    "style": "Cinematic photography, shallow depth of field, cool color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/antrean-absurd-di-minimarket-tiga-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kasir minimarket malam yang terbiasa kesepian dihadapkan pada serangkaian pembeli aneh setelah jam 3 pagi, masing-masing dengan ritual belanja tak masuk akal. Klimaksnya, seorang pelanggan meminta 'Bintang Utara', memaksa kasir memutuskan antara mempertahankan profesionalisme atau larut dalam kegilaan singkat. Akhirnya, kasir menemukan pencerahan tentang keanehan hidup dan senyum tipis, menyadari rutinitasnya tidak seburuk itu dengan sedikit 'bumbu' kegilaan.",
+    "target_emotion": "Amusement, warmth, lighthearted contemplation, subtle melancholy",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "minimarket",
+      "antrean absurd",
+      "komedi gelap",
+      "cerita malam",
+      "kesepian",
+      "rutinitas unik",
+      "fiksi pendek",
+      "humor",
+      "kehidupan malam"
+    ]
+  }
+}
