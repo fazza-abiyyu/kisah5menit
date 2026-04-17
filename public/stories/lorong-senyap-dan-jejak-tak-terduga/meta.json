@@ -1,0 +1,43 @@
+{
+  "id": "story-1776451212235",
+  "slug": "lorong-senyap-dan-jejak-tak-terduga",
+  "title": "Lorong Senyap dan Jejak Tak Terduga",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi rasa tidak nyaman dan kegelisahan yang muncul saat menemukan anomali misterius di sudut kota yang sepi dan akrab, menimbulkan pertanyaan tentang keberadaan yang tak terlihat.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-04-17T18:40:12.235Z",
+  "updated_at": "2026-04-17T18:40:12.235Z",
+  "status": "published",
+  "tags": [
+    "misteri",
+    "thriller",
+    "urban",
+    "kegelisahan",
+    "paranormal",
+    "jakarta",
+    "cerita-pendek",
+    "horor-ringan"
+  ],
+  "cover": {
+    "prompt": "A softly illuminated home office workspace during early morning hours. The laptop screen is off, resting on a wooden desk. Scattered around are stacks of graphic design reference books and a partially consumed beverage cup. Gentle ambient light softly highlights the textures of the objects and surfaces. The atmosphere conveys quiet solitude and the completion of diligent work. Focus on objects and environment, creating a sense of reflective calm.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lorong-senyap-dan-jejak-tak-terduga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, seorang freelancer yang lelah, memilih jalan pintas melalui lorong bawah tanah yang jarang digunakan. Ia menemukan susunan objek aneh—lengan boneka porselen, sobekan koran lama, dan sepatu kecil—yang tertata rapi di tengah kotornya lorong, memicu rasa ingin tahu bercampur kegelisahan. Ia merasa diawasi dan terdesak oleh kehadiran tak kasat mata, mempercepat langkahnya untuk keluar. Meskipun berhasil keluar dengan lega, bayangan objek aneh dan perasaan diawasi terus menghantuinya, meninggalkan misteri tak terpecahkan.",
+    "target_emotion": "Kegelisahan, ketegangan, rasa tidak nyaman, misteri, ketakutan ringan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita horor",
+      "thriller indonesia",
+      "misteri urban",
+      "kisah seram",
+      "lorong gelap",
+      "kisah freelancer",
+      "pengalaman mistis",
+      "horor psikologis"
+    ]
+  }
+}
