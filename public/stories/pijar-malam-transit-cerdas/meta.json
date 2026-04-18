@@ -1,0 +1,50 @@
+{
+  "id": "story-1776536988388",
+  "slug": "pijar-malam-transit-cerdas",
+  "title": "Pijar Malam Transit Cerdas",
+  "genre": "sci-fi ringan",
+  "theme": "Menemukan keindahan dan koneksi manusia yang tak terduga dalam rutinitas perjalanan malam di tengah kota yang canggih.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-04-18T18:29:48.388Z",
+  "updated_at": "2026-04-18T18:29:48.388Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "futuristic",
+    "urban",
+    "automation",
+    "human connection",
+    "night journey",
+    "indonesian fiction",
+    "optimism",
+    "solitude",
+    "city lights"
+  ],
+  "cover": {
+    "prompt": "Exterior view of a contemporary corporate building, 'Nusantara Data Corp', during late evening. Most office windows are softly illuminated with a gentle, warm light, with a few beginning to dim, creating a mosaic of inviting glows. A well-maintained pathway leads away from the main entrance, bathed in a serene, diffused light. A subtle, indistinct human silhouette (very minimal detail) is visible in the distance on the pathway, suggesting a quiet departure. Emphasize architectural lines and a tranquil atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, rule of thirds composition, wide shot",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pijar-malam-transit-cerdas/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Maya, a young data analyst, routinely uses a futuristic automated transit system. One night, the system experiences an anomaly, leaving her isolated. While reflecting on lost human connection, she notices an interactive projected message from another citizen, reminding her of the underlying humanity. The system resumes, and Maya returns home with a renewed sense of optimism and connection.",
+    "target_emotion": "peaceful optimism, wonder, and a sense of rediscovered human connection amidst technological advancement",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "futuristic city",
+      "automated transit",
+      "sci-fi short story",
+      "urban solitude",
+      "human connection in tech",
+      "night journey",
+      "optimistic sci-fi",
+      "Pijar Malam Transit Cerdas",
+      "Maya story",
+      "Indonesia fiction",
+      "data analyst life",
+      "interactive art",
+      "dandelion message"
+    ]
+  }
+}
