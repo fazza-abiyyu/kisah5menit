@@ -1,0 +1,47 @@
+{
+  "id": "story-1776623457939",
+  "slug": "bisikan-detail-di-kubikel",
+  "title": "Bisikan Detail di Kubikel",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi bagaimana kepekaan terhadap anomali kecil dalam rutinitas kerja sehari-hari dapat mengarah pada introspeksi mendalam tentang persepsi dan makna observasi.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-04-19T18:30:57.939Z",
+  "updated_at": "2026-04-19T18:30:57.939Z",
+  "status": "published",
+  "tags": [
+    "mystery ringan",
+    "kantor",
+    "observasi",
+    "introspeksi",
+    "rutinitas",
+    "psikologi",
+    "cerpen Indonesia",
+    "damai",
+    "refleksi diri",
+    "perilaku manusia"
+  ],
+  "cover": {
+    "prompt": "A serene, cinematic capture within a busy open-plan office. The focus is on small, overlooked details: a lone pen resting peacefully on a polished desk, or delicate light compositions cast upon a wall by gentle morning sunlight. Warm, natural light filters through a window, illuminating subtle textures. The background features the soft blur of a cubicle environment, with hints of activity and soft murmurs of conversation. Shallow depth of field, emphasizing a moment of quiet observation and thoughtful contemplation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-detail-di-kubikel/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Andi, seorang pekerja kantor pendiam, mulai mengamati anomali kecil di kubikel dan pantry. Ia menyusun pola dari keanehan ini, menyadari bahwa itu mungkin ulah rekan kerja baru atau bias observasinya sendiri. Akhirnya, Andi menemukan kedamaian dalam pengamatan, memahami kompleksitas manusia dan memperkaya hidupnya dengan refleksi diri.",
+    "target_emotion": "ketenangan, refleksi, pemahaman diri",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen",
+      "kisah misteri",
+      "fiksi kantor",
+      "observasi manusia",
+      "refleksi diri",
+      "misteri ringan",
+      "psikologi",
+      "kebiasaan manusia",
+      "rutinitas kerja",
+      "bahasa indonesia"
+    ]
+  }
+}
