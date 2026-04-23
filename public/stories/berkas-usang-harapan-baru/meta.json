@@ -1,0 +1,42 @@
+{
+  "id": "story-1776970330041",
+  "slug": "berkas-usang-harapan-baru",
+  "title": "Berkas Usang, Harapan Baru",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi dinamika keluarga yang rumit melalui humor dan sindiran, menghadapi birokrasi yang memusingkan demi masa depan anak.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-04-23T18:52:10.041Z",
+  "updated_at": "2026-04-23T18:52:10.041Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "birokrasi",
+    "humor sinis",
+    "ibu tunggal",
+    "perjuangan dokumen",
+    "harapan",
+    "layanan publik"
+  ],
+  "cover": {
+    "prompt": "Cinematic wide shot, exterior of a public administrative building with automatic glass doors, viewed from a slight distance. Early morning light, soft and inviting, illuminates the pathway. A figure, seen from behind, walks towards the entrance, their form a gentle silhouette. In one hand, a well-used fabric tote bag, visibly full of various official documents, is held. A small child, also seen from behind or as a silhouette, accompanies them, slightly trailing. The composition uses the rule of thirds, emphasizing the scale of the building against the approaching individuals. The overall mood is one of quiet perseverance and the beginning of a bureaucratic journey.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/berkas-usang-harapan-baru/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang ibu tunggal berjuang menghadapi birokrasi yang berbelit untuk merevisi akta kelahiran anaknya yang salah ketik, menemukan titik terang berkat kepolosan sang anak.",
+    "target_emotion": "Frustrasi berubah menjadi kelegaan dan optimisme.",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "birokrasi indonesia",
+      "drama keluarga",
+      "ibu tunggal",
+      "akta kelahiran",
+      "kesalahan data",
+      "pelayanan publik",
+      "cerita pendek",
+      "humor sinis"
+    ]
+  }
+}
