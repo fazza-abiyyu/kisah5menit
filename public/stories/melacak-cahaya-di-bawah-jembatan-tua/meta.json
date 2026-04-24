@@ -1,0 +1,45 @@
+{
+  "id": "story-1777055690762",
+  "slug": "melacak-cahaya-di-bawah-jembatan-tua",
+  "title": "Melacak Cahaya di Bawah Jembatan Tua",
+  "genre": "adventure ringan",
+  "theme": "Seorang lansia menemukan kembali serpihan kenangan masa mudanya melalui petualangan kecil di bawah jembatan penyeberangan yang sering ia lewati.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-04-24T18:34:50.762Z",
+  "updated_at": "2026-04-24T18:34:50.762Z",
+  "status": "published",
+  "tags": [
+    "petualangan ringan",
+    "lansia",
+    "nostalgia",
+    "kenangan",
+    "persahabatan",
+    "jembatan tua",
+    "melankolis",
+    "introspeksi",
+    "self-discovery"
+  ],
+  "cover": {
+    "prompt": "An old, weathered pedestrian overpass bridge, constructed of worn concrete pillars adorned with gentle moss, seen during the late afternoon. The ground beneath is visibly damp from recent rain, reflecting the soft, warm glow of the setting sun. A subtle atmospheric haze hangs in the air, hinting at a sense of timelessness and gentle intrigue. A distant, abstract silhouette of a lone figure stands at the far end of the bridge, conveying a thoughtful presence without specific facial details. The composition utilizes the rule of thirds, with a gentle depth of field focusing on the bridge's texture and the atmospheric light. The scene evokes a strong feeling of nostalgia and a connection to a distant past.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/melacak-cahaya-di-bawah-jembatan-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Ramli, seorang pensiunan, menemukan ukiran samar di pilar jembatan penyeberangan yang memicu ingatan masa mudanya. Melalui observasi dan petunjuk kecil, ia menyadari ukiran itu adalah simbol persahabatan lama dengan teman bernama Arman. Penemuan pesan tersembunyi menegaskan kembali kenangan manis masa kecil, membawa rasa damai dan menjadikan jembatan itu monumen pribadinya.",
+    "target_emotion": "nostalgia, damai, haru, melankolis lembut",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "kisah lansia",
+      "kenangan masa muda",
+      "persahabatan",
+      "nostalgia",
+      "jembatan tua",
+      "petualangan ringan",
+      "pencarian jati diri",
+      "melankolis"
+    ]
+  }
+}
