@@ -1,0 +1,51 @@
+{
+  "id": "story-1777142049690",
+  "slug": "sebuah-jeda-di-balik-kotak-surat",
+  "title": "Sebuah Jeda di Balik Kotak Surat",
+  "genre": "psychological",
+  "theme": "Mengeksplorasi bagaimana keterlambatan tak terduga di tengah rutinitas sibuk memicu introspeksi mendalam tentang kecemasan dan pentingnya menemukan ketenangan.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-04-25T18:34:09.690Z",
+  "updated_at": "2026-04-25T18:34:09.690Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "introspeksi",
+    "mindfulness",
+    "kecemasan",
+    "rutinitas",
+    "kantor pos",
+    "refleksi",
+    "jeda",
+    "waktu",
+    "Indonesia",
+    "ketenangan"
+  ],
+  "cover": {
+    "prompt": "Interior of a classic post office, early morning at 9 AM. Soft, diffused warm light illuminates the space, highlighting dust particles in the air and textured wooden surfaces. A prominent vintage wall clock displays the precise time of nine o'clock. On a large counter or desk, artfully arranged stacks of aged envelopes and organized documents suggest an intricate schedule. The composition employs a shallow depth of field, focusing on the details of the environment. The overall mood is one of gentle, structured anticipation and precise organization. No specific people are in frame, only the atmosphere and objects of the setting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sebuah-jeda-di-balik-kotak-surat/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A story about a busy professional, Sarah, whose meticulously planned day is derailed by an unexpectedly long queue at the post office. This forced pause triggers deep-seated anxiety and frustration over her loss of control and the rapid pace of her life. Witnessing a calm, elderly woman patiently conducting her business, Sarah experiences an epiphany about the value of slowing down and finding peace in simple moments. She leaves the post office with a lighter heart and a renewed commitment to mindfulness, ready to apply this new perspective to her hectic daily life.",
+    "target_emotion": "calmness, introspection, relief, peace",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "psikologi",
+      "introspeksi diri",
+      "mindfulness",
+      "manajemen waktu",
+      "kecemasan kerja",
+      "kantor pos",
+      "kisah inspiratif",
+      "ketenangan batin",
+      "refleksi kehidupan",
+      "cerpen Indonesia",
+      "jeda",
+      "rutinitas",
+      "produktivitas"
+    ]
+  }
+}
