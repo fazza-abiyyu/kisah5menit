@@ -1,0 +1,46 @@
+{
+  "id": "story-1777228429294",
+  "slug": "angka-asing-di-panel-lift",
+  "title": "Angka Asing di Panel Lift",
+  "genre": "slice of life",
+  "theme": "Menemukan keanehan kecil dalam rutinitas sehari-hari yang memicu rasa ingin tahu dan observasi mendalam, menambah warna pada kehidupan biasa.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-04-26T18:33:49.293Z",
+  "updated_at": "2026-04-26T18:33:49.293Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "misteri ringan",
+    "rutinitas",
+    "observasi",
+    "apartemen",
+    "lift",
+    "angka",
+    "keanehan sehari-hari",
+    "inspirasi"
+  ],
+  "cover": {
+    "prompt": "A long, quiet apartment corridor on an upper floor during the gentle morning hour. Soft light streams in from a distant window, casting a warm glow along the pathway. In the mid-ground, a subtle silhouette moves towards a lift panel, where a single button with a down arrow is subtly illuminated. The atmosphere conveys a feeling of daily routine with a touch of quiet anticipation and intrigue. An environmental shot, focusing on perspective and architectural elements.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/angka-asing-di-panel-lift/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan apartemen mengamati angka acak misterius yang muncul di panel lift. Awalnya diabaikan, angka itu menjadi obsesi kecil yang memicu rasa ingin tahu. Ia akhirnya menemukan petunjuk dari seorang penghuni lansia, tetapi misteri angka itu tidak pernah sepenuhnya terpecahkan. Pengamatan ini justru membuka matanya pada detail-detail tak terduga dalam kehidupan apartemen, mengubah pandangannya tentang rutinitas.",
+    "target_emotion": "Curiosity, subtle intrigue, sense of wonder, contemplative observation.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "angka lift",
+      "misteri apartemen",
+      "kisah sehari-hari",
+      "rutinitas yang berubah",
+      "observasi detail",
+      "slice of life indonesia",
+      "teka-teki tak terpecahkan",
+      "keajaiban kecil",
+      "sensory details",
+      "karyawan apartemen"
+    ]
+  }
+}
