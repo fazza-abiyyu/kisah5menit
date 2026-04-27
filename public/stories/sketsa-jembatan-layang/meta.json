@@ -1,0 +1,46 @@
+{
+  "id": "story-1777316516481",
+  "slug": "sketsa-jembatan-layang",
+  "title": "Sketsa Jembatan Layang",
+  "genre": "romance subtle",
+  "theme": "Menemukan kehangatan dan potensi koneksi baru di tengah hiruk pikuk kota, mengajarkan bahwa kebaikan kecil dan observasi tajam bisa menuntun pada awal hubungan yang manis.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-04-27T19:01:56.481Z",
+  "updated_at": "2026-04-27T19:01:56.481Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "urban life",
+    "art",
+    "connection",
+    "jakarta",
+    "short story",
+    "indonesian",
+    "mystery artist"
+  ],
+  "cover": {
+    "prompt": "An architectural sketchbook, open to pages displaying intricate structural designs and imaginative building sketches, resting gently on a weathered concrete barrier. In the background, a sweeping urban vista unfolds, dominated by a majestic multi-lane overpass that gracefully curves through a vibrant city during the golden hour. The scene is bathed in a warm, gentle light, casting a serene glow on the city's towering structures and the detailed drawings. The composition emphasizes the expansive cityscape and the quiet moment of artistic reflection, with a shallow depth of field to highlight the sketchbook. The overall mood is one of inspiration and urban tranquility.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sketsa-jembatan-layang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young architect, Maya, discovers charming, mysterious sketches on her favorite pedestrian bridge. Intrigued, she tries to uncover the anonymous artist. One morning, she almost catches the artist, Rio, in the act, leading to a brief, meaningful encounter and an invitation to complete a sketch, hinting at a new connection.",
+    "target_emotion": "Warmth, intrigue, budding romance, hope, joy",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "short story",
+      "romance",
+      "urban romance",
+      "jakarta",
+      "indonesian literature",
+      "art in city",
+      "mystery artist",
+      "architect story",
+      "new connection",
+      "lighthearted story",
+      "modern love"
+    ]
+  }
+}
