@@ -1,0 +1,54 @@
+{
+  "id": "story-1777403704562",
+  "slug": "bisikan-dinding-besi",
+  "title": "Bisikan Dinding Besi",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi bagaimana kecemasan sehari-hari dan overthinking dapat mengubah situasi yang paling biasa menjadi pengalaman yang absurd dan menegangkan.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-04-28T19:15:04.561Z",
+  "updated_at": "2026-04-28T19:15:04.561Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "anxiety",
+    "overthinking",
+    "urban",
+    "apartemen",
+    "lift",
+    "psikologis",
+    "absurd",
+    "monolog internal",
+    "horror ringan",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "A cinematic shot from a high-rise apartment corridor. Gently opening lift doors reveal a warm, inviting interior. Golden hour light bathes the polished marble floor and reflects softly. A silhouetted figure, carrying a practical tote bag, steps into the lift, conveying a quiet moment of transition at the end of a long day.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-dinding-besi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rina's routine elevator ride home turns into a paranoiac journey through perceived glitches, strange occurrences, and distorted reality, climaxing in an alien floor and a silent, unsettling security guard, leaving her to question the line between reality and anxiety-induced delusion.",
+    "target_emotion": "Unease, amusement, slight dread, reflection on urban anxiety.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "dark comedy",
+      "urban fantasy",
+      "anxiety story",
+      "overthinking",
+      "psychological thriller",
+      "short story",
+      "Indonesian literature",
+      "apartment lift",
+      "supernatural",
+      "existential dread",
+      "absurd fiction",
+      "modern fable",
+      "Jakarta life",
+      "daily stress",
+      "mental health",
+      "light horror"
+    ]
+  }
+}
