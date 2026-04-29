@@ -1,0 +1,43 @@
+{
+  "id": "story-1777489498647",
+  "slug": "putaran-tak-terduga",
+  "title": "Putaran Tak Terduga",
+  "genre": "thriller ringan",
+  "theme": "Menemukan keberanian tersembunyi dan adaptasi diri di tengah rutinitas yang terganggu oleh sebuah kejutan tak terduga di tempat yang paling biasa.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-04-29T19:04:58.646Z",
+  "updated_at": "2026-04-29T19:04:58.646Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "misteri",
+    "kejutan",
+    "adaptasi",
+    "optimisme",
+    "keberanian",
+    "laundry",
+    "rutinitas"
+  ],
+  "cover": {
+    "prompt": "A tranquil late-night laundromat interior located at a city corner. Rows of softly glowing washing machines and dryers create an inviting atmosphere. Gentle steam rises, catching the warm overhead light. Through a large window, the calm, cool tones of the city street are visible, offering a subtle contrast. A lone, distant figure, seen from behind or as a graceful silhouette, is present among the machines. The composition emphasizes the peaceful hum of the equipment and the comforting warmth within the space.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/putaran-tak-terduga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang pekerja lepas yang kelelahan menemukan sebuah peta misterius di jaketnya saat melakukan laundry malam hari, memicu rasa ingin tahu dan ketegangan. Setelah interaksi ambigu dengan seorang pria yang muncul, ia menyadari bahwa peta itu adalah gambar cucu pria tersebut, bukan petunjuk rahasia, memberikan rasa lega dan kesadaran akan keberanian adaptifnya.",
+    "target_emotion": "Lega, optimis, dan terinspirasi.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "thriller ringan Indonesia",
+      "cerita misteri",
+      "fiksi adaptasi",
+      "kejutan tak terduga",
+      "kisah inspiratif",
+      "laundry malam hari",
+      "petualangan kecil",
+      "maya desainer grafis"
+    ]
+  }
+}
