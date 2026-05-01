@@ -1,0 +1,44 @@
+{
+  "id": "story-1777661694735",
+  "slug": "frekuensi-resonansi-di-lorong-belanja",
+  "title": "Frekuensi Resonansi di Lorong Belanja",
+  "genre": "sci-fi ringan",
+  "theme": "Seorang kasir minimarket menemukan kedalaman makna dalam rutinitas kerjanya melalui fenomena resonansi teknologi, memicu refleksi diri.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-05-01T18:54:54.735Z",
+  "updated_at": "2026-05-01T18:54:54.735Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "introspeksi",
+    "minimarket",
+    "rutinitas",
+    "resonansi",
+    "spiritual",
+    "jakarta",
+    "fiksi-pendek",
+    "transformasi-pribadi"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph capturing the quiet of a modern minimarket interior during late hours in a bustling city. The scene focuses on a neat checkout counter, perhaps with a subtle indicator light from a scanner, and orderly rows of everyday products on shelves. Through a large window, the soft glow of distant urban lights suggests a lively city beyond. The composition uses a shallow depth of field, with the foreground subtly blurred, guiding the eye towards the serene, almost paused atmosphere within the store. Gentle, warm artificial lighting illuminates the interior, contrasting softly with the cooler, ambient tones of the city's evening glow outside. The image evokes a sense of predictable routine transitioning into a calm, unfolding atmosphere, with no detailed faces or specific people, purely an environmental and object-focused shot.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/frekuensi-resonansi-di-lorong-belanja/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kasir shift malam, Risa, mulai menyadari pola cahaya dan frekuensi aneh dari scanner-nya. Awalnya diabaikan sebagai kelelahan, fenomena ini makin intens hingga Risa mengalami epifani, menyadari bahwa itu adalah cara baru melihat dunia dan energi tak terlihat. Akhirnya, ia menemukan makna mendalam dan koneksi dalam rutinitas kerjanya yang monoton.",
+    "target_emotion": "ketenangan, introspeksi, koneksi",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita sci-fi ringan",
+      "kasir minimarket",
+      "makna hidup",
+      "fenomena resonansi",
+      "introspeksi diri",
+      "fiksi indonesia",
+      "kisah inspiratif",
+      "rutinitas spiritual"
+    ]
+  }
+}
