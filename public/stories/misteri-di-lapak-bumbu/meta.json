@@ -1,0 +1,43 @@
+{
+  "id": "story-1777747197618",
+  "slug": "misteri-di-lapak-bumbu",
+  "title": "Misteri di Lapak Bumbu",
+  "genre": "mystery ringan",
+  "theme": "Menyelami intrik kecil yang tersembunyi di balik rutinitas pasar, menemukan bahwa setiap sudut punya rahasia unik dan seringkali kocak untuk dipecahkan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-05-02T18:39:57.618Z",
+  "updated_at": "2026-05-02T18:39:57.618Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "humor",
+    "indonesian market",
+    "short story",
+    "pasar tradisional",
+    "humorous mystery"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph capturing the vibrant yet precise atmosphere of an Indonesian traditional spice market at dawn. Focus on a vendor's stall, featuring carefully arranged, colorful mounds of dry spices: turmeric powder, whole coriander seeds, and peppercorns. Sunlight gently breaks through, casting warm, diffused light and highlighting the textures of the spices. The scene evokes the feeling of a day slowly unfolding into building heat and a sense of quiet, practiced routine. Composition employs the rule of thirds, with a shallow depth of field, drawing attention to the meticulous arrangement of the spices. The overall aesthetic is one of serene, practiced activity amidst the market's awakening. Warm color grading and a soft, inviting atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/misteri-di-lapak-bumbu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical spice vendor observes strange occurrences at a neighboring vegetable stall, initially dismissing them but eventually turning into an amateur detective. After humorous observations and wild theories, he uncovers a mundane and comical truth behind the mystery, leaving him with a renewed, albeit more cynical, appreciation for the absurdities of daily market life.",
+    "target_emotion": "amused",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "pasar tradisional",
+      "misteri komedi",
+      "slice of life",
+      "pedagang bumbu",
+      "kisah pasar",
+      "humor sinis",
+      "detektif amatir",
+      "kehidupan sehari-hari",
+      "cerita pendek"
+    ]
+  }
+}
