@@ -1,0 +1,53 @@
+{
+  "id": "story-1777833613106",
+  "slug": "waktu-henti-di-ruang-tunggu",
+  "title": "Waktu Henti di Ruang Tunggu",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi beban emosional dari janji yang belum terpenuhi dan kata-kata yang tak terucap antara anak dan orang tua di tengah ketidakpastian masa depan.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-05-03T18:40:13.105Z",
+  "updated_at": "2026-05-03T18:40:13.105Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "janji tak terucap",
+    "ketidakpastian medis",
+    "emosional",
+    "melankolis",
+    "rekonsiliasi",
+    "kisah keluarga",
+    "ruang tunggu klinik",
+    "Maya",
+    "Bu Rahma"
+  ],
+  "cover": {
+    "prompt": "A quiet clinic waiting room. A row of clean, blue plastic chairs, some empty, stretching into the background. Two indistinct, seated figures occupy the middle ground, presented as subtle silhouettes against a minimalist, light-toned wall. The scene is permeated by a profound sense of stillness, evoking unspoken reflection and a quiet weight. Cinematic composition, soft ambient lighting, gentle depth of field focusing on the foreground chairs.",
+    "style": "Cinematic photography, soft diffused lighting, gentle color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/waktu-henti-di-ruang-tunggu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A poignant family drama about Maya and her elderly mother, Bu Rahma, in a clinic waiting room after a difficult consultation. The story explores their strained relationship, unspoken words, and unfulfilled promises amidst medical uncertainty. A brief, almost imperceptible touch or glance serves as a silent understanding and a fragile beginning towards reconciliation.",
+    "target_emotion": "melankolis dan harapan rapuh",
+    "reading_time_minutes": 10,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu anak",
+      "janji tak terucap",
+      "ketidakpastian medis",
+      "emosional",
+      "melankolis",
+      "rekonsiliasi",
+      "kisah keluarga",
+      "ruang tunggu klinik",
+      "Maya",
+      "Bu Rahma",
+      "waktu henti",
+      "kata yang tak terucap",
+      "penyesalan",
+      "harapan"
+    ]
+  }
+}
