@@ -1,0 +1,46 @@
+{
+  "id": "story-1778095004159",
+  "slug": "jejak-terlupa-di-ruang-dokumen",
+  "title": "Jejak Terlupa di Ruang Dokumen",
+  "genre": "adventure ringan",
+  "theme": "Menjelajahi sudut kota yang terlupakan dan menemukan cerita tersembunyi yang mengubah pandangan tentang sejarah lokal.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-05-06T19:16:44.159Z",
+  "updated_at": "2026-05-06T19:16:44.159Z",
+  "status": "published",
+  "tags": [
+    "petualangan",
+    "misteri",
+    "sejarah",
+    "arsip",
+    "penemuan",
+    "penulis",
+    "kisah terlupakan",
+    "fiksi",
+    "urban exploration"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph capturing the tranquil atmosphere of an ancient city archive. Rows upon rows of vintage tomes, their spines illuminated by soft, golden light streaming from tall, arched windows. Shallow depth of field, focusing on a specific section of weathered books, implying untold stories waiting to be discovered. Serene composition, focusing on the quietude of the space. No people visible, just the environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-terlupa-di-ruang-dokumen/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang penulis lepas bernama Maya mencari inspirasi di arsip kota tua. Ia menemukan sebuah laci tersembunyi berisi surat dan foto kuno yang mengungkap misteri lokal tentang tokoh penting yang sejarahnya sengaja dihapus. Penemuan ini menantang narasi resmi dan menginspirasi Maya untuk menulis cerita fiksi yang memberi suara pada kisah terlupakan tersebut.",
+    "target_emotion": "Curiosity, Intrigue, Reflection",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "arsip kota",
+      "kisah terlupakan",
+      "misteri sejarah",
+      "penulis lepas",
+      "inspirasi menulis",
+      "petualangan personal",
+      "tokoh sejarah",
+      "rahasia kota",
+      "fiksi sejarah",
+      "penemuan"
+    ]
+  }
+}
