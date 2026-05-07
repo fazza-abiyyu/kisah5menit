@@ -1,0 +1,53 @@
+{
+  "id": "story-1778181765368",
+  "slug": "refleksi-di-balik-dinding-kaca",
+  "title": "Refleksi di Balik Dinding Kaca",
+  "genre": "psychological",
+  "theme": "Menjelajahi ruang-ruang sepi di antara kesibukan kota, seseorang menemukan ketenangan dalam refleksi diri akan pilihan hidup dan makna kehadiran.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-05-07T19:22:45.367Z",
+  "updated_at": "2026-05-07T19:22:45.367Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "reflection",
+    "self-discovery",
+    "urban life",
+    "minimalism",
+    "introspective",
+    "short story",
+    "existential",
+    "peace",
+    "acceptance",
+    "Indonesian literature"
+  ],
+  "cover": {
+    "prompt": "A serene, minimalist apartment lobby, 'The Solstice,' bathed in the soft, warm light of late afternoon. Floor-to-ceiling glass walls prominently reflect a luminous city skyline. A cool gray marble floor extends towards a single, inviting mustard modular sofa, positioned with elegant simplicity. A subtle, distant silhouette of a person stands contemplatively, observing the city. Cinematic composition with a focus on reflections and architectural elegance, gentle illumination, rule of thirds.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, minimalist composition, gentle illumination",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/refleksi-di-balik-dinding-kaca/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young freelancer, Arya, finds solace observing his minimalist apartment lobby, contrasting his aimless routine with the purposeful lives of others. When a lift malfunction traps him alone, he's forced to confront his reflection and deep-seated questions about life's meaning and happiness. This moment of forced introspection leads to a calmer perspective, accepting the journey and finding peace in self-acceptance and observing life's small details, rather than chasing ambiguous end goals.",
+    "target_emotion": "serenity, introspective peace, self-acceptance",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Refleksi Diri",
+      "Ketenangan Batin",
+      "Pekerja Lepas",
+      "Hidup Urban",
+      "Makna Hidup",
+      "Psikologis",
+      "Cerpen",
+      "The Solstice",
+      "Penerimaan Diri",
+      "Jeda Kota",
+      "Observasi",
+      "Kaca Lobi",
+      "Ketidakpastian",
+      "Kedamaian",
+      "Introspeksi"
+    ]
+  }
+}
