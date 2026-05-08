@@ -1,0 +1,45 @@
+{
+  "id": "story-1778266877627",
+  "slug": "sapaan-di-lintasan-penyeberang",
+  "title": "Sapaan di Lintasan Penyeberang",
+  "genre": "slice of life",
+  "theme": "Menemukan kehangatan dan koneksi tak terduga dalam interaksi singkat sehari-hari di tengah hiruk pikuk kota yang sibuk.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-05-08T19:01:17.627Z",
+  "updated_at": "2026-05-08T19:01:17.627Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "koneksi manusia",
+    "kebaikan kecil",
+    "optimisme",
+    "jakarta",
+    "interaksi sosial",
+    "rutinitas kota",
+    "pagi hari",
+    "inspirasi"
+  ],
+  "cover": {
+    "prompt": "A wide, cinematic shot of a bustling Southeast Asian city street at dawn. Towering modern buildings line the expansive avenue, their upper floors catching the soft, warm light of the rising sun. A single, small human silhouette is visible in the distance, walking along a broad pathway, emphasizing their individual journey within the immense urban flow. The atmosphere is filled with the gentle hum of morning activity and a feeling of impending expectations. Focus on environmental details, architectural grandeur, and the interplay of soft, natural light.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sapaan-di-lintasan-penyeberang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, seorang pekerja lepas, memulai pagi yang berat di jembatan penyeberangan. Biasanya ia mengisolasi diri, namun hari ini ia memperhatikan detail kecil dan berinteraksi singkat, seperti sapaan ramah dari petugas kebersihan dan membantu seorang ibu. Interaksi ini memberinya energi positif dan ia tiba di tujuan dengan perasaan ringan, menyadari kebaikan dan koneksi dapat ditemukan di mana saja.",
+    "target_emotion": "kehangatan, optimisme, koneksi, ketenangan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "Jakarta",
+      "interaksi sosial",
+      "kebaikan sehari-hari",
+      "koneksi antarmanusia",
+      "slice of life",
+      "inspirasi pagi",
+      "perubahan perspektif",
+      "rutinitas kota"
+    ]
+  }
+}
