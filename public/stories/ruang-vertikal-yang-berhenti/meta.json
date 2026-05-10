@@ -1,0 +1,49 @@
+{
+  "id": "story-1778438546037",
+  "slug": "ruang-vertikal-yang-berhenti",
+  "title": "Ruang Vertikal yang Berhenti",
+  "genre": "romance subtle",
+  "theme": "Eksplorasi bagaimana ketegangan ringan dan kejadian tak terduga dalam rutinitas sehari-hari dapat membuka pintu bagi koneksi manusia yang paling subtil.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-05-10T18:42:26.037Z",
+  "updated_at": "2026-05-10T18:42:26.037Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "urban fiction",
+    "slice of life",
+    "introvert",
+    "unexpected encounter",
+    "elevator",
+    "first meeting",
+    "connection",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "Old, compact elevator interior within an apartment building. Warm, gentle ambient lighting casting soft reflections on aged metal and wood textures. Shallow depth of field emphasizes the quiet, everyday transit space. Composition uses rule of thirds. A prominent, thick book is visible, perhaps on a floor or a subtle shelf, suggesting an intriguing presence without direct human depiction. A subtle, peaceful atmosphere, capturing the rhythm of daily life. Golden hour light subtly brightens the space, creating a serene and contemplative mood.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ruang-vertikal-yang-berhenti/cover.png"
+  },
+  "meta": {
+    "plan_summary": "An introverted graphic designer, Elara, frequently shares silent elevator rides with a mysterious book-reading neighbor, Ryan. One late night, the elevator unexpectedly stops between floors, forcing their first awkward interaction. The shared tension and eventual relief lead to a brief, meaningful exchange that breaks the ice, sparking curiosity and anticipation for their next encounter.",
+    "target_emotion": "Curiosity and hope for future connection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "romance",
+      "short story",
+      "elevator",
+      "first encounter",
+      "introvert",
+      "urban life",
+      "subtle connection",
+      "jakarta story",
+      "slice of life",
+      "mystery",
+      "awkward meeting",
+      "new beginnings"
+    ]
+  }
+}
