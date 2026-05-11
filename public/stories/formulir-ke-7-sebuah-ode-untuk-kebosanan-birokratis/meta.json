@@ -1,0 +1,44 @@
+{
+  "id": "story-1778527427288",
+  "slug": "formulir-ke-7-sebuah-ode-untuk-kebosanan-birokratis",
+  "title": "Formulir ke-7: Sebuah Ode untuk Kebosanan Birokratis",
+  "genre": "dark comedy",
+  "theme": "Sebuah eksplorasi psikologi sehari-hari tentang bagaimana seorang birokrat yang sinis menemukan cara absurd untuk mengatasi rasa bosan dan frustrasi dalam rutinitas kerja yang tidak masuk akal.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-05-11T19:23:47.287Z",
+  "updated_at": "2026-05-11T19:23:47.287Z",
+  "status": "published",
+  "tags": [
+    "birokrasi",
+    "humor gelap",
+    "satire",
+    "pegawai negeri",
+    "rutinitas kantor",
+    "psikologi",
+    "absurditas",
+    "Formulir ke-7",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "A wide-angle, cinematic photograph of an expansive, ordered office floor. Rows of identical office cubicles recede into the distance, conveying the scale of a vast, intricate bureaucratic system. In the immediate foreground, a single desk is prominent, completely inundated with towering, meticulously stacked paper documents and folders. A vintage computer monitor on this desk emits a gentle, steady glow, indicating an extended boot-up process. A subtle human silhouette, partially obscured by the paper mounds, is positioned behind the desk, symbolizing an individual within the immense system. Composition follows the rule of thirds, with a shallow depth of field drawing focus to the foreground desk. The lighting is soft, even, and ambient, typical of an institutional setting. The overall atmosphere emphasizes routine, precision, and the overwhelming nature of administrative work.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/formulir-ke-7-sebuah-ode-untuk-kebosanan-birokratis/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah Ari, seorang birokrat sinis yang melawan kebosanan rutinitas kantor dengan narasi absurd, diuji oleh 'Formulir ke-7 V2.0' yang lebih rumit. Ia membantu seorang klien mengisi formulir itu dengan jawaban kocak dan absurd, menemukan kemenangan kecil dalam menari di atas logika sistem.",
+    "target_emotion": "Amused cynicism, relatable frustration, dark humor.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen birokrasi",
+      "humor sinis",
+      "kritik sosial",
+      "Formulir ke-7",
+      "kebosanan kerja",
+      "cerita kantor",
+      "psikologi pegawai",
+      "administrasi publik"
+    ]
+  }
+}
