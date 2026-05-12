@@ -1,0 +1,47 @@
+{
+  "id": "story-1778613947062",
+  "slug": "ruang-lift-penuh-bisikan",
+  "title": "Ruang Lift Penuh Bisikan",
+  "genre": "thriller ringan",
+  "theme": "Menemukan keberanian dan ketenangan dalam menghadapi keanehan kecil yang mengusik rutinitas, mengajarkan adaptasi dan penerimaan terhadap hal-hal yang tidak selalu bisa dijelaskan secara logis.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-05-12T19:25:47.062Z",
+  "updated_at": "2026-05-12T19:25:47.062Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "misteri urban",
+    "penerimaan diri",
+    "keanehan",
+    "lift",
+    "apartemen",
+    "introspektif",
+    "maya",
+    "optimisme",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "A view of polished elevator doors softly parting, revealing a serene, illuminated space within an urban apartment building interior. The scene evokes a feeling of peaceful transition and anticipated calm after a demanding day. A solitary silhouette is poised to enter the tranquil opening. Cinematic composition with environmental elements and gentle lighting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ruang-lift-penuh-bisikan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda, Maya, lelah pulang kerja, mengalami serangkaian kejadian aneh dan tidak dapat dijelaskan di lift apartemennya, mulai dari berhenti di lantai kosong hingga suara musik klasik misterius dan bayangan samar. Keanehan ini memuncak saat lift berhenti di lantai teratas yang tidak aktif, memperlihatkan sosok transparan wanita tua. Akhirnya, Maya memutuskan untuk menerima keanehan tersebut sebagai bagian dari 'jiwa' apartemen, menemukan ketenangan dan humor dalam misteri urban itu, dan melanjutkan hidup dengan penerimaan optimis.",
+    "target_emotion": "Serene acceptance",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "misteri ringan",
+      "thriller psikologis",
+      "apartemen tua",
+      "fenomena aneh",
+      "penerimaan",
+      "maya",
+      "lift berhantu",
+      "misteri urban",
+      "kisah inspiratif"
+    ]
+  }
+}
