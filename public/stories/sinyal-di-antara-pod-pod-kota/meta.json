@@ -1,0 +1,45 @@
+{
+  "id": "story-1778700461465",
+  "slug": "sinyal-di-antara-pod-pod-kota",
+  "title": "Sinyal di Antara Pod-Pod Kota",
+  "genre": "sci-fi ringan",
+  "theme": "Bagaimana seorang individu menemukan koneksi dan makna diri di tengah efisiensi kota pintar yang kadang terasa impersonal, merenungkan pentingnya sentuhan manusia.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-05-13T19:27:41.465Z",
+  "updated_at": "2026-05-13T19:27:41.465Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "introspektif",
+    "kota pintar",
+    "koneksi manusia",
+    "futuristik",
+    "psikologis",
+    "bahasa indonesia",
+    "short story"
+  ],
+  "cover": {
+    "prompt": "A tranquil, futuristic cityscape at dawn, rendered with minimalist composition. Sleek, high-tech buildings with clean lines and strong architectural forms. Elevated sky-paths crisscross between structures. A solitary, automated transport capsule, depicted as a clear silhouette, glides along a path. Gentle, soft morning light bathes the scene, creating subtle reflections on polished surfaces and emphasizing the sophisticated, functional infrastructure. Focus on the quiet journey, the atmosphere of routine, and the elegant interplay of technology and environment.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sinyal-di-antara-pod-pod-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer bernama Anya merasa terasing di kota futuristik yang efisien. Ia mencari koneksi otentik dan menemukannya melalui interupsi kecil dan tatapan seorang anak selama micro-glitch kapsul, mengubah persepsinya tentang kemanusiaan di kota modern.",
+    "target_emotion": "hope, contemplation, warmth, connection",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kota pintar",
+      "sci-fi indonesia",
+      "koneksi manusia",
+      "isolasi perkotaan",
+      "teknologi futuristik",
+      "kisah inspiratif",
+      "pengalaman batin",
+      "cerita pendek",
+      "makna hidup",
+      "introspeksi"
+    ]
+  }
+}
