@@ -1,0 +1,58 @@
+{
+  "id": "story-1778786805698",
+  "slug": "sisa-pesan-di-meja-lobby",
+  "title": "Sisa Pesan di Meja Lobby",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi misteri kecil dari sebuah barang yang tertinggal di lobi apartemen bisa menjadi cara seorang individu menemukan kedamaian dan refleksi diri di tengah rutinitas.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-05-14T19:26:45.697Z",
+  "updated_at": "2026-05-14T19:26:45.697Z",
+  "status": "published",
+  "tags": [
+    "misteri ringan",
+    "apartemen",
+    "introspeksi",
+    "rutinitas",
+    "refleksi diri",
+    "kedamaian",
+    "melankolis",
+    "kartu pos",
+    "objek terlupakan",
+    "penemuan",
+    "jakarta",
+    "perjalanan pribadi",
+    "makna hidup",
+    "observasi",
+    "kehidupan sehari-hari"
+  ],
+  "cover": {
+    "prompt": "An interior view of a quiet apartment lobby, featuring deep-toned velvet sofas arranged for comfort. Soft, natural light from large windows creates a serene ambiance. Through the windows, a gently blurred urban streetscape during golden hour is visible, hinting at the city's gentle movement beyond a peaceful interior. A steaming cup of deeply hued coffee rests on a small, polished table. The overall mood is calm routine and moments of quiet reflection. Rule of thirds, environmental focus.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sisa-pesan-di-meja-lobby/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang penghuni apartemen yang pendiam menemukan kartu pos tua yang ambigu di meja lobi. Rasa ingin tahu yang lembut memicu perjalanan introspeksi, di mana ia mengamati orang-orang sekitar dan berinteraksi singkat dengan petugas keamanan. Dengan menyusun petunjuk-petunjuk kecil, ia menemukan interpretasi pribadi dari pesan kartu pos tersebut, membawa refleksi diri dan kedamaian akan misteri-misteri kecil dalam hidup.",
+    "target_emotion": "Introspeksi yang menenangkan, refleksi damai, rasa ingin tahu yang lembut, kedamaian dalam observasi",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Sisa Pesan di Meja Lobby",
+      "mystery ringan",
+      "melankolis lembut",
+      "refleksi diri",
+      "kedamaian",
+      "rutinitas",
+      "apartemen",
+      "kartu pos",
+      "objek terlupakan",
+      "introspeksi",
+      "cerita pendek",
+      "perjalanan batin",
+      "makna hidup",
+      "observasi sehari-hari",
+      "keindahan misteri",
+      "Jakarta"
+    ]
+  }
+}
