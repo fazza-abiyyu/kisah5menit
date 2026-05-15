@@ -1,0 +1,46 @@
+{
+  "id": "story-1778872460212",
+  "slug": "peninggalan-di-sudut-kuno",
+  "title": "Peninggalan di Sudut Kuno",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi rahasia keluarga yang tersembunyi di balik artefak lama, mendorong introspeksi tentang ikatan dan pengampunan.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-05-15T19:14:20.212Z",
+  "updated_at": "2026-05-15T19:14:20.212Z",
+  "status": "published",
+  "tags": [
+    "keluarga",
+    "rahasia",
+    "museum",
+    "artefak",
+    "sejarah",
+    "pusaka",
+    "rekonsiliasi",
+    "indonesia",
+    "drama",
+    "pengampunan"
+  ],
+  "cover": {
+    "prompt": "Interior of an Ethnographic Museum in Jakarta. A warm, inviting atmosphere, rich with history and the gentle scent of aged wood. Focus on ancient wooden artifacts and weathered architectural elements, meticulously displayed within exhibit halls. Intricate carvings and structural details from traditional Indonesian architecture are highlighted, hinting at their adaptation into modern forms. Soft, diffused natural light streams from high windows, creating gentle illumination on the exhibits and illuminating dust motes in the air. Cinematic composition with a rule of thirds, inviting depth of field, emphasizing the texture and patina of the historical objects. Warm color grading with sepia tones, evoking a sense of research and inspiration.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/peninggalan-di-sudut-kuno/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang mahasiswa arsitektur bernama Risa menemukan sebuah kotak berukir tua di museum yang mengungkap rahasia keluarga tentang artefak keris pusaka Kyai Tirta Kencana dan konflik antar saudara yang tersembunyi puluhan tahun, memaksa neneknya menghadapi pengkhianatan masa lalu, yang akhirnya mengarah pada proses penyembuhan luka dan penguatan ikatan keluarga.",
+    "target_emotion": "Refleksi, empati, dan harapan untuk rekonsiliasi.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "rahasia keluarga",
+      "museum etnografi",
+      "keris pusaka",
+      "sejarah keluarga",
+      "konflik saudara",
+      "rekonsiliasi keluarga",
+      "drama indonesia",
+      "artefak kuno",
+      "peninggalan sejarah"
+    ]
+  }
+}
