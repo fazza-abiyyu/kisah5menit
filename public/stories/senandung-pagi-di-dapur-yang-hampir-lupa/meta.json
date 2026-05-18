@@ -1,0 +1,49 @@
+{
+  "id": "story-1779132038482",
+  "slug": "senandung-pagi-di-dapur-yang-hampir-lupa",
+  "title": "Senandung Pagi di Dapur yang Hampir Lupa",
+  "genre": "psychological",
+  "theme": "Sebuah eksplorasi internal tentang bagaimana menemukan ketenangan dan kebahagiaan dalam rutinitas rumah tangga sehari-hari, meskipun menghadapi kecemasan dan pikiran yang berlebihan.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-05-18T19:20:38.481Z",
+  "updated_at": "2026-05-18T19:20:38.481Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "mindfulness",
+    "anxiety relief",
+    "daily routine",
+    "self-discovery",
+    "inner peace",
+    "domestic life",
+    "Indonesian literature",
+    "optimism",
+    "warmth",
+    "personal growth",
+    "kitchen story"
+  ],
+  "cover": {
+    "prompt": "A quiet, uncluttered home office desk bathed in the gentle glow of early morning light, filtering through a window. On the desk, a closed laptop, a neatly arranged stack of project folders, and a subtle planner open to a page with a few highlighted entries. The composition uses the rule of thirds, with the objects slightly off-center, creating a sense of balanced anticipation. The background outside the window is softly blurred, showing the tranquil start of a new day. The overall atmosphere conveys a moment of thoughtful preparation and the weight of upcoming commitments, without any direct representation of individuals.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senandung-pagi-di-dapur-yang-hampir-lupa/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows Risa, a freelance designer, who wakes up with overwhelming anxiety and struggles to focus on daily tasks in her kitchen. A moment of accidental breakage leads to a profound realization about mindfulness and presence. She then transforms her mundane routine into a source of peace and cheerful optimism, learning to find joy in simple, sensory details of her home.",
+    "target_emotion": "Ketenangan, optimisme, kebahagiaan, kesadaran diri",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "story about anxiety",
+      "finding peace daily life",
+      "mindfulness in routine",
+      "psychological story Indonesia",
+      "overcoming daily stress",
+      "freelance life anxiety",
+      "kitchen moments peace",
+      "self awareness journey",
+      "simple joys story",
+      "Indonesian short story"
+    ]
+  }
+}
