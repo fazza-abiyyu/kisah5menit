@@ -1,0 +1,44 @@
+{
+  "id": "story-1779219079819",
+  "slug": "lintasan-pagi-yang-terasa-lain",
+  "title": "Lintasan Pagi yang Terasa Lain",
+  "genre": "slice of life",
+  "theme": "Menemukan makna yang mendalam dalam observasi kecil dan interaksi singkat sehari-hari, mengajarkan empati dan pemahaman atas kecemasan yang tersembunyi di balik rutinitas.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-05-19T19:31:19.819Z",
+  "updated_at": "2026-05-19T19:31:19.819Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "empathy",
+    "daily routine",
+    "urban park",
+    "anxiety",
+    "human connection",
+    "Indonesian story"
+  ],
+  "cover": {
+    "prompt": "Early morning in a city park. Soft, warm sunlight filters through dense, lush tree canopies, illuminating a gently winding jogging pathway that recedes into a soft atmospheric fog. Ancient, strong-rooted trees line the path, and a sturdy, worn park bench is visible in the middle ground. The composition uses the rule of thirds, focusing on the tranquil environment, evoking a sense of familiar routine and peaceful contemplation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lintasan-pagi-yang-terasa-lain/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Dina, a freelancer, notices subtle unsettling changes during her morning jog in the park. Small anomalies, like misplaced sandals and odd behavior from familiar faces, create a 'light tension.' This tension culminates when she finds an elderly woman, Nenek Marni, distraught because her son hasn't arrived. Dina realizes the subtle unease she felt was an unconscious empathy for the old woman's anxiety. She helps Nenek Marni contact her son, fostering an unexpected human connection and gaining a deeper understanding of empathy in daily life.",
+    "target_emotion": "Empathy, subtle unease transitioning to warmth and understanding.",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "freelancer",
+      "morning jog",
+      "city park",
+      "subtle tension",
+      "elderly woman",
+      "anxiety",
+      "empathy",
+      "daily observations",
+      "human connection",
+      "Indonesian story"
+    ]
+  }
+}
