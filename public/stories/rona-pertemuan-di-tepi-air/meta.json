@@ -1,0 +1,45 @@
+{
+  "id": "story-1779307139323",
+  "slug": "rona-pertemuan-di-tepi-air",
+  "title": "Rona Pertemuan di Tepi Air",
+  "genre": "romance subtle",
+  "theme": "Dua individu menemukan koneksi tak terduga di tengah rutinitas mereka, membuka pintu untuk kemungkinan manis yang baru melalui kebaikan kecil.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-05-20T19:58:59.323Z",
+  "updated_at": "2026-05-20T19:58:59.323Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle connection",
+    "everyday life",
+    "optimistic",
+    "slice of life",
+    "urban encounter",
+    "indonesian fiction"
+  ],
+  "cover": {
+    "prompt": "A serene riverside jogging path at early morning, bathed in gentle, cool light. A solitary figure, depicted as a strong silhouette, moves rhythmically on the path, evoking contemplation and focus. In the distance, a softly lit, awakening city skyline provides a subtle backdrop. The composition hints at abstract architectural lines or minimalist design elements subtly integrated into the environment, symbolizing creative thought. Cinematic composition with a focus on the rule of thirds and subtle depth of field.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/rona-pertemuan-di-tepi-air/cover.png"
+  },
+  "meta": {
+    "plan_summary": "An architect engrossed in design nearly collides with an illustrator sketching by the river. Their accidental meeting, triggered by a scattered sketchbook, leads to a brief, warm exchange, revealing a shared appreciation for detail and leaving both with a subtle sense of connection and optimism.",
+    "target_emotion": "warmth, curiosity, subtle optimism, peaceful connection",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "romance",
+      "slice of life",
+      "urban encounter",
+      "architect",
+      "illustrator",
+      "riverside",
+      "morning routine",
+      "subtle connection",
+      "optimistic story",
+      "everyday magic",
+      "indonesian fiction"
+    ]
+  }
+}
