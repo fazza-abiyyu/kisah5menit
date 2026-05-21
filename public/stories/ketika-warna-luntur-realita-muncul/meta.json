@@ -1,0 +1,48 @@
+{
+  "id": "story-1779392442333",
+  "slug": "ketika-warna-luntur-realita-muncul",
+  "title": "Ketika Warna Luntur, Realita Muncul",
+  "genre": "dark comedy",
+  "theme": "Menggali ironi dan absurditas dalam rutinitas sehari-hari melalui sudut pandang sinis seorang individu yang menyaksikan berbagai 'dosa' manusia tercuci.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-05-21T19:40:42.333Z",
+  "updated_at": "2026-05-21T19:40:42.333Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "irony",
+    "absurdity",
+    "laundry",
+    "mystery",
+    "slice of life",
+    "sarcasm",
+    "monologue",
+    "human nature",
+    "daily routine",
+    "indonesian fiction"
+  ],
+  "cover": {
+    "prompt": "Interior shot of a vast commercial laundry, focusing on an array of colossal, polished steel washing machines. Thick, billowy steam rises and drifts, softening the edges of the machinery and diffusing the light. The scene is bathed in a warm, gentle glow, highlighting the repetitive yet powerful nature of the industrial environment. The atmosphere is one of serene daily ritual and industrious cleansing, emphasizing the interaction of vapor and metal.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, atmospheric steam",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ketika-warna-luntur-realita-muncul/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows Pak Hadi, a cynical laundromat attendant, who speculates wildly about the dark stories behind a customer's mysteriously stained clothes, only to find a comically mundane truth, reinforcing his jaded view of everyday absurdity and the superficiality of human 'sins'.",
+    "target_emotion": "cynical amusement",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "laundry story",
+      "cynical humor",
+      "dark comedy",
+      "indonesian short story",
+      "Pak Hadi",
+      "everyday mystery",
+      "human absurdity",
+      "ironic fiction",
+      "slice of life",
+      "jakarta laundry"
+    ]
+  }
+}
