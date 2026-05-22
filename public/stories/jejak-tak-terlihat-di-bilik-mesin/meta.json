@@ -1,0 +1,49 @@
+{
+  "id": "story-1779477684131",
+  "slug": "jejak-tak-terlihat-di-bilik-mesin",
+  "title": "Jejak Tak Terlihat di Bilik Mesin",
+  "genre": "thriller ringan",
+  "theme": "Menyelidiki serangkaian peristiwa kecil yang meresahkan di tempat umum, mendorong refleksi mendalam tentang paranoia dan realitas yang ambigu.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-05-22T19:21:24.131Z",
+  "updated_at": "2026-05-22T19:21:24.131Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "mystery",
+    "psychological",
+    "laundromat",
+    "paranoia",
+    "indonesian fiction",
+    "short story",
+    "introspection",
+    "urban mystery"
+  ],
+  "cover": {
+    "prompt": "Interior of a modern self-service laundromat, clean and well-lit. The primary focus is on a single front-loading washing machine, positioned in a gently tucked-away corner. Gentle, warm lighting bathes this specific machine, setting it apart from its surroundings. A subtle visual peculiarity or distinctive feature around this machine, hinting at an unusual attraction. The rest of the laundromat interior, with other machines and a clean pathway, is slightly out of focus in the background. Cinematic composition, rule of thirds, inviting atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-tak-terlihat-di-bilik-mesin/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelancer named Risa increasingly notices bizarre, fleeting anomalies on her favorite washing machine at a self-service laundry, from altered numbers and strange symbols to a misplaced pebble and a cryptic message. This escalating series of small, unsettling events leads her to question her perception of reality. She conducts an experiment by leaving a hidden mark, which culminates in her witnessing a peculiar, ritualistic interaction between another customer and the machine, deepening the mystery. The story concludes without clear answers, leaving Risa with a profound sense of introspection about the fluid nature of reality and how the mind constructs narratives from ambiguous details.",
+    "target_emotion": "Intrigue, subtle unease, introspection, wonder about reality",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "mystery",
+      "psychological thriller",
+      "short story",
+      "indonesian fiction",
+      "laundromat",
+      "paranoia",
+      "ambiguous reality",
+      "urban mystery",
+      "perception",
+      "introspection",
+      "subtle suspense",
+      "existential dread light",
+      "modern folklore"
+    ]
+  }
+}
