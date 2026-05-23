@@ -1,0 +1,48 @@
+{
+  "id": "story-1779562252025",
+  "slug": "pantulan-kenangan-di-reruntuhan-hijau",
+  "title": "Pantulan Kenangan di Reruntuhan Hijau",
+  "genre": "sci-fi ringan",
+  "theme": "Eksplorasi tentang bagaimana kenangan masa lalu, yang kini tersimpan dalam teknologi usang, membentuk identitas kita di tengah arus perubahan zaman.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-05-23T18:50:52.025Z",
+  "updated_at": "2026-05-23T18:50:52.025Z",
+  "status": "published",
+  "tags": [
+    "sci-fi ringan",
+    "melankolis",
+    "memori",
+    "teknologi usang",
+    "taman terbengkalai",
+    "identitas",
+    "nostalgia",
+    "penerimaan",
+    "fiksi indonesia"
+  ],
+  "cover": {
+    "prompt": "A wide cinematic shot of a forgotten urban park at the end of the rainy season. Aggressive green vines reclaim existing structures and rusted, broken park benches. Remains of an old water fountain stand amidst the overgrowth. Soft, diffused late afternoon light filters through damp air, casting a gentle sheen on the wet ground and natural foliage. A lone figure, seen from behind as a silhouette, stands on a pathway, observing the scene, conveying a sense of quiet reflection and gentle contemplation. Focus on the serene interplay of nature reclaiming structures.",
+    "style": "Cinematic photography, shallow depth of field, muted color grading with cool undertones and earthy accents, atmospheric texture",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pantulan-kenangan-di-reruntuhan-hijau/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Elara, seorang *freelancer data archivist*, menemukan proyektor hologram kuno di taman terbengkalai. Alat itu memproyeksikan fragmen kenangan acak dari masa lalu taman, membangkitkan kerinduan pribadi Elara. Proyektor kemudian menampilkan memori koheren yang familiar, memaksanya merenungkan hubungannya dengan masa lalu. Elara memutuskan untuk menyimpan proyektor sebagai pengingat pembentuk identitasnya, menerima masa lalu tanpa terjebak di dalamnya, dan menghargai masa kini.",
+    "target_emotion": "melankolis, refleksi, penerimaan, kedamaian",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "sci-fi ringan",
+      "melankolis",
+      "kenangan",
+      "masa lalu",
+      "masa kini",
+      "identitas",
+      "taman terbengkalai",
+      "proyektor hologram",
+      "fiksi indonesia",
+      "data archivist",
+      "penerimaan diri"
+    ]
+  }
+}
