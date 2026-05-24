@@ -1,0 +1,47 @@
+{
+  "id": "story-1779649022680",
+  "slug": "anomali-di-pintu-apartemen",
+  "title": "Anomali di Pintu Apartemen",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi bagaimana sebuah observasi kecil dan kebetulan dapat mengungkap rahasia tersembunyi di balik rutinitas sehari-hari di antara penghuni apartemen.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-05-24T18:57:02.680Z",
+  "updated_at": "2026-05-24T18:57:02.680Z",
+  "status": "published",
+  "tags": [
+    "apartemen",
+    "misteri",
+    "observasi",
+    "rutinitas",
+    "rahasia",
+    "kehidupan sehari-hari",
+    "origami",
+    "kreativitas",
+    "interaksi sosial",
+    "inspirasi"
+  ],
+  "cover": {
+    "prompt": "Quiet apartment unit interior on the 7th floor. A modern workspace featuring a laptop on a clean desk, positioned near a large window. Gentle morning light streams into the room, illuminating subtle details and creating a warm, contemplative atmosphere. A sense of calm observation and routine permeates the space. Soft, ambient urban atmosphere is visible through the window, emphasizing the distant environment without detailed human presence. Minimalist composition with a strong focus on light, setting, and everyday objects.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/anomali-di-pintu-apartemen/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang penghuni apartemen yang observatif menemukan anomali kecil berupa origami di pintu tetangganya, memicu rasa penasaran yang mendorongnya melakukan penyelidikan ringan. Dengan mengumpulkan petunjuk dan interaksi, ia mengungkap bahwa origami adalah bagian dari tantangan pribadi tetangga dan amplop diselipkan untuk keponakan, memberikan pemahaman baru tentang kehidupan tersembunyi di balik dinding apartemen.",
+    "target_emotion": "Curiosity, wonder, appreciation for hidden details",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "misteri ringan",
+      "kehidupan apartemen",
+      "observasi",
+      "rahasia tetangga",
+      "inspirasi",
+      "kreativitas",
+      "origami",
+      "Jakarta",
+      "copywriter"
+    ]
+  }
+}
