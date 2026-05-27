@@ -1,0 +1,47 @@
+{
+  "id": "story-1779911726758",
+  "slug": "jembatan-ingatan-yang-terputus",
+  "title": "Jembatan Ingatan yang Terputus",
+  "genre": "drama keluarga",
+  "theme": "Pentingnya membuka kembali komunikasi dan menemukan pemahaman bersama antar generasi, meskipun luka lama masih membayangi hubungan keluarga.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-05-27T19:55:26.758Z",
+  "updated_at": "2026-05-27T19:55:26.758Z",
+  "status": "published",
+  "tags": [
+    "drama",
+    "keluarga",
+    "rekonsiliasi",
+    "komunikasi",
+    "antar-generasi",
+    "Jakarta",
+    "reflektif",
+    "emosional",
+    "pertemuan",
+    "harapan"
+  ],
+  "cover": {
+    "prompt": "A wide cinematic shot from a pedestrian overpass, capturing a bustling city street at early morning after a light drizzle. Dense flow of vehicles below, their red brake lights creating a soft, rhythmic glow. Distant urban architecture gently veiled in a morning mist. A subtle human silhouette stands on the overpass, observing the urban landscape. Rule of thirds composition, soft atmospheric lighting, and a gentle depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jembatan-ingatan-yang-terputus/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Mia, haunted by a long-standing family dispute, unexpectedly encounters her estranged Kakek Budi on a busy pedestrian bridge in Jakarta. After initial hesitation, a dropped book leads to a brief, awkward, but sincere conversation. This encounter, while not resolving all deep-seated issues immediately, becomes a crucial first step towards reconciliation and renewed communication, ending with an invitation for tea that symbolizes hope for healing their relationship.",
+    "target_emotion": "Kelegaan, harapan, nostalgia, refleksi diri.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "kisah rekonsiliasi",
+      "hubungan antar generasi",
+      "cerpen Indonesia",
+      "kisah inspiratif",
+      "Jakarta",
+      "perselisihan keluarga",
+      "memulai kembali komunikasi",
+      "pemahaman keluarga",
+      "jembatan ingatan"
+    ]
+  }
+}
