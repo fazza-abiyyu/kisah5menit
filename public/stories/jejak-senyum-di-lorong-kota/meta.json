@@ -1,0 +1,49 @@
+{
+  "id": "story-1780085032983",
+  "slug": "jejak-senyum-di-lorong-kota",
+  "title": "Jejak Senyum di Lorong Kota",
+  "genre": "adventure ringan",
+  "theme": "Menemukan keajaiban dalam rutinitas sehari-hari melalui penjelajahan tak terduga di sudut-sudut kota yang tersembunyi.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-05-29T20:03:52.983Z",
+  "updated_at": "2026-05-29T20:03:52.983Z",
+  "status": "published",
+  "tags": [
+    "adventure",
+    "city exploration",
+    "daily life",
+    "feel-good",
+    "optimism",
+    "hidden gems",
+    "urban",
+    "short story",
+    "indonesian",
+    "courier",
+    "discovery",
+    "inspiration"
+  ],
+  "cover": {
+    "prompt": "A vibrant, sun-drenched cityscape during midday, showcasing a bustling downtown area with towering skyscrapers and compact street pathways. A delivery scooter or bicycle, carrying a neatly wrapped package, moves through dynamic urban activity. The scene is bathed in bright, warm light, emphasizing the energetic pace of the city. A distant, stylized figure or a clear silhouette of a courier on their vehicle is visible, conveying a sense of optimistic journey against a backdrop of urban movement. The overall mood is positive and full of life, highlighting the daily adventures of city exploration.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-senyum-di-lorong-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cheerful delivery courier, Joni, discovers a hidden 'Jalan Tikus Bahagia' (Happy Rat Alley) while searching for a shortcut in a bustling city. This alley leads him to a magical, time-warped part of the city filled with eccentric shops and vibrant murals, making him feel delightfully lost. Facing a tight delivery deadline, he meets an insightful street artist named Mita who provides a mystical shortcut and a profound philosophy about finding beauty in the journey, revitalizing his spirit. Joni successfully delivers the package on time, returning home inspired and with a newfound appreciation for the hidden adventures within his daily routine.",
+    "target_emotion": "feel-good, inspired, hopeful, joyful",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "urban adventure",
+      "feel good story",
+      "daily inspiration",
+      "hidden city gems",
+      "courier story",
+      "indonesian fiction",
+      "lighthearted read",
+      "mindfulness in routine",
+      "unexpected discoveries",
+      "city exploration"
+    ]
+  }
+}
