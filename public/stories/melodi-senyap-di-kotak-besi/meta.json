@@ -1,0 +1,47 @@
+{
+  "id": "story-1780167330134",
+  "slug": "melodi-senyap-di-kotak-besi",
+  "title": "Melodi Senyap di Kotak Besi",
+  "genre": "psychological",
+  "theme": "Menjelajahi ketegangan internal dan siklus overthinking yang dialami seorang individu saat menghadapi situasi rutin sehari-hari, menyoroti perjuangan menemukan kedamaian batin.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-05-30T18:55:30.134Z",
+  "updated_at": "2026-05-30T18:55:30.134Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "overthinking",
+    "mindfulness",
+    "urban life",
+    "indonesian fiction",
+    "internal conflict",
+    "daily routine",
+    "freelancer",
+    "anxiety",
+    "self-awareness"
+  ],
+  "cover": {
+    "prompt": "An organized, sun-drenched modern studio apartment interior on a high floor, observed from a slightly elevated perspective. Gentle, warm morning light streams through a large window, softly illuminating a minimalist desk setup. The window offers a beautiful, slightly out-of-focus vista of a vast cityscape, suggesting the world outside. On the desk, a smartphone displays a clear notification. Next to the phone, a brown paper package, subtly wrapped, sits prominently, hinting at its awaited arrival. The overall atmosphere conveys quiet productivity and a moment of gentle anticipation, with a focus on light and the juxtaposition of the indoor sanctuary and the distant urban expanse.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/melodi-senyap-di-kotak-besi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rina, seorang freelancer, mengalami overthinking parah selama perjalanan singkat di lift untuk mengambil paket. Setiap detail kecil memicu skenario dramatis dalam pikirannya, hingga sebuah insiden kecil di lift menyadarkannya betapa intensnya pikiran bawah sadarnya. Ini mendorongnya untuk mulai melatih mindfulness demi menemukan kedamaian batin.",
+    "target_emotion": "kecemasan, introspeksi, dan resolusi diri",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "overthinking",
+      "mindfulness",
+      "internal conflict",
+      "urban life",
+      "freelancer",
+      "lift journey",
+      "anxiety",
+      "daily struggle",
+      "psychological fiction",
+      "self-reflection"
+    ]
+  }
+}
