@@ -1,0 +1,47 @@
+{
+  "id": "story-1780253934257",
+  "slug": "pertukaran-singkat-di-lobi",
+  "title": "Pertukaran Singkat di Lobi",
+  "genre": "slice of life",
+  "theme": "Menemukan keindahan dan koneksi manusia yang tak terduga di tengah rutinitas pengiriman barang di perkotaan, menyadari bahwa setiap interaksi kecil bisa membawa makna.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-05-31T18:58:54.257Z",
+  "updated_at": "2026-05-31T18:58:54.257Z",
+  "status": "published",
+  "tags": [
+    "kurir",
+    "jakarta",
+    "apartemen",
+    "slice of life",
+    "koneksi manusia",
+    "kebaikan",
+    "inspirasi",
+    "pekerjaan",
+    "rutinitas",
+    "harapan"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a modern apartment building lobby in Jakarta during a clear morning. A solitary figure, seen in silhouette from the back, enters the frame from the left, carrying a worn backpack. Strong, warm sunlight streams through large windows, creating bright patches on the cool-toned floor and highlighting the urban atmosphere. A subtly busy coffee counter is softly lit in the background, rendered with shallow depth of field. The composition utilizes the rule of thirds, emphasizing the contrast between the cool interior and the vibrant morning light.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pertukaran-singkat-di-lobi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kurir muda, Bima, memulai hari padatnya di lobi apartemen. Ia menghadapi berbagai rintangan rutin yang menjemukan, dari lift yang lambat hingga penghuni yang sulit dihubungi. Puncak cerita terjadi saat ia bertemu Nenek Ayu, seorang penghuni ramah yang memberinya teh dan kue, sembari berbagi cerita tentang bagaimana paket-paket kecil menjadi sumber kebahagiaannya. Bima menyadari makna yang lebih dalam dari pekerjaannya sebagai pembawa harapan dan koneksi, mengubah perspektifnya tentang rutinitasnya yang dulu monoton.",
+    "target_emotion": "Menenangkan, inspiratif, dan menghadirkan rasa hangat melalui koneksi manusia tak terduga.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kurir pengiriman",
+      "kehidupan perkotaan",
+      "kebaikan hati",
+      "koneksi antarmanusia",
+      "kisah inspiratif",
+      "rutinitas kerja",
+      "jakarta",
+      "slice of life",
+      "makna pekerjaan",
+      "optimisme"
+    ]
+  }
+}
