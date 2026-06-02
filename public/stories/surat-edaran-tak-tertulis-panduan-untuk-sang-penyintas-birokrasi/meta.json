@@ -1,0 +1,46 @@
+{
+  "id": "story-1780432346369",
+  "slug": "surat-edaran-tak-tertulis-panduan-untuk-sang-penyintas-birokrasi",
+  "title": "Surat Edaran Tak Tertulis: Panduan untuk Sang Penyintas Birokrasi",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi realitas absurd dan frustrasi saat menavigasi sistem birokrasi, menemukan humor gelap dalam perjuangan hidup sehari-hari.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-06-02T20:32:26.368Z",
+  "updated_at": "2026-06-02T20:32:26.368Z",
+  "status": "published",
+  "tags": [
+    "birokrasi",
+    "dark comedy",
+    "frustrasi",
+    "freelancer",
+    "surat izin",
+    "administrasi publik",
+    "absurditas",
+    "humor sinis",
+    "Indonesia",
+    "layanan publik"
+  ],
+  "cover": {
+    "prompt": "Bright morning light gently illuminates a bustling city street, where a light atmospheric haze softens the distant view. In the foreground, a prominent, sturdy public service building exhibits aged textures and softly peeling paint, suggesting a rich history. Modern, cleaner shop houses are subtly visible in the background, out of sharp focus, creating a visual contrast. The composition should evoke a sense of a busy urban morning and the quiet persistence of the old structure.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/surat-edaran-tak-tertulis-panduan-untuk-sang-penyintas-birokrasi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer muda bernama Risa berjuang melewati labirin birokrasi yang absurd dan petugas layanan publik yang menyebalkan hanya untuk memperpanjang surat izin usaha. Setelah menghadapi berbagai rintangan konyol, ia akhirnya berhasil dengan menyerahkan 'Surat Edaran Tak Tertulis' buatan sendiri, menemukan humor gelap dalam kekacauan sistem.",
+    "target_emotion": "Frustrasi, geli, sinisme, kepasrahan yang kocak.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "birokrasi Indonesia",
+      "komedi gelap",
+      "pengalaman birokrasi",
+      "layanan publik",
+      "kisah frustrasi",
+      "humor sarkastik",
+      "drama sehari-hari",
+      "cerpen",
+      "Risa freelancer"
+    ]
+  }
+}
