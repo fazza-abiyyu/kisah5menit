@@ -1,6 +1,9 @@
 # Kisah 5 Menit
 
 **Short stories, generated in 5 minutes.** An open-source web application that creates and serves bite-sized Indonesian short stories powered by AI.
+![License](https://img.shields.io/badge/license-ISC-blue)
+![Deployments](https://img.shields.io/badge/deployments-300+-green)
+![Cost](https://img.shields.io/badge/runtime_cost-$0-success)
 
 ## Overview
 
