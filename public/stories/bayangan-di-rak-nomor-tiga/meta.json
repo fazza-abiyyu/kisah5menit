@@ -1,0 +1,41 @@
+{
+  "id": "story-1781642075284",
+  "slug": "bayangan-di-rak-nomor-tiga",
+  "title": "Bayangan di Rak Nomor Tiga",
+  "genre": "thriller ringan",
+  "theme": "Menggali detail kecil dalam rutinitas malam yang membosankan untuk mengungkap keanehan tersembunyi yang mengganggu ketenangan dan menimbulkan pertanyaan.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-06-16T20:34:35.284Z",
+  "updated_at": "2026-06-16T20:34:35.284Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "mystery",
+    "minimarket",
+    "supernatural",
+    "night shift",
+    "urban legend",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "Minimalist composition of a 24-hour convenience store interior at late night. Cool-toned artificial lights cast a gentle, ambient glow across a clean service counter and well-arranged product shelves. The scene features soft illumination from display refrigerators, creating a quiet and tranquil urban atmosphere. An indistinct, solitary silhouette can be perceived performing a simple, routine action, blending with the environment. Cinematic photography, shallow depth of field, gentle lighting, focus on architecture and everyday objects.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bayangan-di-rak-nomor-tiga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A convenience store cashier on a monotonous night shift observes strange patterns of items mysteriously relocating themselves on a specific shelf. This escalates when he finds an anomalous object—a small stone cat statue—among the products. Investigating CCTV footage, he sees a fleeting, unidentifiable silhouette, leaving the mystery unsolved but the cashier deeply unsettled and questioning the reality of his lonely night shifts.",
+    "target_emotion": "unease, suspense, curiosity",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "minimarket mystery",
+      "night shift horror",
+      "supernatural convenience store",
+      "object displacement",
+      "creepy cctv footage",
+      "unexplained phenomena",
+      "indonesian thriller"
+    ]
+  }
+}
