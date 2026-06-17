@@ -1,0 +1,46 @@
+{
+  "id": "story-1781726100421",
+  "slug": "senyum-yang-terganti-kode-batang",
+  "title": "Senyum yang Terganti Kode Batang",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi perasaan melankolis saat interaksi manusia dalam rutinitas sehari-hari digantikan oleh efisiensi teknologi, memicu kerinduan akan kehangatan masa lalu.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-06-17T19:55:00.420Z",
+  "updated_at": "2026-06-17T19:55:00.420Z",
+  "status": "published",
+  "tags": [
+    "teknologi",
+    "minimarket",
+    "interaksi manusia",
+    "automasi",
+    "melankoli",
+    "kasir",
+    "lansia",
+    "sci-fi ringan",
+    "budaya"
+  ],
+  "cover": {
+    "prompt": "A spacious, well-lit minimarket interior in the gentle glow of early morning. The scene highlights a row of sleek, modern self-checkout terminals with softly luminous screens, occupying a significant part of the frame. In subtle contrast, an older, traditional cashier counter is prominently visible, completely empty and still. The composition emphasizes the quietude and the lack of bustling human activity, suggesting a serene yet contemplative atmosphere. Focus on the interplay of modern technology and an unused space.",
+    "style": "Minimalist composition, gentle lighting, subtle depth of field",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-yang-terganti-kode-batang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah Bu Siti, kasir paruh waktu di minimarket 'Era Baru', yang merasakan melankoli saat interaksi manusia digantikan oleh mesin SAPO. Ia menemukan kembali makna pekerjaannya dengan proaktif membantu pelanggan, terutama lansia, menjembatani efisiensi teknologi dengan kebutuhan sentuhan manusiawi.",
+    "target_emotion": "melankolis, nostalgia, empati",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "minimarket",
+      "automasi",
+      "kasir",
+      "teknologi",
+      "interaksi manusia",
+      "melankoli",
+      "sci-fi ringan",
+      "Bu Siti",
+      "Nenek Minah",
+      "self-checkout"
+    ]
+  }
+}
