@@ -1,0 +1,51 @@
+{
+  "id": "story-1781896889355",
+  "slug": "jejak-senyap-di-jembatan-layang",
+  "title": "Jejak Senyap di Jembatan Layang",
+  "genre": "mystery ringan",
+  "theme": "Menyelami sebuah kejanggalan kecil yang tersembunyi dalam rutinitas kota, menemukan bahwa setiap sudut memiliki kisahnya sendiri untuk diungkap.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-06-19T19:21:29.355Z",
+  "updated_at": "2026-06-19T19:21:29.355Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "urban",
+    "slice of life",
+    "reflection",
+    "jakarta",
+    "observasi",
+    "harapan",
+    "kehilangan",
+    "kontemplatif",
+    "human interest"
+  ],
+  "cover": {
+    "prompt": "Cinematic wide shot from an overpass bridge above a bustling city street during golden hour. The sky is painted with warm orange and gentle amber hues, reflecting on the distant cityscape. Distant, blurred silhouettes of people traverse the bridge, creating a sense of contemplative movement. The city below forms an intricate, soft mosaic of lights and structures, rendered with a shallow depth of field. The overall atmosphere conveys peaceful observation and quiet wonder. No detailed faces or prominent individuals.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-senyap-di-jembatan-layang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang pekerja lepas bernama Arya sering melamun di jembatan layang dan mengamati kebiasaan aneh seorang wanita paruh baya yang selalu berhenti sejenak di pilar ketiga. Rasa ingin tahunya membawa Arya pada penemuan sederhana namun menyentuh: wanita itu ternyata memperhatikan sebuah tunas kecil dan jejak kaki anjing di dasar pilar, melakukan gestur penuh kasih sebagai penghormatan pada kenangan dan kehidupan yang gigih.",
+    "target_emotion": "Contemplation, wonder, subtle melancholy, warmth, empathy, introspection.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "urban mystery",
+      "jakarta story",
+      "slice of life",
+      "observational fiction",
+      "indonesian literature",
+      "daily routine",
+      "hidden stories",
+      "contemplative writing",
+      "city life",
+      "small wonders",
+      "hope",
+      "memory",
+      "short story",
+      "reflection"
+    ]
+  }
+}
