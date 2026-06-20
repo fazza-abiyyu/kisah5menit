@@ -1,0 +1,44 @@
+{
+  "id": "story-1781982321670",
+  "slug": "percakapan-di-meja-dapur",
+  "title": "Percakapan di Meja Dapur",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi dinamika kompleks antara seorang ibu tunggal dan anak dewasanya, belajar memahami serta menerima perbedaan dalam kehidupan sehari-hari.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-06-20T19:05:21.670Z",
+  "updated_at": "2026-06-20T19:05:21.670Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "kehidupan sehari-hari",
+    "komunikasi keluarga",
+    "penerimaan",
+    "apartemen",
+    "meja dapur",
+    "bahasa indonesia"
+  ],
+  "cover": {
+    "prompt": "A tranquil apartment kitchen table bathed in soft, golden morning light. A steaming mug of robust coffee and a piece of golden-brown toast are centrally placed, suggesting a quiet, familiar routine. The scene has a warm, inviting atmosphere, with a gentle glow illuminating the domestic setting. Environmental shot, rule of thirds composition.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/percakapan-di-meja-dapur/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah tentang Ibu Rosa dan anaknya, Dani, yang menghadapi dinamika hubungan di meja dapur. Perbedaan pandangan tentang kerapian dan kemandirian memicu ketegangan ringan yang akhirnya memuncak dalam percakapan jujur. Resolusi cerita berfokus pada penerimaan dan pemahaman baru antara ibu dan anak, menandakan bahwa cinta keluarga tidak selalu sempurna tetapi selalu hangat.",
+    "target_emotion": "Warmth, understanding, and heartfelt connection.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu dan anak",
+      "kehidupan rumah tangga",
+      "komunikasi antar generasi",
+      "penerimaan keluarga",
+      "cerita pendek indonesia",
+      "dinamika keluarga",
+      "resolusi konflik",
+      "kasih sayang keluarga"
+    ]
+  }
+}
