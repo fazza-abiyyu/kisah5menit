@@ -1,0 +1,41 @@
+{
+  "id": "story-1782068982256",
+  "slug": "jejak-retak-di-sudut-kota",
+  "title": "Jejak Retak di Sudut Kota",
+  "genre": "adventure ringan",
+  "theme": "Melalui penjelajahan tak terduga di sudut kota yang terlupakan, seorang individu menemukan keberanian diri dan mengungkap rahasia kecil yang memicu rasa ingin tahu.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-06-21T19:09:42.256Z",
+  "updated_at": "2026-06-21T19:09:42.256Z",
+  "status": "published",
+  "tags": [
+    "urban exploration",
+    "self discovery",
+    "hidden gems",
+    "photography",
+    "community art",
+    "adventure"
+  ],
+  "cover": {
+    "prompt": "A mirrorless camera is subtly positioned in the foreground, gently out of focus. The background reveals an expansive city view during golden hour, featuring numerous tall, modern buildings and active streets. The scene evokes a mood of quiet contemplation and a gentle longing for novel experiences amidst the familiar urban rhythm. Soft, warm light illuminates the entire vista.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-retak-di-sudut-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Maya, a jaded photographer, discovers a mysterious symbol in a neglected city alley. This symbol initiates a light adventure through hidden urban passages, leading her past locked gates and confusing paths, encountering mild anxiety. The journey culminates not in conflict, but in the discovery of a secret community garden or public art installation, revealing a vibrant, creative side of the city. Maya finds new inspiration in capturing this hidden beauty and feels a deeper connection to her city.",
+    "target_emotion": "curiosity, wonder, inspiration, gentle anticipation",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "urban exploration",
+      "hidden city",
+      "photography journey",
+      "mystery adventure",
+      "self discovery",
+      "creative community",
+      "indonesian short story",
+      "city secrets"
+    ]
+  }
+}
