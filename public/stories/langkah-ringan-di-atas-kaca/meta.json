@@ -1,0 +1,44 @@
+{
+  "id": "story-1782243985721",
+  "slug": "langkah-ringan-di-atas-kaca",
+  "title": "Langkah Ringan di Atas Kaca",
+  "genre": "psychological",
+  "theme": "Seorang individu menemukan cara untuk meredakan overthinking dan menemukan ketenangan dalam kesibukan sehari-hari, belajar memaafkan diri dan menerima proses hidup.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-06-23T19:46:25.721Z",
+  "updated_at": "2026-06-23T19:46:25.721Z",
+  "status": "published",
+  "tags": [
+    "overthinking",
+    "mindfulness",
+    "urban life",
+    "self-acceptance",
+    "inner peace",
+    "Jakarta",
+    "psychological",
+    "optimism",
+    "Indonesian literature"
+  ],
+  "cover": {
+    "prompt": "A wide cinematic shot capturing the essence of Jakarta at dusk. Towering skyscrapers are illuminated by the soft, warm glow of the setting sun, gradually transitioning into the gentle twilight. A modern, elegant pedestrian bridge gracefully spans a bustling urban pathway below, connecting prominent office areas with a distant commuter station. The composition utilizes the rule of thirds, highlighting the bridge as a central, intriguing element against the vibrant city backdrop. The scene evokes a contemplative and thoughtful urban atmosphere, with a focus on architectural lines and atmospheric lighting, ensuring no specific faces are visible.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/langkah-ringan-di-atas-kaca/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young professional feels overwhelmed by overthinking while crossing a modern pedestrian bridge in Jakarta. Observing a cheerful cleaner, they realize happiness is a choice independent of problem-solving. This epiphany leads to a commitment to mindfulness and self-acceptance, transforming their heavy steps into lighter ones as they embrace life's uncertainties.",
+    "target_emotion": "serenity and optimism",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "overthinking solutions",
+      "mindfulness urban life",
+      "Jakarta stories",
+      "personal growth",
+      "psychological insights",
+      "finding peace",
+      "self-forgiveness",
+      "acceptance"
+    ]
+  }
+}
