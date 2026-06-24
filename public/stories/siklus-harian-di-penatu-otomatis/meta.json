@@ -1,0 +1,48 @@
+{
+  "id": "story-1782329036725",
+  "slug": "siklus-harian-di-penatu-otomatis",
+  "title": "Siklus Harian di Penatu Otomatis",
+  "genre": "slice of life",
+  "theme": "Menemukan kedamaian dan makna mendalam dalam rutinitas sehari-hari serta menerima perubahan kecil yang tak terelakkan dalam hidup.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-06-24T19:23:56.725Z",
+  "updated_at": "2026-06-24T19:23:56.725Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "introspektif",
+    "rutinitas",
+    "kedamaian",
+    "penerimaan",
+    "freelancer",
+    "penatu",
+    "urban",
+    "mindfulness",
+    "refleksi"
+  ],
+  "cover": {
+    "prompt": "Early morning dawn, the sky displaying soft orange and crimson hues. Golden hour light gently illuminates a modern automatic laundromat with bright walls, situated on an urban street corner. A person, depicted from the back or as a clear silhouette, approaches the laundromat, pulling a large, tall laundry bag that conveys a sense of weight. The atmosphere is quiet and contemplative, with subtle warmth enveloping the cityscape. Focus on environmental details and the interplay of light.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/siklus-harian-di-penatu-otomatis/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, seorang freelancer, tiba di penatu otomatis dengan beban pikiran. Kesunyian dan putaran mesin cuci memaksanya menghadapi kegelisahan tentang masa depannya. Melalui observasi, ia menyadari hidupnya juga melalui siklus kekacauan, pembersihan, dan awal yang baru, menemukan ketenangan dan perspektif mindfulness yang baru.",
+    "target_emotion": "Ketenangan, refleksi, penerimaan",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "siklus hidup",
+      "penatu otomatis",
+      "freelancer",
+      "slice of life",
+      "introspeksi",
+      "kedamaian",
+      "rutinitas",
+      "ketidakpastian",
+      "penerimaan",
+      "mindfulness",
+      "kisah pendek"
+    ]
+  }
+}
