@@ -1,0 +1,45 @@
+{
+  "id": "story-1782416557762",
+  "slug": "salah-sentuh-di-komuter",
+  "title": "Salah Sentuh di Komuter",
+  "genre": "romance subtle",
+  "theme": "Bagaimana sebuah insiden kecil dan interaksi tak terduga dalam rutinitas harian bisa membuka pintu bagi koneksi baru dan menghangatkan hati yang sinis.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-06-25T19:42:37.762Z",
+  "updated_at": "2026-06-25T19:42:37.762Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "komuter",
+    "jakarta",
+    "humor",
+    "slice of life",
+    "e-money",
+    "stasiun",
+    "pertemuan tak terduga"
+  ],
+  "cover": {
+    "prompt": "Early morning scene at a busy urban train station platform. Strong, elongated silhouettes of commuters create a vibrant, dynamic flow. In the very shallow foreground, a steaming coffee mug and a piece of simple toast, gently out of focus. The gentle, natural light of dawn transitions from cool pre-sunrise hues to a soft, warm glow touching the distant city architecture.",
+    "style": "Cinematic photography, minimalist composition, shallow depth of field, strong silhouettes, gentle dawn lighting, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/salah-sentuh-di-komuter/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical young professional endures her crowded morning commute. A sudden push in the train leads to an accidental swap of her e-money card with a stranger's. Realizing the mistake at work, she returns to the station, where she encounters the card's owner, Ardian. A humorous and awkward exchange ensues, leading to a surprising connection and the exchange of contact information, leaving both with a smile and a hint of unexpected warmth.",
+    "target_emotion": "Amusement, warmth, lightheartedness, relief",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kisah komuter",
+      "romansa kereta",
+      "salah sentuh",
+      "pertemuan tak terduga",
+      "kisah cinta lucu",
+      "jakarta life",
+      "e-money exchange",
+      "cerita pendek indonesia",
+      "humor ringan",
+      "hati sinis"
+    ]
+  }
+}
