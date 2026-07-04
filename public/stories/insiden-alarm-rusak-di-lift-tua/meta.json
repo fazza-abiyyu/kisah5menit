@@ -1,0 +1,49 @@
+{
+  "id": "story-1783191026705",
+  "slug": "insiden-alarm-rusak-di-lift-tua",
+  "title": "Insiden Alarm Rusak di Lift Tua",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi penerimaan pahit seorang profesional muda terhadap kekonyolan dan ketidakberdayaan hidup di tengah rutinitas urban yang monoton.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-07-04T18:50:26.705Z",
+  "updated_at": "2026-07-04T18:50:26.705Z",
+  "status": "published",
+  "tags": [
+    "urban life",
+    "dark comedy",
+    "slice of life",
+    "professional life",
+    "elevator malfunction",
+    "absurdity",
+    "frustration",
+    "melancholy",
+    "Jakarta",
+    "existential",
+    "Beethoven"
+  ],
+  "cover": {
+    "prompt": "A crisp morning scene overlooking a vast, modern metropolis, with the rising sun casting a warm, golden glow across sleek high-rise buildings. The composition evokes a sense of immense scale, meticulous planning, and professional ambition. Focus on the sophisticated architectural forms and the vibrant urban energy, with an emphasis on order and control amidst the city's expanse. An abstract, radiant light element emanates from a prominent, central skyscraper, symbolizing a significant urban development or a grand project. The overall mood is one of quiet confidence and impending success.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/insiden-alarm-rusak-di-lift-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A professional named Risa, obsessed with punctuality, gets trapped in her old apartment's broken lift on a crucial presentation day. The lift's alarm blares relentlessly, escalating her frustration, especially with the arrival of other peculiar neighbors. The situation culminates in the alarm unexpectedly changing to a bizarre classical melody, pushing Risa into a cathartic, hysterical laugh. Finally freed, she's late but feels a strange sense of liberation, finding a shared, understanding smile with a fellow passenger amidst the absurd chaos.",
+    "target_emotion": "Frustration, leading to a blend of melancholic resignation, absurd amusement, and eventual catharsis.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "urban professional",
+      "elevator breakdown",
+      "dark comedy story",
+      "daily commute",
+      "career setback",
+      "absurd humor",
+      "Jakarta life",
+      "melancholic reflection",
+      "unexpected events",
+      "stress relief",
+      "shared misfortune"
+    ]
+  }
+}
