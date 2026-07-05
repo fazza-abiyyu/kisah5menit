@@ -1,0 +1,44 @@
+{
+  "id": "story-1783277712484",
+  "slug": "pola-aneh-di-pasar-tua",
+  "title": "Pola Aneh di Pasar Tua",
+  "genre": "thriller ringan",
+  "theme": "Seorang fotografer muda tanpa sengaja menemukan pola aneh di pasar tradisional yang memicu rasa ingin tahunya akan rahasia tersembunyi.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-07-05T18:55:12.484Z",
+  "updated_at": "2026-07-05T18:55:12.484Z",
+  "status": "published",
+  "tags": [
+    "misteri",
+    "pasar tradisional",
+    "fotografi",
+    "thriller ringan",
+    "rahasia",
+    "komunikasi tersembunyi",
+    "urban legend",
+    "kecurigaan"
+  ],
+  "cover": {
+    "prompt": "A wide-angle cinematic environmental shot of a vibrant traditional market. Warm, golden hour sunlight illuminates colorful fruit baskets and abundant piles of fresh green vegetables on bustling stalls. Gentle depth of field emphasizes the rich textures and hues, creating a lively and authentic atmosphere. Soft, dappled light creates an inviting glow, capturing the sensory experience of the marketplace.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-aneh-di-pasar-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang fotografer muda, Anya, menemukan pola aneh dan interaksi kode di pasar tradisional. Rasa ingin tahunya membawanya kembali ke pasar malam hari, di mana ia menyaksikan ritual rahasia para pedagang. Setelah nyaris tertangkap, ia menyadari adanya sistem komunikasi tersembunyi atau perkumpulan rahasia dan memutuskan untuk tidak lagi mengganggu, namun misteri itu mengubah persepsinya.",
+    "target_emotion": "rasa ingin tahu, kecurigaan ringan, ketidaknyamanan, misteri",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerita pendek",
+      "misteri pasar",
+      "fotografer",
+      "rahasia tersembunyi",
+      "thriller ringan",
+      "kisah misterius",
+      "pasar tradisional Indonesia",
+      "komunikasi nonverbal",
+      "konspirasi kecil"
+    ]
+  }
+}
