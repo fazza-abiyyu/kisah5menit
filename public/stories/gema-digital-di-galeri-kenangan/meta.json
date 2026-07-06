@@ -1,0 +1,49 @@
+{
+  "id": "story-1783366065598",
+  "slug": "gema-digital-di-galeri-kenangan",
+  "title": "Gema Digital di Galeri Kenangan",
+  "genre": "sci-fi ringan",
+  "theme": "Melalui interaksi dengan teknologi kuno yang mengungkap resonansi ingatan, seseorang menyadari koneksi mendalam dengan masa lalu kolektif, memicu refleksi tentang identitas dan tempatnya di dunia.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-07-06T19:27:45.597Z",
+  "updated_at": "2026-07-06T19:27:45.597Z",
+  "status": "published",
+  "tags": [
+    "sci-fi ringan",
+    "reflektif",
+    "memori",
+    "koneksi manusia",
+    "seni",
+    "galeri",
+    "waktu",
+    "filosofis",
+    "introspektif",
+    "teknologi kuno"
+  ],
+  "cover": {
+    "prompt": "An inviting, historic building with a beautiful, weathered stone facade and charming, ornate windows. It is situated in a unique city sector, characterized by its winding pathways and a gentle sense of timelessness, far from modern bustling areas. Soft, warm light, perhaps a golden hour glow, bats the scene, highlighting the rich textures and architectural character. Cinematic composition with a shallow depth of field, focusing on the building's intricate details and the peaceful atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gema-digital-di-galeri-kenangan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang seniman independen, Risa, menemukan instalasi kuno di Galeri Kenangan. Sentuhan pertama memicu 'gema' emosi masa lalu. Kembali untuk interaksi lebih dalam, ia merasakan gelombang ingatan kolektif, memberinya perspektif baru tentang seni, waktu, dan koneksi manusia, serta inspirasi untuk karyanya.",
+    "target_emotion": "tenang, reflektif, haru, koneksi mendalam",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "gema digital",
+      "galeri kenangan",
+      "sci-fi ringan",
+      "cerita reflektif",
+      "memori kolektif",
+      "koneksi masa lalu",
+      "identitas",
+      "seniman",
+      "instalasi seni",
+      "waktu",
+      "inspirasi seni",
+      "sci-fi filosofis"
+    ]
+  }
+}
