@@ -1,0 +1,45 @@
+{
+  "id": "story-1783452592298",
+  "slug": "petunjuk-tersenyum-di-ruang-pamer",
+  "title": "Petunjuk Tersenyum di Ruang Pamer",
+  "genre": "mystery ringan",
+  "theme": "Seorang detektif amatir menemukan sebuah objek misterius di museum, yang ternyata menyimpan kisah personal yang hangat dan mengubah pandangan terhadap sejarah yang sunyi.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-07-07T19:29:52.298Z",
+  "updated_at": "2026-07-07T19:29:52.298Z",
+  "status": "published",
+  "tags": [
+    "misteri ringan",
+    "detektif amatir",
+    "museum",
+    "artefak",
+    "kisah personal",
+    "kenangan",
+    "senyum",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A textured, ancient building facade with gentle imperfections, bathed in the soft glow of golden hour. A subtle, intricate symbol or pattern is faintly visible on the weathered surface, suggesting a deeper, unfolding narrative. The composition uses the rule of thirds, focusing on the architectural detail with a shallow depth of field, emphasizing the tactile quality of the stone. An environmental shot evoking contemplation and keen observation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/petunjuk-tersenyum-di-ruang-pamer/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang detektif amatir menemukan patung tersenyum misterius di museum, yang ternyata adalah teka-teki sentimental dari mantan kurator, mengungkap kisah pribadi yang hangat dan menambah nuansa manusiawi pada koleksi sejarah.",
+    "target_emotion": "kehangatan, rasa ingin tahu, kegembiraan, kepuasan",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerita detektif",
+      "misteri ringan",
+      "kisah museum",
+      "artefak",
+      "sejarah",
+      "narasi personal",
+      "penemuan",
+      "inspiratif",
+      "kontemplasi",
+      "cerita hangat"
+    ]
+  }
+}
