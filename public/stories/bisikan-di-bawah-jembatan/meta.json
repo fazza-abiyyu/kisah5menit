@@ -1,0 +1,49 @@
+{
+  "id": "story-1783537269248",
+  "slug": "bisikan-di-bawah-jembatan",
+  "title": "Bisikan di Bawah Jembatan",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi kerentanan ikatan keluarga saat rahasia lama terungkap di tengah keheningan, memaksa mereka menghadapi kenyataan pahit.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-07-08T19:01:09.247Z",
+  "updated_at": "2026-07-08T19:01:09.247Z",
+  "status": "published",
+  "tags": [
+    "drama",
+    "keluarga",
+    "ibu anak",
+    "konflik emosional",
+    "pengorbanan",
+    "penyesalan",
+    "hubungan",
+    "Indonesia",
+    "cerita pendek",
+    "perasaan terpendam"
+  ],
+  "cover": {
+    "prompt": "An elegant, gently arched ancient concrete bridge spanning a tranquil river. Deep green moss adorns its sturdy pillars. Golden afternoon sunlight dances on the calm water's surface, creating breathtaking, shimmering reflections that capture luminous portions of the beautiful twilight sky. Focus on environmental grandeur and a peaceful, serene atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, soft focus",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-di-bawah-jembatan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A mother and daughter's quiet walk by a river turns tense as the daughter's future plans unearth the mother's past sacrifices. Under an old bridge, a raw confession of regret and unspoken dreams creates a moment of fragile honesty, hinting at a path towards deeper understanding.",
+    "target_emotion": "Melancholy, regret, subtle tension, bittersweet hope, understanding",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu anak",
+      "konflik generasi",
+      "pengorbanan ibu",
+      "penyesalan",
+      "kisah menyentuh",
+      "cerita pendek",
+      "perasaan terpendam",
+      "impian terkubur",
+      "sungai ciliwung",
+      "jembatan tua",
+      "pemahaman"
+    ]
+  }
+}
