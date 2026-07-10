@@ -1,0 +1,51 @@
+{
+  "id": "story-1783710736078",
+  "slug": "penjelajahan-jejak-tersembunyi-di-sudut-kota",
+  "title": "Penjelajahan Jejak Tersembunyi di Sudut Kota",
+  "genre": "adventure ringan",
+  "theme": "Menemukan kejutan dan keindahan baru di tengah rutinitas harian melalui penjelajahan tak terduga di sekitar kota, menyadari bahwa hal-hal kecil bisa membawa kebahagiaan besar.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-07-10T19:12:16.078Z",
+  "updated_at": "2026-07-10T19:12:16.078Z",
+  "status": "published",
+  "tags": [
+    "adventure",
+    "urban-exploration",
+    "photography",
+    "inspiration",
+    "community",
+    "hidden-gems",
+    "optimistic",
+    "slice-of-life",
+    "indonesia",
+    "discovery"
+  ],
+  "cover": {
+    "prompt": "A solitary human silhouette stands on an elevated city pathway, gazing out at an expansive urban landscape during the golden hour. The city is comprised of numerous modern high-rise structures, exhibiting uniform architectural lines that create a sense of repetitive patterns stretching into the distance. Gentle, warm light illuminates the scene, enhancing the subtle curves of city routes and the grand scale of the environment. The composition employs a deep depth of field to emphasize the vastness of the city, with the figure subtly placed off-center, conveying a quiet, contemplative atmosphere.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/penjelajahan-jejak-tersembunyi-di-sudut-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Lani, a jaded freelance photographer, discovers a hidden, vibrant community in her city after venturing off her usual path, finding inspiration, unique photo opportunities, and heartwarming stories, changing her perspective on urban exploration and routine.",
+    "target_emotion": "Optimisme, inspirasi, kehangatan, dan kekaguman akan penemuan tak terduga.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "petualangan kota",
+      "inspirasi fotografi",
+      "komunitas tersembunyi",
+      "eksplorasi urban",
+      "cerita optimis",
+      "keindahan tak terduga",
+      "fotografer freelance",
+      "mural",
+      "hidroponik",
+      "kebersamaan",
+      "perubahan perspektif",
+      "rutinitas",
+      "kehidupan kota",
+      "penemuan"
+    ]
+  }
+}
