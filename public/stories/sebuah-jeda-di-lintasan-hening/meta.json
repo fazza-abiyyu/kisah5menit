@@ -1,0 +1,49 @@
+{
+  "id": "story-1783795255603",
+  "slug": "sebuah-jeda-di-lintasan-hening",
+  "title": "Sebuah Jeda di Lintasan Hening",
+  "genre": "psychological",
+  "theme": "Kisah ini mengeksplorasi perjuangan seseorang untuk menemukan ketenangan pikiran dan melepaskan diri dari siklus overthinking di tengah tekanan hidup modern.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-07-11T18:40:55.602Z",
+  "updated_at": "2026-07-11T18:40:55.602Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "mindfulness",
+    "overthinking",
+    "modern-life",
+    "serenity",
+    "botanical-garden",
+    "indonesia",
+    "introspective",
+    "mental-health",
+    "self-discovery",
+    "peace"
+  ],
+  "cover": {
+    "prompt": "A majestic, arching gate frames the entrance to a vibrant botanical garden, overflowing with lush, verdant foliage and winding pathways. Soft, golden hour light filters through the leaves, casting a gentle glow across the scene, evoking a sense of tranquil serenity. A lone figure is visible in the distance, a subtle silhouette at the threshold, implying a momentary pause or a mind deeply engrossed. The composition uses the rule of thirds, with a shallow depth of field to emphasize the garden's serene beauty while hinting at a contemplative mood. The atmosphere is calm and inviting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sebuah-jeda-di-lintasan-hening/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a graphic designer, struggles with incessant overthinking amidst modern life pressures. She seeks tranquility in a vast botanical garden but finds her mind still racing. Lost on a secluded path, a simple observation of a beetle helps her find a profound moment of peace, leading to a realization about self-worth beyond productivity and a commitment to protecting her mental space.",
+    "target_emotion": "serenity, reflection, peace, relief, introspection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "mindfulness",
+      "mental health",
+      "overthinking",
+      "psychological story",
+      "indonesian fiction",
+      "tranquil garden",
+      "self-discovery",
+      "modern stress",
+      "digital detox",
+      "peace of mind",
+      "introspective journey"
+    ]
+  }
+}
