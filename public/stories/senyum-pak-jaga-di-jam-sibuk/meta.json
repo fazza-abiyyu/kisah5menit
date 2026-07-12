@@ -1,0 +1,47 @@
+{
+  "id": "story-1783881852622",
+  "slug": "senyum-pak-jaga-di-jam-sibuk",
+  "title": "Senyum Pak Jaga di Jam Sibuk",
+  "genre": "slice of life",
+  "theme": "Menjelajahi ironi dan komedi terselubung dalam rutinitas sehari-hari, menemukan humor di balik pengamatan sederhana terhadap manusia.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-07-12T18:44:12.622Z",
+  "updated_at": "2026-07-12T18:44:12.622Z",
+  "status": "published",
+  "tags": [
+    "satpam",
+    "rutinitas",
+    "observasi",
+    "humor",
+    "sarkasme",
+    "slice of life",
+    "kehidupan kota",
+    "jakarta",
+    "pinggir sungai"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph capturing the quiet atmosphere of an urban river at late afternoon. Warm, golden sunlight reflects off the slightly murky water, mirroring the elegant silhouettes of towering city buildings. A simple, functional guard post stands by a wide pathway, near a city-made recreational area. A worn plastic chair is centrally placed, with the subtle presence of a uniform on or near it, suggesting routine and stillness. Composition emphasizes depth, with sharp focus on the guard post and river, and a gentle blur on the distant city. Natural light, serene urban landscape, evocative mood.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-pak-jaga-di-jam-sibuk/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical security guard, Pak Jaga, observes the amusing and often absurd habits of people exercising and relaxing by the river during rush hour. His monotonous job is spiced up by the daily 'drama' and unexpected, comical incidents, making his routine less boring through human observation.",
+    "target_emotion": "Amusement, mild cynicism, observational humor, light reflection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen",
+      "kisah sehari-hari",
+      "satpam",
+      "komedi",
+      "sarkasme",
+      "pengamatan",
+      "rutinitas kota",
+      "humor sinis",
+      "drama kehidupan",
+      "jakarta",
+      "ciliwung"
+    ]
+  }
+}
