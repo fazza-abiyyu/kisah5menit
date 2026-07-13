@@ -1,0 +1,47 @@
+{
+  "id": "story-1783969697648",
+  "slug": "satu-kursi-kosong",
+  "title": "Satu Kursi Kosong",
+  "genre": "romance subtle",
+  "theme": "Menjelajahi keindahan sebuah koneksi tak terduga yang tumbuh dari observasi diam dan harapan tersembunyi di tengah rutinitas harian.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-07-13T19:08:17.648Z",
+  "updated_at": "2026-07-13T19:08:17.648Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "slice of life",
+    "bus",
+    "routine",
+    "observation",
+    "unspoken connection",
+    "melancholy",
+    "indonesian fiction",
+    "quiet moments"
+  ],
+  "cover": {
+    "prompt": "A vintage city bus, with faded blue seats visible through its windows, idles at a bus stop bathed in late afternoon golden light. A cozy cafe stands across the pathway, its exterior warmed by the soft glow. The scene captures a sense of established routine and quiet comfort, subtly infused with an atmosphere of gentle intrigue. Environmental composition, focus on the bus and its surroundings, no detailed faces or close-up human features.",
+    "style": "Lo-fi aesthetic, vintage film grain, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/satu-kursi-kosong/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance worker routinely observes a silent passenger on a city bus, developing an unspoken connection through quiet observation, culminating in a brief, heartwarming interaction.",
+    "target_emotion": "warmth, gentle longing, quiet appreciation, melancholy",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "bus romance",
+      "unspoken connection",
+      "daily routine story",
+      "melancholy story",
+      "indonesian short story",
+      "silent observation",
+      "subtle love story",
+      "urban fiction",
+      "quiet romance",
+      "slice of life"
+    ]
+  }
+}
