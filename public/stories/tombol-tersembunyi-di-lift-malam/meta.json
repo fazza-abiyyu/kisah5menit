@@ -1,0 +1,47 @@
+{
+  "id": "story-1784055506192",
+  "slug": "tombol-tersembunyi-di-lift-malam",
+  "title": "Tombol Tersembunyi di Lift Malam",
+  "genre": "dark comedy",
+  "theme": "Exploring how mundane routines can be disrupted by absurd, unexplained phenomena, leading a cynical individual to confront their perception of reality and finding dark humor in the unsettling.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-07-14T18:58:26.192Z",
+  "updated_at": "2026-07-14T18:58:26.192Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "urban fantasy",
+    "surreal",
+    "office life",
+    "cynicism",
+    "absurdity",
+    "indonesian fiction",
+    "short story",
+    "mystery",
+    "slice of life"
+  ],
+  "cover": {
+    "prompt": "A lone, elongated silhouette stands before polished elevator doors, subtly reflecting a vast, deserted office space late at night. Beyond expansive windows, towering monolithic concrete structures rise against a soft, muted sky, conveying immense scale. The interior features gleaming marble floors extending into the quiet depth of field, illuminated by cool, ambient light. The composition emphasizes solitude and architectural grandeur within the urban setting.",
+    "style": "Minimalist composition, strong silhouettes, cool ambient lighting, cinematic photography",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/tombol-tersembunyi-di-lift-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical office worker trapped in a late-night routine discovers a mysterious button in an old elevator, leading him to a hidden 'floor' that houses an absurd 'Eternal Complaints Office'. There, he encounters bizarre characters dedicated to processing all forms of grievances, prompting him to reflect on his own complaints and find dark humor in life's absurdities before returning to his normal routine with a changed perspective.",
+    "target_emotion": "Amusement, mild bewilderment, dark humor, existential reflection",
+    "reading_time_minutes": 10,
+    "keywords": [
+      "dark comedy story",
+      "indonesian short story",
+      "surreal fiction",
+      "office worker tale",
+      "existential humor",
+      "absurdity of life",
+      "mystery elevator",
+      "complaints office",
+      "jakarta urban fantasy",
+      "mind-bending story"
+    ]
+  }
+}
