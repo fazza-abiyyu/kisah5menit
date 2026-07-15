@@ -1,0 +1,43 @@
+{
+  "id": "story-1784141447947",
+  "slug": "sinyal-di-rak-nomor-tiga",
+  "title": "Sinyal di Rak Nomor Tiga",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi misteri kecil di balik rutinitas sehari-hari seorang pelanggan, Risa menemukan kedamaian dalam pengamatan dan refleksi terhadap kehidupan tersembunyi orang lain.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-07-15T18:50:47.947Z",
+  "updated_at": "2026-07-15T18:50:47.947Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "misteri",
+    "observasi",
+    "minimarket",
+    "rutinitas",
+    "reflektif",
+    "kisah pendek",
+    "kode"
+  ],
+  "cover": {
+    "prompt": "Interior of a 24-hour convenience store at 02:13 AM. A lone customer's presence is indicated by a subtle silhouette near a product display, softly illuminated by the ambient glow of the store's overhead lighting and product displays. The composition emphasizes the quiet vastness of the aisles receding into a gentle blur, employing the rule of thirds. A digital clock, prominently positioned on a wall, clearly displays 02:13. The overall mood is one of quiet routine and thoughtful contemplation, suggesting the gentle passage of time. Focus on environmental details and the interplay of light and subtle forms.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sinyal-di-rak-nomor-tiga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, a 24-hour minimarket cashier, observes an elderly customer with a peculiar routine, noticing a hidden note in his purchases. This leads her to discover a cryptic code, but she eventually realizes it might be a personal message not meant for her, finding peace in observation rather than a dramatic resolution.",
+    "target_emotion": "curiosity, peaceful reflection, subtle intrigue",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "misteri minimarket",
+      "kisah reflektif",
+      "thriller ringan",
+      "observasi",
+      "rutinitas harian",
+      "kode tersembunyi",
+      "fiksi Indonesia"
+    ]
+  }
+}
