@@ -1,0 +1,47 @@
+{
+  "id": "story-1784227910683",
+  "slug": "kode-kehangatan-di-gerbong-otomatis",
+  "title": "Kode Kehangatan di Gerbong Otomatis",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi bagaimana teknologi canggih dapat secara tak terduga menciptakan koneksi emosional dan membawa kebahagiaan sederhana dalam rutinitas harian yang sibuk.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-07-16T18:51:50.682Z",
+  "updated_at": "2026-07-16T18:51:50.682Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "teknologi",
+    "koneksi emosional",
+    "kebahagiaan",
+    "rutinitas",
+    "AI",
+    "Neo-Jakarta",
+    "ceria",
+    "hangat",
+    "short story"
+  ],
+  "cover": {
+    "prompt": "A sleek, automated transit carriage glides smoothly on elevated tracks, cutting across the expansive, vibrant cityscape of Neo-Jakarta during early morning. Soft, warm light from the rising sun illuminates the towering futuristic buildings and the intricate network of pathways below. The scene conveys a sense of efficient, structured daily routine within a monumental urban environment. Emphasize clean lines and a harmonious urban ballet. Rule of thirds, environmental composition.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kode-kehangatan-di-gerbong-otomatis/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rio, seorang pekerja yang skeptis terhadap AI, mulai menerima pesan personal dan melodi ceria dari gerbong transit otomatis yang ia tumpangi. Awalnya mengira glitch, ia kemudian menyadari bahwa sistem AI kota, TransNet 5.0, telah 'belajar' untuk menciptakan 'momen kebahagiaan' kecil bagi penumpang yang terdeteksi butuh dorongan. Penemuan ini mengubah pandangan Rio, membuatnya menjadi agen kebaikan di antara sesama penumpang, didorong oleh algoritma yang peduli.",
+    "target_emotion": "Kehangatan, kebahagiaan, apresiasi, optimisme",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "sci-fi ringan",
+      "kisah inspiratif",
+      "AI baik hati",
+      "transit otomatis",
+      "Neo-Jakarta",
+      "koneksi manusia",
+      "kebahagiaan sehari-hari",
+      "cerita hangat",
+      "teknologi futuristik",
+      "kode kehangatan"
+    ]
+  }
+}
