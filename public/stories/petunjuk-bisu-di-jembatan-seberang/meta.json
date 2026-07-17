@@ -1,0 +1,44 @@
+{
+  "id": "story-1784314110056",
+  "slug": "petunjuk-bisu-di-jembatan-seberang",
+  "title": "Petunjuk Bisu di Jembatan Seberang",
+  "genre": "mystery ringan",
+  "theme": "Menggali rasa penasaran seorang penghuni apartemen terhadap sebuah pola aneh yang muncul di jembatan penyeberangan setiap malam, memicu observasi detektif amatir.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-07-17T18:48:30.056Z",
+  "updated_at": "2026-07-17T18:48:30.056Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "human-interest",
+    "urban-life",
+    "observation",
+    "family-secret",
+    "slice-of-life",
+    "indonesian-story",
+    "retired-life"
+  ],
+  "cover": {
+    "prompt": "Evocative cinematic photography, view from a seventh-floor apartment window overlooking a tranquil city at twilight. Soft city lights twinkle like scattered jewels across the expansive urban landscape. In the distance, a graceful silhouette of a pedestrian bridge connects communities. Serene atmosphere, rule of thirds composition, shallow depth of field, warm ambient glow, environmental shot.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/petunjuk-bisu-di-jembatan-seberang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Roni, seorang pensiunan, mengamati pola aneh pertukaran tas di jembatan penyeberangan setiap malam dari apartemennya. Rasa penasaran membawanya menjadi detektif amatir. Ia memutuskan untuk mengamati lebih dekat dan menemukan bahwa pertukaran itu adalah cara diam-diam seorang ibu dan anak berkomunikasi dan bertukar barang penting, mungkin karena kendala pribadi atau untuk menjaga rahasia kecil mereka. Pak Roni memutuskan untuk menghargai rahasia mereka.",
+    "target_emotion": "Curiosity, then relief and warmth, appreciation for human connection and hidden acts of love.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Misteri jembatan",
+      "Kisah pensiunan",
+      "Observasi kota",
+      "Komunikasi rahasia",
+      "Ikatan keluarga",
+      "Humanis",
+      "Cerita perkotaan",
+      "Rasa penasaran",
+      "Rahasia manis"
+    ]
+  }
+}
