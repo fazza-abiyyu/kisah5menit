@@ -1,0 +1,47 @@
+{
+  "id": "story-1784400112389",
+  "slug": "jeda-di-ruang-tunggu",
+  "title": "Jeda di Ruang Tunggu",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi dinamika hubungan antar generasi melalui momen sederhana, menemukan kehangatan di tengah kesibukan hidup modern.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-07-18T18:41:52.389Z",
+  "updated_at": "2026-07-18T18:41:52.389Z",
+  "status": "published",
+  "tags": [
+    "drama",
+    "keluarga",
+    "antar-generasi",
+    "kehangatan",
+    "urban",
+    "jakarta",
+    "apartemen",
+    "kesibukan",
+    "koneksi-manusia",
+    "slice-of-life"
+  ],
+  "cover": {
+    "prompt": "A spacious, modern apartment lobby at sunrise. Warm, golden hour light spills across a polished granite floor, highlighting leading lines and creating a sense of dynamic energy. In the foreground, the faint, shimmering glint of work shoes on the floor suggests brisk, purposeful steps. A stylish work bag is just visible, carried by an unidentifiable, silhouetted figure moving with a rapid pace towards the exit. In the background, a small, inviting cafe counter emanates soft, gentle steam, hinting at morning aromas. The composition emphasizes movement and the commencement of a busy day, with a shallow depth of field drawing focus to the immediate foreground and the path ahead.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jeda-di-ruang-tunggu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, a busy professional, is forced to wait in her apartment lobby after her online taxi cancels. An unexpected conversation with an elderly resident, Ibu Siti, who remembers Risa from her childhood, breaks through Risa's hurried mindset. This interaction fosters an unlooked-for connection and provides a moment of peace amidst her busy life.",
+    "target_emotion": "optimism, warmth, reflection, serenity",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "drama keluarga",
+      "hubungan antar generasi",
+      "apartemen jakarta",
+      "kisah inspiratif",
+      "urban life",
+      "kesibukan modern",
+      "koneksi manusia",
+      "jeda",
+      "optimis pelan",
+      "jakarta story"
+    ]
+  }
+}
