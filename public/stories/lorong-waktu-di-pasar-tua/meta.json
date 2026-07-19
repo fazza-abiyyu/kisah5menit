@@ -1,0 +1,44 @@
+{
+  "id": "story-1784486708726",
+  "slug": "lorong-waktu-di-pasar-tua",
+  "title": "Lorong Waktu di Pasar Tua",
+  "genre": "adventure ringan",
+  "theme": "Menemukan kembali makna hidup dan arahan diri melalui petualangan kecil menjelajahi sudut kota yang terlupakan, memicu refleksi mendalam tentang tujuan pribadi dan keberanian untuk memulai hal baru.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-07-19T18:45:08.726Z",
+  "updated_at": "2026-07-19T18:45:08.726Z",
+  "status": "published",
+  "tags": [
+    "self-discovery",
+    "traditional market",
+    "introspection",
+    "adventure",
+    "writer's block",
+    "new beginnings",
+    "indonesian fiction",
+    "urban exploration"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography, rule of thirds, shallow depth of field. A minimalist composition of a laptop resting on a clean wooden desk. The laptop screen displays a softly blinking cursor on an empty document, conveying creative stillness. Gentle, natural light streams from an unseen source, creating a warm, contemplative atmosphere with soft highlights. A small stack of unwritten journals or blank pages is placed beside the laptop, suggesting paused progress. The background is a soft blur, emphasizing the central objects and the quiet, expectant mood. The image should evoke a sense of thoughtful pause and the search for new ideas.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lorong-waktu-di-pasar-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young freelance writer, experiencing severe writer's block and a sense of stagnation, embarks on an unexpected adventure to a forgotten traditional market. Initially feeling lost and questioning her life's direction amidst the market's ancient charm, she stumbles upon a hidden old book stall. An insightful conversation with the wise vendor provides her with new perspectives on history, personal journeys, and the courage to embrace uncertainty. This encounter helps her rediscover her creative spark and life's purpose, leading her to write about her profound experience with a deeper understanding of herself and a renewed sense of hope.",
+    "target_emotion": "Calm reflection, introspection, and renewed hope",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "writer's block",
+      "self-discovery",
+      "traditional market",
+      "indonesian story",
+      "inspirational journey",
+      "finding purpose",
+      "calm reflection",
+      "forgotten places",
+      "urban exploration"
+    ]
+  }
+}
