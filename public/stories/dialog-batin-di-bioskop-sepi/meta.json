@@ -1,0 +1,45 @@
+{
+  "id": "story-1784575204334",
+  "slug": "dialog-batin-di-bioskop-sepi",
+  "title": "Dialog Batin di Bioskop Sepi",
+  "genre": "psychological",
+  "theme": "Menggali sudut pandang baru tentang kecemasan pribadi dan tekanan hidup melalui refleksi diri yang sinis namun lucu saat menonton film lama.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-07-20T19:20:04.334Z",
+  "updated_at": "2026-07-20T19:20:04.334Z",
+  "status": "published",
+  "tags": [
+    "monolog internal",
+    "kecemasan",
+    "refleksi diri",
+    "humor sinis",
+    "bioskop tua",
+    "absurditas hidup",
+    "slice of life",
+    "psikologis",
+    "tekanan pekerjaan"
+  ],
+  "cover": {
+    "prompt": "A cinematic shot of a computer monitor displaying abstract, complex data patterns, emitting a soft, tired blue luminescence. The surrounding workspace is gently illuminated by ambient light, creating a serene and thoughtful atmosphere. The composition emphasizes the monitor and subtle objects on the desk, conveying a sense of quiet overwhelm and mental exhaustion. A strong, indistinct silhouette of a person is subtly suggested in the frame, observing the screen. Focus on environmental mood rather than specific features.",
+    "style": "Cinematic photography, shallow depth of field, gentle color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/dialog-batin-di-bioskop-sepi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young professional, overwhelmed by work and social pressures, seeks escape in an old, forgotten cinema. Watching an absurd B-movie alone, his cynical internal monologue projects onto the film's characters, turning the cinema into a dark comedic stage for self-reflection. A ridiculous scene in the film triggers a realization about the absurdity of his own problems, leading to a lighter, more accepting view of his anxieties.",
+    "target_emotion": "Relief, amusement, cynical self-acceptance, introspection",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "dialog batin",
+      "bioskop sepi",
+      "kecemasan kerja",
+      "refleksi humoris",
+      "tekanan hidup",
+      "milennial stress",
+      "komedi sinis",
+      "film kelas B",
+      "pelarian diri"
+    ]
+  }
+}
