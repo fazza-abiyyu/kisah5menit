@@ -1,0 +1,56 @@
+{
+  "id": "story-1784660431758",
+  "slug": "bekas-tinta-di-meja-tua",
+  "title": "Bekas Tinta di Meja Tua",
+  "genre": "slice of life",
+  "theme": "Menjelajahi bagaimana sebuah artefak kecil dari masa lalu dapat memicu gelombang kenangan yang menenangkan, mengingatkan kita pada keindahan momen yang tak terucap dan pembelajaran hidup.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-07-21T19:00:31.758Z",
+  "updated_at": "2026-07-21T19:00:31.758Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "nostalgia",
+    "memory",
+    "melancholy",
+    "old post office",
+    "found object",
+    "reflection",
+    "Indonesian literature",
+    "humanism",
+    "time passing",
+    "unfulfilled dreams",
+    "acceptance"
+  ],
+  "cover": {
+    "prompt": "Interior of a beautifully aged, quiet old post office building. Focus on the rich textures of peeling paint on high walls and well-worn wooden floorboards. Gentle rays of warm, golden hour sunlight stream through tall, arched windows, highlighting dust particles in the still air. An old wooden counter with subtle traces of dried ink and a vintage stamp pad. Stacks of yellowed, vintage letters and parcels, slightly disarrayed but peaceful. The atmosphere is one of profound tranquility and nostalgic reflection, a place where time seems to slow down. Perhaps a distant, non-detailed silhouette of a person, adding a sense of scale without drawing focus, gently tending to a corner of the vast, quiet space. Cinematic composition, emphasizing depth and space, using the rule of thirds. Shallow depth of field, warm color grading.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bekas-tinta-di-meja-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cleaning officer in an old post office discovers a hidden drawer containing old letters and a rusty ink pen. The pen evokes the officer's own childhood memories of unfulfilled hopes, leading to a gentle melancholy. While cleaning it, a faint name or date emerges, making him reflect on the original owner's story. He decides to keep the pen, finding peace in the acceptance of life's cycles and the beauty of finding meaning in overlooked objects.",
+    "target_emotion": "Gentle melancholy, nostalgia, peaceful reflection, bittersweet contemplation.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Bekas Tinta di Meja Tua",
+      "Pak Budi",
+      "Kantor Pos Lama",
+      "slice of life",
+      "kisah reflektif",
+      "kenangan masa lalu",
+      "pena tinta kuno",
+      "cerita pendek Indonesia",
+      "melankolis lembut",
+      "nostalgia",
+      "makna dalam benda kecil",
+      "kehidupan sederhana",
+      "penerimaan",
+      "waktu yang berlalu",
+      "impian tak terpenuhi",
+      "fiksi humanis",
+      "artefak masa lalu"
+    ]
+  }
+}
