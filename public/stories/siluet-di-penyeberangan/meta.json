@@ -1,0 +1,47 @@
+{
+  "id": "story-1784746361092",
+  "slug": "siluet-di-penyeberangan",
+  "title": "Siluet di Penyeberangan",
+  "genre": "romance subtle",
+  "theme": "Menemukan koneksi tak terduga dan menarik dari sebuah pertemuan singkat di tengah rutinitas kota, memicu rasa ingin tahu tentang siapa orang asing itu dan kemungkinan di baliknya.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-07-22T18:52:41.092Z",
+  "updated_at": "2026-07-22T18:52:41.092Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "misteri",
+    "urban",
+    "kota",
+    "rutinitas",
+    "koneksi",
+    "jembatan penyeberangan",
+    "observasi",
+    "harapan",
+    "kisah singkat"
+  ],
+  "cover": {
+    "prompt": "Early morning scene on an elevated pedestrian bridge, connecting a bustling train station with towering city buildings. Gentle, golden hour lighting bathes the urban landscape, creating a serene yet active atmosphere. A steady flow of silhouetted figures traverses the bridge, suggesting a daily ritual. The composition features strong architectural lines, with a soft, expansive sky overhead, conveying the routine journey.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/siluet-di-penyeberangan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan bernama Arya menemukan daya tarik tak terduga pada siluet misterius yang ia lihat setiap pagi di jembatan penyeberangan. Rasa ingin tahu mendorongnya untuk mengamati, hingga suatu hari siluet itu meninggalkan isyarat: sebuah kertas dengan simbol dan pertanyaan 'Lanjut?'. Arya memutuskan untuk merespons, melangkah keluar dari rutinitasnya, penuh harapan akan sebuah koneksi.",
+    "target_emotion": "Curiosity, wonder, subtle longing, hope, quiet anticipation.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "urban romance",
+      "subtle mystery",
+      "city encounter",
+      "daily commute story",
+      "indonesian short story",
+      "routine disruption",
+      "stranger connection",
+      "pedestrian bridge story",
+      "hidden message",
+      "new beginnings"
+    ]
+  }
+}
