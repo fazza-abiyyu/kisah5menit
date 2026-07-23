@@ -1,0 +1,50 @@
+{
+  "id": "story-1784832928984",
+  "slug": "monolog-di-kotak-baja",
+  "title": "Monolog di Kotak Baja",
+  "genre": "dark comedy",
+  "theme": "Seorang profesional muda menemukan kedamaian aneh dan refleksi diri yang sinis saat terjebak dalam lift, meninjau kembali pilihan hidupnya dengan humor gelap.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-07-23T18:55:28.984Z",
+  "updated_at": "2026-07-23T18:55:28.984Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "elevator",
+    "trapped",
+    "introspection",
+    "corporate life",
+    "self-reflection",
+    "modern life",
+    "irony",
+    "personal growth",
+    "humor gelap"
+  ],
+  "cover": {
+    "prompt": "Interior view of a sleek, contemporary elevator cabin. The metallic walls reflect a soft, intermittent glow from a single overhead emergency light. The scene captures a moment of quiet suspension, with the elevator stationary. Focus on the interplay of light and polished surfaces, creating a sense of suspended time. The composition uses depth and perspective to highlight the enclosed space and the subtle illumination.",
+    "style": "Cinematic photography, shallow depth of field, gentle color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/monolog-di-kotak-baja/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young professional, Dani, finds himself unexpectedly trapped in an elevator, forcing a cynical yet humorous self-reflection on his corporate life, priorities, and existence. Through an internal monologue, he confronts the absurdities of his routine, eventually finding a peculiar sense of calm and acceptance amidst the unexpected pause in his busy day.",
+    "target_emotion": "Reflective amusement, ironic contemplation, quiet introspection, thoughtful humor.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "elevator",
+      "trapped",
+      "dark comedy",
+      "corporate life",
+      "introspection",
+      "self-reflection",
+      "modern existence",
+      "irony",
+      "humor",
+      "personal growth",
+      "short story",
+      "indonesian narrative",
+      "urban life"
+    ]
+  }
+}
