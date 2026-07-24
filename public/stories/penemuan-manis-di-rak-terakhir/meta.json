@@ -1,0 +1,44 @@
+{
+  "id": "story-1784920072546",
+  "slug": "penemuan-manis-di-rak-terakhir",
+  "title": "Penemuan Manis di Rak Terakhir",
+  "genre": "thriller ringan",
+  "theme": "Menemukan keanehan kecil di tengah rutinitas malam yang sepi, yang ternyata menyembunyikan cerita tentang tindakan baik yang tak terduga dan menginspirasi.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-07-24T19:07:52.545Z",
+  "updated_at": "2026-07-24T19:07:52.545Z",
+  "status": "published",
+  "tags": [
+    "kebaikan",
+    "minimarket",
+    "misteri ringan",
+    "shift malam",
+    "inspirasi",
+    "kisah humanis",
+    "kode rahasia",
+    "ceria",
+    "optimisme"
+  ],
+  "cover": {
+    "prompt": "Interior shot of a quiet convenience store in the early morning hours. Long rows of neatly stocked shelves recede into the distance, bathed in a gentle, cool-toned ambient light that diffuses softly throughout the space. The cashier counter is subtly visible in the mid-ground, hinting at a moment of stillness and quiet. The overall atmosphere is one of profound tranquility and calm, with a focus on the organized display of products and the subtle interplay of light. Composition utilizing the rule of thirds and a shallow depth of field to emphasize the peaceful environment.",
+    "style": "Cinematic photography, shallow depth of field, gentle cool-toned color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/penemuan-manis-di-rak-terakhir/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kasir minimarket ceria di shift malam menemukan stiker-stiker aneh pada barang-barang di rak belakang. Rasa ingin tahunya membawanya mengungkap bahwa itu adalah sistem kode rahasia seorang pelanggan yang diam-diam membayar atau membantu sesama dengan cara unik, sebuah aksi kebaikan kecil yang tersembunyi. Pengungkapan ini menyentuh hati sang kasir dan memberinya pandangan baru tentang pekerjaannya.",
+    "target_emotion": "haru, hangat, inspirasi, optimisme",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita inspiratif",
+      "kebaikan hati",
+      "misteri minimarket",
+      "kasir shift malam",
+      "kisah menyentuh",
+      "aksi sosial tersembunyi",
+      "semangat positif",
+      "rutinitas menjadi berharga"
+    ]
+  }
+}
