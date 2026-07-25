@@ -1,0 +1,46 @@
+{
+  "id": "story-1785005126303",
+  "slug": "kilauan-asing-di-aliran",
+  "title": "Kilauan Asing di Aliran",
+  "genre": "sci-fi ringan",
+  "theme": "Observasi dan eksplorasi terhadap anomali kecil di lingkungan sehari-hari yang memicu pertanyaan tentang masa depan teknologi dan persepsi kita terhadap realitas.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-07-25T18:45:26.303Z",
+  "updated_at": "2026-07-25T18:45:26.303Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "misteri",
+    "urban",
+    "anomali",
+    "observasi",
+    "teknologi",
+    "realitas",
+    "eksistensial",
+    "fiksi ilmiah ringan"
+  ],
+  "cover": {
+    "prompt": "A peaceful artificial riverside pathway in a vibrant city, bathed in the soft, warm glow of late afternoon golden hour. Rows of mature, verdant trees line the clean pedestrian route, casting gentle patterns of light and shade on the neat ground. The calm river surface gently reflects the serene sky and distant urban structures. A solitary, distant silhouette of a person stands near the water's edge, observing their surroundings with a sense of quiet contemplation and creative inspiration. Cinematic composition, rule of thirds, with shallow depth of field to emphasize the tranquil foreground and soft focus on the background elements, focusing on the interplay of natural light with urban design.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kilauan-asing-di-aliran/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Leo, a freelance graphic designer, finds inspiration by a quiet urban riverside. One evening, he observes strange, precise geometric light patterns moving unnaturally in the water. These lights react subtly to his presence and attempts to record them, fueling his deep curiosity and slight anxiety. Driven by an irresistible urge, Leo tries to touch one of the complex, brightest patterns. As his hand nears, the pattern intensely magnifies and then rapidly darts underwater with a seemingly intelligent, not random, response. Leo is left stunned, realizing he has interacted with something beyond his understanding, leading to a permanent shift in his perception of reality.",
+    "target_emotion": "curiosity, light tension, wonder, existential reflection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "sci-fi Indonesia",
+      "misteri urban",
+      "anomali sungai",
+      "teknologi masa depan",
+      "persepsi realitas",
+      "kisah pendek",
+      "fiksi ilmiah ringan",
+      "observasi kota",
+      "interaksi misterius",
+      "fenomena aneh"
+    ]
+  }
+}
