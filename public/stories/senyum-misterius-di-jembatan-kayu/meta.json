@@ -1,0 +1,51 @@
+{
+  "id": "story-1785091830168",
+  "slug": "senyum-misterius-di-jembatan-kayu",
+  "title": "Senyum Misterius di Jembatan Kayu",
+  "genre": "mystery ringan",
+  "theme": "Menemukan kehangatan dan kebaikan tersembunyi dalam pengamatan kecil sehari-hari yang awalnya terasa misterius, membawa rasa optimisme perlahan.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-07-26T18:50:30.167Z",
+  "updated_at": "2026-07-26T18:50:30.167Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "optimism",
+    "human interest",
+    "community",
+    "kindness",
+    "grief",
+    "remembrance",
+    "daily routine",
+    "pensioner",
+    "river",
+    "art",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A serene morning landscape featuring a weathered, decades-old wooden bridge spanning a calm river. Gentle golden hour light filters through dew-kissed foliage along the riverbank. A lone figure, presented as a silhouette, is calmly walking across the rustic bridge, embodying a sense of peaceful routine. Atmospheric, cinematic composition with a rule of thirds framing, subtle mist rising from the water, and a shallow depth of field focusing on the bridge and the tranquil environment. Hints of distant village life are visible through the trees.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-misterius-di-jembatan-kayu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A retired neighbor, Pak Hermawan, discovers small, mysterious smile symbols carved into stones along his daily walk route by an old wooden bridge. His growing curiosity leads him to investigate, eventually observing a serene woman, Bu Rina, carving a new smile. He later learns these are a heartfelt ritual to honor her late son, transforming the initial mystery into a story of profound love, hidden kindness, and quiet optimism.",
+    "target_emotion": "Warmth and quiet optimism.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "pensiunan",
+      "misteri ringan",
+      "jembatan kayu",
+      "kali cisadane",
+      "senyum di batu",
+      "kisah inspiratif",
+      "kehilangan anak",
+      "ritual harian",
+      "kebaikan tersembunyi",
+      "optimisme",
+      "cerita pendek indonesia"
+    ]
+  }
+}
