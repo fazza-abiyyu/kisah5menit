@@ -1,0 +1,47 @@
+{
+  "id": "story-1785179168985",
+  "slug": "jejak-kaki-di-batuan-kali",
+  "title": "Jejak Kaki di Batuan Kali",
+  "genre": "drama keluarga",
+  "theme": "Melalui refleksi pribadi, seseorang menyadari pentingnya menerima anggota keluarga apa adanya dan menemukan kedamaian dalam melepaskan ekspektasi lama.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-07-27T19:06:08.985Z",
+  "updated_at": "2026-07-27T19:06:08.985Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "refleksi diri",
+    "hubungan ibu anak",
+    "penerimaan",
+    "kedamaian batin",
+    "introspeksi",
+    "penyesalan",
+    "cinta tak bersyarat"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography, shallow depth of field. A serene urban riverside promenade at twilight. The sky is a canvas of merging warm orange and soft purple hues. A solitary figure, seen from behind, stands contemplatively by the river's edge, a graceful silhouette against the vibrant sky and a softly blurred cityscape in the distance. The calm river reflects the gentle, fading light. Modern, minimalist architecture lines the distant horizon. Composition adheres to the rule of thirds, emphasizing the expansive view of the river and sky. Gentle, atmospheric lighting evokes a sense of introspection and quiet solitude. No detailed facial features.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-kaki-di-batuan-kali/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Andra, a young professional, feels an emptiness despite success, reflecting on her complex relationship with her busy mother. Her high expectations lead to disappointment, culminating when her mother is hospitalized due to stress over Andra. By the river, Andra recalls simple, loving moments, realizing her mother's consistent, albeit unconventional, love and her own blindness. She then visits her mother, offering sincere acceptance and apology, finding inner peace by forgiving herself for past demands and embracing unconditional love.",
+    "target_emotion": "Introspection, serenity, empathy, healing, understanding",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "drama keluarga",
+      "hubungan ibu anak",
+      "refleksi diri",
+      "penerimaan orang tua",
+      "kedamaian batin",
+      "penyesalan",
+      "cinta tak bersyarat",
+      "kisah inspiratif",
+      "Andra",
+      "sungai kota",
+      "introspektif",
+      "emotional healing"
+    ]
+  }
+}
