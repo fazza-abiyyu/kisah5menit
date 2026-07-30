@@ -1,0 +1,44 @@
+{
+  "id": "story-1785438340719",
+  "slug": "ekspedisi-trotoar-iseng",
+  "title": "Ekspedisi Trotoar Iseng",
+  "genre": "adventure ringan",
+  "theme": "Seorang individu yang awalnya enggan menemukan kegembiraan tak terduga dalam sebuah eksplorasi iseng di lingkungan sekitar, belajar menghargai hal-hal kecil dan keunikan yang tersembunyi.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-07-30T19:05:40.718Z",
+  "updated_at": "2026-07-30T19:05:40.718Z",
+  "status": "published",
+  "tags": [
+    "urban exploration",
+    "freelancer life",
+    "sarcasm",
+    "slice of life",
+    "adventure ringan",
+    "humoris sinis",
+    "observasi kota",
+    "kejutan tak terduga"
+  ],
+  "cover": {
+    "prompt": "An indoor scene capturing a quiet, unhurried morning. A laptop sits prominently on a wooden desk, its screen showing text related to digital wellness. Beside it, a half-empty coffee cup. A smartphone rests nearby, displaying a clear notification from a delivery service. Soft, warm natural light streams in from an unseen window, creating gentle highlights and a sense of calm. The composition uses the rule of thirds, with a shallow depth of field gently blurring the background, focusing on the everyday objects. The overall atmosphere conveys a gentle procrastination and the quiet start to a day, before an unexpected interruption.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/ekspedisi-trotoar-iseng/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical freelancer is forced into an urban exploration due to a misdirected package and road closure, encountering absurdities that slowly shift his perspective from pure annoyance to a subtle appreciation for the strange details of everyday life, all while maintaining a sarcastic internal monologue.",
+    "target_emotion": "amusement",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "ekspedisi trotoar iseng",
+      "urban adventure",
+      "humor sarkastik",
+      "freelancer story",
+      "observasi kehidupan kota",
+      "petualangan ringan",
+      "sarcastic humor",
+      "slice of life",
+      "unexpected journey"
+    ]
+  }
+}
