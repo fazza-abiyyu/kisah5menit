@@ -1,0 +1,47 @@
+{
+  "id": "story-1785524595432",
+  "slug": "gema-pikiran-di-sudut-kota",
+  "title": "Gema Pikiran di Sudut Kota",
+  "genre": "psychological",
+  "theme": "Sebuah eksplorasi mendalam tentang pergulatan batin seorang profesional muda dengan overthinking kronis, mencari momen ketenangan dan penerimaan diri di tengah hiruk pikuk kehidupan urban.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-07-31T19:03:15.432Z",
+  "updated_at": "2026-07-31T19:03:15.432Z",
+  "status": "published",
+  "tags": [
+    "overthinking",
+    "psikologis",
+    "urban",
+    "introspeksi",
+    "mental health",
+    "kedamaian",
+    "penerimaan diri",
+    "self-discovery"
+  ],
+  "cover": {
+    "prompt": "A tranquil city park bench, nestled discreetly behind lush, vibrant soft pink bougainvillea. Warm golden hour light gently filters through the foliage, creating a peaceful and contemplative atmosphere. Softly blurred in the background, a hint of distant, bustling city life suggests a broader urban environment. The composition employs the rule of thirds, focusing on the bench and the protective floral canopy, evoking a sense of calm introspection amidst gentle urban sounds.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gema-pikiran-di-sudut-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Maya, a young creative professional, is trapped in a cycle of chronic overthinking amidst the city's hustle. While seeking quiet in a hidden park, she finds a profound moment of stillness observing a sparrow at a rain puddle. This brief clarity helps her realize that true peace lies in embracing the present and gently accepting her thoughts, rather than trying to suppress them, inspiring her to seek daily moments of simple presence.",
+    "target_emotion": "reflektif, tenang, pencerahan, harapan, empati",
+    "reading_time_minutes": 6.4,
+    "keywords": [
+      "overthinking",
+      "mental health",
+      "introspeksi",
+      "mindfulness",
+      "urban life",
+      "ketenangan batin",
+      "penerimaan diri",
+      "psychological story",
+      "fiksi Indonesia",
+      "self-discovery",
+      "pergulatan batin",
+      "kehidupan kota"
+    ]
+  }
+}
