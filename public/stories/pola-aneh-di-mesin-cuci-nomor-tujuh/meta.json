@@ -1,0 +1,45 @@
+{
+  "id": "story-1785610075987",
+  "slug": "pola-aneh-di-mesin-cuci-nomor-tujuh",
+  "title": "Pola Aneh di Mesin Cuci Nomor Tujuh",
+  "genre": "slice of life",
+  "theme": "Eksplorasi lembut terhadap keanehan kecil dalam rutinitas sehari-hari, menemukan keindahan dan cerita tersembunyi di tempat-tempat yang paling biasa.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-08-01T18:47:55.987Z",
+  "updated_at": "2026-08-01T18:47:55.987Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "misteri ringan",
+    "rutinitas",
+    "observasi",
+    "laundromat",
+    "keanehan",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Interior view of a quiet, immaculate laundromat on a peaceful Sunday morning. Rows of sleek, modern steel washing machines and dryers line the space, some gently spinning with soft internal light. Diffused, soft morning light filters through large windows, casting a serene glow that blends with the gentle overhead white lighting. The air feels clean and calm. Composition uses the rule of thirds with strong leading lines from the machines, employing a shallow depth of field to create a contemplative, slightly melancholic atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-aneh-di-mesin-cuci-nomor-tujuh/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, seorang desainer grafis muda, menemukan pola aneh dari benda-benda yang selalu tertinggal di mesin cuci nomor tujuh di laundromat langganannya. Rasa penasarannya tergelitik, mendorongnya untuk mengamati dan mencoba mengungkap misteri di balik benda-benda tersebut dan siapa di baliknya. Meskipun ia tidak sepenuhnya memecahkan misteri, Risa menyadari bahwa beberapa keanehan dalam hidup ditakdirkan untuk diamati, bukan dipecahkan, membuat rutinitasnya terasa lebih ajaib dan penuh makna.",
+    "target_emotion": "curiosity, serenity, wonder",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "misteri ringan",
+      "slice of life",
+      "laundromat",
+      "rutinitas",
+      "observasi",
+      "keanehan",
+      "Indonesia",
+      "Risa",
+      "mesin cuci nomor tujuh",
+      "kisah tersembunyi"
+    ]
+  }
+}
