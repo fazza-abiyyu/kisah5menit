@@ -1,0 +1,47 @@
+{
+  "id": "story-1785696496679",
+  "slug": "melodi-pinggir-air",
+  "title": "Melodi Pinggir Air",
+  "genre": "romance subtle",
+  "theme": "Menemukan keindahan dan koneksi tak terduga dalam rutinitas harian serta bagaimana observasi sederhana dapat menumbuhkan sebuah perasaan yang hangat.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-08-02T18:48:16.679Z",
+  "updated_at": "2026-08-02T18:48:16.679Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "slice of life",
+    "photography",
+    "flowers",
+    "urban",
+    "reflection",
+    "morning routine",
+    "serenity",
+    "human connection",
+    "indonesian literature"
+  ],
+  "cover": {
+    "prompt": "Early dawn by a tranquil river, a gentle glow of golden light spreading across the peaceful landscape. Serene environment with soft morning light touching dew-kissed leaves in the foreground. Subtle silhouettes of distant city skyscrapers rise against the brightening sky. A mirrorless camera is positioned thoughtfully in the frame, hinting at a moment of visual meditation. Focus on the quiet atmosphere and the delicate interplay of natural light.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/melodi-pinggir-air/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows Risa, an amateur photographer who finds solace in documenting her city's awakening by the river. Her routine is subtly altered when she observes a serene flower vendor, whose gentle dedication to his craft sparks her quiet curiosity. After months of observing from afar, a rainy morning provides a turning point: Risa spontaneously photographs the vendor, leading to a silent, heartfelt exchange of smiles. Breaking her observer role, Risa buys flowers, signaling the beginning of a new connection and a fresh, hopeful melody in her life.",
+    "target_emotion": "warmth, peaceful reflection, quiet optimism, subtle connection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "indonesian romance",
+      "slice of life story",
+      "photography theme",
+      "flower vendor story",
+      "urban serenity",
+      "morning rituals",
+      "quiet connection",
+      "personal reflection",
+      "new beginnings",
+      "daily routine beauty"
+    ]
+  }
+}
