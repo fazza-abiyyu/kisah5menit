@@ -1,0 +1,45 @@
+{
+  "id": "story-1785784438879",
+  "slug": "surat-keterangan-konyol",
+  "title": "Surat Keterangan Konyol",
+  "genre": "dark comedy",
+  "theme": "Menemukan kearifan yang tak terduga dan hiburan sinis dalam kekacauan birokrasi sehari-hari yang absurd.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-08-03T19:13:58.879Z",
+  "updated_at": "2026-08-03T19:13:58.879Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "birokrasi",
+    "satire",
+    "Indonesia",
+    "humor",
+    "absurd",
+    "slice of life",
+    "kearifan lokal",
+    "social commentary"
+  ],
+  "cover": {
+    "prompt": "A vast, clean-lined government building lobby during early morning. The atmosphere is heavy and quiet, pervaded by a sense of deep resignation. Wide-angle cinematic photography, shallow depth of field, focusing on the polished marble floor with subtle, aged surface lines. In the mid-ground, a solitary, indistinct figure, a security guard, in a subtle silhouette at an entrance post. Gentle, diffused morning light streams from tall windows, casting soft illumination and long, architectural shapes. Rule of thirds composition, emphasizing the expansive yet contained environment. Muted, understated color palette.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/surat-keterangan-konyol/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Budi, a security guard, observes the absurd requests of citizens in a government building, from 'Surat Keterangan Tidak Bisa Tidur Nyenyak' to a 'Surat Keterangan Bahwa Kucing Saya Memang Malas'. He subtly guides a confused elder. A 'Surat Keterangan Konyol' he jokingly suggested gets processed, causing a humorous disruption at the 'Sensus Kebahagiaan Nasional' inauguration. Pak Budi uses his wit to diffuse the chaos, finding unexpected warmth and irony in the bureaucracy.",
+    "target_emotion": "Amused, entertained, reflective",
+    "reading_time_minutes": 10,
+    "keywords": [
+      "Pak Budi",
+      "birokrasi absurd",
+      "surat keterangan konyol",
+      "dark comedy Indonesia",
+      "satire sosial",
+      "kebahagiaan nasional",
+      "humor birokrasi",
+      "kisah satpam",
+      "ironi hidup"
+    ]
+  }
+}
