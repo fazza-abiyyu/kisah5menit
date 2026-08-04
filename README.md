@@ -55,7 +55,7 @@ Each model has **health tracking** with automatic blacklisting — models that f
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/kisah5menit.git
+git clone https://github.com/fazza-abiyyu/kisah5menit.git
 cd kisah5menit
 npm install
 ```
