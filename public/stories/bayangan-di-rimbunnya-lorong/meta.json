@@ -1,0 +1,44 @@
+{
+  "id": "story-1785956928591",
+  "slug": "bayangan-di-rimbunnya-lorong",
+  "title": "Bayangan di Rimbunnya Lorong",
+  "genre": "thriller ringan",
+  "theme": "Menggali ketakutan bawah sadar dan paranoia yang muncul saat rutinitas harian terganggu oleh hal tak terduga di lingkungan yang familiar.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-08-05T19:08:48.591Z",
+  "updated_at": "2026-08-05T19:08:48.591Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "paranoia",
+    "urban mystery",
+    "psikologis",
+    "kecemasan",
+    "rutinitas",
+    "taman kota",
+    "suspense"
+  ],
+  "cover": {
+    "prompt": "Early morning atmosphere on a winding urban park pathway, bordered by lush greenery and the edges of a city forest. A solitary, subtle silhouette moves along the path, capturing a moment of quiet routine. Gentle, cool morning light filters through the foliage, illuminating dew-kissed leaves and the texture of wet earth. Composition employs the rule of thirds, with a thoughtful depth of field guiding the eye along the path into the serene distance.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bayangan-di-rimbunnya-lorong/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda, Rina, menemukan patung burung kayu misterius saat jogging, memicu perasaan diikuti dan paranoia di jalur familiar. Ketegangan memuncak saat ia melihat siluet di tengah kabut, membuatnya mempertanyakan realitas ancaman itu sebelum akhirnya menyadari bahwa kecemasan itu mungkin berasal dari dalam dirinya sendiri dan memutuskan untuk mencari jalur baru demi ketenangan pikiran.",
+    "target_emotion": "Kecemasan, ketegangan, paranoia, sedikit kelegaan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "thriller Indonesia",
+      "cerpen thriller",
+      "paranoia urban",
+      "ketegangan psikologis",
+      "jogging di taman",
+      "misteri ringan",
+      "kecemasan",
+      "rutinitas harian",
+      "ketakutan bawah sadar"
+    ]
+  }
+}

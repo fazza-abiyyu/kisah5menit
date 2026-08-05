@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-03T19:14:28.357Z",
-  "total_stories": 243,
+  "last_updated": "2026-08-05T19:09:09.673Z",
+  "total_stories": 244,
   "genres": {
-    "thriller ringan": 26,
+    "thriller ringan": 27,
     "slice of life": 27,
     "fantasy urban": 6,
     "romance subtle": 27,
@@ -22,12 +22,12 @@
     "humoris sinis": 30,
     "tenang reflektif": 30,
     "ceria hangat": 30,
-    "tegang ringan": 29
+    "tegang ringan": 30
   },
   "settings": {
     "retail": 35,
     "home": 16,
-    "outdoor": 15,
+    "outdoor": 16,
     "urban": 16,
     "other": 95,
     "transportation": 18,
