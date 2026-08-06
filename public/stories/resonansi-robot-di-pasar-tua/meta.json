@@ -1,0 +1,47 @@
+{
+  "id": "story-1786056166920",
+  "slug": "resonansi-robot-di-pasar-tua",
+  "title": "Resonansi Robot di Pasar Tua",
+  "genre": "sci-fi ringan",
+  "theme": "Mengeksplorasi bagaimana adaptasi terhadap teknologi baru, meskipun sederhana, dapat membawa kebahagiaan dan revitalisasi pada tradisi yang berharga, menunjukkan bahwa perubahan tidak selalu mengancam tetapi bisa menjadi berkah.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-08-06T22:42:46.920Z",
+  "updated_at": "2026-08-06T22:42:46.920Z",
+  "status": "published",
+  "tags": [
+    "teknologi",
+    "tradisi",
+    "pasar",
+    "kakek",
+    "IoT",
+    "adaptasi",
+    "kebahagiaan",
+    "revitalisasi",
+    "keluarga",
+    "sci-fi ringan"
+  ],
+  "cover": {
+    "prompt": "A vintage electronics repair shop, 'Masa Lalu Elektronik', nestled in a quiet market pathway. The shop interior is a captivating time capsule, abundant with antique electronic devices: classic rotary phones, iconic Betamax video tapes, and aged Polaroid cameras. Gentle, warm light filters into the space, illuminating dust motes dancing in the air, creating a soft, nostalgic atmosphere. Shallow depth of field focuses on the intricate textures and forms of these beloved relics, evoking a sense of forgotten technology and cherished memories. Environmental shot emphasizing the unique character of the place.",
+    "style": "Lo-fi aesthetic, vintage film grain, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/resonansi-robot-di-pasar-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kakek Maman, pemilik toko elektronik antik di pasar, merasa terpinggirkan oleh modernisasi. Cucunya, Dani, diam-diam memasang perangkat IoT sederhana di tokonya. Kakek Maman awalnya mengira ada roh iseng, namun perlahan menyadari bahwa teknologi itu adalah jembatan yang menghubungkan masa lalu dengan masa depan, membawa kembali kehidupan ke tokonya dan kebahagiaan baginya.",
+    "target_emotion": "Haru, optimisme, kehangatan, kebahagiaan, nostalgia",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "teknologi di pasar tradisional",
+      "IoT untuk toko antik",
+      "kakek dan teknologi",
+      "kisah adaptasi teknologi",
+      "sci-fi ringan indonesia",
+      "revitalisasi pasar",
+      "kebahagiaan dari teknologi",
+      "cerita haru keluarga",
+      "masa lalu dan masa depan",
+      "humor ringan"
+    ]
+  }
+}
