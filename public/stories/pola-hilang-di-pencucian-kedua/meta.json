@@ -1,0 +1,45 @@
+{
+  "id": "story-1786127736206",
+  "slug": "pola-hilang-di-pencucian-kedua",
+  "title": "Pola Hilang di Pencucian Kedua",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi bagaimana observasi teliti terhadap kebiasaan orang di tempat umum dapat mengungkap misteri kecil yang menarik dalam kehidupan sehari-hari.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-08-07T18:35:36.206Z",
+  "updated_at": "2026-08-07T18:35:36.206Z",
+  "status": "published",
+  "tags": [
+    "observasi",
+    "misteri kecil",
+    "rutinitas",
+    "laundromat",
+    "kreativitas",
+    "seniman tekstil",
+    "introspektif",
+    "kehidupan sehari-hari",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a peaceful laundromat interior during early golden hour. Soft, warm light streams through a large window, creating gentle illumination on rows of modern washing machines and dryers. The scene conveys a tranquil, meditative atmosphere, with a subtle sense of routine and comforting warmth. A quiet street corner is visible in the background, out of focus. Composition adheres to the rule of thirds with shallow depth of field. Focus on environmental details and the serene mood, without depicting any specific individual.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-hilang-di-pencucian-kedua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang mantan akuntan bernama Pak Budi, melalui observasi rutin di sebuah laundromat, menemukan sebuah 'misteri' kaus kaki bermotif unik yang hilang atau berganti motif setelah pencucian kedua. Ia kemudian mengungkap bahwa ini adalah bagian dari proses eksperimen seorang seniman tekstil yang menggunakan laundromat sebagai studio rahasia untuk menguji karyanya.",
+    "target_emotion": "kepuasan tenang, kekaguman, reflektif",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Pola Hilang di Pencucian Kedua",
+      "misteri laundromat",
+      "observasi Pak Budi",
+      "seniman tekstil",
+      "kisah sehari-hari",
+      "cerita reflektif",
+      "laundromat Jakarta",
+      "kreativitas tersembunyi",
+      "pengamatan detail"
+    ]
+  }
+}
