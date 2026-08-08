@@ -1,0 +1,47 @@
+{
+  "id": "story-1786213149182",
+  "slug": "warisan-resah-di-balai-tua",
+  "title": "Warisan Resah di Balai Tua",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi kerumitan dan ekspektasi yang tak terucapkan dalam dinamika keluarga besar saat seseorang mencoba menyesuaikan diri dengan perubahan hidup.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-08-08T18:19:09.182Z",
+  "updated_at": "2026-08-08T18:19:09.182Z",
+  "status": "published",
+  "tags": [
+    "keluarga",
+    "reuni",
+    "humor sinis",
+    "drama",
+    "ibu tunggal",
+    "dinamika keluarga",
+    "budaya indonesia",
+    "nasihat",
+    "konflik"
+  ],
+  "cover": {
+    "prompt": "A cinematic view from a threshold, entering a spacious community hall interior, Balai Warga Tua. The scene is bathed in warm, inviting golden lighting emanating from within, highlighting architectural details. In the foreground, subtle silhouettes of two figures, one taller gently guiding a smaller one, stepping into the vibrant space. The midground and background feature a soft blur of many individuals engaged in cheerful conversation and social interaction, creating an atmosphere of lively assembly and gentle intrigue. A delicate, fragrant haze subtly drifts, hinting at rich spices and traditional aromatic smoke. Composition follows the rule of thirds, with a shallow depth of field, focusing on the entrance and the expansive, welcoming feel of the gathering.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/warisan-resah-di-balai-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kirana, a single mother, arrives at a bustling community hall for her annual family reunion, anticipating unwanted advice. She fends off personal questions and unsolicited suggestions from overly concerned relatives about her marital status, career, and parenting. The tension peaks when Kirana delivers a witty, cynical remark that silences her family, earning a knowing smile from an unexpected ally. She and her son leave feeling relieved, having navigated the family drama with integrity and humor, reinforcing her resolve to live life on her own terms.",
+    "target_emotion": "Amusement, understanding, and empathy for relatable family dynamics.",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "drama keluarga",
+      "reuni keluarga",
+      "humor sinis",
+      "ibu tunggal",
+      "dinamika keluarga",
+      "tantangan hidup",
+      "kirana",
+      "balai warga tua",
+      "nasihat keluarga",
+      "budaya indonesia",
+      "identitas diri"
+    ]
+  }
+}
