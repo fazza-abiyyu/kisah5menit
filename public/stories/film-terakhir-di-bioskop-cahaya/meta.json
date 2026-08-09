@@ -1,0 +1,45 @@
+{
+  "id": "story-1786299624542",
+  "slug": "film-terakhir-di-bioskop-cahaya",
+  "title": "Film Terakhir di Bioskop Cahaya",
+  "genre": "adventure ringan",
+  "theme": "Melalui eksplorasi sebuah bioskop tua yang terbengkalai, seorang penulis menemukan bahwa kenangan dan cerita masa lalu tetap hidup, meskipun dalam kesunyian yang memilukan.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-08-09T18:20:24.542Z",
+  "updated_at": "2026-08-09T18:20:24.542Z",
+  "status": "published",
+  "tags": [
+    "bioskop",
+    "kenangan",
+    "penulis",
+    "inspirasi",
+    "masa lalu",
+    "melankolis",
+    "indonesia",
+    "petualangan",
+    "cerita pendek",
+    "fiksi"
+  ],
+  "cover": {
+    "prompt": "An environmental shot depicting winding city pathways with cracked pavement, bathed in intense midday sun. Irregular architecture with an aged building facade fills the scene. A distant, subtle silhouette of a person is visible, holding an old notebook, navigating the intricate city layout. Cinematic composition with rule of thirds, shallow depth of field, warm, high-contrast lighting. Focus on the urban texture and the mood of an unfolding journey.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/film-terakhir-di-bioskop-cahaya/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young writer, Clara, explores an abandoned old cinema, discovering forgotten stories, a hidden film, and a heartfelt letter from the last projectionist, inspiring her to revive its legacy through her writing.",
+    "target_emotion": "melancholy, inspiration, nostalgia",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "bioskop tua",
+      "cerita tersembunyi",
+      "inspirasi penulis",
+      "kisah melankolis",
+      "bioskop indonesia",
+      "senandung musim gugur",
+      "peninggalan sejarah",
+      "tempat terbengkalai"
+    ]
+  }
+}
