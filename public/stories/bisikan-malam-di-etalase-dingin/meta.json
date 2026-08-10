@@ -1,0 +1,53 @@
+{
+  "id": "story-1786387154030",
+  "slug": "bisikan-malam-di-etalase-dingin",
+  "title": "Bisikan Malam di Etalase Dingin",
+  "genre": "psychological",
+  "theme": "Seorang pengamat malam di minimarket menemukan pola pembelian misterius, memicu refleksi mendalam tentang kecemasan pribadi dan rutinitas manusia yang tersembunyi.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-08-10T18:39:14.030Z",
+  "updated_at": "2026-08-10T18:39:14.030Z",
+  "status": "published",
+  "tags": [
+    "psikologis",
+    "misteri",
+    "minimarket",
+    "refleksi",
+    "kecemasan",
+    "rutinitas",
+    "observasi",
+    "kesendirian",
+    "empati",
+    "introspeksi",
+    "ritual"
+  ],
+  "cover": {
+    "prompt": "Interior view of a modern 24-hour convenience store during late hours. Long, orderly rows of merchandise shelves extend into the distance, illuminated by soft, diffused overhead ambient lighting. The atmosphere is quiet and serene, a peaceful refuge. A solitary, indistinct human silhouette is gently visible near the back, providing a sense of scale without detail. Gentle reflections shimmer on the clean floor. Cinematic composition with a shallow depth of field, focusing on the foreground shelves, creating a feeling of calm and introspection. Use rule of thirds.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting, cinematic photography, shallow depth of field",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-malam-di-etalase-dingin/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Arya, seorang freelancer, sering mengunjungi minimarket 24 jam di tengah malam untuk mencari ketenangan. Ia mulai mengamati seorang pelanggan rutin yang selalu membeli item-item aneh dengan pola tidak biasa. Rasa penasaran Arya tumbuh, mengalihkan kecemasannya sendiri. Secara tidak sengaja, ia menemukan buku catatan kecil milik pelanggan tersebut dengan petunjuk samar namun personal tentang 'puzzle yang takkan pernah lengkap'. Penemuan ini membawanya pada pemahaman empati tentang perjuangan dan ritual pribadi orang lain, serta refleksi mendalam tentang kecemasan dan kesendiriannya sendiri, menemukan kedamaian dalam kesadaran bahwa setiap orang memiliki 'bisikan' internal mereka.",
+    "target_emotion": "Empati, refleksi, dan kedamaian introspektif.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "bisikan malam",
+      "etalase dingin",
+      "minimarket",
+      "psikologis",
+      "misteri",
+      "refleksi diri",
+      "kecemasan",
+      "rutinitas manusia",
+      "observasi",
+      "kisah pendek",
+      "fiksi indonesia",
+      "empati",
+      "koping mekanisme",
+      "kesendirian",
+      "pemahaman batin"
+    ]
+  }
+}
