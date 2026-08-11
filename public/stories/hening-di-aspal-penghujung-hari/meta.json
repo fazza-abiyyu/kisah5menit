@@ -1,0 +1,44 @@
+{
+  "id": "story-1786473743238",
+  "slug": "hening-di-aspal-penghujung-hari",
+  "title": "Hening di Aspal Penghujung Hari",
+  "genre": "slice of life",
+  "theme": "Melalui rutinitas sederhana seorang pengemudi ojek di malam hari, ia menemukan kedamaian dan makna mendalam dalam pengamatan kecil di jalanan sepi, mengajarkan pentingnya kesadaran penuh.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-08-11T18:42:23.238Z",
+  "updated_at": "2026-08-11T18:42:23.238Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "reflektif",
+    "Jakarta",
+    "ojek online",
+    "malam hari",
+    "kedamaian",
+    "kesadaran penuh",
+    "urban",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Late night Jakarta cityscape. The urban environment begins to settle, with gentle streetlights softly illuminating quiet pathways and buildings. A well-loved, slightly aged green jacket is prominently featured, perhaps draped over a simple urban structure like a bench or a barrier. The atmosphere is calm and contemplative, capturing a tranquil transition from the day's activity to a serene evening. A subtle, ambient glow on the distant horizon suggests the expansive nature of the city. Focus on the interplay of soft light and forms, creating a peaceful urban scene.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/hening-di-aspal-penghujung-hari/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang pengemudi ojek online paruh baya, Pak Budi, memilih rute pulang yang memutar di malam hari setelah menyelesaikan pesanan terakhirnya. Dalam perjalanan sunyi tersebut, ia menemukan kedamaian dan makna melalui pengamatan detail kecil dan interaksi singkat dengan petugas kebersihan malam, menyadari bahwa ketenangan sejati ada dalam kesadaran penuh akan perjalanan itu sendiri.",
+    "target_emotion": "tenang, reflektif, damai",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen",
+      "kisah ojek online",
+      "Jakarta malam",
+      "refleksi hidup",
+      "urbanisasi",
+      "kedamaian kota",
+      "cerita pendek Indonesia",
+      "slice of life"
+    ]
+  }
+}
