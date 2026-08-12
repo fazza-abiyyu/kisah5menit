@@ -1,0 +1,47 @@
+{
+  "id": "story-1786560197120",
+  "slug": "senyum-di-antara-rak-rak",
+  "title": "Senyum di Antara Rak-Rak",
+  "genre": "romance subtle",
+  "theme": "Menjelajahi bagaimana kebaikan kecil di tengah kesunyian malam kota dapat menumbuhkan koneksi tak terduga dan harapan baru.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-08-12T18:43:17.120Z",
+  "updated_at": "2026-08-12T18:43:17.120Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "slice of life",
+    "jakarta night",
+    "minimarket",
+    "ojek online",
+    "koneksi tak terduga",
+    "kebaikan hati",
+    "kisah inspiratif",
+    "indonesia",
+    "shift malam"
+  ],
+  "cover": {
+    "prompt": "A deserted city street in the very early hours of the morning. A lone scooter is gently parked under the soft, cool glow of distant streetlights. The scene emphasizes wide, still pathways and quiet urban architecture receding into the distance. A subtle, soft luminescence emanates from a small handheld screen, hinting at a moment of pause and solitude. The overall atmosphere is tranquil and reflective.",
+    "style": "Moody atmospheric illustration, soft lighting, painterly style",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-di-antara-rak-rak/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Adi, an online ride-hailing driver, finds his quiet night shift brightened by an unexpected encounter with Maya, a cheerful minimarket cashier. Their brief, warm conversation about their night routines creates a unique connection, leaving Adi with a lighter heart and renewed hope for the lonely city nights.",
+    "target_emotion": "Hati yang ringan, harapan, kebahagiaan, kehangatan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "romance indonesia",
+      "kisah cinta sederhana",
+      "cerita ojek online",
+      "romansa minimarket",
+      "pertemuan tak terduga",
+      "kebahagiaan malam",
+      "fiksi ringan",
+      "cerpen hangat",
+      "jakarta malam",
+      "pekerja shift malam"
+    ]
+  }
+}
