@@ -1,0 +1,45 @@
+{
+  "id": "story-1786646633792",
+  "slug": "pantry-horor-jam-lembur",
+  "title": "Pantry Horor Jam Lembur",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi kecemasan tersembunyi dan absurditas di balik rutinitas kerja malam yang monoton, menemukan keunikan dalam kegilaan sehari-hari.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-08-13T18:43:53.791Z",
+  "updated_at": "2026-08-13T18:43:53.791Z",
+  "status": "published",
+  "tags": [
+    "lembur",
+    "kantor",
+    "dark comedy",
+    "absurditas",
+    "jakarta",
+    "kopi",
+    "misteri kantor",
+    "karyawan",
+    "humor"
+  ],
+  "cover": {
+    "prompt": "A serene late-night scene: An open laptop rests on a minimal desk, its screen casting a soft, warm amber glow. The digital clock on the laptop prominently displays '01:00'. Through a wide window in the background, a quiet city's gentle lights twinkle softly, enveloped in deep blue-grey hues of the very early morning. The atmosphere is one of peaceful solitude and focused contemplation. Cinematic composition, utilizing the rule of thirds with a shallow depth of field, capturing the gentle screen glow and the subdued urban landscape.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pantry-horor-jam-lembur/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical employee working late discovers strange, human-like noises in the deserted office pantry. Annoyed rather than scared, they investigate, only to find another colleague secretly enjoying leftover food, revealing the shared absurdity of late-night office life.",
+    "target_emotion": "Amused curiosity, lighthearted tension, a sense of relatable absurdity.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita lembur lucu",
+      "horor pantry kantor",
+      "absurditas kerja malam",
+      "dark comedy indonesia",
+      "karyawan lembur",
+      "misteri kantor",
+      "kisah unik kantor",
+      "humor kantor jakarta",
+      "rutinitas kerja malam"
+    ]
+  }
+}
