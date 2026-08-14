@@ -1,0 +1,47 @@
+{
+  "id": "story-1786732727891",
+  "slug": "cahaya-redup-di-pos-penjaga",
+  "title": "Cahaya Redup di Pos Penjaga",
+  "genre": "thriller ringan",
+  "theme": "Eksplorasi tentang bagaimana ketakutan akan hal yang tidak diketahui seringkali hanya proyeksi pikiran, dan menemukan keberanian untuk melihat lebih dekat membawa pada pemahaman baru yang menenangkan.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-08-14T18:38:47.890Z",
+  "updated_at": "2026-08-14T18:38:47.890Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "ketakutan",
+    "optimisme",
+    "keberanian",
+    "petugas keamanan",
+    "jaga malam",
+    "instalasi seni",
+    "refleksi diri",
+    "kisah inspiratif"
+  ],
+  "cover": {
+    "prompt": "An expansive, open-air parking facility under a calm night sky. The setting conveys a deep sense of peacefulness and quiet observation. Soft, gentle illumination from distant light sources creates a serene atmosphere across the vast area. Tall, quiet structures form a subtle backdrop. A particular, well-defined zone within the facility has a distinct, yet gentle visual characteristic, inviting quiet contemplation. Emphasize environmental perspective, shallow depth of field, and a strong sense of place.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/cahaya-redup-di-pos-penjaga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Danu, seorang petugas keamanan malam, merasakan kehadiran misterius di sudut gelap area parkir. Kilasan cahaya aneh memicu rasa penasaran bercampur takut, hingga ia memberanikan diri mendekat. Terungkap, cahaya itu berasal dari instalasi seni mini yang bergerak tertiup angin. Ketakutan Pak Danu berubah menjadi pemahaman bahwa banyak ketakutan adalah imajinasi, dan keberanian bisa mengungkap keindahan tak terduga.",
+    "target_emotion": "lega, optimis, reflektif",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "thriller ringan",
+      "ketakutan",
+      "keberanian",
+      "optimisme",
+      "refleksi diri",
+      "petugas keamanan",
+      "jaga malam",
+      "kisah inspiratif",
+      "psikologi ketakutan",
+      "seni instalasi"
+    ]
+  }
+}
