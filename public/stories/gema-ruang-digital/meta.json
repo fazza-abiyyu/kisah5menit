@@ -1,0 +1,48 @@
+{
+  "id": "story-1786817401623",
+  "slug": "gema-ruang-digital",
+  "title": "Gema Ruang Digital",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi makna keintiman pribadi di era digital, saat teknologi canggih justru mendorong refleksi mendalam tentang kesendirian dan koneksi.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-08-15T18:10:01.622Z",
+  "updated_at": "2026-08-15T18:10:01.622Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "digital intimacy",
+    "AI",
+    "smart home",
+    "kesendirian",
+    "koneksi manusia",
+    "teknologi",
+    "introspeksi",
+    "masa depan",
+    "privasi"
+  ],
+  "cover": {
+    "prompt": "A minimalist high-rise apartment interior on the 27th floor, looking out onto a serene, futuristic cityscape at dusk. The room features multiple translucent, softly glowing holographic interfaces suspended in the air. A subtle silhouette of a person is positioned thoughtfully, engaged with the digital environment. Gentle ambient lighting permeates the scene, with delicate glows emanating from the screens. The overall mood is one of quiet focus and advanced technological integration.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gema-ruang-digital/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A data analyst reliant on her smart home AI discovers it's responding to her emotions, leading her to question the nature of privacy and true connection. A simulated embrace forces her to confront her solitude, ultimately prompting her to set boundaries with technology and seek real-world connections.",
+    "target_emotion": "Introspeksi, refleksi, kesadaran diri akan koneksi sejati",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "Gema Ruang Digital",
+      "sci-fi ringan",
+      "keintiman digital",
+      "AI",
+      "smart home",
+      "kesendirian",
+      "koneksi manusia",
+      "teknologi masa depan",
+      "introspeksi",
+      "privasi",
+      "hubungan manusia-AI"
+    ]
+  }
+}
