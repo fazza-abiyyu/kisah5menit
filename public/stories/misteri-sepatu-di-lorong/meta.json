@@ -1,0 +1,46 @@
+{
+  "id": "story-1786903837779",
+  "slug": "misteri-sepatu-di-lorong",
+  "title": "Misteri Sepatu di Lorong",
+  "genre": "mystery ringan",
+  "theme": "Seorang penghuni apartemen menemukan keanehan kecil di lorong yang memicu rasa ingin tahu, mengungkap cerita tak terduga di balik rutinitas sehari-hari.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-08-16T18:10:37.778Z",
+  "updated_at": "2026-08-16T18:10:37.778Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "apartemen",
+    "humor",
+    "sinis",
+    "freelancer",
+    "seni performa",
+    "jakarta",
+    "keseharian"
+  ],
+  "cover": {
+    "prompt": "An interior view of a modern studio apartment, with a laptop open on a desk and a stack of books nearby. Through a large window, distant building structures of a metropolitan city are visible, bathed in warm, soft natural light. The focus shifts to an intriguing detail: a solitary pair of shoes placed just outside the apartment entrance, creating a subtle, unexplained presence. Cinematic composition using the rule of thirds, with a shallow depth of field to emphasize the shoes against a slightly blurred background of the doorway and interior. Evokes a mood of quiet observation and gentle curiosity.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/misteri-sepatu-di-lorong/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer yang skeptis dan work-from-home di apartemen Jakarta merasa terganggu oleh sepasang sepatu aneh yang selalu muncul dan berubah di depan pintu tetangganya, unit 3B. Ketika sepatu itu hilang dan digantikan oleh benda-benda misterius lainnya, rasa ingin tahunya memuncak. Ia akhirnya bertemu dengan penghuni 3B, seorang seniman tua yang bosan, yang menggunakan benda-benda acak sebagai seni performa minimalis dan sindiran humoris. Karakter utama kemudian menerima keanehan ini sebagai hiburan harian dan bahkan mempertimbangkan untuk berpartisipasi.",
+    "target_emotion": "amusement, curiosity, lightheartedness, intrigue",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "misteri apartemen",
+      "kehidupan freelancer",
+      "humor sinis",
+      "seni performa",
+      "observasi",
+      "tetangga aneh",
+      "jakarta",
+      "cerita pendek",
+      "slice of life",
+      "rutinitas monoton"
+    ]
+  }
+}

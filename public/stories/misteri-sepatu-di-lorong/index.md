@@ -1,0 +1,47 @@
+Hidup sebagai freelancer yang bekerja dari rumah di apartemen studio di bilangan Jakarta berarti punya privasi nyaris absolut dan, sayangnya, rutinitas yang monoton sampai bikin otak beku. Pemandanganku sehari-hari cuma layar laptop, tumpukan buku, dan sesekali pemandangan gedung lain di seberang. Tapi, ada satu hal di luar unitku yang selalu sukses mengganggu—atau setidaknya, menarik perhatian sinisku—setiap kali aku harus keluar, entah itu cuma buang sampah atau mengambil paket. Misteri Sepatu di Lorong.
+
+Persis di depan pintu unit 3B, yang letaknya dua pintu dari unitku, selalu ada sepasang sepatu. Bukan, bukan sepatu yang sama. Itu poinnya. Pagi ini mungkin sneakers belel warna abu-abu dengan tali putus sebelah. Besoknya, sepasang heels merah menyala yang jelas-jelas cuma pantas dipakai di klub malam murahan. Lusa, bisa jadi sandal jepit hotel bintang lima yang masih dalam plastik kemasan. Dan anehnya, tak pernah kulihat pemiliknya memakai salah satu dari sepatu-sepatu itu. Atau, lebih tepatnya, tak pernah kulihat siapa pun keluar dari unit 3B. Pintu itu selalu tertutup rapat, sunyi senyap, seolah di dalamnya tak ada kehidupan. Mungkin vampir, atau agen rahasia yang kerjanya menyelinap, atau lebih mungkin, orang yang sangat, sangat pemalu.
+
+Tentu saja, awalnya aku tidak peduli. Siapa juga yang peduli dengan sepatu orang lain? Aku punya masalah hidup sendiri, seperti deadline yang mencekik dan tagihan bulanan yang selalu menatapku dengan tatapan menghakimi. Tapi, setelah berminggu-minggu, bahkan berbulan-bulan, sepatu-sepatu itu menjadi semacam penanda waktu. Seperti kalender visual yang aneh. ‘Oh, sudah hari Rabu, nih. Sepatunya sudah ganti lagi jadi sepatu boot kulit koboi KW.’ Aku mulai punya semacam ritual pagi: bangun, menyeduh kopi pahit, mengecek email, lalu melirik ke lorong saat aku buang sampah. Dan selalu, selalu, ada sepatu baru. Ada semacam kesenangan picisan dari mengamati keanehan orang lain, bahkan jika itu hanya sepasang alas kaki.
+
+Aku bahkan sempat punya teori-teori konspirasi ala detektif amatir yang kurang kerjaan. Jangan-jangan ini semacam kode? Morse code dengan sepatu? Atau mungkin itu adalah toko sepatu ilegal yang menyaru di balik pintu apartemen? Tapi kemudian aku akan menertawakan diriku sendiri. Risa, kau sudah kebanyakan nonton serial detektif Netflix yang plotnya terlalu rumit. Ini hanya sepatu, dan mungkin penghuni 3B hanya punya obsesi aneh dengan koleksi alas kaki.
+
+Sampai suatu pagi, rutinitas sinis itu terganggu. Aku keluar untuk membuang kantong sampah yang sudah menggunung dan, seperti biasa, mataku otomatis melirik ke arah pintu 3B. Kosong. Lorong di depan pintu itu bersih, tidak ada sepatu, tidak ada sandal, bahkan tidak ada jejak debu yang signifikan. Aku mengerjap. Apakah aku salah pintu? Tidak, ini 3B. Aku mengecek nomor unitku, 3D. Benar. Lorong terasa lebih hampa dari biasanya. Rasa kejut yang campur aduk dengan kekecewaan tipis melintas di benakku.
+
+“Akhirnya sadar juga mereka,” gumamku, mencoba terdengar acuh tak acuh. “Mungkin manajemen apartemen sudah turun tangan.”
+
+Tapi kemudian mataku menyadari sesuatu yang baru. Di tempat sepatu itu biasa berada, kini ada sebuah pot tanaman mini. Bentuknya lucu, warna terakota, tapi isinya… bunga plastik. Bunga krisan imitasi, dengan warna kuning cerah yang terlalu cerah, nyaris neon, dan kelopak-kelopak yang kaku sempurna, tidak seperti bunga sungguhan yang rentan layu dan mati. Ini bukan sekadar pot tanaman, ini adalah sebuah pernyataan. Pernyataan apa? Aku tidak tahu, tapi aku merasa tertantang.
+
+Dari sana, keanehan itu tidak berhenti. Keesokan harinya, pot bunga plastik itu menghilang. Diganti dengan sebuah buku usang bersampul kulit, judulnya tak terbaca karena tulisannya sudah pudar, tapi jelas itu adalah buku yang sudah sangat tua. Hari berikutnya, sepasang kacamata renang anak-anak dengan warna biru laut mencolok. Lalu, patung kucing keramik yang nyaris pecah. Lorong di depan unit 3B telah bermutasi menjadi semacam galeri seni absurd, dan aku, tanpa sadar, menjadi penikmat utamanya. Rasa penasaran yang awalnya hanya gerutu sinis, kini berubah menjadi rasa ingin tahu yang lebih mendalam, bahkan sedikit terganggu. Siapa gerangan di balik pintu itu? Dan apa tujuan dari semua benda acak ini?
+
+Aku mencoba mengintip. Berpura-pura menunggu lift, atau membersihkan keset di depan pintu, tapi aku tak pernah berhasil menangkap basah siapa pun. Pintu 3B tetap menjadi benteng misteri. Pikiran-pikiran aneh mulai muncul lagi: Apakah ini semacam pesan rahasia yang ditujukan kepadaku? Apakah aku seharusnya memecahkan teka-teki dari setiap objek yang terpampang? Jangan-jangan ini adalah 'game' yang dimainkan oleh seorang psikopat penghuni apartemen. Aku menggelengkan kepala. Terlalu berlebihan, Risa. Kau cuma kesepian dan mencari drama.
+
+Minggu itu, lorong menyuguhkan 'karya' terbarunya: sebuah boneka Barbie yang rambutnya sudah botak sebagian, wajahnya coret-coret spidol, dan hanya mengenakan sehelai rok kain lusuh. Aku menatapnya. Sungguh, imajinasi siapa ini? Ini sudah di luar batas kewajaran. Aku tak bisa menahan diri lagi. Aku harus tahu. Kalau tidak, aku akan gila karena terlalu banyak memikirkan boneka Barbie botak ini.
+
+Siang itu, aku memberanikan diri. Aku memang mau membuang sampah, tapi kali ini, aku akan memperpanjang waktu 'buang sampah'ku untuk mencoba sedikit 'investigasi'. Aku mendekati pintu 3B. Tidak ada suara. Lorong sepi. Aku menunduk, pura-pura mengikat tali sepatuku—padahal aku pakai sandal. Ketika aku mendongak, mataku menangkap sesuatu. Pintu 3B sedikit, sangat sedikit, terbuka. Hanya celah tipis, tapi cukup untuk melihat seberkas cahaya dan sedikit gerakan di dalamnya.
+
+Jantungku berdebar tak karuan. Ini dia. Momen yang kutunggu-tunggu. Atau justru momen yang kubenci karena akan menghancurkan semua fantasi liar yang kubangun.
+
+Tiba-tiba, celah pintu itu melebar. Sebuah tangan keriput muncul, memegang sesuatu. Itu adalah… sebuah puzzle bergambar pemandangan sawah yang kepingannya sudah tercerai-berai. Tangan itu meletakkan puzzle tersebut di samping boneka Barbie botak. Dan kemudian, pemilik tangan itu muncul.
+
+Seorang kakek tua, rambutnya putih awut-awutan tapi rapi disisir ke belakang, memakai kemeja batik yang terlihat sudah pudar warnanya. Matanya berbinar di balik kacamata tebal yang melorot di hidungnya. Ia menoleh, dan tatapan kami bertemu.
+
+Kedua-duanya sama-sama terkejut. Aku terdiam, dengan kantong sampah masih tergenggam di tangan, seperti orang bodoh. Kakek itu mengerjap, lalu senyumnya merekah. Senyum yang ramah, tapi juga punya sedikit kenakalan di sudut bibirnya.
+
+“Oh, maaf,” katanya, suaranya serak tapi hangat. “Apa saya mengganggu?”
+
+Aku tergagap. “Emm, tidak, Pak. Saya… saya cuma mau buang sampah.” Aku menunjuk kantong sampahku yang malang. “Tapi… ini semua?” Aku menggerakkan tanganku ke arah 'galeri lorong' miliknya, dari boneka Barbie hingga puzzle yang baru diletakkan.
+
+Kakek itu tertawa kecil. “Ah, itu. Itu ‘karya seni’ saya, Nak. Seni performa minimalis. Atau bisa dibilang, sindiran kecil untuk para tetangga yang hidupnya terlalu serius. Biar tidak membosankan, kan?” Ia mengedipkan mata, senyumnya semakin lebar. “Nama saya Tejo. Pensiunan guru seni. Sudah tua, bosan di rumah, jadi ya begini. Biar ada kerjaan, hehe.”
+
+Aku mengangguk-angguk, antara terkejut, geli, dan merasa sedikit bodoh. Jadi, semua teori konspirasi, semua spekulasi liar tentang toko sepatu, agen rahasia, atau psikopat, itu semua hanya… seni performa seorang kakek yang bosan? Rasanya seperti membaca novel misteri yang di akhir babak terungkap bahwa pelakunya adalah kucing.
+
+“Risa,” kataku, memperkenalkan diri. “Freelancer.” Aku tidak tahu harus merespons apa lagi. “Jadi, sepatu-sepatu itu… juga?”
+
+“Tentu saja!” seru Pak Tejo, seolah itu adalah hal paling logis di dunia. “Itu koleksi saya. Saya suka sepatu. Tapi nggak pernah dipakai. Nanti kotor. Jadi cuma dipamerkan.” Ia menggaruk kepalanya. “Lagipula, kan lucu melihat orang-orang lewat dan melirik-lirik, kan? Pasti banyak yang penasaran. Sama seperti kamu.”
+
+Aku hanya bisa tersenyum masam. Ketahuan. Aku adalah salah satu dari "orang-orang lewat" yang penasaran itu. Ironis sekali. Misteri yang selama ini kubangun di benakku, ternyata hanyalah sebuah lelucon kecil dari seorang seniman tua yang bosan.
+
+Sejak hari itu, lorong di depan unit 3B bukan lagi 'misteri sepatu', tapi 'galeri Pak Tejo'. Setiap hari, atau kadang dua hari sekali, ada saja benda baru yang muncul. Entah itu miniatur kapal dalam botol, satu set kartu remi yang hilang satu, atau bahkan sebuah pisang yang nyaris busuk (aku curiga itu kritik sosial). Aku berhenti mencoba memahami, dan mulai menikmatinya sebagai bagian dari rutinitas pagiku. Kadang, saat melihat Pak Tejo sedang sibuk menata 'karyanya', kami akan saling melempar senyum. Sebuah interaksi tanpa kata yang menghibur di tengah hiruk pikuk kota.
+
+Aku bahkan mulai berpikir. Apa ya, yang kira-kira bisa kuseumbangkan untuk 'galeri lorong' Pak Tejo? Mungkin sikat gigi bekas? Atau mungkin, sepasang kaos kaki bolong yang selalu kupendam di dasar lemari? Ide itu membuatku tertawa. Hidup di apartemen yang tadinya membosankan dan penuh rutinitas kini punya sedikit bumbu kegilaan yang menyenangkan. Misteri yang berakhir dengan kekonyolan, dan itulah yang terbaik. Siapa sangka, sepasang sepatu aneh bisa membuka pintu ke galeri seni absurd dan persahabatan tak terduga dengan seorang seniman yang sinisnya mungkin setara denganku.
