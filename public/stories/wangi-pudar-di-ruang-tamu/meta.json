@@ -1,0 +1,46 @@
+{
+  "id": "story-1786990750771",
+  "slug": "wangi-pudar-di-ruang-tamu",
+  "title": "Wangi Pudar di Ruang Tamu",
+  "genre": "drama keluarga",
+  "theme": "Mengeksplorasi bagaimana sebuah rumah terasa hampa setelah anak-anak dewasa meninggalkan sarang, memicu orang tua untuk merenungkan kenangan manis dan menemukan makna baru dalam kesendirian yang menenangkan.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-08-17T18:19:10.771Z",
+  "updated_at": "2026-08-17T18:19:10.771Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "melankolis",
+    "penerimaan",
+    "kesendirian",
+    "ibu",
+    "kenangan",
+    "rumah",
+    "kisah hidup",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "A quiet, sunlit interior of a modest home. An empty wooden dining table with a solitary, slightly askew chair. Gentle morning light streams through a window, illuminating dust motes in the vast stillness of the room. The space feels profoundly quiet, a gentle echo of past activity. Emphasize the sense of absence and peaceful, reflective solitude.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/wangi-pudar-di-ruang-tamu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Ibu Lastri, seorang ibu paruh baya, merasakan kekosongan mendalam setelah anak bungsunya merantau. Ia bergulat dengan melankolis dan nostalgia, sering merenung sambil membereskan barang-barang lama di ruang tamu. Puncak emosi terjadi saat ia menemukan kotak kenangan masa kecil anak-anaknya, memicu refleksi mendalam. Akhirnya, Ibu Lastri menerima perubahan, menyadari bahwa cinta dan kenangan akan selalu mengisi rumahnya, dan menemukan kekuatan untuk memulai babak baru dalam hidupnya dengan damai.",
+    "target_emotion": "reflektif, haru, melankolis, damai, penerimaan diri",
+    "reading_time_minutes": 9,
+    "keywords": [
+      "wangi pudar di ruang tamu",
+      "drama keluarga",
+      "kesendirian ibu",
+      "rumah kosong",
+      "kenangan masa lalu",
+      "melankolis lembut",
+      "penerimaan diri",
+      "cerita ibu lastri",
+      "kehidupan setelah anak merantau",
+      "indonesia"
+    ]
+  }
+}
