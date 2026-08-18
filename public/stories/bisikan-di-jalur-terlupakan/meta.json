@@ -1,0 +1,43 @@
+{
+  "id": "story-1787077070361",
+  "slug": "bisikan-di-jalur-terlupakan",
+  "title": "Bisikan di Jalur Terlupakan",
+  "genre": "adventure ringan",
+  "theme": "Menjelajahi sudut tersembunyi di lingkungan yang akrab, memicu rasa ingin tahu dan penemuan hal-hal baru yang terlupakan yang memberi perspektif segar.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-08-18T18:17:50.361Z",
+  "updated_at": "2026-08-18T18:17:50.361Z",
+  "status": "published",
+  "tags": [
+    "adventure",
+    "urban exploration",
+    "misteri ringan",
+    "penemuan",
+    "sejarah lokal",
+    "jalur kereta",
+    "inspirasi"
+  ],
+  "cover": {
+    "prompt": "An overgrown railway path stretching into the distance, framed by lush green foliage and a thick canopy of leaves on the suburban outskirts. Bright, warm dappled sunlight illuminates the scene, filtering through the dense vegetation. A solitary figure is subtly present, perhaps a silhouette or seen from behind, walking on the pathway, suggesting quiet exploration and discovery. Emphasize the serene beauty of natural reclamation. Cinematic composition with rule of thirds, leading lines, and a sense of depth.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-di-jalur-terlupakan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rio, seorang freelancer, menjelajahi jalur bekas rel kereta yang terlupakan. Ia menemukan plang misterius dan reruntuhan kuno, memicu rasa ingin tahu dan menginspirasinya dengan cerita masa lalu.",
+    "target_emotion": "Rasa ingin tahu, kedamaian, apresiasi terhadap sejarah.",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "cerita pendek",
+      "kisah petualangan",
+      "jalur rel terbengkalai",
+      "penemuan tersembunyi",
+      "sejarah kota",
+      "inspirasi",
+      "misteri ringan",
+      "urban decay",
+      "explorasi urban"
+    ]
+  }
+}
