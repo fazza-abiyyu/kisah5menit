@@ -1,0 +1,47 @@
+{
+  "id": "story-1787163395028",
+  "slug": "bayangan-di-tepi-air",
+  "title": "Bayangan di Tepi Air",
+  "genre": "psychological",
+  "theme": "Mengeksplorasi bagaimana seseorang menemukan ketenangan batin dan memaafkan masa lalu melalui refleksi diri di tengah hiruk pikuk kehidupan kota.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-08-19T18:16:35.028Z",
+  "updated_at": "2026-08-19T18:16:35.028Z",
+  "status": "published",
+  "tags": [
+    "psikologi",
+    "refleksi",
+    "pemaafan-diri",
+    "ketenangan-batin",
+    "perkotaan",
+    "jakarta",
+    "seniman",
+    "penyesalan",
+    "penerimaan",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A lone figure sits contemplatively on a smooth concrete bench at the edge of a wide river. The water flows gently, reflecting the rich, warm hues of a late afternoon. The distant cityscape forms a soft, vibrant backdrop, bathed in a beautiful golden light, suggesting the peaceful passage of time amidst the subtle energy of urban life. The focus is on the expansive river and the serene, contemplative atmosphere, with the figure as a gentle element in the expansive scene.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bayangan-di-tepi-air/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah reflektif tentang Ibu Kartini yang bergumul dengan penyesalan masa lalu hingga menemukan kedamaian batin dan memaafkan diri sendiri melalui observasi dan introspeksi di tepi sungai perkotaan.",
+    "target_emotion": "Refleksi, ketenangan, penerimaan, harapan",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "Kisah refleksi",
+      "kedamaian batin",
+      "pemaafan diri",
+      "Ibu Kartini",
+      "sungai Ciliwung",
+      "Jakarta",
+      "seniman",
+      "penyesalan",
+      "penerimaan hidup",
+      "psikologis"
+    ]
+  }
+}
