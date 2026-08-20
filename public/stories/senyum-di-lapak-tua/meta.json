@@ -1,0 +1,44 @@
+{
+  "id": "story-1787249941166",
+  "slug": "senyum-di-lapak-tua",
+  "title": "Senyum di Lapak Tua",
+  "genre": "slice of life",
+  "theme": "Mengeksplorasi bagaimana kebaikan hati tulus dari orang asing dapat membawa kehangatan dan inspirasi di tengah hiruk pikuk kehidupan.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-08-20T18:19:01.166Z",
+  "updated_at": "2026-08-20T18:19:01.166Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "pasar tradisional",
+    "kebaikan hati",
+    "mahasiswi",
+    "inspirasi",
+    "kehangatan",
+    "Jakarta",
+    "kue tradisional"
+  ],
+  "cover": {
+    "prompt": "Traditional open-air market at sunrise, bustling with a lively, gentle energy. Focus on a wide environmental shot, showcasing vibrant displays of colorful spices, fresh produce, and artisanal food stalls. Blurred, indistinct figures of early morning shoppers and vendors are in soft motion, creating a sense of authentic activity without individual focus. Golden hour light filters warmly through the scene, creating soft illuminations and a welcoming atmosphere. Emphasize the rich textures and colors of the market goods.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-di-lapak-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a tired university student burdened by tasks, loses her wallet in a bustling traditional market. An elderly street vendor, affectionately called Pak RT, finds and returns it to her, also offering her free warm traditional cakes. This unexpected act of genuine kindness lifts Anya's spirits, inspiring her to embrace a more positive outlook and promising to return the kindness.",
+    "target_emotion": "Warmth, gratitude, hope, inspiration, relief",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "slice of life",
+      "kebaikan hati",
+      "inspirasi",
+      "pasar tradisional",
+      "mahasiswi",
+      "Indonesia",
+      "cerita hangat",
+      "kue mangkok"
+    ]
+  }
+}
