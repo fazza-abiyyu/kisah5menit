@@ -1,0 +1,54 @@
+{
+  "id": "story-1787336369218",
+  "slug": "sapaan-di-gerbong-pagi",
+  "title": "Sapaan di Gerbong Pagi",
+  "genre": "romance subtle",
+  "theme": "Menjelajahi bagaimana interaksi singkat di rutinitas harian dapat memicu harapan, memecah ketegangan, membentuk dasar hubungan tak terduga.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-08-21T18:19:29.218Z",
+  "updated_at": "2026-08-21T18:19:29.218Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "slice of life",
+    "commuter story",
+    "daily routine",
+    "urban romance",
+    "jakarta",
+    "transportasi umum",
+    "first encounter",
+    "hope",
+    "karina",
+    "dimas",
+    "pertemuan tak terduga"
+  ],
+  "cover": {
+    "prompt": "Minimalist composition of a morning commuter train interior. Gentle, diffused daylight enters through windows, casting a soft glow. The scene is dominated by abstract shapes and strong silhouettes of passengers, arranged to convey a sense of a shared, routine journey and limited personal expanse. Focus on subtle visual cues: the repetitive patterns of the train's interior and the presence of a plain, functional bag, symbolizing everyday responsibilities. The atmosphere is quiet and observant, hinting at a feeling of constant motion and underlying daily expectation.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sapaan-di-gerbong-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Karina, an office worker, faces her anxious daily commute. One morning, she almost drops her wallet in a crowded train, but a quiet freelancer, Dimas, quickly helps her. Their brief, tense interaction sparks a subtle curiosity. Over the next few days, they silently acknowledge each other. A significant train delay then forces a longer, meaningful conversation, breaking the initial tension. They exchange names, transforming from strangers into potential acquaintances, leaving Karina with a newfound sense of hope for her routine.",
+    "target_emotion": "hopeful curiosity with light tension turning to comfort",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "romance kereta",
+      "kisah komuter",
+      "romansa subtle",
+      "cerita pendek",
+      "kehidupan kota",
+      "pertemuan tak terduga",
+      "harapan baru",
+      "jakarta commute",
+      "daily routine story",
+      "slice of life romance",
+      "karina and dimas story",
+      "kereta api",
+      "interaksi singkat",
+      "urban love"
+    ]
+  }
+}
