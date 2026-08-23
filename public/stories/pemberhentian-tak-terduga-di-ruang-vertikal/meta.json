@@ -1,0 +1,47 @@
+{
+  "id": "story-1787508664070",
+  "slug": "pemberhentian-tak-terduga-di-ruang-vertikal",
+  "title": "Pemberhentian Tak Terduga di Ruang Vertikal",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi bagaimana kecemasan sehari-hari seseorang dapat berubah menjadi ketegangan saat menghadapi insiden kecil yang tak terduga dalam rutinitas lift.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-08-23T18:11:04.070Z",
+  "updated_at": "2026-08-23T18:11:04.070Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "psikologis",
+    "misteri",
+    "kecemasan",
+    "rutinitas",
+    "lift",
+    "maneki-neko",
+    "urban",
+    "indonesia",
+    "ketegangan"
+  ],
+  "cover": {
+    "prompt": "Cinematic capture of an elevator interior, featuring a solitary figure's silhouette gently leaning against a cool wall. The elevator doors are partially closed, hinting at a quiet transition. Beyond the closing doors, a glimpse of the softly lit city twilight, with subtle light trails in the distance. The overall atmosphere evokes a sense of calm and the peaceful arrival at a personal sanctuary. Warm color grading, shallow depth of field, and a composition following the rule of thirds.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pemberhentian-tak-terduga-di-ruang-vertikal/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Cerita ini berpusat pada Riana, yang kecemasan hariannya diperparah oleh gantungan kunci Maneki-Neko yang aneh dan selalu berpindah di dalam lift apartemennya. Ketegangan memuncak saat lift berhenti mendadak di lantai asing yang gelap, di mana gantungan kunci itu menghilang dan ia merasakan kehadiran bayangan yang mengawasi. Pengalaman ini mengubah kecemasan pasif Riana menjadi tekad aktif untuk menyelidiki misteri tersebut, menemukan ketenangan aneh dalam resolusinya.",
+    "target_emotion": "ketegangan ringan, introspeksi, rasa ingin tahu",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerita pendek",
+      "thriller psikologis",
+      "misteri lift",
+      "kecemasan urban",
+      "maneki-neko",
+      "kisah sehari-hari",
+      "ketegangan ringan",
+      "refleksi diri",
+      "fiksi indonesia",
+      "horor psikologis"
+    ]
+  }
+}
