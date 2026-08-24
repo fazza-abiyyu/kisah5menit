@@ -1,0 +1,47 @@
+{
+  "id": "story-1787595693809",
+  "slug": "asisten-pasar-pak-bandi-yang-berisik",
+  "title": "Asisten Pasar Pak Bandi yang Berisik",
+  "genre": "sci-fi ringan",
+  "theme": "Menjelajahi benturan budaya antara tradisi pasar lama dan inovasi teknologi yang dipaksakan, menampilkan humor sinis dari perjuangan seorang pedagang kolot.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-08-24T18:21:33.809Z",
+  "updated_at": "2026-08-24T18:21:33.809Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "teknologi",
+    "pasar tradisional",
+    "humor",
+    "adaptasi",
+    "Indonesia",
+    "drone",
+    "rempah"
+  ],
+  "cover": {
+    "prompt": "An early morning scene at a vibrant traditional market, capturing a sense of heritage and the dawn of a new day. Piles of richly colored spices – red, yellow, green, brown – are artfully displayed on a rustic wooden stall. The air is filled with an evocative atmosphere of cloves, ginger, and coriander. Soft, gentle morning light just begins to illuminate the corrugated metal roofs in the background, casting warm, diffused glows across the environment. A lone, abstract silhouette of a vendor stands quietly, observing the peaceful market setting. Architectural details of the market are visible, suggesting a blend of tradition and impending change. Focus on the textures of the spices and the overall warm, inviting market environment, utilizing a rule of thirds composition and subtle depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/asisten-pasar-pak-bandi-yang-berisik/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Bandi, a traditional spice vendor, reluctantly receives a noisy 'Asisten Pasar Digital' (APD) drone from the city. The APD constantly 'optimizes' his stall, irritating Pak Bandi until a critical miscalculation threatens a loyal customer. The APD surprisingly intervenes, saving the sale with accurate data and even upselling, forcing Pak Bandi to grudgingly acknowledge its utility. Despite ongoing grumbling, Pak Bandi and other vendors develop a secret method to temporarily 'silence' their drones, highlighting their enduring ingenuity amidst forced modernization.",
+    "target_emotion": "amused exasperation",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "pasar tradisional",
+      "sci-fi",
+      "teknologi",
+      "drone",
+      "pedagang",
+      "rempah",
+      "humor",
+      "modernisasi",
+      "budaya",
+      "konflik teknologi",
+      "adaptasi",
+      "Indonesia"
+    ]
+  }
+}
