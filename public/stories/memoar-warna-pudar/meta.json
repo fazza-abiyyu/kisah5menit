@@ -1,0 +1,46 @@
+{
+  "id": "story-1787682033174",
+  "slug": "memoar-warna-pudar",
+  "title": "Memoar Warna Pudar",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi misteri kecil di balik sebuah karya seni, mengungkap cerita tersembunyi melalui observasi detail dan intuisi.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-08-25T18:20:33.174Z",
+  "updated_at": "2026-08-25T18:20:33.174Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "art",
+    "melancholy",
+    "short story",
+    "indonesia",
+    "gallery",
+    "artist",
+    "photographer",
+    "hidden message",
+    "love story",
+    "memory"
+  ],
+  "cover": {
+    "prompt": "A quiet art gallery interior, viewed down an elegant pathway lined with framed landscape paintings. The atmosphere is one of gentle contemplation and artistic legacy, imbued with the soft aroma of aged wood and paint. Soft, warm natural light spills into the space, creating subtle highlights on the wooden floor and the textured canvases. Shallow depth of field, with a precise focus on a distant landscape artwork, drawing the eye deeper into the scene. An antique camera lens rests subtly in the blurred foreground, hinting at a photographer's keen observation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/memoar-warna-pudar/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Risa, an amateur photographer, uncovers a hidden personal story within a melancholic landscape painting by a deceased artist. Despite the gallery owner's initial dismissal of the odd details as artistic eccentricity, Risa's intuition leads her to use her photographic skills to reveal hidden initials and a symbolic flower, uncovering a deep, unspoken tale of lost love by the artist.",
+    "target_emotion": "Contemplation, melancholy, understanding, quiet satisfaction",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "art mystery",
+      "hidden art message",
+      "melancholic story",
+      "photographer detective",
+      "lost love art",
+      "gallery secrets",
+      "indonesian art",
+      "artist's memoir"
+    ]
+  }
+}
