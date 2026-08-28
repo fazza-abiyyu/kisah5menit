@@ -1,0 +1,46 @@
+{
+  "id": "story-1787881775022",
+  "slug": "jejak-cahaya-di-kursi-terakhir",
+  "title": "Jejak Cahaya di Kursi Terakhir",
+  "genre": "adventure ringan",
+  "theme": "Sebuah perjalanan kecil seorang penulis ke bioskop tua yang sepi membawanya menemukan inspirasi tersembunyi dan koneksi mendalam dengan cerita-cerita yang terlupakan.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-08-28T01:49:35.022Z",
+  "updated_at": "2026-08-28T01:49:35.022Z",
+  "status": "published",
+  "tags": [
+    "petualangan",
+    "inspirasi",
+    "bioskop tua",
+    "penulis",
+    "nostalgia",
+    "pencarian diri",
+    "reflektif",
+    "kisah urban",
+    "penemuan"
+  ],
+  "cover": {
+    "prompt": "A serene urban passage during twilight hours, bathed in soft, warm ambient light. Architectural forms and distant buildings recede gently into the background, creating a peaceful setting. A solitary figure in subtle silhouette walks along the gently illuminated city pathway, conveying a contemplative mood and a sense of searching. The composition uses the rule of thirds with a shallow depth of field, emphasizing the calm environment and an introspective journey. Focus on the textures of paving stones and a subtle, distant city glow, avoiding any detailed human features.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-cahaya-di-kursi-terakhir/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang penulis muda buntu bernama Daffa menemukan sebuah bioskop tua yang ditinggalkan, 'Sinema Cahaya'. Ia menyelinap masuk mencari inspirasi dan menemukan proyektor mini serta jurnal pribadi milik Harun, mantan operator film, yang berisi sketsa cerita. Jurnal ini membakar kembali semangat Daffa untuk menulis.",
+    "target_emotion": "inspirasi, ketenangan, refleksi, koneksi mendalam",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita inspiratif",
+      "bioskop terbengkalai",
+      "kisah pencarian",
+      "jurnal tua",
+      "penulis muda",
+      "petualangan batin",
+      "Sinema Cahaya",
+      "inspirasi menulis",
+      "kisah reflektif",
+      "warisan cerita"
+    ]
+  }
+}
