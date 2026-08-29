@@ -1,0 +1,48 @@
+{
+  "id": "story-1788033833531",
+  "slug": "senandung-pagi-di-dapur-oma",
+  "title": "Senandung Pagi di Dapur Oma",
+  "genre": "slice of life",
+  "theme": "Mengeksplorasi ketenangan dan rasa syukur yang ditemukan dalam rutinitas pagi sederhana seorang nenek, merayakan keindahan momen-momen kecil yang sering terlewatkan dan menghargai kehadiran diri.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-08-29T20:03:53.531Z",
+  "updated_at": "2026-08-29T20:03:53.531Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "mindfulness",
+    "indonesian culture",
+    "morning ritual",
+    "cooking",
+    "grandmother",
+    "adaptation",
+    "simple joys",
+    "optimistic",
+    "comfort"
+  ],
+  "cover": {
+    "prompt": "A serene indoor space bathed in soft, warm morning light, filtering through translucent curtains. A slightly ajar window frames the gentle silhouette of swaying mango tree leaves against a tranquil sunrise sky. Subtle hints of dew glisten on the outdoor foliage, suggesting morning freshness and new beginnings. The scene evokes a sense of quiet contemplation and the promise of a peaceful day. Cinematic composition, rule of thirds, shallow depth of field, natural and inviting atmosphere.",
+    "style": "Cinematic photography, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senandung-pagi-di-dapur-oma/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Oma Siti begins her morning ritual in the kitchen, finding peace in simple tasks. A slight conflict arises when she realizes she's short on pandan leaves for her kolak pisang, but she ingeniously adapts by using ginger, reflecting on past lessons of resilience. The climax sees her enjoying the perfectly cooked ginger-infused kolak, observing the morning bustle from her window, and feeling profound contentment. The story concludes with Oma Siti reflecting on how true happiness lies in small details and the ability to adapt, ending her morning with a grateful heart.",
+    "target_emotion": "peace, serenity, gratitude, warmth, mindfulness, comfort",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Oma Siti",
+      "kolak pisang",
+      "rutinitas pagi",
+      "slice of life",
+      "adaptasi",
+      "kebahagiaan sederhana",
+      "masakan tradisional",
+      "refleksi diri",
+      "Indonesia",
+      "mindfulness",
+      "ginger kolak"
+    ]
+  }
+}
