@@ -1,0 +1,48 @@
+{
+  "id": "story-1787966004663",
+  "slug": "senyum-di-balik-rotasi-malam",
+  "title": "Senyum di Balik Rotasi Malam",
+  "genre": "psychological",
+  "theme": "Menjelajahi bagaimana ketenangan malam dan pengamatan rutin dapat membangkitkan senyum internal dan rasa syukur atas hal-hal kecil dalam hidup.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-08-29T01:13:24.663Z",
+  "updated_at": "2026-08-29T01:13:24.663Z",
+  "status": "published",
+  "tags": [
+    "satpam",
+    "malam",
+    "refleksi",
+    "kedamaian",
+    "apresiasi",
+    "rutinitas",
+    "psikologis",
+    "inspiratif",
+    "slice of life",
+    "bahasa indonesia",
+    "kehidupan sehari-hari"
+  ],
+  "cover": {
+    "prompt": "A serene nighttime scene at a quiet office complex, viewed from a slightly elevated perspective. A single human silhouette walks along a wet pathway, its surface gently reflecting the soft ambient lighting from distant street lamps. Lush, rain-kissed foliage lines the pathway, with a subtle mist rising from the ground. In the far distance, the soft, sparkling city lights create a tranquil backdrop against the clear night sky. The composition employs the rule of thirds, with a shallow depth of field that subtly blurs the background, focusing on the pathway and the lone figure. The overall atmosphere is peaceful and reflective, highlighting the quiet routine of the evening.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-di-balik-rotasi-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Budi, a night security guard, finds unexpected serenity and gratitude through small observations during his routine night shift, leading to a profound appreciation for life's simple beauty.",
+    "target_emotion": "Peace, gratitude, warmth, inspiration, serenity",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kisah satpam",
+      "malam hari",
+      "refleksi diri",
+      "kedamaian batin",
+      "cerita inspiratif",
+      "keindahan sederhana",
+      "rutinitas malam",
+      "apresiasi hidup",
+      "filosofi kehidupan",
+      "psikologi positif"
+    ]
+  }
+}
