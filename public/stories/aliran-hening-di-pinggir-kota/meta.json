@@ -1,0 +1,44 @@
+{
+  "id": "story-1788120682359",
+  "slug": "aliran-hening-di-pinggir-kota",
+  "title": "Aliran Hening di Pinggir Kota",
+  "genre": "romance subtle",
+  "theme": "Mengeksplorasi bagaimana pertemuan tak terduga dengan orang asing di tengah rutinitas dapat menawarkan kedamaian dan membuka pintu bagi sebuah koneksi emosional yang halus.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-08-30T20:11:22.359Z",
+  "updated_at": "2026-08-30T20:11:22.359Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "slice of life",
+    "urban escape",
+    "serenity",
+    "stranger connection",
+    "peace",
+    "ciliwung",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "A serene riverbank at sunset, with warm golden light illuminating tranquil waters and untouched riparian flora. In the far distance, a soft glow of a contemporary city skyline is visible, hinting at urban bustle but maintaining a sense of peaceful separation. Composition focuses on the river's gentle curve, inviting a feeling of sanctuary and quiet contemplation. Environmental wide shot, capturing the essence of escape and natural calm.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/aliran-hening-di-pinggir-kota/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rina, a young professional, finds solace by the Ciliwung river, often observing a mysterious artist, Bima. A moment of accidental near-loss of her bag leads to Bima's timely help, sparking a brief, meaningful conversation about finding peace amidst urban chaos, and an unspoken connection between them.",
+    "target_emotion": "peaceful reflection and gentle hope",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Indonesian short story",
+      "romance subtle",
+      "urban escape",
+      "river tranquility",
+      "stranger connection",
+      "peaceful narrative",
+      "daily life story",
+      "jakarta story",
+      "indonesian literature"
+    ]
+  }
+}
