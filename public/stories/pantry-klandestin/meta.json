@@ -1,0 +1,44 @@
+{
+  "id": "story-1788293596761",
+  "slug": "pantry-klandestin",
+  "title": "Pantry Klandestin",
+  "genre": "dark comedy",
+  "theme": "Menemukan kebebasan dan makna absurd dalam rutinitas kerja yang monoton melalui observasi jenaka terhadap keanehan rekan-rekan kerja.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-09-01T20:13:16.760Z",
+  "updated_at": "2026-09-01T20:13:16.760Z",
+  "status": "published",
+  "tags": [
+    "kantor",
+    "humor",
+    "absurditas",
+    "rutinitas",
+    "observasi",
+    "komedi gelap",
+    "indonesia",
+    "sarkasme"
+  ],
+  "cover": {
+    "prompt": "An environmental shot of an office pantry. Focus on a refrigerator door, prominently featuring a single, distinct sticky note placed gently. Other layered notes are subtly visible in the background on the fridge. Scattered crumbs on a clean countertop and an instant coffee jar are in the soft-focus distance, hinting at daily corporate routines. The atmosphere conveys subtle intrigue and the gentle absurdity of everyday office life. Diffused, soft morning light bathes the scene, rendered with a muted, clean color palette.",
+    "style": "Cinematic photography, shallow depth of field, muted color grading, gentle ambient light, minimalist composition focusing on objects.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pantry-klandestin/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan sinis menemukan catatan konyol di pantry kantor yang memicu observasi jenaka terhadap rekan-rekan kerja, mengungkap absurditas dan menemukan hiburan dalam kekonyolan rutinitas.",
+    "target_emotion": "amusement and cynical insight",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "pantry kantor",
+      "humor kantor",
+      "komedi gelap",
+      "rutinitas kerja",
+      "observasi karyawan",
+      "absurditas kerja",
+      "kisah pendek",
+      "indonesia",
+      "cerita pendek"
+    ]
+  }
+}
