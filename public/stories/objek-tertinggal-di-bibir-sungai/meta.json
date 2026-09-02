@@ -1,0 +1,49 @@
+{
+  "id": "story-1788379933352",
+  "slug": "objek-tertinggal-di-bibir-sungai",
+  "title": "Objek Tertinggal di Bibir Sungai",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi perasaan tak nyaman saat menemukan objek asing yang memicu perdebatan internal tentang kebenaran yang mungkin tersembunyi.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-09-02T20:12:13.352Z",
+  "updated_at": "2026-09-02T20:12:13.352Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "misteri",
+    "introspektif",
+    "fotografi",
+    "sungai",
+    "boneka usang",
+    "ketenangan",
+    "firasat",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "An environmental shot of a tranquil riverbank at pre-dawn. An unoccupied professional DSLR camera is set firmly on a tripod by the water's edge on damp earth. The eastern horizon displays the first soft hues of a gentle sunrise, casting a warm and subtle illumination. A light, cool mist gracefully blankets the quiet water and distant trees, evoking a peaceful, contemplative atmosphere. Composition adheres to the rule of thirds, emphasizing the stillness of the moment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, gentle ambient lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/objek-tertinggal-di-bibir-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance photographer, Dion, seeking solace by a quiet river at dawn, discovers an anomalous old cloth doll. Its unusual placement and faded details, including faint initials, spark a deep internal debate between investigating the mystery and leaving it untouched. He ultimately decides to photograph it for personal reflection, accepting the unresolved nature of some mysteries, leaving him with a lingering sense of calm unease.",
+    "target_emotion": "Curiosity, slight unease, melancholic introspection",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Objek Tertinggal",
+      "Bibir Sungai",
+      "Thriller Ringan",
+      "Fotografer Freelance",
+      "Misteri Boneka",
+      "Fajar Sungai",
+      "Ketenangan Terusik",
+      "Inisial Boneka",
+      "Monolog Internal",
+      "Kisah Tak Terpecahkan",
+      "Jakarta Pagi",
+      "Fotografi Alam",
+      "Teka-teki Sungai"
+    ]
+  }
+}
