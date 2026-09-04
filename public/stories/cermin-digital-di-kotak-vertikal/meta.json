@@ -1,0 +1,46 @@
+{
+  "id": "story-1788551883098",
+  "slug": "cermin-digital-di-kotak-vertikal",
+  "title": "Cermin Digital di Kotak Vertikal",
+  "genre": "sci-fi ringan",
+  "theme": "Menemukan arti kesendirian di tengah interaksi teknologi yang semakin mendominasi, merenungkan koneksi manusia yang memudar dan pentingnya hadir dalam momen nyata.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-09-04T19:58:03.098Z",
+  "updated_at": "2026-09-04T19:58:03.098Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "teknologi",
+    "kesendirian",
+    "koneksi manusia",
+    "melankolis",
+    "futuristik",
+    "masa lalu",
+    "perenungan",
+    "lift pintar",
+    "smart building"
+  ],
+  "cover": {
+    "prompt": "An empty, extended pathway inside a high-rise residential building. Gentle light emanates from fixtures along the walls, creating a serene and quiet atmosphere. The sleek, minimalist architecture of the interior highlights a sense of modern solitude. A laptop is subtly visible on a clean, uncluttered surface, hinting at recent activity within this advanced smart building. The composition emphasizes the quietude and sophisticated design.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/cermin-digital-di-kotak-vertikal/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Aruna, seorang pekerja yang kesepian di gedung pintar, menaiki lift futuristik yang justru menampilkan fragmen kenangan digital tak terduga. Ini memaksa Aruna menghadapi kerinduan dan penyesalan akan koneksi yang memudar. Puncaknya, sebuah proyeksi holografik dari dirinya yang lebih muda dan sahabat lamanya muncul, menantang Aruna untuk memilih antara melanjutkan isolasi atau mencari kembali hubungan nyata. Akhirnya, Aruna tercerahkan dan memutuskan untuk mengambil langkah kecil demi membangun kembali koneksi yang hilang.",
+    "target_emotion": "Kerinduan, melankolis, kesadaran, harapan, refleksi diri",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerpen sci-fi Indonesia",
+      "kisah kesendirian digital",
+      "teknologi dan emosi",
+      "koneksi manusia di era modern",
+      "lift pintar",
+      "masa lalu dan penyesalan",
+      "refleksi kehidupan",
+      "cerita pendek melankolis",
+      "solusi isolasi sosial"
+    ]
+  }
+}
