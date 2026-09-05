@@ -1,0 +1,49 @@
+{
+  "id": "story-1788637066758",
+  "slug": "bayangan-ganjil-di-lorong-malam",
+  "title": "Bayangan Ganjil di Lorong Malam",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi sebuah keanehan kecil di tengah rutinitas malam, memicu rasa ingin tahu tentang apa yang sebenarnya terjadi di balik tirai kehidupan perkotaan yang tenang.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-09-05T19:37:46.758Z",
+  "updated_at": "2026-09-05T19:37:46.758Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "light mystery",
+    "jakarta",
+    "apartment",
+    "security guard",
+    "robotics",
+    "automation",
+    "slice of life",
+    "intrigue",
+    "surprise",
+    "indonesia",
+    "short story"
+  ],
+  "cover": {
+    "prompt": "An expansive, cinematic photograph of a grand, multi-story apartment complex at its most imposing, set against the early morning sky. The towering architecture dominates the frame, with many windows softly glowing, hinting at the vastness of a metropolis. A subtle, soft atmospheric haze adds depth to the scene. A solitary figure stands observing in the lower third of the frame, their form gently silhouetted against the ambient city light, emphasizing the immense scale of the surroundings. The composition adheres to the rule of thirds, utilizing shallow depth of field to draw focus to the architectural grandeur and the quietude of the late hours.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bayangan-ganjil-di-lorong-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang satpam muda, Reza, mengamati pola aneh jendela yang terbuka-tutup otomatis di apartemen. Rasa penasarannya memuncak saat ia melihat bayangan bergerak cepat. Menggunakan teropong, ia menemukan bahwa itu adalah lengan robotik mini, bagian dari proyek hobi seorang penghuni. Reza yang terhibur kemudian meninggalkan catatan lucu di pintu unit tersebut.",
+    "target_emotion": "Curiosity, mild intrigue, amusement, wonder",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek misteri",
+      "satpam apartemen",
+      "robotika ringan",
+      "jakarta malam",
+      "kisah unik",
+      "teka-teki kota",
+      "narasi ringan",
+      "kejutan positif",
+      "observasi",
+      "penghuni apartemen"
+    ]
+  }
+}
