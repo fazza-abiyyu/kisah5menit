@@ -1,0 +1,47 @@
+{
+  "id": "story-1788723659808",
+  "slug": "resi-lama-janji-baru",
+  "title": "Resi Lama, Janji Baru",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi bagaimana sebuah dokumen lama yang ditemukan di kantor pos dapat membuka kembali luka lama namun juga menyulut harapan baru dalam dinamika keluarga.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-09-06T19:40:59.808Z",
+  "updated_at": "2026-09-06T19:40:59.808Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "kantor pos",
+    "masa lalu",
+    "rekonsiliasi",
+    "harapan",
+    "surat lama",
+    "hubungan keluarga",
+    "jakarta",
+    "perselisihan keluarga",
+    "pengampunan"
+  ],
+  "cover": {
+    "prompt": "An old, grand colonial-style post office building in an Indonesian city, with intricate architectural details. A lone, gentle silhouette of a person is entering the main doors, facing away from the viewer. The afternoon sky above is heavily overcast, displaying soft, muted grays and purples, indicating an impending rain. The urban environment around the building conveys a distinct, aged character and a sense of history. The composition uses the rule of thirds, with a shallow depth of field, focusing on the building, evoking a profound feeling of stepping back in time and a nostalgic urban moment.",
+    "style": "Lo-fi aesthetic, vintage film grain, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/resi-lama-janji-baru/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang ibu tunggal, Mira, menemukan sebuah paket lama di kantor pos cabang Glodok yang terlupakan, ditujukan untuk pamannya, Budi Santoso, yang telah menghilang selama dua dekade akibat konflik keluarga. Penemuan ini memicu kembali ketegangan lama, mendorong Mira untuk menghadapi ibunya, Ibu Dewi. Konfrontasi tersebut, meskipun menyakitkan, mengungkap kebenaran dan kesedihan yang terpendam, membuka jalan bagi pemahaman dan harapan baru untuk rekonsiliasi serta pencarian Paman Budi, menandai awal penyembuhan keluarga.",
+    "target_emotion": "harapan, refleksi, dan penyembuhan",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "kantor pos glodok",
+      "drama keluarga indonesia",
+      "surat lama",
+      "paman hilang",
+      "rekonsiliasi keluarga",
+      "luka masa lalu",
+      "harapan baru",
+      "hubungan ibu anak",
+      "kisah keluarga",
+      "jakarta story"
+    ]
+  }
+}
