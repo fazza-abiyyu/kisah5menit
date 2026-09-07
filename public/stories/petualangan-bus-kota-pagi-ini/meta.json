@@ -1,0 +1,50 @@
+{
+  "id": "story-1788814301166",
+  "slug": "petualangan-bus-kota-pagi-ini",
+  "title": "Petualangan Bus Kota Pagi Ini",
+  "genre": "adventure ringan",
+  "theme": "Menemukan keajaiban dalam eksplorasi sederhana di sekitar lingkungan tempat tinggal, memecah rutinitas dan membuka mata pada hal-hal baru.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-09-07T20:51:41.165Z",
+  "updated_at": "2026-09-07T20:51:41.165Z",
+  "status": "published",
+  "tags": [
+    "adventure ringan",
+    "eksplorasi urban",
+    "melawan rutinitas",
+    "bus kota",
+    "jakarta",
+    "personal growth",
+    "penemuan",
+    "ceria",
+    "inspirasi",
+    "pasar loak",
+    "mural",
+    "kisah ringan"
+  ],
+  "cover": {
+    "prompt": "A modern smartphone with an unlit, black screen, or a perpetually spinning loading wheel on its display, positioned in the foreground to emphasize a moment of disrupted routine. In the softly blurred background, a bustling urban morning street is visible, with vehicles moving gently in traffic, hinting at a vibrant city awakening. The entire scene is bathed in a warm, gentle morning glow. Cinematic composition with a shallow depth of field, highlighting the isolated object against the active world.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/petualangan-bus-kota-pagi-ini/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang karyawan muda yang rutin mengandalkan ojek online terpaksa naik bus kota karena ponselnya mati. Awalnya merasa canggung, ia mulai memperhatikan detail kota di luar jendela, memicu rasa ingin tahu. Tergerak, ia turun di halte tak terduga dan menemukan sebuah 'creative market' dadakan yang unik. Pengalaman singkat ini memberinya perspektif baru, perasaan ringan, dan kesadaran akan keajaiban di luar rutinitas.",
+    "target_emotion": "Ceria, hangat, semangat penemuan, rasa ingin tahu, kebahagiaan ringan.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "petualangan bus kota",
+      "cerita inspirasi",
+      "eksplorasi urban",
+      "jakarta",
+      "melawan rutinitas",
+      "penemuan tak terduga",
+      "short story indonesia",
+      "kisah ringan",
+      "mural kota",
+      "pasar loak",
+      "kebahagiaan sederhana"
+    ]
+  }
+}
