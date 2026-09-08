@@ -1,0 +1,44 @@
+{
+  "id": "story-1788898996286",
+  "slug": "lantai-yang-bergeser",
+  "title": "Lantai yang Bergeser",
+  "genre": "psychological",
+  "theme": "Seseorang yang menghadapi perubahan persepsi terhadap lingkungan familiar, memicu kecemasan ringan dan pertanyaan tentang realitas, menemukan bahwa jawabannya seringkali terletak pada kondisi batinnya sendiri.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-09-08T20:23:16.286Z",
+  "updated_at": "2026-09-08T20:23:16.286Z",
+  "status": "published",
+  "tags": [
+    "psikologis",
+    "kecemasan",
+    "persepsi",
+    "realitas",
+    "introspeksi",
+    "overthinking",
+    "lift",
+    "apartemen",
+    "jakarta"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography, shallow depth of field, warm color grading. A tranquil morning scene from inside a high-floor studio apartment. Gentle, warm light illuminates a steaming coffee cup and a laptop on a clean table. In the background, slightly out of focus, a partially visible, elegantly aged elevator door stands in a sunlit corridor, subtly suggesting the gateway to the vast, bustling cityscape of Jakarta glimpsed through a large window. The composition uses the rule of thirds, creating a sense of routine, comfort, and the peaceful anticipation of a new day, connecting the private sanctuary with the expansive urban world.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lantai-yang-bergeser/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda, Anya, mulai mengalami keanehan pada lift apartemennya, memicu keraguan dan kecemasan tentang persepsinya sendiri. Puncak kepanikan terjadi saat ia terjebak dan mengalami ilusi visual serta auditori, yang akhirnya membawanya pada kesadaran bahwa manifestasi ganjil tersebut berasal dari kondisi batin dan overthinking-nya.",
+    "target_emotion": "Kecemasan, Introspeksi, Ketegangan Ringan",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "cerpen psikologis",
+      "kecemasan",
+      "persepsi realitas",
+      "overthinking",
+      "kisah introspeksi",
+      "lift aneh",
+      "jakarta",
+      "cerita pendek"
+    ]
+  }
+}
