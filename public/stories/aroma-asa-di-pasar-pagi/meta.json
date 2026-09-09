@@ -1,0 +1,45 @@
+{
+  "id": "story-1788984437278",
+  "slug": "aroma-asa-di-pasar-pagi",
+  "title": "Aroma Asa di Pasar Pagi",
+  "genre": "slice of life",
+  "theme": "Menemukan kehangatan dan makna mendalam dalam rutinitas harian serta kebaikan kecil di tengah kesibukan pasar tradisional.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-09-09T20:07:17.278Z",
+  "updated_at": "2026-09-09T20:07:17.278Z",
+  "status": "published",
+  "tags": [
+    "pasar tradisional",
+    "nasi uduk",
+    "kebaikan",
+    "komunitas",
+    "rutinitas",
+    "slice of life",
+    "optimisme",
+    "kehidupan sehari-hari",
+    "harapan"
+  ],
+  "cover": {
+    "prompt": "Early pre-dawn light just outside a modest home interior. A small kitchen space is warmly illuminated by the soft, inviting radiance of a single 40-watt neon lamp. The central focus is on a simple countertop showcasing bowls of aromatic ingredients: grated coconut, fresh bay leaves, and fragrant lemongrass. Subtle steam gently rises from a preparation area. The composition evokes a peaceful, industrious atmosphere filled with comforting warmth. A soft, indistinct silhouette of a figure is visible in the background, tending to the preparations.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/aroma-asa-di-pasar-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Kisah Ibu Ani, penjual nasi uduk di Pasar Pagi Kembang, yang memulai hari dengan semangat. Ia menghadapi tantangan kecil seperti keluhan pembeli, kesalahan kembalian, dan kehabisan kencur bumbu rahasia. Namun, di tengah keputusasaan, kebaikan tak terduga dari seorang anak kecil dan dukungan pedagang lain mengembalikan semangatnya, menegaskan nilai komunitas dan kehangatan di balik hiruk pikuk pasar.",
+    "target_emotion": "Haru, syukur, kehangatan, optimisme, inspirasi",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Nasi Uduk",
+      "Pasar Pagi",
+      "Kisah Inspiratif",
+      "Cerita Pendek",
+      "Kebaikan Harian",
+      "Komunitas Pasar",
+      "Ibu Ani",
+      "Rutinitas Pasar",
+      "Hikmah Kehidupan"
+    ]
+  }
+}
