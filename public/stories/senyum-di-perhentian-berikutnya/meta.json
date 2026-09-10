@@ -1,0 +1,49 @@
+{
+  "id": "story-1789070958975",
+  "slug": "senyum-di-perhentian-berikutnya",
+  "title": "Senyum di Perhentian Berikutnya",
+  "genre": "romance subtle",
+  "theme": "Menemukan keindahan dalam interaksi singkat yang mengubah perspektif tentang kesendirian dan potensi koneksi manusia di tengah rutinitas kota.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-09-10T20:09:18.975Z",
+  "updated_at": "2026-09-10T20:09:18.975Z",
+  "status": "published",
+  "tags": [
+    "romansa",
+    "slice of life",
+    "kota",
+    "jakarta",
+    "observasi",
+    "introspeksi",
+    "koneksi manusia",
+    "inspirasi",
+    "rutinitas",
+    "perjalanan bus",
+    "kehangatan"
+  ],
+  "cover": {
+    "prompt": "View from inside a city bus, looking out through a softly misted window. The window frame acts as a natural border, framing a vibrant yet gently blurred street scene of a bustling Southeast Asian city at golden hour. Distant forms of buildings, general outlines of people, and moving vehicles are visible through the atmospheric condensation. Subtle reflections of the bus interior overlay the exterior view. The composition emphasizes a strong sense of observational solitude and peaceful contemplation, with warm, diffused lighting. Cinematic composition, rule of thirds, deep depth of field, environmental storytelling.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-di-perhentian-berikutnya/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A writer finds comfort in solitude and daily bus observations until a new passenger sparks her curiosity. A brief, unexpected interaction—a shared smile or a small act of kindness—creates a subtle connection, transforming her perspective on human connection and inspiring new work, leaving her with renewed optimism.",
+    "target_emotion": "Harapan, Kehangatan, Optimisme, Ketenangan, Introspeksi",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "penulis lepas",
+      "bus kota",
+      "Jakarta",
+      "romansa singkat",
+      "koneksi manusia",
+      "observasi",
+      "perubahan perspektif",
+      "inspirasi",
+      "kisah sehari-hari",
+      "senyum",
+      "interaksi tak terduga"
+    ]
+  }
+}
