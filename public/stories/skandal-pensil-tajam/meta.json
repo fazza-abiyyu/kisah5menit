@@ -1,0 +1,43 @@
+{
+  "id": "story-1789157567299",
+  "slug": "skandal-pensil-tajam",
+  "title": "Skandal Pensil Tajam",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi absurditas dan rutinitas monoton kehidupan kantor yang kadang membuat seseorang meragukan kewarasan diri sendiri.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-09-11T20:12:47.299Z",
+  "updated_at": "2026-09-11T20:12:47.299Z",
+  "status": "published",
+  "tags": [
+    "office life",
+    "dark comedy",
+    "obsession",
+    "paranoia",
+    "mundane absurdity",
+    "existential crisis",
+    "mechanical pencil",
+    "workplace drama"
+  ],
+  "cover": {
+    "prompt": "A finely crafted 0.5mm mechanical pencil, perfectly centered on a clean, smooth desk surface. Gentle, warm light catches its metallic details, emphasizing its precision and elegant design. The composition conveys a feeling of quiet contemplation and meticulous thought, with a softly blurred background hinting at an organized workspace. A subtle sense of potential and efficiency.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/skandal-pensil-tajam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Ari, an aging office worker obsessed with precision, descends into a paranoid investigation after his beloved mechanical pencil vanishes, replaced by a dull wooden one. His suspicions lead him to accuse a junior colleague of a 'pencil-swapping conspiracy,' only to discover a mundane explanation that highlights the absurdities of office life and his own dwindling sanity.",
+    "target_emotion": "amusement, cynicism, existential reflection",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "office dark comedy",
+      "workplace satire",
+      "paranoid employee",
+      "missing mechanical pencil",
+      "absurd office routine",
+      "corporate life humor",
+      "existential dread office",
+      "humorous cynicism"
+    ]
+  }
+}
