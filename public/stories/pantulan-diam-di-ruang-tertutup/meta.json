@@ -1,0 +1,52 @@
+{
+  "id": "story-1789242270383",
+  "slug": "pantulan-diam-di-ruang-tertutup",
+  "title": "Pantulan Diam di Ruang Tertutup",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi ketidakpastian yang pelan-pelan menyelinap ke dalam rutinitas, memaksa karakter untuk beradaptasi dengan perubahan tak terduga yang mungkin hanya ilusi.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-09-12T19:44:30.383Z",
+  "updated_at": "2026-09-12T19:44:30.383Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "psikologis",
+    "ketidakpastian",
+    "ilusi",
+    "cermin",
+    "paranoid",
+    "melankolis",
+    "introspektif",
+    "urban",
+    "apartemen",
+    "refleksi diri",
+    "mixed-language"
+  ],
+  "cover": {
+    "prompt": "Empty apartment lift interior at early morning. A gently worn silver mirror dominates one wall, reflecting soft, diffused light. A subtle, almost imperceptible visual nuance on the mirror's surface suggests a departure from accustomed predictability. Cinematic composition, golden hour illumination.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pantulan-diam-di-ruang-tertutup/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Elara, a young professional, encounters increasingly unsettling anomalies in her apartment lift's mirror reflections, leading to paranoia and doubts about her sanity. The climax reveals a distinct, static figure in the mirror when the lift is empty. She eventually finds a simple, logical explanation rooted in minor mirror deformation and security camera reflections, which brings a melancholic relief and profound reflection on the mind's ability to create illusion from trivial details.",
+    "target_emotion": "Kecemasan, introspeksi, kelegaan melankolis, refleksi diri",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "thriller psikologis",
+      "ilusi optik",
+      "kecemasan",
+      "refleksi diri",
+      "cermin",
+      "pantulan",
+      "apartemen",
+      "urban",
+      "persepsi",
+      "ketidakpastian",
+      "kisah misteri",
+      "melankolis",
+      "anomali visual"
+    ]
+  }
+}
