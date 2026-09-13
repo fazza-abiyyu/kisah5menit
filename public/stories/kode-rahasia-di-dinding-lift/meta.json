@@ -1,0 +1,48 @@
+{
+  "id": "story-1789329379685",
+  "slug": "kode-rahasia-di-dinding-lift",
+  "title": "Kode Rahasia di Dinding Lift",
+  "genre": "sci-fi ringan",
+  "theme": "Menemukan keanehan kecil dalam rutinitas harian yang membuka pertanyaan tentang struktur realitas dan kemungkinan dimensi lain.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-09-13T19:56:19.684Z",
+  "updated_at": "2026-09-13T19:56:19.684Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "misteri",
+    "keanehan",
+    "rutinitas",
+    "realitas",
+    "dimensi alternatif",
+    "observasi",
+    "lift",
+    "apartemen",
+    "simbol",
+    "psikologis",
+    "cerita pendek"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a pristine modern apartment lift interior. The frame highlights a brushed stainless steel wall, subtly featuring a very small, simple, non-text doodle in one corner. Gentle ambient light creates soft reflections on the metallic surface. Shallow depth of field, focusing on the subtle drawing, with a clean and calm atmosphere, suggesting a quiet moment of intrigue within routine. Emphasize quiet observation.",
+    "style": "Cinematic photography, shallow depth of field, gentle ambient light, subtle intrigue.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kode-rahasia-di-dinding-lift/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang desainer grafis freelance, Gilang, mulai melihat simbol aneh di dinding lift apartemennya yang hanya terlihat olehnya. Simbol-simbol ini berkembang, memicu insiden aneh dan membuatnya mempertanyakan realitasnya, apalagi saat orang lain tak melihat apa-apa. Puncaknya, lift mengalami glitch dan menampilkan sekilas visual dari realitas alternatif atau pesan misterius. Gilang memutuskan untuk merahasiakan pengalamannya, kini memandang setiap sudut kota dan rutinitasnya dengan rasa ingin tahu mendalam, selalu mencari tanda-tanda keanehan tersembunyi di dunia.",
+    "target_emotion": "Intrigue, wonder, curiosity, mild unsettling mystery.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita sci-fi ringan",
+      "misteri apartemen",
+      "dimensi paralel",
+      "realitas tersembunyi",
+      "kode rahasia",
+      "gilang desainer grafis",
+      "fiksi ilmiah Indonesia",
+      "cerita observasi",
+      "keanehan sehari-hari"
+    ]
+  }
+}
