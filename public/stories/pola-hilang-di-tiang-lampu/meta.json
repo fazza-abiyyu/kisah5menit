@@ -1,0 +1,50 @@
+{
+  "id": "story-1789420011651",
+  "slug": "pola-hilang-di-tiang-lampu",
+  "title": "Pola Hilang di Tiang Lampu",
+  "genre": "mystery ringan",
+  "theme": "Mengungkap kebiasaan kecil dan pola tersembunyi di sudut kota yang ramai, menyoroti keunikan kehidupan sehari-hari yang sering terlewatkan.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-09-14T21:06:51.651Z",
+  "updated_at": "2026-09-14T21:06:51.651Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "light mystery",
+    "urban life",
+    "daily life",
+    "observation",
+    "city",
+    "Jakarta",
+    "hidden patterns",
+    "human behavior",
+    "reflective",
+    "calm"
+  ],
+  "cover": {
+    "prompt": "A serene panoramic view of a bustling metropolis at golden hour, observed from a high-rise balcony. A camera lens and a well-used notebook are gently placed on the balcony railing, suggesting careful observation. The scene focuses on the intricate patterns of urban pathways and the gentle, dynamic flow of city activity below. Warm, soft sunlight casts a comforting glow, enhancing the overall atmosphere of contemplation and discovery. Cinematic composition, with a gentle depth of field, emphasizing the vastness of the city and the intimate act of observing.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pola-hilang-di-tiang-lampu/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance urban observer, Maya, notices a peculiar pattern: an advertising sticker on a lamppost near her home disappears every Monday morning, only to be replaced by a new one on Tuesday. Her curiosity is piqued, leading her to meticulously observe her surroundings. After weeks of amateur detective work, she discovers an elderly newspaper vendor, Pak Jaya, is intentionally removing the stickers each Monday because he finds them visually disruptive. This simple revelation brings Maya a renewed appreciation for the unique routines and hidden individual contributions to the city's fabric.",
+    "target_emotion": "Contemplation and quiet amusement leading to a sense of understanding.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "kisah urban",
+      "jakarta",
+      "misteri ringan",
+      "observasi kota",
+      "kehidupan sehari-hari",
+      "pola tersembunyi",
+      "makna kecil",
+      "pengamat kota",
+      "reflektif",
+      "kakek penjual koran",
+      "tiang lampu"
+    ]
+  }
+}
