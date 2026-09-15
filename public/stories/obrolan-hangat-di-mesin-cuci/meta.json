@@ -1,0 +1,46 @@
+{
+  "id": "story-1789504275491",
+  "slug": "obrolan-hangat-di-mesin-cuci",
+  "title": "Obrolan Hangat di Mesin Cuci",
+  "genre": "drama keluarga",
+  "theme": "Menggali kehangatan dan dukungan yang tak terduga dalam rutinitas sehari-hari, menemukan keluarga dalam komunitas kecil di antara tetangga.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-09-15T20:31:15.491Z",
+  "updated_at": "2026-09-15T20:31:15.491Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "ibu tunggal",
+    "komunitas",
+    "tetangga",
+    "kebaikan hati",
+    "dukungan emosional",
+    "rutinitas",
+    "kehangatan",
+    "persahabatan"
+  ],
+  "cover": {
+    "prompt": "Apartment interior, early morning, warm sunlight gently streaming through a large window, creating bright spots on the floor. A towering pile of folded and unfolded laundry in the corner of a room, subtly arranged to evoke a sense of a fabric 'mountain'. A child's small, brightly colored toy, like a stuffed animal or building block, rests near the base of the laundry pile. The overall atmosphere conveys a quiet, gentle overwhelm amidst daily duties. The scene is bathed in soft, natural light, highlighting textures and a sense of quietude.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/obrolan-hangat-di-mesin-cuci/cover.png"
+  },
+  "meta": {
+    "plan_summary": "An overwhelmed single mother, Rina, faces a broken washing machine, exacerbating her frustration. A cheerful elderly neighbor, Bu Ida, offers help, turning a mundane chore into a heartwarming exchange of support and wisdom, making Rina realize she's not alone and finding family in her community.",
+    "target_emotion": "Warmth, relief, connection, hope, empathy",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita inspiratif",
+      "drama keluarga",
+      "ibu tunggal",
+      "komunitas apartemen",
+      "kebaikan tetangga",
+      "dukungan emosional",
+      "kisah sehari-hari",
+      "persahabatan antar generasi",
+      "resolusi konflik batin",
+      "cerpen"
+    ]
+  }
+}
