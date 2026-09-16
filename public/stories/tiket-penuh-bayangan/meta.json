@@ -1,0 +1,43 @@
+{
+  "id": "story-1789590731762",
+  "slug": "tiket-penuh-bayangan",
+  "title": "Tiket Penuh Bayangan",
+  "genre": "adventure ringan",
+  "theme": "Menjelajahi keanehan tak terduga yang muncul selama perjalanan rutin, di mana setiap detail kecil bisa menjadi petunjuk menuju sebuah petualangan ringan dan misteri terselubung.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-09-16T20:32:11.762Z",
+  "updated_at": "2026-09-16T20:32:11.762Z",
+  "status": "published",
+  "tags": [
+    "bus malam",
+    "petualangan ringan",
+    "misteri",
+    "immersive experience",
+    "cerita pendek",
+    "fiksi",
+    "ketegangan",
+    "kejutan",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "Interior view of a modern long-distance bus at night. The seating area appears largely unoccupied, conveying a profound stillness. Gentle, cool-toned ambient light illuminates the aisle and rows of seats, suggesting a quiet journey. Through the expansive windows, a soft, blurred impression of the passing evening scenery is visible. The composition emphasizes spaciousness and an overarching atmosphere of tranquil anticipation, with a focus on textures and reflections within the bus cabin.",
+    "style": "Cinematic photography, shallow depth of field, cool color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/tiket-penuh-bayangan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer menaiki bus malam ke kota kecil untuk proyek dadakan, merasa ada yang aneh dengan suasana bus dan beberapa penumpang mencurigakan. Selama perjalanan, ia menyadari pola aneh di antara penumpang, memicu kecurigaan bahwa ada agenda tersembunyi. Bus mendadak berhenti di tengah hutan lebat, semua lampu padam total. Akhirnya terungkap bahwa semua insiden aneh adalah bagian dari 'immersive adventure experience' yang sengaja dipesan oleh kliennya, mengubah ketegangan menjadi kelegaan dan tawa.",
+    "target_emotion": "suspense, paranoia, surprise, relief, amusement",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek indonesia",
+      "petualangan ringan",
+      "misteri bus malam",
+      "immersive experience",
+      "thriller ringan",
+      "fiksi perjalanan",
+      "kejutan tak terduga"
+    ]
+  }
+}
