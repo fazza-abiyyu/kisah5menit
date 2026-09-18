@@ -1,0 +1,47 @@
+{
+  "id": "story-1789761962588",
+  "slug": "coretan-di-sudut-sepi",
+  "title": "Coretan di Sudut Sepi",
+  "genre": "slice of life",
+  "theme": "Menemukan kembali makna dan ketenangan batin melalui observasi detail alam serta refleksi tentang perjalanan hidup yang penuh kejutan dan ketidakpastian.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-09-18T20:06:02.588Z",
+  "updated_at": "2026-09-18T20:06:02.588Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "introspektif",
+    "ketenangan batin",
+    "inspirasi",
+    "proses kreatif",
+    "urban escape",
+    "penulis",
+    "refleksi",
+    "alam",
+    "pertumbuhan pribadi"
+  ],
+  "cover": {
+    "prompt": "A wide cinematic shot of a city pathway at golden hour. The foreground features a quiet, gently illuminated sidewalk, with the warm light casting long, soft glows. In the midground, the blurred forms of distant city structures and subtle light sources suggest the receding energy of urban life. The composition uses the rule of thirds, with a soft depth of field, emphasizing the calm transition. Focus on atmospheric detail and the interplay of light and architecture.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/coretan-di-sudut-sepi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Raya, a freelance writer, seeks inspiration and peace away from the city's clamor, finding a secluded spot by a river. Struggling with self-doubt and creative block, she discovers a simple poem on a tattered paper caught in tree roots. This small discovery helps her realize that true inspiration comes from overlooked details, leading her to renewed inner peace and a fresh creative perspective for her writing.",
+    "target_emotion": "peace, serenity, optimism, introspection, connection, relief",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "inspirasi menulis",
+      "ketenangan batin",
+      "cerita reflektif",
+      "slice of life",
+      "penulis lepas",
+      "pelarian kota",
+      "alam dan inspirasi",
+      "menemukan diri",
+      "proses kreatif",
+      "pengembangan diri"
+    ]
+  }
+}
