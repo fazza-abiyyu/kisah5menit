@@ -1,0 +1,49 @@
+{
+  "id": "story-1789934039753",
+  "slug": "pertemuan-gerbong-berisik",
+  "title": "Pertemuan Gerbong Berisik",
+  "genre": "romance subtle",
+  "theme": "Mengeksplorasi bagaimana koneksi manusia yang tak terduga dapat muncul dari rutinitas harian yang paling membosankan, bahkan untuk individu yang paling sinis.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-09-20T19:53:59.753Z",
+  "updated_at": "2026-09-20T19:53:59.753Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle",
+    "KRL",
+    "komuter",
+    "Jakarta",
+    "sinis",
+    "humor",
+    "koneksi tak terduga",
+    "rutinitas",
+    "sketchbook",
+    "transformasi"
+  ],
+  "cover": {
+    "prompt": "A close, intimate view of a well-worn fabric train seat within a commuter rail carriage. Early morning light filters softly through a nearby window, casting warm, subtle illumination on the seat's familiar contours. In the background, beyond the window, a bustling station platform is visible as a gentle blur of activity and indistinct shapes. The composition uses a shallow depth of field, focusing on the seat to convey a feeling of daily transit and quiet reflection.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pertemuan-gerbong-berisik/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda yang sinis menjalani rutinitas harian di KRL, mengamati dan mengkritik penumpang lain. Kedatangan penumpang baru yang eksentrik, Mentari, dengan kebiasaan menggambar, perlahan mengusik sinisme sang protagonis. Interaksi kecil dan insiden tak terduga, seperti Mentari hampir jatuh dan ditolong protagonis, memaksanya mengakui adanya pergeseran dalam perasaannya. Akhirnya, sang protagonis mulai menantikan pertemuan dengan Mentari, menyadari bahwa perjalanannya telah menjadi lebih berwarna.",
+    "target_emotion": "Reluctant warmth, subtle amusement, unexpected connection, quiet reflection",
+    "reading_time_minutes": 9,
+    "keywords": [
+      "KRL",
+      "commuter rail",
+      "Jakarta",
+      "cynicism",
+      "romance",
+      "subtle connection",
+      "daily routine",
+      "unexpected friendship",
+      "sketchbook",
+      "urban life",
+      "Indonesian story"
+    ]
+  }
+}
