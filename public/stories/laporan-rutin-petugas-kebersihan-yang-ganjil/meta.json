@@ -1,0 +1,49 @@
+{
+  "id": "story-1790025462241",
+  "slug": "laporan-rutin-petugas-kebersihan-yang-ganjil",
+  "title": "Laporan Rutin Petugas Kebersihan yang Ganjil",
+  "genre": "dark comedy",
+  "theme": "Menemukan absurditas yang menghibur dalam rutinitas kerja yang monoton dan bagaimana penerimaan atas kekacauan kecil membawa kedamaian yang tak terduga.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-09-21T21:17:42.241Z",
+  "updated_at": "2026-09-21T21:17:42.241Z",
+  "status": "published",
+  "tags": [
+    "petugas kebersihan",
+    "rutinitas",
+    "kantor",
+    "absurditas",
+    "humor pahit",
+    "refleksi diri",
+    "kedamaian",
+    "monoton",
+    "cerita pendek",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Cinematic photograph of a quiet public service office at twilight. Rows of vacant cubicles extend into the gentle illumination, with meticulously stacked administrative forms visible on desks. A solitary floor mop leans against a partition, reflecting subtle ambient light. The composition evokes a serene atmosphere of profound quietude, focusing on the calm arrangement of overlooked spaces and objects. Rule of thirds composition, with soft ambient lighting and cool undertones, contrasted by faint, distant warm glows. Emphasize the tranquil solitude and the methodical order of the environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/laporan-rutin-petugas-kebersihan-yang-ganjil/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A melancholic janitor, Pak Kusno, accustomed to his monotonous routine in a public service office, discovers a series of peculiar notes left daily on the same desk. These absurd notes initially disrupt his quiet routine, forcing him to engage with the traces of others and reflect on his own life's oddities. The 'mystery' behind the notes is eventually resolved by a lonely intern, Bunga, who used them to cope with boredom. This anti-climactic yet heartwarming revelation transforms Pak Kusno's perspective, allowing him to find bitter humor and unexpected peace in accepting life's inherent chaos and the unspoken stories within his environment.",
+    "target_emotion": "thoughtfulness, amusement, serene acceptance, melancholic introspection",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "petugas kebersihan",
+      "cerita pendek",
+      "kantor publik",
+      "rutinitas kerja",
+      "absurditas",
+      "humor melankolis",
+      "refleksi hidup",
+      "kedamaian batin",
+      "kisah Indonesia",
+      "monoton",
+      "kebosanan kerja",
+      "penemuan diri"
+    ]
+  }
+}
