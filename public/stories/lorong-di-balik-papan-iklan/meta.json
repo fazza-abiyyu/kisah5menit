@@ -1,0 +1,43 @@
+{
+  "id": "story-1790109171658",
+  "slug": "lorong-di-balik-papan-iklan",
+  "title": "Lorong di Balik Papan Iklan",
+  "genre": "thriller ringan",
+  "theme": "Menjelajahi bagaimana sebuah anomali kecil dalam rutinitas dapat membuka mata pada misteri tersembunyi dan memicu rasa ingin tahu yang tak terduga.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-09-22T20:32:51.658Z",
+  "updated_at": "2026-09-22T20:32:51.658Z",
+  "status": "published",
+  "tags": [
+    "misteri",
+    "thriller",
+    "urban",
+    "kurir",
+    "terowongan",
+    "simbol rahasia",
+    "jakarta",
+    "anomali"
+  ],
+  "cover": {
+    "prompt": "A wide urban street scene during golden hour, bathed in a warm, gentle light. Dense city traffic stretches into the distance, with a focus on a line of stationary motorbikes and cars. Composition uses the rule of thirds, with a shallow depth of field blurring the background elements. A single, subtle glowing phone screen is visible on one of the motorbikes, indicating an active delivery app. The mood is one of quiet urgency and vast urban expanse. Evokes a feeling of time passing amidst the city's movement, with the soft glow of emerging city lights beginning to dot the horizon. Focus on the intricate patterns of vehicles and the overall atmospheric glow.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lorong-di-balik-papan-iklan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Bima, a food delivery driver, takes an unexpected shortcut through a rarely used pedestrian tunnel due to a sudden road closure. Inside, he notices strange symbols and markings on the walls. Intrigued, he stops and, experiencing an unnatural cold breeze and faint sounds, discovers a mysterious, hand-scribed business card hidden in a wall crack. Pressured by delivery time, Bima continues his journey, the mysterious card and the tunnel's secrets sparking a deep curiosity within him.",
+    "target_emotion": "curiosity, light mystery, subtle unease",
+    "reading_time_minutes": 9,
+    "keywords": [
+      "misteri terowongan",
+      "kisah kurir",
+      "simbol rahasia",
+      "thriller ringan",
+      "jakarta urban",
+      "cerita pendek",
+      "anomali kota",
+      "petualangan ringan"
+    ]
+  }
+}
