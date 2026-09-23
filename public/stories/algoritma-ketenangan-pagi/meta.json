@@ -1,0 +1,49 @@
+{
+  "id": "story-1790196318552",
+  "slug": "algoritma-ketenangan-pagi",
+  "title": "Algoritma Ketenangan Pagi",
+  "genre": "sci-fi ringan",
+  "theme": "Mengeksplorasi bagaimana rutinitas harian yang serba otomatis di kota futuristik dapat memicu refleksi diri dan pencarian makna mendalam.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-09-23T20:45:18.552Z",
+  "updated_at": "2026-09-23T20:45:18.552Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "futuristik",
+    "reflektif",
+    "otomatisasi",
+    "jakarta-masa-depan",
+    "desain-ui/ux",
+    "makna-hidup",
+    "glitch",
+    "ketenangan",
+    "rutinitas"
+  ],
+  "cover": {
+    "prompt": "A wide shot of a futuristic Neo-Jakarta cityscape at dawn, viewed from inside a minimalist high-rise apartment. Golden morning light gently streams through the transparent panoramic window, illuminating a sleek, empty holographic workspace and vibrant aeroponic plants. The vast, awakening city stretches into the horizon, conveying a mood of peaceful, futuristic serenity.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/algoritma-ketenangan-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Arka, a UI/UX designer in a highly automated Neo-Jakarta, feels an existential emptiness despite his perfectly orchestrated life. A minor glitch in his sky-pod forces him to slow down and observe the subtle imperfections and organic details of the city, leading to a profound realization that true serenity comes from embracing minor flaws and human touches, prompting him to rethink his design philosophy.",
+    "target_emotion": "reflection, contemplation, serenity, wonder",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "sci-fi",
+      "futuristik",
+      "jakarta-masa-depan",
+      "otomatisasi",
+      "refleksi-diri",
+      "pencarian-makna",
+      "desain-ui/ux",
+      "glitch-teknologi",
+      "rutinitas-futuristik",
+      "ketenangan-batin",
+      "interaksi-manusiawi",
+      "anomali"
+    ]
+  }
+}
