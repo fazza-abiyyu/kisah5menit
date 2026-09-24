@@ -1,0 +1,44 @@
+{
+  "id": "story-1790283060034",
+  "slug": "keanehan-di-kotak-bergerak",
+  "title": "Keanehan di Kotak Bergerak",
+  "genre": "mystery ringan",
+  "theme": "Menjelajahi keanehan kecil yang tersembunyi dalam kehidupan sehari-hari dan menemukan kegembiraan dalam memecahkan teka-teki tak terduga.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-09-24T20:51:00.034Z",
+  "updated_at": "2026-09-24T20:51:00.034Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "apartemen",
+    "kurir",
+    "anak-anak",
+    "persahabatan",
+    "Jakarta",
+    "teka-teki",
+    "rutinitas"
+  ],
+  "cover": {
+    "prompt": "Early morning in a bustling Jakarta cityscape. A tall apartment building dominates the background, subtly catching the first rays of the sun. In the foreground, a warm, soft morning light bathes a parked motorcycle, keys in the ignition. On the motorcycle's seat, a helmet rests next to a stack of neatly bundled packages, ready for delivery. A steaming mug of instant coffee sits on a small table nearby, its warmth a gentle contrast to the cool morning air. The scene is composed with the rule of thirds, showcasing a glimpse of a daily routine in an urban setting. Focus on the interplay of city architecture and the essential objects of a courier's morning, evoking a sense of calm efficiency and the gentle awakening of a new day. The overall atmosphere is one of quiet anticipation.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/keanehan-di-kotak-bergerak/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kurir bernama Rio menemukan pola aneh pada tombol lift di apartemennya. Rasa penasaran membuatnya mengamati dan mencatat, sampai akhirnya ia menemukan pelakunya: seorang anak kecil yang sedang bermain, membayangkan lift sebagai pesawat luar angkasa. Kejadian ini tidak hanya memecahkan misterinya tetapi juga mengawali persahabatan baru.",
+    "target_emotion": "kegembiraan, kehangatan, rasa ingin tahu yang terpuaskan, koneksi tak terduga",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "misteri lift",
+      "kurir Jakarta",
+      "kehidupan apartemen",
+      "persahabatan tak terduga",
+      "anak-anak imajinasi",
+      "kisah ringan",
+      "rutinitas kota",
+      "teka-teki sehari-hari"
+    ]
+  }
+}
