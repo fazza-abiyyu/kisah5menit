@@ -1,0 +1,47 @@
+{
+  "id": "story-1790369313939",
+  "slug": "pesan-tak-terucap-di-balik-kaca-lobi",
+  "title": "Pesan Tak Terucap di Balik Kaca Lobi",
+  "genre": "drama keluarga",
+  "theme": "Eksplorasi ketegangan tak terucap dan upaya perlahan untuk memperbaiki retakan dalam hubungan keluarga yang renggang, melalui observasi seorang saksi tak langsung.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-09-25T20:48:33.939Z",
+  "updated_at": "2026-09-25T20:48:33.939Z",
+  "status": "published",
+  "tags": [
+    "drama",
+    "keluarga",
+    "remaja",
+    "hubungan-orangtua-anak",
+    "ketegangan-emosional",
+    "lobi-apartemen",
+    "indonesia",
+    "observasi",
+    "harapan",
+    "silent-conflict"
+  ],
+  "cover": {
+    "prompt": "Luxury apartment lobby at Edelweiss. Golden hour, warm afternoon sun rays streaming through immense glass windows, illuminating polished marble floors with a gentle, soft glow. The light embraces plush cream velvet sofas. A tall vase with elegant white lilies stands near a subtle corner cafe. The setting evokes a serene and welcoming atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-tak-terucap-di-balik-kaca-lobi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang satpam lobi mengamati ketegangan tak terucap antara seorang remaja dan ibunya dalam pertemuan singkat di lobi apartemen. Ibu mencoba berkomunikasi, namun sang anak tetap defensif dan pergi tanpa bicara. Ibu meninggalkan pesan tertulis dan gantungan kunci, menyadari upaya rekonsiliasi akan membutuhkan waktu dan kesabaran.",
+    "target_emotion": "melankolis, tegang, simpati, harapan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "hubungan orang tua anak",
+      "ketegangan emosional",
+      "komunikasi minim",
+      "lobi apartemen",
+      "kisah observasi",
+      "resolusi konflik",
+      "harapan rekonsiliasi",
+      "silent struggle",
+      "jakarta story"
+    ]
+  }
+}
