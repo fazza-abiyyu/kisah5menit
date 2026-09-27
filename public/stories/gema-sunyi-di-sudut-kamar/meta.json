@@ -1,0 +1,45 @@
+{
+  "id": "story-1790541081066",
+  "slug": "gema-sunyi-di-sudut-kamar",
+  "title": "Gema Sunyi di Sudut Kamar",
+  "genre": "psychological",
+  "theme": "Seorang profesional muda menghadapi pergolakan batin berupa overthinking dan kecemasan, mencoba menemukan kedamaian dalam rutinitas malam di kamarnya sendiri.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-09-27T20:31:21.066Z",
+  "updated_at": "2026-09-27T20:31:21.066Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "mindfulness",
+    "anxiety",
+    "overthinking",
+    "self-discovery",
+    "introspection",
+    "urban life",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "An interior shot of a quiet bedroom at late night. A small bedside lamp on a nightstand casts a soft, warm glow across a slightly rumpled bed, creating areas of gentle low illumination in the room. The composition uses the rule of thirds, with a shallow depth of field, focusing on the intimate details of the lamp and the immediate surroundings. The atmosphere evokes a feeling of quiet contemplation and subtle restlessness. No specific person is visible, emphasizing the environment and the tranquil stillness of the late hour. A window subtly suggests a peaceful night outside.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gema-sunyi-di-sudut-kamar/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young professional, Nara, battles nightly anxiety and overthinking, finding peace through mindfulness and embracing internal chaos.",
+    "target_emotion": "calmness after struggle",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "kecemasan",
+      "overthinking",
+      "mindfulness",
+      "psikologis",
+      "cerpen",
+      "kedamaian batin",
+      "manajemen stres",
+      "tidur",
+      "insomnia",
+      "rutinitas malam"
+    ]
+  }
+}
