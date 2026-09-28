@@ -1,0 +1,46 @@
+{
+  "id": "story-1790635316727",
+  "slug": "satu-putaran-seribu-pikiran-sinis",
+  "title": "Satu Putaran, Seribu Pikiran Sinis",
+  "genre": "slice of life",
+  "theme": "Mengamati absurditas dan dinamika kecil dalam rutinitas sehari-hari di ruang publik, mencari hiburan dalam kesumpekan ringan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-09-28T22:41:56.727Z",
+  "updated_at": "2026-09-28T22:41:56.727Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "humor",
+    "sarcasm",
+    "daily life",
+    "jogging",
+    "public park",
+    "observational",
+    "urban life",
+    "indonesian culture"
+  ],
+  "cover": {
+    "prompt": "A serene river pathway at dawn, with a gentle mist rising over the calm water. The early morning light casts a warm, golden glow across the scene, highlighting the curving pathway that extends into the distance. A single, indistinct figure in the far distance, a subtle silhouette, embarks on a quiet walk, symbolizing a search for tranquility and a fresh beginning. The composition adheres to the rule of thirds, with a soft depth of field focusing on the pathway and the natural environment, while the background gently blurs. The atmosphere is peaceful, reflective, and full of quiet hope.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, minimalist composition, strong silhouettes, gentle lighting.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/satu-putaran-seribu-pikiran-sinis/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young office worker's routine morning jog by the river turns into a humorous observation of absurd public park dynamics, where his attempts at peace are constantly interrupted by cynical thoughts about fellow visitors. He finishes his run finding odd satisfaction in the chaos, gathering material for internal jokes rather than achieving 'zen'.",
+    "target_emotion": "Amused cynicism, reflective humor",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "morning jog",
+      "public park",
+      "urban observation",
+      "cynical humor",
+      "slice of life indonesia",
+      "everyday absurdities",
+      "office worker",
+      "human behavior",
+      "jakarta life",
+      "personal narrative"
+    ]
+  }
+}
