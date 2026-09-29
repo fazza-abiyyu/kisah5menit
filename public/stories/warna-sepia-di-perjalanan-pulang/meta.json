@@ -1,0 +1,51 @@
+{
+  "id": "story-1790717666722",
+  "slug": "warna-sepia-di-perjalanan-pulang",
+  "title": "Warna Sepia di Perjalanan Pulang",
+  "genre": "romance subtle",
+  "theme": "Menemukan keindahan dalam pertemuan singkat dan tak terduga, yang membangkitkan nostalgia dan harapan tersembunyi di tengah perjalanan malam.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-09-29T21:34:26.722Z",
+  "updated_at": "2026-09-29T21:34:26.722Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "melancholy",
+    "train travel",
+    "urban life",
+    "indonesian fiction",
+    "short story",
+    "unexpected connection",
+    "nostalgia",
+    "hope",
+    "slice of life",
+    "Jakarta"
+  ],
+  "cover": {
+    "prompt": "Interior perspective from a train carriage at a quiet moment, looking out a large window. The distant city lights form an abstract, glowing tapestry of soft hues on the glass surface, suggesting movement and a vibrant urban expanse. A laptop bag is gently placed on a seat, reflecting the serene ambient light. The composition emphasizes depth and a contemplative atmosphere, focusing on the interplay between the tranquil interior and the illuminated view outside.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/warna-sepia-di-perjalanan-pulang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young freelance graphic designer experiences a melancholic journey home on the last train. Her attention is drawn to another passenger, fostering an unspoken connection. Their eyes meet briefly at the final station, sharing a meaningful moment before they part ways, leaving the protagonist with a warm, reflective feeling from the unexpected encounter.",
+    "target_emotion": "Contemplation, gentle melancholy, subtle hope, warmth from an unexpected, fleeting connection.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "romance subtle",
+      "melankolis lembut",
+      "perjalanan pulang",
+      "kereta malam",
+      "koneksi tak terucapkan",
+      "nostalgia",
+      "harapan",
+      "rutinitas",
+      "keindahan tak terduga",
+      "cerita pendek",
+      "kota malam",
+      "desainer grafis"
+    ]
+  }
+}
