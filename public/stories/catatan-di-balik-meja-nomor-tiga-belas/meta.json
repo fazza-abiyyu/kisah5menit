@@ -1,0 +1,43 @@
+{
+  "id": "story-1790804124804",
+  "slug": "catatan-di-balik-meja-nomor-tiga-belas",
+  "title": "Catatan di Balik Meja Nomor Tiga Belas",
+  "genre": "dark comedy",
+  "theme": "Menguak humor gelap dan misteri konyol di tengah rutinitas yang monoton, menemukan absurditas dalam hal-hal kecil kehidupan.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-09-30T21:35:24.804Z",
+  "updated_at": "2026-09-30T21:35:24.804Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "misteri",
+    "rutinitas kantor",
+    "absurd",
+    "humor gelap",
+    "satire",
+    "petugas kebersihan",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "An expansive, low-light view of an empty office interior, late at night. Rows of unoccupied, geometric grey office cubicles extend into the distance, conveying a sense of order and quiet solitude. Gentle overhead industrial lighting casts a soft illumination across the space, accentuating the extensive architecture and clean surfaces. In the foreground, a robust cleaning cart with a mop and bucket is subtly positioned. A lone human figure is depicted as a dignified silhouette, gently maneuvering the cart, engaged in a diligent nightly ritual. The overall mood is one of quiet contemplation and enduring routine, focusing on environmental details and the serene atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, gentle lighting, atmospheric deep tones.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/catatan-di-balik-meja-nomor-tiga-belas/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang petugas kebersihan sinis menemukan catatan misterius di bawah meja nomor tiga belas di kantor yang kosong. Catatan-catatan ini menjadi semakin personal dan absurd, membangkitkan rasa penasarannya. Petunjuk terakhir mengarah pada 'harta karun' atau pengakuan konyol dari seorang pegawai anonim, yang akhirnya mengungkapkan lelucon internal dan memberikan pandangan baru pada rutinitasnya.",
+    "target_emotion": "Curiosity, amusement, reflective humor, slight cynicism",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "komedi gelap",
+      "misteri kantor",
+      "catatan aneh",
+      "petugas kebersihan",
+      "kisah absurd",
+      "humor satir",
+      "rutinitas malam"
+    ]
+  }
+}
