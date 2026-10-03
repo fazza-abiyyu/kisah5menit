@@ -1,0 +1,52 @@
+{
+  "id": "story-1791058569592",
+  "slug": "senyum-otomatis-di-dalam-lift",
+  "title": "Senyum Otomatis di Dalam Lift",
+  "genre": "sci-fi ringan",
+  "theme": "Menemukan kehangatan manusiawi dan makna di balik interaksi teknologi yang tampaknya sepele, mengajarkan bahwa bahkan dalam rutinitas modern, kebaikan kecil selalu ada.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-10-03T20:16:09.592Z",
+  "updated_at": "2026-10-03T20:16:09.592Z",
+  "status": "published",
+  "tags": [
+    "sci-fi ringan",
+    "teknologi",
+    "AI",
+    "kemanusiaan",
+    "interaksi",
+    "rutinitas",
+    "kebaikan",
+    "inspiratif",
+    "ceria",
+    "hangat",
+    "apartemen",
+    "Jakarta",
+    "Sheila on 7"
+  ],
+  "cover": {
+    "prompt": "An immaculately tidy kitchen counter at dawn, featuring a precise bowl of instant oatmeal and a sleek mug of black coffee. A digital clock display, prominent, shows exact timing. Warm, soft morning light gently fills the space, highlighting the meticulous order. In the mid-ground, a clean, modern apartment hallway recedes, with elevator doors slightly ajar or featuring a display that suggests a momentary, unexpected pause in a strict daily schedule. Focus on the geometry of efficiency and the subtle atmospheric shift hinting at a routine's quiet disruption.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/senyum-otomatis-di-dalam-lift/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, initially annoyed by her apartment's 'smart' elevator, Livi, gradually reconsiders her view after experiencing Livi's thoughtful interactions with other residents and, eventually, a deeply personal moment of comfort during a stressful morning, leading her to embrace the unexpected human connection offered by the AI.",
+    "target_emotion": "Terharu, hangat, terinspirasi, lega, bahagia.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "elevator cerdas",
+      "AI",
+      "kebaikan kecil",
+      "interaksi manusia teknologi",
+      "rutinitas",
+      "perubahan perspektif",
+      "senyum otomatis",
+      "kisah inspiratif",
+      "fiksi ringan",
+      "kehangatan",
+      "apartemen",
+      "Jakarta"
+    ]
+  }
+}
