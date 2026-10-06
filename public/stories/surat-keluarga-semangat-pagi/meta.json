@@ -1,0 +1,47 @@
+{
+  "id": "story-1791323886288",
+  "slug": "surat-keluarga-semangat-pagi",
+  "title": "Surat Keluarga, Semangat Pagi",
+  "genre": "drama keluarga",
+  "theme": "Kisah seorang anak muda yang menghadapi birokrasi rumit demi mengurus dokumen penting untuk keluarganya, menemukan kekuatan dalam kesabaran dan dukungan tak terduga.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-10-06T21:58:06.287Z",
+  "updated_at": "2026-10-06T21:58:06.287Z",
+  "status": "published",
+  "tags": [
+    "birokrasi",
+    "keluarga",
+    "perjuangan",
+    "kesabaran",
+    "kebaikan hati",
+    "administrasi",
+    "harapan",
+    "semangat",
+    "drama"
+  ],
+  "cover": {
+    "prompt": "A cinematic capture of an early morning scene. A person's silhouette stands on a structured pathway, facing an architecturally grand building. They carry a significant work bag, from which a distinct blue folder, filled with numerous official documents, is partly visible. The environment is bathed in the soft, warm glow of dawn, casting elongated, gentle light patterns across the scene. The composition emphasizes the quiet preparation and the anticipation of a formal process, with a strong sense of purpose.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/surat-keluarga-semangat-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A young professional, Rina, navigates complex government bureaucracy to secure vital documents for her sick father. Faced with multiple rejections and confusing rules, she finds hope and crucial help from unexpected sources—a sympathetic older woman and a previously indifferent clerk—ultimately succeeding through persistence and discovering the kindness of strangers.",
+    "target_emotion": "Relief, hope, perseverance, warmth, inspiration",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "kisah inspiratif",
+      "birokrasi Indonesia",
+      "drama keluarga",
+      "perjuangan anak",
+      "dokumen penting",
+      "kesabaran",
+      "kebaikan hati",
+      "semangat pagi",
+      "pelayanan publik",
+      "BPJS",
+      "cerpen"
+    ]
+  }
+}
