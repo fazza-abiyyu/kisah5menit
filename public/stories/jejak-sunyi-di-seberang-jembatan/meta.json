@@ -1,0 +1,45 @@
+{
+  "id": "story-1791411636878",
+  "slug": "jejak-sunyi-di-seberang-jembatan",
+  "title": "Jejak Sunyi di Seberang Jembatan",
+  "genre": "adventure ringan",
+  "theme": "Melalui sebuah perjalanan tak terduga, seseorang menemukan makna baru dalam rutinitas dan menghadapi refleksi diri yang mendalam.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-10-07T22:20:36.878Z",
+  "updated_at": "2026-10-07T22:20:36.878Z",
+  "status": "published",
+  "tags": [
+    "introspeksi",
+    "petualangan ringan",
+    "perjalanan diri",
+    "urban discovery",
+    "inspirasi",
+    "rutinitas",
+    "refleksi",
+    "jembatan tua"
+  ],
+  "cover": {
+    "prompt": "A striking close-up of a monitor screen, filled with abstract, vibrant color code patterns. The screen emits a soft, ambient glow that gently illuminates the immediate desk area. The broader room environment is softly blurred in the background, bathed in subtle, warm light, hinting at an endless digital routine and a quiet yearning for new experiences. The composition emphasizes digital confinement while evoking a sense of contemplative creativity. Cinematic photography, shallow depth of field, warm color grading.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-sunyi-di-seberang-jembatan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Adi, seorang desainer grafis lepas yang jenuh, mengambil jalan pulang tak biasa melewati jembatan tua. Ia menemukan sebuah gang tersembunyi yang seolah membeku oleh waktu, memicu refleksi mendalam tentang arah hidupnya. Pertemuan dengan penjual kerajinan tangan tua di ujung gang memberinya filosofi baru tentang menemukan keindahan dalam hal-hal tersembunyi. Adi pulang dengan pandangan baru, menemukan inspirasi dalam detail kecil kehidupannya.",
+    "target_emotion": "ketenangan, introspeksi, inspirasi, kekaguman",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "desainer grafis",
+      "rutinitas",
+      "jembatan penyeberangan",
+      "gang tersembunyi",
+      "sudut kota",
+      "introspeksi diri",
+      "petualangan hidup",
+      "inspirasi",
+      "filosofi hidup",
+      "penemuan diri"
+    ]
+  }
+}
