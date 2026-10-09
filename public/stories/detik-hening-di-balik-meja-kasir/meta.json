@@ -1,0 +1,48 @@
+{
+  "id": "story-1791582991461",
+  "slug": "detik-hening-di-balik-meja-kasir",
+  "title": "Detik Hening di Balik Meja Kasir",
+  "genre": "slice of life",
+  "theme": "Menemukan makna tersembunyi dalam rutinitas sehari-hari, merenungkan perjalanan hidup di tengah kesibukan toko.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-10-09T21:56:31.460Z",
+  "updated_at": "2026-10-09T21:56:31.460Z",
+  "status": "published",
+  "tags": [
+    "Slice of Life",
+    "Minimarket",
+    "Rutinitas",
+    "Renungan",
+    "Koneksi Manusia",
+    "Melankolis",
+    "Kisah Pendek",
+    "Indonesia",
+    "Kenangan",
+    "Kehidupan Sehari-hari"
+  ],
+  "cover": {
+    "prompt": "An interior view of a convenience store during a tranquil late evening. The scene captures a profound sense of stillness, with long, neatly arranged product aisles receding gently into the background. The space is illuminated by a soft, diffused glow from overhead fixtures, creating subtle reflections on the pristine floor. An automatic glass entrance door is visible in the composition, suggesting the peaceful boundary between the store's interior and the calm outside ambiance. The overall atmosphere is one of serene quietude and gentle contemplation.",
+    "style": "Cinematic photography, shallow depth of field, softly graded lighting with subtle cool and warm tones",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/detik-hening-di-balik-meja-kasir/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows Rina, a minimarket cashier, who finds a unique quietness during her night shifts. She initially feels like a cog in a machine, until she observes an old customer buying the same items with a look of longing. This sparks her internal questioning about the meaning behind her routine. The climax occurs when the old man drops his wallet, revealing an old photo of him and his wife in what used to be their small shop, the very location of the minimarket. This revelation shifts Rina's perspective, transforming her melancholy into a serene understanding. She now views her routine as a web connecting untold stories, becoming a quiet witness to life's pulse.",
+    "target_emotion": "Contemplative reflection, serene understanding",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pendek",
+      "slice of life",
+      "kisah kasir minimarket",
+      "rutinitas kehidupan",
+      "makna tersembunyi",
+      "refleksi",
+      "melankolis",
+      "kisah inspiratif",
+      "koneksi manusia",
+      "kenangan masa lalu",
+      "kehidupan malam"
+    ]
+  }
+}
