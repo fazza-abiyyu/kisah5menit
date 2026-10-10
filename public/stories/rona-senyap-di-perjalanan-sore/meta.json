@@ -1,0 +1,47 @@
+{
+  "id": "story-1791665195679",
+  "slug": "rona-senyap-di-perjalanan-sore",
+  "title": "Rona Senyap di Perjalanan Sore",
+  "genre": "romance subtle",
+  "theme": "Mengeksplorasi bagaimana pertemuan singkat dan misterius dalam perjalanan sehari-hari dapat memicu ketertarikan mendalam serta rasa ingin tahu tentang kisah hidup orang asing.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-10-10T20:46:35.679Z",
+  "updated_at": "2026-10-10T20:46:35.679Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "mystery",
+    "daily commute",
+    "Jakarta",
+    "urban life",
+    "non-verbal communication",
+    "quiet observation",
+    "strangers",
+    "destiny",
+    "indonesian story"
+  ],
+  "cover": {
+    "prompt": "Golden hour in Jakarta, soft, warm light bathing a public transport station platform. Blurred forms of commuters create a sense of routine and subtle observation. The city architecture is visible in the distance under a reddish-orange sky. Focus on the gentle interplay of light and the overall environment, with a shallow depth of field. Emphasize the quiet atmosphere of the late afternoon, with no specific human features, only the overall flow of movement.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/rona-senyap-di-perjalanan-sore/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Anya, a young graphic designer, becomes fascinated by a mysterious 'Silent Man' she observes daily on her commute, noting his peculiar habits and objects. Their silent interactions are limited to fleeting glances until a sudden bus brake causes him to drop a unique compass keychain. As Anya returns it, their hands and eyes meet in a brief, charged moment. He smiles faintly and exits at an unexpected stop, leaving Anya with a persistent sense of wonder and acceptance of the beautiful, unresolved mystery.",
+    "target_emotion": "Curiosity, subtle longing, quiet wonder, appreciation for unsolved mysteries, gentle romantic intrigue.",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "Jakarta romance",
+      "commute story",
+      "stranger interaction",
+      "subtle love story",
+      "mystery man",
+      "daily observation",
+      "indonesian short story",
+      "non-verbal connection",
+      "urban romance"
+    ]
+  }
+}
