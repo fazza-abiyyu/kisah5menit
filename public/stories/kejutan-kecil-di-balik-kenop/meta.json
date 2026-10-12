@@ -1,0 +1,46 @@
+{
+  "id": "story-1791849122478",
+  "slug": "kejutan-kecil-di-balik-kenop",
+  "title": "Kejutan Kecil di Balik Kenop",
+  "genre": "thriller ringan",
+  "theme": "Kebaikan kecil yang datang tak terduga seringkali disalahpahami sebagai sesuatu yang mencurigakan, mengajarkan kita untuk melihat lebih jauh dari prasangka awal.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-10-12T23:52:02.478Z",
+  "updated_at": "2026-10-12T23:52:02.478Z",
+  "status": "published",
+  "tags": [
+    "thriller ringan",
+    "persahabatan",
+    "tetangga",
+    "kesalahpahaman",
+    "kebaikan hati",
+    "jakarta",
+    "apartemen",
+    "mystery",
+    "feel-good"
+  ],
+  "cover": {
+    "prompt": "An inviting, minimalist apartment interior bathed in golden hour glow, high above a sprawling metropolis. A large window frames a vast city skyline, softly blurred in the distance. In the foreground, near a subtly indicated apartment door, rests a small, neatly wrapped cream-colored package tied with a simple jute ribbon, creating a focal point of quiet intrigue. The scene evokes a sense of peaceful independence. Cinematic composition with rule of thirds and shallow depth of field, emphasizing the package against the serene apartment setting.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kejutan-kecil-di-balik-kenop/cover.png"
+  },
+  "meta": {
+    "plan_summary": "The story follows Risa, a young professional living alone, who becomes increasingly anxious and paranoid after mysteriously receiving anonymous small packages (homemade cookies, coasters, plants) at her apartment door. Her fear culminates when she discovers her elderly neighbor, Ibu Santi, is the one secretly leaving gifts for various neighbors. The initial confrontation reveals Ibu Santi's kind but shy intention to connect, transforming Risa's suspicion into a warm friendship.",
+    "target_emotion": "relief, warmth, joy, empathy, and a sense of pleasant surprise",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "thriller ringan",
+      "persahabatan",
+      "tetangga",
+      "apartemen jakarta",
+      "kesalahpahaman",
+      "kebaikan tak terduga",
+      "kisah inspiratif",
+      "resolusi konflik",
+      "slice of life"
+    ]
+  }
+}
