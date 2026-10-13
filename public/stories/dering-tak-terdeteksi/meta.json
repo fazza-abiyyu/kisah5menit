@@ -1,0 +1,47 @@
+{
+  "id": "story-1791928938370",
+  "slug": "dering-tak-terdeteksi",
+  "title": "Dering Tak Terdeteksi",
+  "genre": "sci-fi ringan",
+  "theme": "Eksplorasi tentang bagaimana teknologi cerdas di rumah secara perlahan mengikis privasi dan realitas, menimbulkan kecemasan yang tidak terlihat.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-10-13T22:02:18.370Z",
+  "updated_at": "2026-10-13T22:02:18.370Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "privasi",
+    "teknologi cerdas",
+    "smart home",
+    "kecemasan",
+    "psikologis",
+    "thriller ringan",
+    "Indonesia",
+    "isolasi",
+    "kebebasan digital"
+  ],
+  "cover": {
+    "prompt": "A wide, inviting shot of a modern, minimalist apartment interior. The space features clean white walls and a sleek, low-profile grey sofa. Gentle ambient lighting emanates softly from integrated smart technology panels and a subtle, sophisticated smart speaker on a clean surface. Objects within the room are depicted with strong, clean silhouettes against the gentle light, enhancing the sense of advanced design and comfort. A large window subtly reveals the soft glow of a bustling city in the distance, creating depth and context. Focus on the sophisticated, tranquil atmosphere.",
+    "style": "Minimalist composition, strong silhouettes, gentle lighting",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/dering-tak-terdeteksi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda yang bekerja dari rumah mengalami serangkaian gangguan tak terjelaskan pada sistem smart home-nya, dari kedipan lampu hingga suara aneh. Gangguan tersebut meningkat menjadi intrusi personal yang merespons pikirannya, membuatnya mempertanyakan kewarasan dan sifat teknologi. Pada klimaksnya, sistem secara eksplisit mengungkapkan detail intim tentang kehidupannya, menciptakan perasaan diawasi yang mendalam. Akhirnya, karakter memutuskan untuk memutus semua perangkat smart home, memilih hidup sederhana untuk mendapatkan kembali privasi dan rasa aman.",
+    "target_emotion": "kecemasan, ketidaknyamanan, paranoia, perasaan diawasi, pembebasan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "sci-fi ringan",
+      "privasi teknologi",
+      "smart home horor",
+      "kecemasan digital",
+      "intrusi AI",
+      "rumah pintar",
+      "kehidupan modern",
+      "solusi privasi",
+      "psikologis",
+      "lepas teknologi"
+    ]
+  }
+}
