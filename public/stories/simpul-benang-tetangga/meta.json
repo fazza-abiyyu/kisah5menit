@@ -1,0 +1,49 @@
+{
+  "id": "story-1792011780518",
+  "slug": "simpul-benang-tetangga",
+  "title": "Simpul Benang Tetangga",
+  "genre": "mystery ringan",
+  "theme": "Seorang pensiunan yang gemar mengamati menemukan kehangatan dan koneksi tak terduga di balik misteri kecil di lingkungan apartemennya.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-10-14T21:03:00.518Z",
+  "updated_at": "2026-10-14T21:03:00.518Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "lighthearted mystery",
+    "pensioner",
+    "elderly character",
+    "apartment life",
+    "neighborly relations",
+    "unexpected friendship",
+    "community",
+    "art project",
+    "textile art",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A tranquil, close-up view from a peaceful balcony during golden hour. Gentle, warm sunlight softly illuminates vibrant green and orange leaves on a distant mango tree, creating a soft-focus backdrop. In the foreground, a delicate, blurred hint of small birds perched on a railing, suggesting quiet observation. The composition emphasizes natural details and an inviting atmosphere, with a strong sense of depth. Cinematic composition, rule of thirds, shallow depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/simpul-benang-tetangga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Bu Ratna, a retired observer, discovers strange items at her neighbor Anya's door. Her curiosity leads her to uncover Anya's struggle with an art project. Bu Ratna offers help, fostering an unexpected friendship and community connection through their collaboration on the art installation.",
+    "target_emotion": "Warmth, connection, gentle joy, curiosity",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Simpul Benang Tetangga",
+      "Bu Ratna",
+      "Anya",
+      "mystery ringan",
+      "pensiunan",
+      "persahabatan antar generasi",
+      "proyek seni",
+      "komunitas apartemen",
+      "kisah inspiratif",
+      "cerita ringan",
+      "indonesian story"
+    ]
+  }
+}
