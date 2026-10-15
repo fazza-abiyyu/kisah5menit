@@ -1,0 +1,48 @@
+{
+  "id": "story-1792096563705",
+  "slug": "kehangatan-sunyi-di-sudut-dapur",
+  "title": "Kehangatan Sunyi di Sudut Dapur",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi dinamika kompleks antara orang tua tunggal dan anaknya, menemukan ketenangan serta kekuatan dalam menerima dan memahami satu sama lain.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-10-15T20:36:03.704Z",
+  "updated_at": "2026-10-15T20:36:03.704Z",
+  "status": "published",
+  "tags": [
+    "drama",
+    "keluarga",
+    "ibu-anak",
+    "remaja",
+    "introspeksi",
+    "komunikasi",
+    "penerimaan",
+    "pemahaman",
+    "orang-tua-tunggal",
+    "kesehatan-mental"
+  ],
+  "cover": {
+    "prompt": "A tranquil kitchen interior during a peaceful evening. On a simple wooden table, a ceramic cereal bowl contains gentle remnants of milk and cereal flakes, conveying a feeling of quiet contemplation. In the background, a subtle wall clock is visible, its presence hinting at the passage of time. Soft, warm ambient illumination fills the space, highlighting textures and creating a serene atmosphere. Cinematic composition with a shallow depth of field, focusing on the bowl, with the clock's quiet form receding gently into the background.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kehangatan-sunyi-di-sudut-dapur/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang ibu tunggal berjuang untuk berkomunikasi dengan anak remajanya yang menarik diri. Setelah momen kejujuran dan kerapuhan yang tak terduga di dapur larut malam, mereka menemukan pemahaman baru yang tenang, menyadari bahwa cinta dan kehadiran seringkali sudah cukup, mengarah pada rasa damai dan koneksi yang diperbarui.",
+    "target_emotion": "Ketenangan, refleksi, kehangatan emosional, pemahaman",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "hubungan ibu anak",
+      "drama keluarga",
+      "remaja menarik diri",
+      "komunikasi keluarga",
+      "penerimaan anak",
+      "kekhawatiran orang tua",
+      "momen kejujuran",
+      "koneksi emosional",
+      "cerita introspektif",
+      "kehangatan dapur",
+      "solusi konflik"
+    ]
+  }
+}
