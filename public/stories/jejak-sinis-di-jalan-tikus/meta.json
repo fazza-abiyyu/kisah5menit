@@ -1,0 +1,47 @@
+{
+  "id": "story-1792181441952",
+  "slug": "jejak-sinis-di-jalan-tikus",
+  "title": "Jejak Sinis di Jalan Tikus",
+  "genre": "adventure ringan",
+  "theme": "Seorang freelancer sinis menemukan bahwa petualangan kecil yang tak terduga bisa membawa perspektif baru dan pelarian dari rutinitas yang membosankan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-10-16T20:10:41.952Z",
+  "updated_at": "2026-10-16T20:10:41.952Z",
+  "status": "published",
+  "tags": [
+    "freelancer",
+    "petualangan",
+    "urban",
+    "humor",
+    "sinis",
+    "gang-tikur",
+    "paket-misterius",
+    "rutinitas",
+    "perspektif-hidup",
+    "cerita-pendek"
+  ],
+  "cover": {
+    "prompt": "An urban cityscape at golden hour, viewed from a slightly elevated perspective or through a window. The foreground features a simple desk with a laptop displaying a soft, ambient glow, and a plain coffee cup, suggesting a working environment. The city stretches into the distance, with architectural elements subtly catching the warm light and early evening city lights beginning to illuminate, creating an atmosphere of gentle urban energy and quiet contemplation. Composition uses the rule of thirds, with a shallow depth of field to emphasize the foreground objects. Environmental focus, blending personal space with the broader cityscape. Subtle, blurred movement in the background suggests activity without detailing figures.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-sinis-di-jalan-tikus/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer sinis menerima tawaran pekerjaan aneh: mengantar paket misterius ke alamat terpencil di balik gang-gang sempit kota. Perjalanan yang seharusnya singkat berubah menjadi labirin absurd, melewati lorong-lorong tak terduga, berinteraksi dengan karakter-karakter eksentrik lokal, dan menghadapi rintangan kecil yang menguji kesabaran serta pandangan hidupnya. Setelah melewati serangkaian kejadian menggelikan, ia akhirnya sampai di tujuan. Paket dibuka, isinya ternyata benda-benda remeh dan aneh yang menyimpan nilai sentimental luar biasa bagi si penerima. Misi selesai, sang freelancer pulang dengan perasaan campur aduk; lelah tapi sedikit terhibur, diam-diam mengakui bahwa hari itu tidak sepenuhnya sia-sia, meski ia akan tetap menceritakan pengalamannya dengan nada sinis khasnya, mungkin menyiratkan sedikit perubahan pandangan tentang keanehan hidup.",
+    "target_emotion": "amusement, lightheartedness, subtle contemplation",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "petualangan urban",
+      "humor sinis",
+      "freelancer",
+      "kisah kota",
+      "paket misterius",
+      "gang sempit",
+      "perspektif hidup",
+      "nilai sentimental",
+      "narasi indonesia"
+    ]
+  }
+}
