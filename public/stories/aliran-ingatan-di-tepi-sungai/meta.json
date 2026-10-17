@@ -1,0 +1,54 @@
+{
+  "id": "story-1792266344478",
+  "slug": "aliran-ingatan-di-tepi-sungai",
+  "title": "Aliran Ingatan di Tepi Sungai",
+  "genre": "psychological",
+  "theme": "Menjelajahi bagaimana seorang seniman belajar memaafkan diri atas penyesalan masa lalu dan menemukan kedamaian dalam penerimaan diri melalui pengamatan alam.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-10-17T19:45:44.477Z",
+  "updated_at": "2026-10-17T19:45:44.477Z",
+  "status": "published",
+  "tags": [
+    "seniman",
+    "pemaafan-diri",
+    "penyesalan",
+    "kedamaian",
+    "penerimaan-diri",
+    "alam",
+    "sungai",
+    "kreativitas",
+    "inspirasi",
+    "monolog-internal",
+    "psikologis",
+    "melankolis",
+    "seni"
+  ],
+  "cover": {
+    "prompt": "A pristine, blank canvas stands prominently at the serene bank of a gently flowing river. The subtle current carries small, natural elements downstream. The entire scene is bathed in natural, soft lighting, suggesting the quiet calm of late afternoon. Cinematic composition, focusing on environmental elements, utilizing the rule of thirds, and a subtle shallow depth of field that gently blurs the background. The overall atmosphere is deeply contemplative, evoking a quiet moment of reflection and a profound search for creative inspiration. Focus on the interaction between the untouched canvas and the peaceful natural environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/aliran-ingatan-di-tepi-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang seniman muda bergumul dengan kritik internal dan penyesalan masa lalu di tepi sungai. Ia terjebak dalam overthinking hingga sebuah ranting kering di sungai memicu ingatan akan nasihat mentor, membantunya menemukan keindahan dalam ketidaksempurnaan dan menerima proses kreatif sebagai bagian dari penerimaan diri.",
+    "target_emotion": "Introspeksi tenang, harapan, penerimaan diri, kedamaian",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "seniman",
+      "kreativitas",
+      "inspirasi",
+      "pemaafan-diri",
+      "penerimaan-diri",
+      "psikologis",
+      "alam",
+      "sungai",
+      "melankolis-lembut",
+      "proses-seni",
+      "overthinking",
+      "penyesalan",
+      "kedamaian-batin",
+      "bahasa-indonesia"
+    ]
+  }
+}
