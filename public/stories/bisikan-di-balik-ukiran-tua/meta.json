@@ -1,0 +1,46 @@
+{
+  "id": "story-1792352720641",
+  "slug": "bisikan-di-balik-ukiran-tua",
+  "title": "Bisikan di Balik Ukiran Tua",
+  "genre": "slice of life",
+  "theme": "Menjelajahi keunikan dan pesan tersembunyi dalam benda-benda usang di sebuah pasar, membuka mata pada cerita di balik rutinitas.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-10-18T19:45:20.641Z",
+  "updated_at": "2026-10-18T19:45:20.641Z",
+  "status": "published",
+  "tags": [
+    "pasar tradisional",
+    "slice of life",
+    "persahabatan",
+    "inspirasi",
+    "misteri ringan",
+    "observasi",
+    "ukiran antik",
+    "kisah sederhana",
+    "memori",
+    "penulis"
+  ],
+  "cover": {
+    "prompt": "Bustling traditional market scene, vibrant with lively energy. Golden hour sunlight filters through an open marketplace, creating a warm, inviting glow. A winding pathway leads the eye deeper into the scene, surrounded by colorful stalls displaying various goods. The focus is on the environment and the general atmosphere of exploration and new beginnings, suggesting inspiration for a creative journey. Soft, blurred figures of market-goers are visible in the distance, enhancing the sense of a dynamic crowd without detailing specific individuals. Cinematic composition with a strong sense of depth, utilizing the rule of thirds.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-di-balik-ukiran-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance writer, seeking inspiration, stumbles upon a mysterious old wooden carving in a bustling traditional market. Through quiet observation of the market's daily rhythms and gentle conversations with the antique stall owner, she unravels the carving's true meaning. What initially appears to be a deep enigma turns out to be a heartwarming tale of enduring friendship and shared memories, leading the writer to find profound inspiration in the subtle, hidden narratives of everyday life.",
+    "target_emotion": "Reflective, heartwarming, curious, nostalgic",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "cerita pasar tradisional",
+      "inspirasi menulis",
+      "kisah persahabatan",
+      "ukiran antik",
+      "slice of life Indonesia",
+      "observasi manusia",
+      "makna tersembunyi",
+      "pasar beringin",
+      "kisah sederhana"
+    ]
+  }
+}
