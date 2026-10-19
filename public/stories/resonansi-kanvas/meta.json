@@ -1,0 +1,50 @@
+{
+  "id": "story-1792446429089",
+  "slug": "resonansi-kanvas",
+  "title": "Resonansi Kanvas",
+  "genre": "romance subtle",
+  "theme": "Mengeksplorasi bagaimana dua jiwa dapat menemukan koneksi mendalam dan saling memahami melalui apresiasi seni yang sama, bahkan tanpa sepatah kata pun terucap.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-10-19T21:47:09.089Z",
+  "updated_at": "2026-10-19T21:47:09.089Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "seni",
+    "galeri-seni",
+    "koneksi-tak-terucap",
+    "reflektif",
+    "abstrak",
+    "cerita-pendek",
+    "keheningan",
+    "apresiasi-seni",
+    "fotografi"
+  ],
+  "cover": {
+    "prompt": "Minimalist composition of a tranquil contemporary art gallery interior. Gentle, diffused illumination highlights a large abstract painting featuring serene color gradients: deep blues softly merging into muted grays, with subtle hints of emerald green. A soft, indistinct silhouette of a viewer is positioned admiring the artwork, evoking a feeling of calm contemplation and artistic appreciation.",
+    "style": "Cinematic photography with minimalist composition, featuring strong silhouettes and gentle, diffused lighting. A subtle shallow depth of field enhances the focus on the artwork, with a cool color grading to emphasize the serene atmosphere.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/resonansi-kanvas/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Photographer Anya finds solace in an art gallery, drawn to abstract paintings and a mysterious man who also frequents the same artwork. She feels an unspoken connection with both the art and the man, questioning relationships that form without words. On the exhibition's last day, the man leaves a note with a quote about unspoken beauty and a contact number, hinting at a deeper connection to explore.",
+    "target_emotion": "Ketenteraman, rasa ingin tahu, harapan",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Resonansi Kanvas",
+      "romance subtle",
+      "koneksi seni",
+      "galeri abstrak",
+      "cinta tanpa kata",
+      "fotografer",
+      "seniman kontemporer",
+      "kisah reflektif",
+      "cerita pendek Indonesia",
+      "unspoken connection",
+      "art gallery love story",
+      "abstract painting",
+      "silent romance"
+    ]
+  }
+}
