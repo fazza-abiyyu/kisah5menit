@@ -1,0 +1,45 @@
+{
+  "id": "story-1792529830802",
+  "slug": "tawa-pahit-di-balik-gerobak",
+  "title": "Tawa Pahit di Balik Gerobak",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi ironi dan humor gelap dalam interaksi manusia sehari-hari di pasar tradisional, menemukan hiburan aneh dalam keunikan pembeli dan penjual.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-10-20T20:57:10.802Z",
+  "updated_at": "2026-10-20T20:57:10.802Z",
+  "status": "published",
+  "tags": [
+    "pasar loak",
+    "humor gelap",
+    "barang antik",
+    "komedi",
+    "interaksi manusia",
+    "ironi",
+    "kisah pasar",
+    "cerita pendek",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Early morning at a bustling outdoor flea market, sun just rising, bathing the scene in a soft, golden light. Focus on an inviting, overflowing market stall, abundant with fascinating, varied objects: vintage vinyl records stacked, an eclectic mix of old figurines, and other timeworn discoveries. Earthy and muted color palette. The background features blurred, indistinct shapes of people, conveying a lively, gentle market atmosphere. Cinematic composition, shallow depth of field, rule of thirds, warm color grading.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/tawa-pahit-di-balik-gerobak/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Pak Karta, a cynical antique vendor at a bustling flea market, observes and engages with a series of unique customers, from a suspicious individual and a shrewd negotiator to a superstitious man and a stressed student seeking magical aids. The day culminates in him comically exposing a con man attempting to sell a fake 'ancestral' keris, eliciting laughter from onlookers. Pak Karta concludes his day by reflecting on the absurdities of human interaction, finding an odd satisfaction in life's continuous dark comedy.",
+    "target_emotion": "amusement, ironic reflection, lightheartedness",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita lucu",
+      "pasar tradisional",
+      "kisah penjual",
+      "humor sehari-hari",
+      "literatur Indonesia",
+      "fiksi pendek",
+      "karakter unik",
+      "ironi kehidupan",
+      "dark comedy"
+    ]
+  }
+}
