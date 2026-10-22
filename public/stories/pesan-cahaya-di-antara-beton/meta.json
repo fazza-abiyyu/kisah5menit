@@ -1,0 +1,46 @@
+{
+  "id": "story-1792702461412",
+  "slug": "pesan-cahaya-di-antara-beton",
+  "title": "Pesan Cahaya di Antara Beton",
+  "genre": "sci-fi ringan",
+  "theme": "Menemukan keajaiban kecil dan koneksi tak terduga dalam rutinitas kota berkat sentuhan teknologi ringan yang membawa optimisme.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-10-22T20:54:21.412Z",
+  "updated_at": "2026-10-22T20:54:21.412Z",
+  "status": "published",
+  "tags": [
+    "sci-fi ringan",
+    "optimisme",
+    "perkotaan",
+    "teknologi",
+    "kurir",
+    "Jakarta",
+    "koneksi manusia",
+    "inspiratif",
+    "penemuan diri",
+    "magical realism"
+  ],
+  "cover": {
+    "prompt": "A painterly, moody illustration of a sprawling urban landscape seen from a slightly elevated vantage point during gentle, overcast daylight. In the foreground, an artfully arranged stack of varied delivery packages, suggesting the weight of daily tasks. The background features abstracted, tall city buildings and the soft, blurred impression of traffic flow, capturing the monotonous rhythm of city life. The overall atmosphere evokes a sense of quiet weariness and repetitive urban existence. Soft, gentle lighting, painterly textures, shallow depth of field, rule of thirds.",
+    "style": "Moody atmospheric illustration, soft lighting, painterly style",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-cahaya-di-antara-beton/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A delivery courier, Dina, feeling jaded by urban monotony, tests a new navigation device, 'Aurora.' The device guides her through unusual routes, revealing hidden wonders and prompting unexpected emotional connections, transforming her perspective on city life and her routine.",
+    "target_emotion": "Optimism, hope, wonder, connection, fulfillment",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "sci-fi short story",
+      "urban fantasy",
+      "optimistic sci-fi",
+      "Jakarta fiction",
+      "delivery courier story",
+      "technology and hope",
+      "hidden city gems",
+      "inspirational story",
+      "Pesan Cahaya di Antara Beton"
+    ]
+  }
+}
