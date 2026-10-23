@@ -1,0 +1,48 @@
+{
+  "id": "story-1792788161224",
+  "slug": "gulungan-film-yang-terlupakan",
+  "title": "Gulungan Film yang Terlupakan",
+  "genre": "mystery ringan",
+  "theme": "Menemukan sebuah misteri kecil di tempat yang terlupakan dapat memicu refleksi mendalam tentang kenangan masa lalu dan makna kehadiran di masa kini.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-10-23T20:42:41.224Z",
+  "updated_at": "2026-10-23T20:42:41.224Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "introspektif",
+    "kenangan",
+    "masa lalu",
+    "bioskop tua",
+    "film kuno",
+    "dokumenter",
+    "Indonesia",
+    "melankolis",
+    "temuan"
+  ],
+  "cover": {
+    "prompt": "Interior of an old, grand cinema hall, named 'Bioskop Cahaya Bintang'. Golden hour sunlight streams gently through small openings in the aged ceiling, illuminating dancing luminous particles in the air. Rows of antique, worn velvet seats stretch into the distance, showing signs of past use. A sense of quiet contemplation and nostalgic charm fills the space. The atmosphere hints at stories from long ago, with a gentle, inviting glow. Focus on environmental details, architectural elements, and the interplay of light and texture, creating a feeling of profound historical significance.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/gulungan-film-yang-terlupakan/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer dokumenter menjelajahi bioskop tua terbengkalai. Ia menemukan gulungan film tua tak berlabel di ruang proyektor, berhasil memutarnya sebagian, dan hanya melihat fragmen gambar samar serta bisikan audio personal. Pengalaman ini memicu introspeksi mendalam tentang memori dan nilai-nilai kecil yang sering terabaikan dalam kehidupan sehari-hari, meninggalkan misteri yang tak terpecahkan namun berkesan.",
+    "target_emotion": "introspeksi, menenangkan, nostalgia, rasa ingin tahu",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "bioskop tua",
+      "gulungan film kuno",
+      "misteri film",
+      "kenangan masa lalu",
+      "dokumenter perjalanan",
+      "cerita pendek Indonesia",
+      "introspeksi",
+      "nilai-nilai kehidupan",
+      "jejak sejarah",
+      "tempat terbengkalai",
+      "refleksi"
+    ]
+  }
+}
