@@ -1,0 +1,45 @@
+{
+  "id": "story-1792871670712",
+  "slug": "debat-panci-keramat",
+  "title": "Debat Panci Keramat",
+  "genre": "drama keluarga",
+  "theme": "Menjelajahi dinamika keluarga yang rumit, di mana perbedaan generasi memicu tawa pahit dan akhirnya pemahaman yang menyentuh.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-10-24T19:54:30.712Z",
+  "updated_at": "2026-10-24T19:54:30.712Z",
+  "status": "published",
+  "tags": [
+    "drama",
+    "keluarga",
+    "humor",
+    "konflik",
+    "warisan",
+    "kakak-beradik",
+    "tradisi",
+    "jakarta",
+    "first-world-problem"
+  ],
+  "cover": {
+    "prompt": "A brightly illuminated living room within an older Jakarta apartment during the deep night hours. The central focus is a coffee table, artfully composed using the rule of thirds. The table surface is scattered with small food remnants and stacks of vintage magazines. A simple, medium-sized aluminum pot rests prominently on the table. The artificial lighting radiates a warm, inviting glow, contrasting with the late hour and creating a sense of prolonged activity. The overall scene conveys an intangible atmosphere of a trivial yet intense situation. The background of the apartment room is softly blurred, enhancing the depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/debat-panci-keramat/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Dua kakak-beradik dewasa terlibat dalam perdebatan larut malam mengenai 'panci keramat' peninggalan nenek yang rusak. Panci tersebut menjadi simbol ekspektasi keluarga dan perbedaan sudut pandang mereka terhadap warisan. Perdebatan sinis ini memuncak dengan saling tuding atas kerusakan panci dan 'beban' keluarga, namun akhirnya mengungkap kerinduan mendalam. Meskipun tidak ada solusi final untuk panci, pertengkaran itu meninggalkan pemahaman baru tentang ikatan keluarga mereka yang unik.",
+    "target_emotion": "Reflective amusement, bittersweet understanding",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "drama keluarga",
+      "hubungan kakak adik",
+      "panci keramat",
+      "warisan nenek",
+      "konflik generasi",
+      "humor sinis",
+      "kehidupan apartemen",
+      "jakarta story"
+    ]
+  }
+}
