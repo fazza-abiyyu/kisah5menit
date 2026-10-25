@@ -1,0 +1,51 @@
+{
+  "id": "story-1792958624530",
+  "slug": "perjalanan-sunyi-di-bawah-kilau-neon",
+  "title": "Perjalanan Sunyi di Bawah Kilau Neon",
+  "genre": "adventure ringan",
+  "theme": "Menemukan arti dari sebuah perjalanan malam yang tak terduga, membangkitkan kenangan masa lalu yang menenangkan dan proses penerimaan diri.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-10-25T20:03:44.529Z",
+  "updated_at": "2026-10-25T20:03:44.529Z",
+  "status": "published",
+  "tags": [
+    "perjalanan malam",
+    "refleksi diri",
+    "nostalgia",
+    "pensiunan",
+    "urban",
+    "drama",
+    "Indonesia",
+    "penerimaan diri",
+    "kenangan",
+    "melankolis",
+    "slice of life"
+  ],
+  "cover": {
+    "prompt": "Early morning hours, just before dawn, on a quiet residential street. The soft glow of a distant street lamp gently illuminates a path. The silhouette of a lone figure stands at the threshold of a modest home, framed by the warm, inviting light spilling from an ajar wooden door. A subtle haze softens the air, creating a tranquil, introspective atmosphere, suggesting a gentle wandering into the quiet pre-dawn.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/perjalanan-sunyi-di-bawah-kilau-neon/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A retired newspaper vendor, Pak Hardi, embarks on a sleepless night walk through a quiet city. His journey takes him past old haunts, evoking poignant memories and a sense of growing solitude, yet also a quiet curiosity. Under a rarely-used overpass, he discovers a faded mural depicting a bustling traditional market. A specific figure in the mural, Pak Rahman, triggers deep, bittersweet recollections of his early days in the city and formative guidance. Returning home at dawn, Pak Hardi finds a newfound serenity and acceptance of his life's path, having reconciled with his past through this unexpected urban pilgrimage.",
+    "target_emotion": "ketenangan, nostalgia, refleksi diri, kedamaian",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "perjalanan sunyi",
+      "kilau neon",
+      "kisah inspiratif",
+      "refleksi kehidupan",
+      "pensiunan",
+      "urban exploration",
+      "mural",
+      "nostalgia",
+      "penerimaan diri",
+      "drama ringan",
+      "cerita Indonesia",
+      "makna hidup",
+      "perjalanan emosional"
+    ]
+  }
+}
