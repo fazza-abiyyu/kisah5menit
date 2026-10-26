@@ -1,0 +1,48 @@
+{
+  "id": "story-1793051913838",
+  "slug": "bayang-bayang-di-rak",
+  "title": "Bayang-Bayang di Rak",
+  "genre": "psychological",
+  "theme": "Menjelajahi kecemasan tak terucap yang muncul di tengah kesunyian malam, mencari makna dalam keheningan rutinitas yang tampak sederhana.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-10-26T21:58:33.838Z",
+  "updated_at": "2026-10-26T21:58:33.838Z",
+  "status": "published",
+  "tags": [
+    "psychological",
+    "mystery-light",
+    "introspection",
+    "urban-setting",
+    "night-story",
+    "overthinking",
+    "short-fiction",
+    "slice-of-life",
+    "self-discovery",
+    "indonesian-story"
+  ],
+  "cover": {
+    "prompt": "A tranquil early morning urban street scene, rendered with a cinematic aesthetic. Subtle, warm artificial light emanates from a distant convenience store sign, casting a soft glow on the quiet pathway. A generic, featureless silhouette of a person, wearing a jacket, is walking away from a residential building. The cool, crisp morning air is palpable. The composition emphasizes the peaceful emptiness of the street and the gentle architecture, conveying a sense of quiet introspection and the anticipation of a simple comfort. Focus on atmospheric depth and environmental detail.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bayang-bayang-di-rak/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance designer, exhausted from work, ventures into a deserted 24-hour convenience store for a snack. Amidst perfectly organized shelves, she encounters a peculiar, old-fashioned jar of nutmeg preserves. This minor anomaly triggers a cascade of overthinking and self-doubt, leading her to question reality versus her own mental state. Upon closer inspection, she finds a single, faded word – \"Jaga\" (Care/Guard) – inside the jar, which, though not logically explained, brings her a sense of acceptance regarding her introspective tendencies and the beauty of life's imperfections and unresolved mysteries.",
+    "target_emotion": "introspection and serene acceptance",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "freelancer life",
+      "late night snack",
+      "convenience store anomaly",
+      "mind games",
+      "existential thoughts",
+      "solitude",
+      "urban mystery",
+      "psychological suspense",
+      "self acceptance",
+      "indonesian narrative",
+      "short story for adults"
+    ]
+  }
+}
