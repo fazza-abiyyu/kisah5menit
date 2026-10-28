@@ -1,0 +1,44 @@
+{
+  "id": "story-1793224625364",
+  "slug": "pelukan-malam-di-bioskop-tua",
+  "title": "Pelukan Malam di Bioskop Tua",
+  "genre": "slice of life",
+  "theme": "Menemukan ketenangan dan makna mendalam dalam rutinitas malam yang sepi, di tengah kenangan masa lalu yang menghidupkan kembali semangat.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-10-28T21:57:05.364Z",
+  "updated_at": "2026-10-28T21:57:05.364Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "refleksi",
+    "nostalgia",
+    "ketenangan",
+    "bioskop tua",
+    "rutinitas",
+    "memori",
+    "Pak Joni",
+    "Bahasa Indonesia"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of the grand exterior of the Majestic Theater in the late evening. The architectural details are highlighted by a mellow glow from the street lamps and a soft, ambient light spilling from within the building. The city street is quiet, enveloped in a serene, gentle illumination, conveying a tranquil and reflective atmosphere. The composition emphasizes the impressive scale of the cinema against the calm surroundings, with a focus on depth and subtle details of the building's facade. A sense of lingering presence and peaceful solitude is central.",
+    "style": "Cinematic photography, shallow depth of field, warm and cool color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pelukan-malam-di-bioskop-tua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A nocturnal cleaner at an old, majestic cinema discovers an old movie ticket, triggering a reflective journey through personal memories of love and family within the same theater. He finds peace and a deeper appreciation for his routine, transforming his workplace into a sanctuary of reflection.",
+    "target_emotion": "Nostalgia, peaceful reflection, acceptance",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Cerita Pendek Indonesia",
+      "Bioskop Tua",
+      "Slice of Life",
+      "Refleksi Hidup",
+      "Nostalgia",
+      "Ketenangan Batin",
+      "Petugas Kebersihan",
+      "Kisah Inspiratif"
+    ]
+  }
+}
