@@ -1,0 +1,47 @@
+{
+  "id": "story-1793311470670",
+  "slug": "pertukaran-senyum-di-antara-stasiun",
+  "title": "Pertukaran Senyum di Antara Stasiun",
+  "genre": "romance subtle",
+  "theme": "Menemukan kehangatan dan koneksi tak terduga di tengah rutinitas perjalanan pulang yang sunyi, membawa senyum di akhir hari.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-10-29T22:04:30.670Z",
+  "updated_at": "2026-10-29T22:04:30.670Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "slice of life",
+    "jakarta",
+    "commute",
+    "human connection",
+    "warmth",
+    "unexpected encounter",
+    "krl"
+  ],
+  "cover": {
+    "prompt": "An interior view of an electric commuter train at late evening. A plush, empty seat gently positioned in the foreground, suggesting a moment of quiet repose. Through the rain-streaked window, a softly blurred, luminous city skyline of Jakarta glows in the distance. Soft, warm city lights shimmer and reflect on the just-wet asphalt below, creating a beautiful mirrored effect. The overall atmosphere evokes peaceful contemplation and a sense of profound weariness, yet also a subtle hope. The scene is composed with a rule of thirds approach.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pertukaran-senyum-di-antara-stasiun/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A tired office worker, Risa, encounters a fellow commuter, Dani, on a late-night train. An accidental drop of a keyring sparks a brief but meaningful conversation about their shared urban struggles and dreams. This unexpected connection brings warmth and solace, transforming a mundane commute into a memorable moment of human interaction before they part ways with a genuine smile.",
+    "target_emotion": "warmth, comfort, hope, the joy of human connection, appreciation for small moments",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "romance",
+      "slice of life",
+      "jakarta commute",
+      "krl story",
+      "unexpected connection",
+      "warm story",
+      "indonesian fiction",
+      "daily life",
+      "hope",
+      "evening train",
+      "office workers"
+    ]
+  }
+}
