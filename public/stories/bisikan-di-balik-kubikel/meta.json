@@ -1,0 +1,46 @@
+{
+  "id": "story-1793479434329",
+  "slug": "bisikan-di-balik-kubikel",
+  "title": "Bisikan di Balik Kubikel",
+  "genre": "dark comedy",
+  "theme": "Mengeksplorasi bagaimana kecemasan dan paranoid berlebihan bisa mengubah rutinitas kantor yang sepi menjadi sumber teror konyol.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-10-31T20:43:54.329Z",
+  "updated_at": "2026-10-31T20:43:54.329Z",
+  "status": "published",
+  "tags": [
+    "office life",
+    "late night",
+    "paranoia",
+    "dark comedy",
+    "mystery",
+    "surprise ending",
+    "corporate humor",
+    "jakarta",
+    "lembur",
+    "kucing"
+  ],
+  "cover": {
+    "prompt": "Late night office interior, a vast, hushed corporate space. Focus on a corner cubicle where a lone computer monitor emits a faint, cool blue glow, illuminating the immediate workstation. The long corridor beyond is dimly lit with deactivated overhead lamps, creating an expansive, tranquil environment with inactive workstations stretching into the distance. A subtle silhouette of a person is visible at the desk, engaged with the screen. The atmosphere is still and crisp, conveying a profound sense of quiet and coolness. Cinematic composition with rule of thirds, showcasing the breadth of the deserted office.",
+    "style": "Cinematic photography, shallow depth of field, cool color palette with subtle light sources",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-di-balik-kubikel/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A lone employee working late in a quiet office starts hearing strange sounds, triggering paranoia and wild imaginings about supernatural occurrences or unknown figures. Armed with a stapler, the employee investigates the source, only to find a mundane and humorous explanation: a leaky water dispenser and a hungry cat.",
+    "target_emotion": "amusement, light tension, relief",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "bisikan kubikel",
+      "kantor malam",
+      "paranoid",
+      "komedi gelap",
+      "misteri konyol",
+      "arya",
+      "kucing kantor",
+      "dispenser bocor",
+      "ketakutan kantor"
+    ]
+  }
+}
