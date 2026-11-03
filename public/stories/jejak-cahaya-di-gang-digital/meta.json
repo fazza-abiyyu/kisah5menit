@@ -1,0 +1,47 @@
+{
+  "id": "story-1793745476117",
+  "slug": "jejak-cahaya-di-gang-digital",
+  "title": "Jejak Cahaya di Gang Digital",
+  "genre": "sci-fi ringan",
+  "theme": "Melalui teknologi inovatif, seorang pengembang menemukan cara merefleksikan emosi diri dan merasakan jejak digital orang lain di kota.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-11-03T22:37:56.117Z",
+  "updated_at": "2026-11-03T22:37:56.117Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "futuristic",
+    "Neo-Jakarta",
+    "wearable-tech",
+    "emotions",
+    "digital-traces",
+    "introspection",
+    "urban",
+    "light-projection",
+    "connection"
+  ],
+  "cover": {
+    "prompt": "Neo-Jakarta cityscape at late evening, showcasing soft, colorful neon illuminations glowing across narrow urban passages. Wet city pavement reflects elongated light patterns, creating a mesmerizing visual. The serene atmosphere of a tranquil metropolis, with silent electric vehicles gently gliding through the scene. A distant street food vendor cart emanates subtle steam, hinting at warm aromas. The composition captures the calming contrast of the city's gentle pulse, focusing on environmental details and mood.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading, urban-futuristic aesthetic.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/jejak-cahaya-di-gang-digital/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Arka, an app developer, tests his experimental wearable, AuraLens, designed to visualize his emotions. Unexpectedly, it begins to project unknown light patterns, revealing the collective emotional traces of others in Neo-Jakarta's narrow alleys. Arka realizes this isn't a bug but a feature, connecting him to the city's hidden emotional layer, finding peace and deeper empathy through this unique connection.",
+    "target_emotion": "Contemplation, tranquility, empathy, and a sense of profound connection.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "sci-fi story",
+      "futuristic city",
+      "emotional tech",
+      "digital empathy",
+      "urban exploration",
+      "wearable technology",
+      "introspection narrative",
+      "Neo-Jakarta fiction",
+      "light patterns",
+      "emotional resonance"
+    ]
+  }
+}
