@@ -1,0 +1,43 @@
+{
+  "id": "story-1793833032808",
+  "slug": "misteri-susu-hilang-di-minimarket-pukul-dua",
+  "title": "Misteri Susu Hilang di Minimarket Pukul Dua",
+  "genre": "mystery ringan",
+  "theme": "Mengungkap misteri kecil yang aneh dan lucu di tengah kesunyian malam, sambil menemukan makna dalam observasi tak terduga dari hal-hal yang terlewatkan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-11-04T22:57:12.808Z",
+  "updated_at": "2026-11-04T22:57:12.808Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "humor",
+    "slice of life",
+    "indonesia",
+    "minimarket",
+    "cat",
+    "night shift",
+    "cynical",
+    "short story"
+  ],
+  "cover": {
+    "prompt": "The interior of a 24-hour convenience store at 2 AM. Empty aisles stretch into the distance, illuminated by the gentle, consistent glow of overhead light strips and the soft hum from long rows of beverage refrigerators. The polished floor reflects the subtle artificial illumination, creating a serene, calm ambiance. An automatic glass entrance stands ready, hinting at the occasional, hushed arrival of a lone figure seeking refreshment. The scene emphasizes profound solitude and the steady rhythm of a place operating quietly through the early morning hours, with an implied presence overseeing the tranquil space. Rule of thirds composition, focus on depth and the interplay of light and reflective surfaces.",
+    "style": "Cinematic photography, shallow depth of field, gentle ambient lighting, cool blue and green tones reflecting artificial lights.",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/misteri-susu-hilang-di-minimarket-pukul-dua/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A cynical night security guard at a 24-hour minimarket investigates the peculiar case of a specific milk carton disappearing or moving every night at 2 AM, eventually discovering the hilarious and unexpected culprit: a mischievous cat.",
+    "target_emotion": "amusement, lightheartedness, curiosity",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "minimarket mystery",
+      "cat story",
+      "funny short story",
+      "indonesian humor",
+      "night shift stories",
+      "unexplained occurrences",
+      "absurd humor"
+    ]
+  }
+}
