@@ -1,0 +1,47 @@
+{
+  "id": "story-1793919477418",
+  "slug": "bisikan-angin-malam-di-tepi-sungai",
+  "title": "Bisikan Angin Malam di Tepi Sungai",
+  "genre": "drama keluarga",
+  "theme": "Sebuah ibu tunggal menemukan kekuatan dan penerimaan diri dalam kesendirian malam, merefleksikan kenangan keluarga dan menemukan harapan lembut untuk hubungan saat ini.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-11-05T22:57:57.418Z",
+  "updated_at": "2026-11-05T22:57:57.418Z",
+  "status": "published",
+  "tags": [
+    "ibu tunggal",
+    "kesendirian",
+    "refleksi",
+    "keluarga",
+    "harapan",
+    "penerimaan diri",
+    "malam",
+    "sungai",
+    "drama"
+  ],
+  "cover": {
+    "prompt": "A tranquil late evening scene, viewed with a cinematic wide shot. A solitary figure, presented as a gentle silhouette from behind, stands at the boundary of a expansive, verdant field beside a calm river. The gentle sway of the tall grass hints at the cool, serene night air. In the distant background, a small, warmly illuminated house provides a sense of quietude under a vast, soft sky. The composition adheres to the rule of thirds, employing a shallow depth of field to emphasize the figure's connection with the natural surroundings. The overall ambiance is one of peaceful introspection and calm.",
+    "style": "Cinematic photography, minimalist composition, strong silhouettes, gentle cool lighting, shallow depth of field",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/bisikan-angin-malam-di-tepi-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A single mother, Ibu Kartini, seeks solace by a lonely river at night, reflecting on past family happiness and grappling with the challenges of raising her teenage son alone. A passing boat triggers bittersweet memories, leading her to find hidden strength, self-acceptance, and a gentle hope for future warmth within her current family dynamics.",
+    "target_emotion": "Nostalgia, melankoli, harapan, ketenangan, penerimaan diri.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Ibu Kartini",
+      "ibu tunggal",
+      "drama keluarga",
+      "kisah reflektif",
+      "kesendirian malam",
+      "tepi sungai",
+      "kenangan suami",
+      "anak remaja",
+      "harapan baru",
+      "penerimaan diri",
+      "kisah inspiratif"
+    ]
+  }
+}
