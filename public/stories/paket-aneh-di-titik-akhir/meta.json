@@ -1,0 +1,43 @@
+{
+  "id": "story-1794004085352",
+  "slug": "paket-aneh-di-titik-akhir",
+  "title": "Paket Aneh di Titik Akhir",
+  "genre": "adventure ringan",
+  "theme": "Menemukan keanehan dan petualangan tak terduga dalam rutinitas pekerjaan malam seorang kurir, yang mengarah pada penemuan kecil dan pemahaman baru tentang sudut kota yang jarang terjamah.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-11-06T22:28:05.352Z",
+  "updated_at": "2026-11-06T22:28:05.352Z",
+  "status": "published",
+  "tags": [
+    "kurir malam",
+    "petualangan urban",
+    "misteri ringan",
+    "penemuan tersembunyi",
+    "rutinitas",
+    "kota",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Urban environment during the deep blue hour, viewed from a winding city pathway. A subtle visual cue of a delivery motorcycle, perhaps its form or a gentle headlight beam, integrated into the foreground, blending with the surrounding understated architectural structures. Distant city lights create a soft, ethereal glow across the scene, hinting at a bustling metropolis that never fully sleeps. A small, self-contained light source, like a handheld device display, emits a focused, gentle illumination in the lower frame, suggesting a late-night moment of reflection or preparation. Focus on atmosphere, quiet resilience, and the enduring rhythm of late-hour city life. Cinematic composition, rule of thirds, subtle depth of field.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/paket-aneh-di-titik-akhir/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kurir pengiriman malam menerima orderan terakhir ke alamat tak biasa di sudut kota. Saat tidak ada yang muncul, ia menemukan petunjuk aneh yang memicu rasa penasaran. Mengikuti jejak kecil, ia menemukan objek dan catatan yang mengisyaratkan 'misi' atau 'pesan' tak terduga, yang akhirnya membuatnya memutuskan untuk menyelidiki lebih lanjut, menyadari ada cerita tersembunyi di balik rutinitasnya.",
+    "target_emotion": "Curiosity, wonder, light intrigue, a sense of quiet discovery",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "kurir",
+      "pengiriman malam",
+      "misteri",
+      "petualangan",
+      "kota",
+      "Indonesia",
+      "kejutan",
+      "rutinitas",
+      "penemuan"
+    ]
+  }
+}
