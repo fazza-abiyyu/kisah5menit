@@ -1,0 +1,50 @@
+{
+  "id": "story-1794272100085",
+  "slug": "satu-piring-kebahagiaan-pagi",
+  "title": "Satu Piring Kebahagiaan Pagi",
+  "genre": "slice of life",
+  "theme": "Menggali kedamaian dan kebahagiaan sejati dalam setiap detail kecil dari rutinitas pagi yang sederhana, menumbuhkan rasa syukur mendalam.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-11-10T00:55:00.085Z",
+  "updated_at": "2026-11-10T00:55:00.085Z",
+  "status": "published",
+  "tags": [
+    "slice of life",
+    "pagi hari",
+    "kebahagiaan",
+    "rutinitas",
+    "nenek",
+    "masakan",
+    "bubur ayam",
+    "kreativitas",
+    "adaptasi",
+    "syukur",
+    "Indonesia",
+    "hangat",
+    "inspiratif"
+  ],
+  "cover": {
+    "prompt": "An early morning scene in a humble, cozy kitchen. Golden sunlight gently filters through sheer curtains, casting warm hues across the simple, well-loved space. The view through a window reveals the peaceful silhouette of a mango tree with small birds perched on its branches, just as dawn breaks. The atmosphere is tranquil and serene, capturing the quiet beauty of a new day. Focus on environmental details and the interplay of light and warmth.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/satu-piring-kebahagiaan-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Nenek Siti memulai pagi dengan ritual sarapan tenang. Ia menghadapi rintangan kecil saat menyadari bahan penting (kerupuk) habis, namun dengan kreativitas, ia menggantinya dengan keripik singkong goreng. Sarapan akhirnya tersaji sempurna, membawa rasa puas dan kebahangan, serta pemahaman bahwa kebahagiaan dapat ditemukan dalam kesederhanaan dan adaptasi.",
+    "target_emotion": "Warmth, contentment, gratitude, inspiration, peace",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "Nenek Siti",
+      "bubur ayam",
+      "sarapan pagi",
+      "kebahagiaan sederhana",
+      "kreativitas di dapur",
+      "adaptasi hidup",
+      "rasa syukur",
+      "cerita slice of life",
+      "rutinitas pagi",
+      "inspirasi"
+    ]
+  }
+}
