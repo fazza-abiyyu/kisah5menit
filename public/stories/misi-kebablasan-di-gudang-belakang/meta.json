@@ -1,0 +1,51 @@
+{
+  "id": "story-1794440750540",
+  "slug": "misi-kebablasan-di-gudang-belakang",
+  "title": "Misi Kebablasan di Gudang Belakang",
+  "genre": "dark comedy",
+  "theme": "Menerima kekacauan hidup dan menemukan kebahagiaan absurd di tengah upaya kreatif yang seringkali berakhir di luar rencana.",
+  "tone": "optimis pelan",
+  "language": "id-mixed",
+  "created_at": "2026-11-11T23:45:50.540Z",
+  "updated_at": "2026-11-11T23:45:50.540Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "absurd humor",
+    "freelancer life",
+    "gudang",
+    "kekacauan",
+    "optimisme",
+    "proyek DIY",
+    "hidup absurd",
+    "indonesian fiction",
+    "satire",
+    "self-discovery"
+  ],
+  "cover": {
+    "prompt": "An old, weathered backyard shed with a gentle, inviting presence, bathed in the soft glow of early morning sunlight. Overgrown foliage subtly frames its entrance. A lone, silhouetted figure stands at a distance, contemplating the structure. The scene is composed with a wide cinematic view, utilizing the rule of thirds and a shallow depth of field, drawing focus to the shed's intriguing details while the surroundings softly blur. The overall atmosphere evokes quiet reflection and the promise of new beginnings.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/misi-kebablasan-di-gudang-belakang/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Bimo, seorang freelancer idealis namun sering kacau, memutuskan merapikan gudang belakangnya untuk mencari alat penting. Prosesnya berubah jadi ekspedisi pribadi penuh kekacauan dan kenangan. Akhirnya, ia menemukan alat, namun memicu keruntuhan besar di gudang. Meskipun kacau, Bimo menemukan kepuasan absurd dan optimisme baru di tengah puing-puing.",
+    "target_emotion": "amusement, optimism, acceptance of chaos, lightheartedness, relatability",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "misi kebablasan",
+      "gudang belakang",
+      "dark comedy",
+      "freelancer",
+      "proyek gagal",
+      "kekacauan",
+      "optimisme",
+      "humor absurd",
+      "indonesia",
+      "cerita pendek",
+      "perjalanan pribadi",
+      "penemuan diri",
+      "kehidupan sehari-hari"
+    ]
+  }
+}
