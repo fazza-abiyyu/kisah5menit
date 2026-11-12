@@ -1,0 +1,46 @@
+{
+  "id": "story-1794524140562",
+  "slug": "hening-di-gerbong-malam",
+  "title": "Hening di Gerbong Malam",
+  "genre": "thriller ringan",
+  "theme": "Mengeksplorasi kecemasan tersembunyi dan paranoia ringan dalam rutinitas malam hari, serta upaya mencari ketenangan batin di tengah ketidakpastian yang samar.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-11-12T22:55:40.562Z",
+  "updated_at": "2026-11-12T22:55:40.562Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "psikologis",
+    "urban",
+    "komuter",
+    "paranoia",
+    "kecemasan",
+    "introspeksi",
+    "cerpen",
+    "kereta malam",
+    "Indonesia"
+  ],
+  "cover": {
+    "prompt": "Interior of a commuter train car, late evening. A single, softly flickering neon tube above, emitting a gentle, diffused light. The empty, worn fabric seats stretch down the length of the carriage, bathed in a calm, subdued glow. The scene evokes profound quietude and the serene end of a long day. Composition uses leading lines and depth of field, with soft reflections visible on windows, enhancing the atmospheric quality.",
+    "style": "Cinematic photography, shallow depth of field, gentle, muted color palette, atmospheric glow",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/hening-di-gerbong-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang profesional muda yang lelah naik kereta komuter di malam hari. Serangkaian observasi kecil yang mengganggu, seperti lampu berkedip dan seorang penumpang yang mencurigakan, memicu rasa paranoia dan ketakutan. Ketegangan mencapai puncak saat kereta berhenti mendadak di tempat tak dikenal. Namun, semua terbukti hanyalah kesalahpahaman dan imajinasi berlebihan akibat kelelahan, dan ia menemukan ketenangan dalam kembali ke realitas.",
+    "target_emotion": "kecemasan, paranoia, kelegaan, dan ketenangan batin setelah resolusi",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita thriller ringan",
+      "paranoia psikologis",
+      "kecemasan urban",
+      "kisah kereta malam",
+      "monolog internal",
+      "resolusi ketenangan",
+      "fiksi Indonesia",
+      "cerpen psikologis",
+      "ketegangan mental"
+    ]
+  }
+}
