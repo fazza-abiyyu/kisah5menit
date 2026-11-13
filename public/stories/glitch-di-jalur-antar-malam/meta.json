@@ -1,0 +1,44 @@
+{
+  "id": "story-1794610657572",
+  "slug": "glitch-di-jalur-antar-malam",
+  "title": "Glitch di Jalur Antar Malam",
+  "genre": "sci-fi ringan",
+  "theme": "Mengeksplorasi bagaimana seorang kurir beradaptasi secara sinis dengan gangguan teknologi minor yang mengacaukan rutinitas malamnya.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-11-13T22:57:37.572Z",
+  "updated_at": "2026-11-13T22:57:37.572Z",
+  "status": "published",
+  "tags": [
+    "kurir malam",
+    "sci-fi ringan",
+    "glitch",
+    "urban fantasy",
+    "humor sinis",
+    "jakarta",
+    "rutinitas",
+    "anomali"
+  ],
+  "cover": {
+    "prompt": "A customized electric motorcycle, sleek and purposeful, transports a substantial, box-shaped package through a wide, quiet city thoroughfare. The scene unfolds during the pre-dawn hours, with the urban expanse softly illuminated by the widespread, diffused glow of distant city lights and building facades. The composition utilizes a cinematic perspective, emphasizing the vehicle and its significant cargo, conveying a feeling of solitary routine and determined movement within a vast metropolitan environment. Subtle atmospheric effects highlight the serene stillness of the early morning.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/glitch-di-jalur-antar-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rendra, a cynical night courier, encounters minor technological 'glitches' that escalate into reality distortions during an 'urgent' delivery. He navigates these bizarre anomalies with his dry wit to complete the delivery, interacting with people also seemingly affected, before the glitches subside. He dismisses it as a 'system upgrade' and resumes his routine, questioning its reality.",
+    "target_emotion": "amusement",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "kurir malam",
+      "sci-fi indonesia",
+      "glitch realitas",
+      "humor sinis",
+      "cerita pendek",
+      "distorsi teknologi",
+      "fiksi ringan",
+      "perjalanan malam",
+      "jakarta fiksi"
+    ]
+  }
+}
