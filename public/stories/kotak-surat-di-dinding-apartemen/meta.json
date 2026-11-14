@@ -1,0 +1,52 @@
+{
+  "id": "story-1794692622367",
+  "slug": "kotak-surat-di-dinding-apartemen",
+  "title": "Kotak Surat di Dinding Apartemen",
+  "genre": "mystery ringan",
+  "theme": "Menyelidiki sebuah kotak usang berisi surat-surat lama di apartemen, mengungkap kisah masa lalu yang melankolis dan memaksa refleksi pribadi.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-11-14T21:43:42.367Z",
+  "updated_at": "2026-11-14T21:43:42.367Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "light mystery",
+    "old letters",
+    "hidden secrets",
+    "past",
+    "melancholy",
+    "introspection",
+    "apartment",
+    "discovery",
+    "artist",
+    "solitude",
+    "reflective",
+    "indonesian fiction"
+  ],
+  "cover": {
+    "prompt": "An inviting, sun-drenched apartment interior, viewed through a wide-angle lens. Warm, golden hour light spills across a worn wooden floor, illuminating dust motes dancing in the air. In the foreground, a stack of old, cherished books beside a vintage ceramic mug, gently out of focus (shallow depth of field). In the mid-ground, a comfortable armchair sits empty by a large window, offering a view of a peaceful, tree-lined street (soft lighting, blurred background). The room is in the process of being gently decluttered, with some surfaces neat and others still holding a few nostalgic objects, conveying a quiet atmosphere of introspection and the passage of time. The overall feeling is one of calm, comfort, and a reflective personal space, composed with the rule of thirds.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/kotak-surat-di-dinding-apartemen/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A freelance artist discovers a hidden box of old, undated letters in her inherited apartment, revealing the melancholic and lonely life of a previous tenant, Nona Elara Kusuma, who mysteriously disappeared. The artist feels a deep connection to Elara's story and decides to keep it as a private memory, reflecting on the hidden traces of life within her apartment.",
+    "target_emotion": "melancholy, introspection, empathy",
+    "reading_time_minutes": 10,
+    "keywords": [
+      "mystery",
+      "old letters",
+      "apartment secrets",
+      "melancholy story",
+      "personal reflection",
+      "hidden past",
+      "indonesian fiction",
+      "solitude",
+      "discovery",
+      "legacy",
+      "artist story",
+      "kotak surat"
+    ]
+  }
+}
