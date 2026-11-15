@@ -1,0 +1,46 @@
+{
+  "id": "story-1794780609998",
+  "slug": "pesan-tersembunyi-di-lukisan-keluarga",
+  "title": "Pesan Tersembunyi di Lukisan Keluarga",
+  "genre": "drama keluarga",
+  "theme": "Melalui penemuan sebuah benda lama, seorang anak mencoba merangkai kembali sejarah keluarga yang penuh rahasia dan pembelajaran hidup tak terduga.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-11-15T22:10:09.998Z",
+  "updated_at": "2026-11-15T22:10:09.998Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "misteri",
+    "sejarah keluarga",
+    "pengorbanan",
+    "warisan",
+    "ikatan keluarga",
+    "introspeksi",
+    "kisah inspiratif"
+  ],
+  "cover": {
+    "prompt": "A wide, contemplative shot of an aged, framed family portrait hanging on a textured wall. The painting itself displays faded, softly rendered figures of a family posing in a lush, verdant garden, characterized by muted, time-worn colors. Below the painting, a long, inviting moss-green sofa suggests a cozy living space. Gentle, diffused light streams into the room, creating a peaceful and reflective atmosphere. The composition uses a shallow depth of field, keeping the painting as the central focus while the surrounding room elements gently soften and blur. The overall image evokes a strong sense of nostalgic connection, history, and the quiet comfort of home, without any specific facial details on the figures. Cinematic composition with subtle illumination.",
+    "style": "Cinematic photography, vintage film grain, warm color grading, shallow depth of field, nostalgic feel",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pesan-tersembunyi-di-lukisan-keluarga/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Rina, returning home, discovers a hidden compartment in an old family painting. This reveals a liontin kunci and a message, unraveling a long-kept secret about her grandparents' profound sacrifice and courage in starting their family, leading to deeper family understanding and appreciation for their shared history and the values that shaped them.",
+    "target_emotion": "Nostalgia, curiosity, warmth, appreciation for family heritage, introspection, comfort",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "cerita pendek",
+      "drama keluarga",
+      "misteri ringan",
+      "rahasia keluarga",
+      "warisan",
+      "pengorbanan leluhur",
+      "ikatan keluarga",
+      "bahasa indonesia",
+      "penemuan pribadi",
+      "sejarah keluarga",
+      "inspirasi"
+    ]
+  }
+}
