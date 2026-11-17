@@ -1,0 +1,45 @@
+{
+  "id": "story-1794877798030",
+  "slug": "petualangan-rahasia-di-sudut-loteng",
+  "title": "Petualangan Rahasia di Sudut Loteng",
+  "genre": "adventure ringan",
+  "theme": "Melalui petualangan kecil di rumah masa lalu, seseorang menemukan kembali kenangan berharga dan menyambungkan kembali dengan bagian dirinya yang terlupakan.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-11-17T01:09:58.030Z",
+  "updated_at": "2026-11-17T01:09:58.030Z",
+  "status": "published",
+  "tags": [
+    "adventure ringan",
+    "nostalgia",
+    "penemuan diri",
+    "keluarga",
+    "loteng",
+    "kenangan masa kecil",
+    "introspektif",
+    "kisah inspiratif"
+  ],
+  "cover": {
+    "prompt": "An atmospheric wide shot inside an ancient, forgotten attic space. Intense, warm sunlight streams through a single small aperture in a worn wooden roof, creating powerful, ethereal pillars of light filled with countless dancing dust particles. These radiant columns dramatically contrast with the softly lit, deeply toned parts of the room. The space is filled with stacks of faded, yellowed old papers and weathered books, alongside aged wooden planks, conveying a strong sense of neglect, age, and forgotten history. The composition uses the rule of thirds, with a shallow depth of field, emphasizing the enchanting light and textural details of the old materials. No figures or faces are visible, only the environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/petualangan-rahasia-di-sudut-loteng/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang desainer grafis muda, Bima, saat merapikan loteng rumah lama, menemukan peta harta karun masa kecilnya. Petualangan nostalgia ini membawanya melewati serangkaian teka-teki untuk menemukan 'harta karun' berupa surat-surat dari kakeknya yang sudah meninggal, membangkitkan kenangan berharga dan koneksi mendalam dengan keluarga serta dirinya yang terlupakan.",
+    "target_emotion": "nostalgia dan damai",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "petualangan loteng",
+      "kenangan masa kecil",
+      "nostalgia keluarga",
+      "surat kakek",
+      "penemuan diri",
+      "cerita reflektif",
+      "rumah lama",
+      "harta karun",
+      "petualangan ringan",
+      "inspirasi harian"
+    ]
+  }
+}
