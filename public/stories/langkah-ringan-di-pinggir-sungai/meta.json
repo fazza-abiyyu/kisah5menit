@@ -1,0 +1,50 @@
+{
+  "id": "story-1794960309397",
+  "slug": "langkah-ringan-di-pinggir-sungai",
+  "title": "Langkah Ringan di Pinggir Sungai",
+  "genre": "psychological",
+  "theme": "Menemukan kembali keceriaan batin dan keberanian untuk menghadapi hari baru setelah melewati masa-masa kecemasan.",
+  "tone": "ceria hangat",
+  "language": "id-mixed",
+  "created_at": "2026-11-18T00:05:09.397Z",
+  "updated_at": "2026-11-18T00:05:09.397Z",
+  "status": "published",
+  "tags": [
+    "mental health",
+    "self-discovery",
+    "urban escape",
+    "mindfulness",
+    "indonesian fiction",
+    "short story",
+    "personal growth",
+    "overthinking",
+    "inner peace",
+    "well-being"
+  ],
+  "cover": {
+    "prompt": "Cinematic photography of a quiet urban pathway during golden hour morning. Gentle sunlight casts long, soft reflections on the pavement, creating a sense of serene but vast space. Tall, modern city buildings line the pathway in the background, subtly blurred with shallow depth of field. The pathway curves gently into the distance, conveying a feeling of a journey ahead and a quiet longing for change. Warm, inviting color grading with a subtle touch of introspection. No detailed human figures, focusing on the atmosphere and environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/langkah-ringan-di-pinggir-sungai/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Aruna, a young professional burdened by stress, seeks peace by a river but is initially overwhelmed by overthinking. A moment of quiet observation of children playing, falling leaves, and bird songs leads her to a profound realization about finding joy in simple moments. She leaves with a lighter heart, ready to manage her thoughts and appreciate life's small 'sparks'.",
+    "target_emotion": "Hope, serenity, inspiration, relief",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "Langkah Ringan di Pinggir Sungai",
+      "cerita pendek",
+      "psikologis",
+      "kesehatan mental",
+      "overthinking",
+      "kecemasan",
+      "penemuan diri",
+      "kedamaian batin",
+      "short story indonesia",
+      "urban fiction",
+      "mindfulness story",
+      "kisah inspiratif",
+      "healing"
+    ]
+  }
+}
