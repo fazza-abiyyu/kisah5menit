@@ -1,0 +1,48 @@
+{
+  "id": "story-1795132717657",
+  "slug": "pendar-kuning-di-tengah-sunyi",
+  "title": "Pendar Kuning di Tengah Sunyi",
+  "genre": "romance subtle",
+  "theme": "Mengeksplorasi keindahan dan ketegangan sebuah koneksi yang tumbuh perlahan di tengah kesunyian malam yang sedikit misterius, menyoroti keberanian dalam kerentanan manusia.",
+  "tone": "tegang ringan",
+  "language": "id-mixed",
+  "created_at": "2026-11-19T23:58:37.657Z",
+  "updated_at": "2026-11-19T23:58:37.657Z",
+  "status": "published",
+  "tags": [
+    "romance",
+    "subtle romance",
+    "misteri ringan",
+    "urban night",
+    "minimarket",
+    "koneksi manusia",
+    "ketegangan ringan",
+    "kerentanan",
+    "kesunyian",
+    "indonesia"
+  ],
+  "cover": {
+    "prompt": "A serene urban evening scene. A brightly lit 24-hour convenience store stands in the distance, casting a warm, inviting glow onto a quiet pathway. A subtle silhouette of a person walks gently towards the luminous store. The sky is a soft, deep evening blue, touched by moonlight. Composition uses the rule of thirds, creating a sense of routine and peaceful solitude.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/pendar-kuning-di-tengah-sunyi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Dina, seorang freelancer dengan jam kerja malam, rutin mengunjungi minimarket 24 jam dan selalu berpapasan dengan Rio, si pemilik. Tarikan tak terucap dan keheningan misterius mewarnai pertemuan mereka. Suatu malam, insiden listrik di minimarket memecah keheningan, memaksa mereka berbicara dan berbagi kerentanan. Percakapan ini meninggalkan Dina dengan perasaan baru, inspirasi, dan antisipasi untuk pertemuan berikutnya, melihat toko sebagai mercusuar harapan.",
+    "target_emotion": "Antisipasi, keingintahuan, koneksi senyap, sedikit intrik",
+    "reading_time_minutes": 6,
+    "keywords": [
+      "Pendar Kuning di Tengah Sunyi",
+      "romansa senyap",
+      "kisah malam",
+      "minimarket 24 jam",
+      "koneksi tak terduga",
+      "kerentanan manusia",
+      "kisah perkotaan",
+      "misteri ringan",
+      "inspirasi",
+      "cerita pendek Indonesia",
+      "Pendar Kuning"
+    ]
+  }
+}
