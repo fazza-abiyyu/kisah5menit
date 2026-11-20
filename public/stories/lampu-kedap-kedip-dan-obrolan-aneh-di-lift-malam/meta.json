@@ -1,0 +1,44 @@
+{
+  "id": "story-1795217208055",
+  "slug": "lampu-kedap-kedip-dan-obrolan-aneh-di-lift-malam",
+  "title": "Lampu Kedap-Kedip dan Obrolan Aneh di Lift Malam",
+  "genre": "dark comedy",
+  "theme": "Menjelajahi absurditas hidup modern dan interaksi sosial yang canggung, menunjukkan bagaimana sindiran bisa menjadi mekanisme pertahanan diri terhadap kekecewaan.",
+  "tone": "humoris sinis",
+  "language": "id-mixed",
+  "created_at": "2026-11-20T23:26:48.054Z",
+  "updated_at": "2026-11-20T23:26:48.054Z",
+  "status": "published",
+  "tags": [
+    "dark comedy",
+    "absurdist",
+    "jakarta",
+    "lift",
+    "elevator",
+    "social commentary",
+    "sarcasm",
+    "positive thinking",
+    "urban life",
+    "indonesian literature"
+  ],
+  "cover": {
+    "prompt": "A wide shot of a contemporary apartment lobby with a large window overlooking a bustling Jakarta urban cityscape at evening twilight. The interior is gently illuminated with warm, inviting light, contrasting with the soft, diffused glow of distant street lights and vehicle trails outside. Architectural lines of the building are prominent, emphasizing a sense of scale and urban density. A lone, subtly silhouetted form stands distantly within the lobby, suggesting a moment of quiet contemplation amidst the city's relentless energy. The composition conveys a feeling of environmental weight and profound exhaustion. Focus on concrete textures, glass reflections, and the immersive urban atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lampu-kedap-kedip-dan-obrolan-aneh-di-lift-malam/cover.png"
+  },
+  "meta": {
+    "plan_summary": "A tired young professional is trapped in a malfunctioning apartment lift with an overly enthusiastic, 'positive vibes' neighbor, leading to an absurd and humorous test of patience amidst internal cynical monologues, culminating in a brief, comical panic when the lift stops, and a final escape with weary relief.",
+    "target_emotion": "Amusement, weariness, cynical resignation",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "jakarta dark comedy",
+      "elevator breakdown story",
+      "cynical humor",
+      "positive thinking satire",
+      "urban short story",
+      "indonesian fiction",
+      "absurdist humor"
+    ]
+  }
+}
