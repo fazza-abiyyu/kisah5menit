@@ -1,0 +1,49 @@
+{
+  "id": "story-1795300227031",
+  "slug": "antrean-sunyi-pukul-tiga-pagi",
+  "title": "Antrean Sunyi Pukul Tiga Pagi",
+  "genre": "thriller ringan",
+  "theme": "Seorang kurir menghadapi kecemasan tak terduga dalam rutinitas malam hari, memaksanya untuk menghadapi ketakutan internal dan mencari kedamaian di tengah ketegangan yang meresahkan.",
+  "tone": "introspektif menenangkan",
+  "language": "id-mixed",
+  "created_at": "2026-11-21T22:30:27.031Z",
+  "updated_at": "2026-11-21T22:30:27.031Z",
+  "status": "published",
+  "tags": [
+    "thriller",
+    "introspeksi",
+    "kecemasan",
+    "rutinitas",
+    "kurir",
+    "minimarket",
+    "misteri",
+    "psikologis",
+    "kelelahan",
+    "malam hari"
+  ],
+  "cover": {
+    "prompt": "An inviting 24-hour convenience store glows warmly in the distance, a beacon of comfort along a deserted pre-dawn road. The perspective is from the interior of a delivery truck, with a subtle indication of a dashboard clock showing very early morning. The asphalt pathway stretches into the gentle early light, evoking a sense of quiet solitude and anticipation for rest. Focus on the contrasting warm light of the store against the cool pre-dawn hues of the environment.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/antrean-sunyi-pukul-tiga-pagi/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang kurir yang lelah setelah shift malam menemukan antrean sunyi yang aneh di sebuah minimarket dini hari. Pengamatan terhadap pelanggan dan kasir yang tak biasa, serta sentuhan dingin dan penampakan jahitan pada leher pelanggan, memicu paranoia dan firasat buruk yang mendalam. Ia melarikan diri dan merenungkan pengalaman ganjil tersebut, memicu introspeksi tentang persepsi, ketakutan, dan kerentanan manusia, serta menemukan kedamaian dalam penerimaan ketidakpastian.",
+    "target_emotion": "Kecemasan yang diikuti ketenangan introspektif",
+    "reading_time_minutes": 8,
+    "keywords": [
+      "thriller ringan",
+      "cerpen",
+      "psikologis",
+      "kelelahan kerja",
+      "rutinitas malam",
+      "minimarket 24 jam",
+      "antrean aneh",
+      "ketakutan internal",
+      "introspeksi diri",
+      "kedamaian batin",
+      "realitas ilusi",
+      "urban legend"
+    ]
+  }
+}
