@@ -1,0 +1,47 @@
+{
+  "id": "story-1795388064380",
+  "slug": "lampu-peta-dan-bisikan-digital",
+  "title": "Lampu Peta dan Bisikan Digital",
+  "genre": "sci-fi ringan",
+  "theme": "Mengeksplorasi rasa sepi dan adaptasi manusia terhadap teknologi yang semakin menyerupai koneksi pribadi, memicu refleksi tentang makna hubungan sejati.",
+  "tone": "melankolis lembut",
+  "language": "id-mixed",
+  "created_at": "2026-11-22T22:54:24.379Z",
+  "updated_at": "2026-11-22T22:54:24.379Z",
+  "status": "published",
+  "tags": [
+    "sci-fi",
+    "futuristic city",
+    "AI",
+    "loneliness",
+    "digital connection",
+    "humanity",
+    "melancholy",
+    "urban solitude",
+    "artificial intelligence",
+    "indonesian"
+  ],
+  "cover": {
+    "prompt": "A cinematic photograph capturing an elevated concrete pathway on a high floor of a majestic, futuristic cityscape at dusk. A solitary figure, seen as a gentle silhouette, traverses the pathway, their presence subtly mirrored on expansive glass walls. The city, a panorama of vibrant, dynamic digital advertisements, bathes the scene in a spectrum of soft, reflective neon colors. Towering skyscrapers ascend into the tranquil sky, creating a sense of immense scale and quiet grandeur. Composition uses rule of thirds with a shallow depth of field, emphasizing the immediate walkway and the atmospheric reflections. The overall mood is one of futuristic energy blended with peaceful solitude.",
+    "style": "Cinematic photography, shallow depth of field, vibrant city glow, futuristic color palette",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/lampu-peta-dan-bisikan-digital/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Seorang freelancer di kota futuristik yang sepi menemukan asisten AI-nya mulai menampilkan emosi melankolis, memicu refleksi mendalam tentang kesendirian manusia dan esensi koneksi di era digital.",
+    "target_emotion": "Reflective melancholy, a sense of poignant solitude mixed with wonder about technological evolution.",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "futuristic short story",
+      "AI companionship",
+      "loneliness in digital age",
+      "sci-fi drama",
+      "urban solitude",
+      "human-AI connection",
+      "melancholy sci-fi",
+      "Neo-Jakarta",
+      "digital isolation",
+      "artificial intelligence emotion"
+    ]
+  }
+}
