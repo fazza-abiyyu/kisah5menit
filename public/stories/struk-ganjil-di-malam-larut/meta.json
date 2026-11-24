@@ -1,0 +1,46 @@
+{
+  "id": "story-1795491094930",
+  "slug": "struk-ganjil-di-malam-larut",
+  "title": "Struk Ganjil di Malam Larut",
+  "genre": "mystery ringan",
+  "theme": "Seorang kasir shift malam menemukan pola pembelian yang mencurigakan dari seorang pelanggan misterius, memicu rasa ingin tahu untuk menguak teka-teki kecil di balik kebiasaan aneh itu.",
+  "tone": "misterius ringan",
+  "language": "id-mixed",
+  "created_at": "2026-11-24T03:31:34.930Z",
+  "updated_at": "2026-11-24T03:31:34.930Z",
+  "status": "published",
+  "tags": [
+    "mystery",
+    "slice of life",
+    "indonesia",
+    "minimarket",
+    "urban legend",
+    "tradition",
+    "curiosity",
+    "observasi",
+    "budaya lokal"
+  ],
+  "cover": {
+    "prompt": "A peaceful late-night view of a brightly lit minimarket interior from outside, seen through a large glass window. The gentle hum of a neon sign casts a soft, ambient glow onto the quiet street. Inside, a neatly arranged display of magazines on a rack is visible. The composition emphasizes routine tranquility with an intriguing, subtle atmosphere.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/struk-ganjil-di-malam-larut/cover.png"
+  },
+  "meta": {
+    "plan_summary": "Dina, seorang kasir shift malam, mengamati pola pembelian aneh seorang pelanggan misterius yang selalu membeli barang yang sama di waktu yang sama. Rasa penasarannya mendorongnya mengumpulkan petunjuk hingga menemukan tanda samar pada kemasan. Dengan bantuan cerita lokal, ia akhirnya mengungkap bahwa pola tersebut adalah tradisi keluarga untuk menghormati leluhur, memecahkan misteri kecilnya dan memberinya kepuasan.",
+    "target_emotion": "mild curiosity and a sense of discovery",
+    "reading_time_minutes": 5,
+    "keywords": [
+      "minimarket mystery",
+      "kasir shift malam",
+      "cerita pendek Indonesia",
+      "urban legend",
+      "tradisi keluarga",
+      "observasi detail",
+      "kisah penasaran",
+      "dina minimarket",
+      "struk ganjil",
+      "misteri ringan"
+    ]
+  }
+}
