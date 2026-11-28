@@ -1,0 +1,50 @@
+{
+  "id": "story-1795826693411",
+  "slug": "sisa-kue-di-meja-dan-sepi-yang-bicara",
+  "title": "Sisa Kue di Meja dan Sepi yang Bicara",
+  "genre": "drama keluarga",
+  "theme": "Mencari pemahaman dan kedamaian di tengah dinamika keluarga yang rumit, menemukan kekuatan dalam keheningan dan kehadiran satu sama lain.",
+  "tone": "tenang reflektif",
+  "language": "id-mixed",
+  "created_at": "2026-11-28T00:44:53.411Z",
+  "updated_at": "2026-11-28T00:44:53.411Z",
+  "status": "published",
+  "tags": [
+    "drama keluarga",
+    "hubungan ibu anak",
+    "keheningan",
+    "refleksi",
+    "kesepian",
+    "pemahaman",
+    "kue",
+    "malam",
+    "jakarta",
+    "kasih sayang"
+  ],
+  "cover": {
+    "prompt": "A close-up view of an aged, slightly faded metal key being gently inserted into a keyhole on an apartment door. The surrounding area is softly illuminated by the warm, diffused yellow light from a distant streetlamp, casting a subtle glow on the quiet facade. In the blurred background, the gentle forms of angsana trees sway, catching the ambient light. The scene evokes a feeling of peaceful solitude and a quiet return. Cinematic composition with a shallow depth of field, focusing on the intricate details of the key and keyhole.",
+    "style": "Cinematic photography, shallow depth of field, warm color grading",
+    "aspect_ratio": "4:5",
+    "image_url": "/stories/sisa-kue-di-meja-dan-sepi-yang-bicara/cover.png"
+  },
+  "meta": {
+    "plan_summary": "An adult child, Risa, returns home late from work to find her single mother, Ibu Ana, awake in the kitchen, preparing a small, imperfect cake. A quiet tension hangs between them, reflecting unspoken worries and hopes. Through the simple act of sharing a 'leftover' piece of cake and a prolonged, understanding gaze, they achieve a silent moment of acceptance and renewed peace, recognizing that family love and support often reside in quiet presence rather than explicit dialogue.",
+    "target_emotion": "damai, reflektif, haru, pengertian",
+    "reading_time_minutes": 7,
+    "keywords": [
+      "drama keluarga",
+      "cerita pendek",
+      "hubungan ibu dan anak",
+      "keheningan",
+      "refleksi diri",
+      "kesepian",
+      "pemahaman emosional",
+      "cerita inspiratif",
+      "kue bolu",
+      "malam yang sunyi",
+      "kisah keluarga",
+      "bahasa indonesia",
+      "cinta tanpa syarat"
+    ]
+  }
+}
